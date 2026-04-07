@@ -1,0 +1,35 @@
+METADATA
+
+General:
+Author ID: 1365_0100023
+Test language: Italian
+CEFR level of test: B1
+Task : answer to an wedding invitation - ID: 1365_020300
+Mother tongue: French
+Age: 32
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Rossi Maria
+-hidden-
+Strada Maggiore
+1234 Città X
+Lunedi 15  Marzo 2010
+Cari amici.
+Vi scrivo perche, ho riscuto votra invitazione per vostro matrimonio. Prima vi dico tanti aguri e sono molto contenta per voi, e poi grazie mile di invitarmi.
+Potró venire, ma vorrei sapere si é possibile che mia sorella viene con me? Si c'é nessun problemi? che desiderate, per  vostro regalo?
+Preferite un viaggio alle Réunion o al Marocco o una borsa con soldi, o altri cose. Per me po importa, e la stessa cosa Perche é und giorno molto belissimo per voi.
+In attesa di una risposta, vi abbraciati a vi due e ancora "tanti auguri"
+Maria

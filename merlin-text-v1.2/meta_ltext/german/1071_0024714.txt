@@ -1,0 +1,25 @@
+METADATA
+
+General:
+Author ID: 1071_0024714
+Test language: German
+CEFR level of test: A1
+Task : ask friend for help for finding apartment - ID: 1071_020200
+Mother tongue: not reported
+Age: 20
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Hallo Ingo! Wie geht es dir? Ich habe etwas nohes für dich. Ich habe eine Arbeit in Neuburg gefundet, und ich wais das du auch in Neuburg wohnst. Ich brauche deine hilfe weil ich nach Neuburg umzihen muss! Kannst du bitte ein Wohnung für mich finden? Ich brauche einen klein Wohnung im zentrum oder in der nehe von U-Bahn. Vilen dank. Maria

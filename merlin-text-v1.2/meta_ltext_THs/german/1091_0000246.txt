@@ -1,0 +1,41 @@
+METADATA
+
+General:
+Author ID: 1091_0000246
+Test language: German
+CEFR level of test: A2
+Task : ask friend to take care of pet - ID: 1091_0650102
+Mother tongue: not reported
+Age: 20
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B2
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Lieber Michael.                                        24.6.2012
+wie geht´s dir!?
+Am Montag Fahre ich mit meinem Vater nach Stadt X. Wir machen eine kurze Urlaub. Und mein Vater erlaubt nicht unsere Katze mitzunehmen. Kannst du mir helfen?! darf ich meine Katze in deinem Haus stellen. du Kennst meine Katze sehr gut, Sie macht kein problem. aber du sollst jedentag nur eine stunde mit meiner Katze spielen. und bitte vergess nicht das Essen, Sie mag milch.
+Ich Fahre am Montag (28.6.12) bis Mittwoch (30.6.12) nur Für zwei tagen.
+Vielen Dank.
+Dein Tobias.
+
+----------------
+
+Target hypothesis 1: 
+
+Lieber Michael , 24.6.2012 wie geht´s dir ? Am Montag fahre ich mit meinem Vater nach Stadt X . Wir machen einen kurzen Urlaub . Und mein Vater erlaubt nicht unsere Katze mitzunehmen . Kannst du mir helfen ? Darf ich meine Katze in deinem Haus stellen ? Du kennst meine Katze sehr gut . Sie macht kein Problem . Aber du sollst jeden Tag nur eine Stunde mit meiner Katze spielen . Und bitte vergiss nicht das Essen . Sie mag Milch . Ich fahre von Montag ( 28.6.12 ) bis Mittwoch ( 30.6.12 ) nur für zwei Tage . Vielen Dank . Dein Tobias
+
+----------------
+
+No target hypothesis 2 available.
+

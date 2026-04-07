@@ -1,0 +1,37 @@
+METADATA
+
+General:
+Author ID: PHA0411062
+Test language: Czech
+CEFR level of test: B2
+Task : write an essay: A friend in need is a friend indeed - ID: B2PS0202_pritel
+Mother tongue: Russian
+Age: 2029
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B2
+Orthography: B1
+Vocabulary range: B2
+Vocabulary control: B1
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+V nouzi poznáš přítele.
+Kdo to je ten "nejlepší kamarád"? Všichni známe, že člověk nemůže mít spoustu přátel. Obyčejně máme jednoho nejblížšího člověka, který je uz Vámi vyzkoušen. Ríká se v takovém případě: "Poznal jsem ho v nouzi". Myslím, že to vůbec neznamená, že prostě spolu něco studujete, někde pracujete nebo se občas bavíte. Jde o to, že Vám někdy ve skutečnosti vážně pomohl: půjčil peníze, abyste zaplatil nezbytné léčení, pomohl Vám, když jste nebyl zaměstnaný a neměl ani na kus chleba, atd. Určitě, Vy si teď nepamatujete žádného "diskotečního" přítele vedle sebe. Takoví přátelé se ihned ztratí, jakmile budete mít nějaké problémy, a naopak, objeví se, jakmile Vám všechno dobře dopadne. Dávejte pozor na vaše okolí a najděte si opravdu nejhodnějšího kamaráda!
+
+----------------
+
+Target hypothesis 1: 
+
+V nouzi poznáš přítele . Kdo to je ten " nejlepší kamarád " ? Všichni známe , že člověk nemůže mít spoustu přátel . Obyčejně máme jednoho nejbližšího člověka , který už je vámi vyzkoušen . V takovém případě se říká : " Poznal jsem ho v nouzi . " Myslím , že to vůbec neznamená , že prostě spolu něco studujete , někde pracujete nebo se občas bavíte . Jde o to , že vám někdy ve skutečnosti vážně pomohl : půjčil peníze , abyste zaplatil nezbytné léčení , pomohl vám , když jste nebyl zaměstnaný a neměl ani na kus chleba , atd. Vy si teď určitě nepamatujete žádného " diskotečního " přítele vedle sebe . Takoví přátelé se ihned ztratí , jakmile budete mít nějaké problémy , a naopak se objeví , jakmile vám všechno dobře dopadne . Dávejte pozor na své okolí a najděte si opravdu nejhodnějšího kamaráda !
+
+----------------
+
+No target hypothesis 2 available.
+

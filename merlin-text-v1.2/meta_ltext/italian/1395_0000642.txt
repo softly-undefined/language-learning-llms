@@ -1,0 +1,30 @@
+METADATA
+
+General:
+Author ID: 1395_0000642
+Test language: Italian
+CEFR level of test: A2
+Task : inform friends about language course - ID: 1395_010300
+Mother tongue: German
+Age: 46
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A1
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Carissimi Barbara e Paolo, 
+E molto bello qui a Firenze!
+Da lunedi a venerdi ho frequentare un corso italiano. Sempre al mattino per tre ore. 
+Gli altri che fanno il corso sono tedeschi, svedesi e japonesi. 
+A giovedipomerigioc'è un mercato in centro con prodotti tipichi della regione. Mi piace molto questo mercato. Al fine della settimana ho fatto gia tante cose, peresempioun piccolo viaggio al mare. Italia è bello!
+Un abraccio, Michele

@@ -1,0 +1,40 @@
+METADATA
+
+General:
+Author ID: 1002
+Test language: Czech
+CEFR level of test: B1
+Task :  - ID: 3_Jana
+Mother tongue: Polish
+Age: not reported
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Ahoj Jano, děkuji Ti mockrát za tvůj email. To je novinka, že budeš dál studovat! Jsem zvědava, co chteš studovat postgradual.  Ja jsem táky myslala, jestli bych dál studovala, ale nevím ještě. Dříve pohledam po ukončení Studia práce. Teď nemyslím ještě o tem. Musim ješte rok studovat! Jak Ti se libi kurz angličtiny? Je to možne navštěvovat v léte v Brně taký nejaký kurz češtiny? Ja chtela bych přijet v léte do Brna a navštěvovat kurz češtiny. Pak  mohly bychom se setkávat často! Co říkáš? 
+ Mohla bys poslat mně odkaz na vebovou stranke těhle jazykově školy?
+Kromě toho nevím ještě, co bych chtěla dělat v léte. Myslela jsem , že  poletím  do Anglie na navštěvu  k moji kamarádce Evě. Snad chtěla bys letet s mnou? To by bylo hezkě. 
+Teď  musím už končit. Sle fotky? z posledně dovoleny s Tomašem! 
+Měj se dobře a užívej se léta. Petra  
+
+----------------
+
+Target hypothesis 1: 
+
+Ahoj Jano , děkuji Ti mockrát za Tvůj e-mail . To je novinka , že budeš dál studovat ! Jsem zvědava , co chceš studovat postgraduálně . Já jsem taky myslela , že bych dál studovala , ale nevím ještě . Po ukončení studia nejdříve budu hledat práci . Teď nepřemýšlím ještě o tom . Musím ještě rok studovat ! Jak se Ti líbí kurz angličtiny ? Je možné navštěvovat v létě v Brně taky nějaký kurz češtiny ? Já bych chtěla přijet v létě do Brna a navštěvovat kurz češtiny . Pak bychom se mohly setkávat často ! Co říkáš ? Mohla bys mi poslat odkaz na webovou stránku téhle jazykové školy ? Kromě toho nevím ještě , co bych chtěla dělat v létě . Myslela jsem , že poletím do Anglie na návštěvu ke svojí kamarádce Evě . Chtěla bys snad letět se mnou ? To by bylo hezké . Teď musím už končit . Pošli mi fotky z poslední dovolené s Tomášem ! Měj se dobře a užívej si léta . Petra
+
+----------------
+
+No target hypothesis 2 available.
+

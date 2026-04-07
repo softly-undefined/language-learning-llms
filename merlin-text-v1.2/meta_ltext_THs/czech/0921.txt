@@ -1,0 +1,42 @@
+METADATA
+
+General:
+Author ID: 0921
+Test language: Czech
+CEFR level of test: B1
+Task : answer to the email of Jana - ID: 2_Jana
+Mother tongue: German
+Age: not reported
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: A2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Ahoj Jano, 
+děkuju pěknie za tvoje pozváni.  Mam takě moc zkoušek a nemam na nic čas. V březnu bůdu mít čas a moc rada tě navštěvuju. Přijedu na víkend, jak to není problém? Moc rada bych jsi prohlížela Prahu. To je velmi hezký město. Řekni mi jeno kde bydliš? Pořád naproti muzeum? Nemam tvojeho adresa. Vim jeno, že  bydliš kole metra, ale nevim jak jse jmenuje ta zastávka? Kolik stoji jízdenka? Co si přaješ na narozeniny? Bůde ti 30 let? Ty jsi stara Pani :-) Potřebuješ něco z Německa? Vino nebo pivo? 
+
+Musim končit a dali se učit. 
+Srdečně tě zdravím a přaju hezkou dovolenou ve Italie.
+Sabine
+
+----------------
+
+Target hypothesis 1: 
+
+Ahoj Jano , děkuju pěkně za tvoje pozvání . Mám také moc zkoušek a nemám na nic čas . V březnu budu mít čas a moc ráda tě navštívím . Přijedu na víkend , není to problém ? Moc ráda bych si prohlížela Prahu . To je velmi hezké město . Řekni mi jenom , kde bydlíš . Pořád naproti muzeu ? Nemám tvoji adresu . Vím jenom , že bydlíš kolem metra , ale nevím , jak se jmenuje ta zastávka . Kolik stojí jízdenka ? Co si přeješ k narozeninám ? Bude ti 30 let ? Ty jsi stará paní :-) . Potřebuješ něco z Německa ? Víno nebo pivo ? Musím končit a dál se učit . Srdečně tě zdravím a přeju hezkou dovolenou v Itálii . Sabine
+
+----------------
+
+Target hypothesis 2: 
+
+Ahoj Jano , děkuju pěkně za tvoje pozvání . Mám také moc zkoušek a nemám na nic čas . V březnu budu mít čas a moc ráda tě navštívím . Přijedu na víkend , není to problém ? Moc ráda bych si prohlížela Prahu . To je velmi hezké město . Řekni mi jenom , kde bydlíš . Pořád naproti muzeu ? Nemám tvoji adresu . Vím jenom , že bydlíš kolem metra , ale nevím , jak se jmenuje ta zastávka . Kolik stojí jízdenka ? Co si přeješ k narozeninám ? Bude ti 30 let ? Ty jsi stará paní :-) . Potřebuješ něco z Německa ? Víno nebo pivo ? Musím končit a dál se učit . Srdečně tě zdravím a přeju hezkou dovolenou v Itálii . Sabine

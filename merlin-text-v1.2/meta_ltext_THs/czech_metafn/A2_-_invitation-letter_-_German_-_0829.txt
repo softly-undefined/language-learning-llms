@@ -1,0 +1,50 @@
+METADATA
+
+General:
+Author ID: 0829
+Test language: Czech
+CEFR level of test: B1
+Task : answer to the email of Alena - ID: 1_Alena
+Mother tongue: German
+Age: not reported
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: A2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+18. červenec 2008
+Ahoj Aleno!
+Děkuju Ti mnohokrát za Tvůj emailu. Studium je dobrý a teď plánuju dovolenou. Potom  budu začínat diplomku. Asi cestuju do Francii, už nevím.
+Těším se moc na Tvou navštěvu v dubnu.
+Ovšem mám čas pro tebe. To bude výborně!
+ Chtěla bych zvat Tobě do naš doma.
+V kolik hodin přijedes v Drážďanech? pojedu pro tebe na nádraží.
+Kromě toho,  kurz češtiny na vaše univerzitě je dobrý nápad. Ale nevím, jestli  budu mít čas. Prosím, psát mě kdy je kurz? A určitě kurz není levný. Víš kolik stojí kurz. Chci dělat kurz češtiny, ale podle dovolené snad nemám dost penize.
+Prosím, poslejme ten inzerát kurzu. Možná všechno jde. A nedělat tak mnoho myšlenky o pohovorě. Všechno bude dobre, já vím. Ale neveřím, že dostávala bych stipendium. Jen  malo  češtinu a nejsem tak dobrý pro stipendium. Ale to byl zajimavý nápad.
+V každém případě taky těším se moc na vaši setkání. Pozdravuj Tvou sestru a rodičů.
+A možná můžeš poslat fotky dovolené s příštím emailem? Tím končím. Můžu navštěvovat moj dědeček teď.
+Měj se dobře!
+
+Tvoje Eva.
+
+----------------
+
+Target hypothesis 1: 
+
+18. červenec 2008 Ahoj Aleno ! Děkuju Ti mnohokrát za Tvůj e-mail . Studium je dobré a teď plánuju dovolenou . Potom budu začínat diplomku . Asi cestuju do Francie , už nevím . Těším se moc na Tvou návštěvu v dubnu . Ovšem , mám čas pro Tebe . To bude výborné ! Chtěla bych Tě pozvat do našeho domu . V kolik hodin přijedeš do Drážďan ? Pojedu pro Tebe na nádraží . Kromě toho , kurz češtiny na Vaší univerzitě je dobrý nápad . Ale nevím , jestli budu mít čas . Prosím , napiš mi , kdy je kurz ? A určitě kurz není levný . Víš , kolik stojí kurz ? Chci dělat kurz češtiny , ale podle dovolené snad nemám dost peněz . Prosím , pošli mi ten inzerát kurzu . Možná všechno jde . A nedělej tak mnoho myšlenek o pohovoru . Všechno bude dobré , já vím . Ale nevěřím , že bych dostávala stipendium . Jen málo umím češtinu a nejsem tak dobrá na stipendium . Ale to byl zajímavý nápad . V každém případě se taky moc těším na naše setkání . Pozdravuj Tvou sestru a rodiče . A možná můžeš poslat fotky z dovolené s příštím e-mailem ? Tím končím . Můžu navštívit mého dědečka teď . Měj se dobře ! Tvoje Eva
+
+----------------
+
+Target hypothesis 2: 
+
+18. července 2008 Ahoj Aleno ! Děkuju Ti mnohokrát za Tvůj e-mail Studium je dobré a teď plánuju dovolenou . Potom budu začínat diplomku . Asi budu cestovat do Francie , ještě nevím . Těším se moc na Tvou návštěvu v dubnu . Ovšem , mám čas pro Tebe . To bude výborné ! Chtěla bych Tě pozvat do našeho domu . V kolik hodin přijedeš do Drážďan ? Pojedu pro Tebe na nádraží . Kromě toho , kurz češtiny na Vaší univerzitě je dobrý nápad . Ale nevím , jestli budu mít čas . Prosím , napíšeš mi , kdy je kurz ? A určitě kurz není levný . Víš , kolik stojí kurz ? Chci dělat kurz češtiny , ale kvůli dovolené asi nemám dost peněz . Prosím , pošli mi ten inzerát kurzu . Možná všechno půjde . A nemysli tak mnoho na pohovor . Všechno bude dobré , já vím . Ale nevěřím , že bych dostávala stipendium . Jen málo umím češtinu a nejsem tak dobrá na stipendium . Ale to byl zajímavý nápad . V každém případě se taky moc těším na naše setkání . Pozdravuj Tvou sestru a rodiče . A možná můžeš poslat fotky z dovolené s příštím e-mailem ? Tím končím . Můžu navštívit mého dědečka teď . Měj se dobře ! Tvoje Eva

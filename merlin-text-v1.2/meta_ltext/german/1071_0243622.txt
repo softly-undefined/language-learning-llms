@@ -1,0 +1,28 @@
+METADATA
+
+General:
+Author ID: 1071_0243622
+Test language: German
+CEFR level of test: A1
+Task : congratulate to birth of child - ID: 1071_030101
+Mother tongue: not reported
+Age: 43
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Hallo Lieber Jens,
+Herzliche Glückwünsche das Babys! Ist es ein Mätchen oder einen Junge? Wie geht es das Baby? Wie heißt es? Wie geht es die Mutter? Ist beide gesund? Ruf mir an.
+Viele Grüße
+Deine Cousine Maria

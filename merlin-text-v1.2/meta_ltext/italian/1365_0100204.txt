@@ -1,0 +1,29 @@
+METADATA
+
+General:
+Author ID: 1365_0100204
+Test language: Italian
+CEFR level of test: B1
+Task : answer to an wedding invitation - ID: 1365_020300
+Mother tongue: German
+Age: 46
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: C2
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Cara Beatrice, caro Stefano!
+Tanti auguri per il vostro matrimonio e grazie per l'invito. Con piacere vi confermo questo appuntamento per la vostra festa. Arriveró con la mia moglie. 
+Vi chiedo con cuore, quale regalo sarebbe effettivo per la vostra nuova vita insieme. Sarei molto contento se uno mi scrivesse un e-mail con una proposta prima l'appuntamento della festa. 
+Cordiali saluti, 
+Michele!   XX

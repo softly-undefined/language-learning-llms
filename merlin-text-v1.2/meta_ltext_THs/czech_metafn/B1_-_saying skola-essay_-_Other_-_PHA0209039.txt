@@ -1,0 +1,39 @@
+METADATA
+
+General:
+Author ID: PHA0209039
+Test language: Czech
+CEFR level of test: B2
+Task : write an essay: The school is the basis of the life - ID: B2PS0200_skola
+Mother tongue: Other
+Age: 1519
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B2
+Vocabulary control: B2
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Škola - základ života
+Myslím si, že to je pravda, škola je základem života. Teď v našém století, je to opravdu důležité se učit ve škole, protože každá škola, od základní do střední dává člověku nějaké vzdělání. Například, když chcete studovat na univerzitě a po studování dostat  dobrou praci, musíte nejdřívé ukončit školu, protože když toho neuděláté nebudete moc dobré dělat přijímací zkoušky na této univerzitě nebo vysoké škole. 
+Když řeknete, že čtení spousty knih bude dost, abyste nechodili do školy vůbec, na to odpovím, že se mýlíte, protože pomoci ji můžete se lépe naučit mít svou vlastní myšlenku a budete umět ji řeknout. Budete také učit dobre psát a hezké mluvit, a to je také důležité pro současný život. Co se týká čtení knih, tak si myslím, že radějí to dělat po školy nebo  o víkend a bude na to také dost času. Myslím také, že když člověk se špatně učí ve škole nebo neučil se vůbec, to je velice špatné, osobně pro něho, a není to zajímavé se s ním týkat, protože nebudete vědět, co mu říct, a ten člověk, také nic zajímavého vám neřekne. To  bude tak, protože má velice malý slovíčkový zápas.
+A kromě toho všeho, všichni neudělané lidé mají velice málo přátel. Myslím si, že to je tak. 
+
+----------------
+
+Target hypothesis 1: 
+
+Škola - základ života Myslím si , že to je pravda , škola je základem života . Teď v našem století , je to opravdu důležité se učit ve škole , protože každá škola , od základní do střední dává člověku nějaké vzdělání . Například , když chcete studovat na univerzitě a po studování dostat dobrou práci , musíte nejdříve ukončit školu , protože když to neuděláte nebudete moc dobře dělat přijímací zkoušky na této univerzitě nebo vysoké škole . Když řeknete , že čtení spousty knih bude dost , abyste nechodili do školy vůbec , na to odpovím , že se mýlíte , protože pomocí ní můžete se lépe naučit mít svou vlastní myšlenku a budete umět ji říct . Budete se také učit dobře psát a hezky mluvit , a to je také důležité pro současný život . Co se týká čtení knih , tak si myslím , že raději to dělat po škole nebo o víkendu a bude na to také dost času . Myslím také , že když člověk se špatně učí ve škole nebo se neučil vůbec , to je velice špatné , osobně pro něho , a není to zajímavé se s ním týkat , protože nebudete vědět , co mu říct , a ten člověk , také nic zajímavého vám neřekne . To bude tak , protože má velice malý slovíčkový zápas . A kromě toho všeho , všichni neudělaní lidé mají velice málo přátel . Myslím si , že to je tak .
+
+----------------
+
+No target hypothesis 2 available.
+

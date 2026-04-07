@@ -1,0 +1,32 @@
+METADATA
+
+General:
+Author ID: 1071_0024833
+Test language: German
+CEFR level of test: A1
+Task : congratulate to birth of child - ID: 1071_030101
+Mother tongue: Spanish
+Age: 18
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Liebe Jens,
+herzlichen glückwünsch! Du bist jetzt Vater, das Freue mich sehr.
+Wie es der Mutter des Babys geht?
+geht sie gut? Herzlichen glückwünsch für sie auch! Also, wie heißt des Baby? 
+Hast du nächste woche zeit? Könnte ich des Baby kennen lernen?
+Bitte schreib mir bald!
+Mit viele Gruße
+Dein Freund, Tobias

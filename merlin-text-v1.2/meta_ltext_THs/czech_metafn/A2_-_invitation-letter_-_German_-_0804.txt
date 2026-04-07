@@ -1,0 +1,46 @@
+METADATA
+
+General:
+Author ID: 0804
+Test language: Czech
+CEFR level of test: B1
+Task : answer to the email of Alena - ID: 1_Alena
+Mother tongue: German
+Age: not reported
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Ahoj Aleno, 
+Děkuju Ti mockrát za tvůj e-mailu. Je mi lito, že jsem už dlouho nepsala. Ale jsem neměla čas, protože jsem pracovala na diplomce. Studium je fajn. Děkuju pro poptávku. Ale studium taký namáhavy. 
+Jak se máš? Mám se jde to, protože jsem něco nemocná. 
+Ano, planuju dovolenou. Chci jet do Bratislavy. Ale teď vic nevím. A Ty? Ty už plánuješ dovolenou. 
+Jsem radá, že ty pojedeš do Drážďany. Měla bys čas s odpoledne? Přicházu k mne na domů. Kdy ti přijíždeš? Mohla bych tebe docházet. 
+Kolik stojí prázdninové kurzy češtiny? A kdy se kurzy konají?
+Prosim posileš mně inzerát o prásdninam kurzi češtiny. To bylo hezké. 
+Pozdrav Pavla ode mne zatím ahoj, 
+Dana
+ 
+
+----------------
+
+Target hypothesis 1: 
+
+Ahoj Aleno , děkuju Ti mockrát za Tvůj e-mail . Je mi líto , že jsem už dlouho nepsala . Ale neměla jsem čas , protože jsem pracovala na diplomce . Studium je fajn . Děkuju za poptávku . Ale studium je taky namáhavé . Jak se máš ? Mám se jde to , přestože jsem něco nemocná . Ano , plánuju dovolenou . Chci jet do Bratislavy . Ale teď víc nevím . A Ty ? Ty už plánuješ dovolenou ? Jsem ráda , že pojedeš do Drážďan . Měla bys čas odpoledne ? Přijď ke mně domů . Kdy přijedeš ? Mohla bych pro Tebe dojít . Kolik stojí prázdninové kurzy češtiny ? A kdy se kurzy konají ? Prosím pošleš mně inzerát o prázdninových kurzech češtiny ? To by bylo hezké . Pozdrav ode mne Pavla , zatím ahoj , Dana
+
+----------------
+
+Target hypothesis 2: 
+
+Ahoj Aleno , děkuju Ti mockrát za Tvůj e-mail . Je mi líto , že jsem už dlouho nepsala . Ale neměla jsem čas , protože jsem pracovala na diplomce . Studium je fajn . Děkuju za optání . Ale studium je taky namáhavé . Jak se máš ? Mám se jde to , přestože jsem trochu nemocná . Ano , plánuju dovolenou . Chci jet do Bratislavy . Ale teď víc nevím . A Ty ? Ty už plánuješ dovolenou ? Jsem ráda , že pojedeš do Drážďan . Měla bys čas odpoledne ? Přijď ke mně domů . Kdy přijedeš ? Mohla bych pro Tebe dojít . Kolik stojí prázdninové kurzy češtiny ? A kdy se kurzy konají ? Prosím pošleš mně inzerát o prázdninových kurzech češtiny ? To by bylo hezké . Pozdravuj ode mne Pavla , zatím ahoj , Dana

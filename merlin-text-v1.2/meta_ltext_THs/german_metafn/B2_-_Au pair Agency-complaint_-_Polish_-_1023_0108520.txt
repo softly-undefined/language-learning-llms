@@ -1,0 +1,51 @@
+METADATA
+
+General:
+Author ID: 1023_0108520
+Test language: German
+CEFR level of test: B2
+Task : Au pair writes letter of complaint to Agency - ID: 1023_100303
+Mother tongue: Polish
+Age: 30
+Gender: female
+
+Rating:
+Overall CEFR rating: B2
+Grammatical accuracy: B1
+Orthography: B2
+Vocabulary range: B2
+Vocabulary control: B2
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: B2
+
+----------------
+
+Learner text: 
+
+Au-pair-Agentur Schulz & Partner
+Regenstrasse 101
+90451 Nürnberg
+
+Maria Meier 
+Bahnhofsstraße 123
+12345 Stadt X                                                                             Stadt X den 12.07.2011
+Beschwerde
+Sehr Geehte Frau / Herr
+Ich habe dürch Ihre Agentur eine Stelle beckommen in Mönchen. Seit Kurzem bin ich wieder nach Hause gekommen und leider will ich mich bei Ihnen beschweren. Bevor ich nach Deutschland gereist habe, habe ich bekommen von Ihre Agentur passende Information über die Gastfamilie. Sie hätten mir mitgeteilt das die Familie hat 2 Kinder und das Eltern beide arbeiten. Auserdem nach Ihre information, sollte ich beckommen ein Zimmer, freie Wohenende und 500 € als Taschengeld. Ich habe beckommen noch die Information über meine arbeit. Ich sollte 30 Stunden in Woche, das ist 6 Stunden am Tag arbeiten.
+Leider war alles anderes als ich erwarten Habe. Erstens die Familie war grösser auf eines Kind. Die Mutter war zu Hause, also sie arbeitet nicht. Ich habe keine Zimmer beckomen, ich musste ihm teilen mit die kleinste Kind. Der Junge war erst 1 Jahr alt. Also hätte ich keine Ruhe und Privatsfere gehabt. Meine arbeit Stunden waren länga als gesagt. Ich hätte auch keine IWohenende frei.
+Als ich angerufen habe, Ihn das zu teilen war ich immer abgelegt. Jemand hat mir soger gesagt das die informationen nicht von Ihnen sind und ich habe mich geehrt. Die viertel Jahr war für mich hart und schwer. Keine Hilfe von Ihren Seite oder sonst etwas.
+Jetzt ist das für mich egal, aber bitte sei ihr bisschen mehr kompetent und bitte eure Information besser Prüfen
+Mit freundlichen Grüssen
+Maria Meier  
+
+----------------
+
+Target hypothesis 1: 
+
+Au-pair-Agentur Schulz & Partner Regenstrasse 101 90451 Nürnberg Maria Meier Bahnhofsstraße 123 12345 Stadt X Stadt X , den 12.07.2011 Beschwerde Sehr geehrte(r) Frau / Herr ! Ich habe durch Ihre Agentur eine Stelle bekommen in München . Seit Kurzem bin ich wieder nach Hause gekommen und leider will ich mich bei Ihnen beschweren . Bevor ich nach Deutschland gereist bin , habe ich von Ihrer Agentur eine passende Information über die Gastfamilie bekommen . Sie hätten mir mitgeteilt , dass die Familie 2 Kinder hat und dass beide Eltern arbeiten . Ausserdem sollte ich nach Ihrer Information ein Zimmer bekommen , ein freies Wochenende und 500 € als Taschengeld . Ich habe noch die Information über meine Arbeit bekommen . Ich sollte 30 Stunden in der Woche , das sind 6 Stunden am Tag , arbeiten . Leider war alles anders , als ich erwartet habe . Erstens , die Familie war um ein Kind grösser . Die Mutter war zu Hause , also sie arbeitet nicht . Ich habe kein Zimmer bekommen , ich musste es teilen mit dem kleinsten Kind . Der Junge war erst 1 Jahr alt . Also hätte ich keine Ruhe und Privatsphäre gehabt . Meine Arbeitstunden waren länger als gesagt . Ich hätte auch kein Wochenende frei . Als ich angerufen habe , Ihnen das zu teilen , war ich immer abgelegt . Jemand hat mir sogar gesagt , dass die informationen nicht von Ihnen sind , und ich habe mich geehrt . Das Vierteljahr war für mich hart und schwer . Keine Hilfe von Ihrer Seite oder sonst etwas . Jetzt ist das für mich egal , aber bitte seid ihr ein bisschen mehr kompetent und bitte eure Information besser prüfen . Mit freundlichen Grüssen Maria Meier
+
+----------------
+
+Target hypothesis 2: 
+
+Au-pair-Agentur Schulz & Partner Regenstrasse 101 90451 Nürnberg Maria Meier Bahnhofsstraße 123 12345 Stadt X Stadt X , den 12.07.2011 Beschwerde Sehr geehrte( r) Frau / Herr ! Ich habe durch Ihre Agentur eine Stelle in München bekommen . Seit Kurzem bin ich wieder nach Hause gekommen und leider will ich mich bei Ihnen beschweren . Bevor ich nach Deutschland gereist bin , habe ich von Ihrer Agentur angenehme Informationen über die Gastfamilie bekommen . Sie hatten mir mitgeteilt , dass die Familie 2 Kinder habe und dass beide Eltern arbeiten würden . Außerdem sollte ich nach Ihrer Information ein Zimmer bekommen , ein freies Wochenende und 500 € als Taschengeld . Ich habe außerdem Informationen über meine Arbeit bekommen . Ich sollte 30 Stunden in der Woche , das sind 6 Stunden am Tag , arbeiten . Leider war alles anders , als ich erwartet habe . Erstens , die Familie war um ein Kind grösser und die Mutter war zu Hause , also sie arbeitete nicht . Ich habe kein eigenes Zimmer bekommen , ich musste es mit dem kleinsten Kind teilen . Der Junge war erst 1 Jahr alt , also hatte ich keine Ruhe und Privatsphäre . Meine Arbeitsstunden waren länger als vereinbart . Ich hatte auch kein Wochenende frei . Als ich angerufen habe , Ihnen das mitzuteilen , wurde ich immer abgelehnt . Jemand hat mir überdies gesagt , dass die Informationen nicht von Ihnen sind , und ich habe mich geärgert . Das Vierteljahr war für mich hart und schwer . Keine Hilfe von Ihrer Seite oder sonst etwas . Jetzt ist mir das egal , aber bitte seien Sie ein bisschen kompetenter und bitte prüfen Sie Ihre Information besser . Mit freundlichen Grüssen Maria Meier

@@ -1,0 +1,37 @@
+METADATA
+
+General:
+Author ID: PHA0111003A
+Test language: Czech
+CEFR level of test: A2
+Task : answering on a birthday invitation - ID: A2PS0102_oslava
+Mother tongue: Russian
+Age: 2029
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Ahoj, Evo! Jak se máš? Mám se dobŘé! Díky za pozvani. Jsem moc ráda! Ale chtělá buch zeptat kde a kdy to budé? V kolík hodin začátek a kto ješte pŘidou? Jsem koupila pro tobe dáRék!!! Hodne štěstí a zdrávi, Davej na sebe pozor, měj se hezky, zavolej nebo napis - li přeje Eva. Všehno nejlepší!!!
+
+----------------
+
+Target hypothesis 1: 
+
+Ahoj , Evo ! Jak se máš ? Mám se dobře ! Díky za pozvání . Jsem moc ráda ! Ale chtěla bych se zeptat , kde a kdy to bude . V kolik hodin bude začátek a kdo ještě přijde ? Koupila jsem pro tebe dárek ! ! ! Hodně štěstí a zdraví . Dávej na sebe pozor , měj se hezky , zavolej nebo napiš - li přeje Eva . Všechno nejlepší ! ! !
+
+----------------
+
+Target hypothesis 2: 
+
+Ahoj , Evo ! Jak se máš ? Mám se dobře ! Díky za pozvání . Jsem moc ráda ! Ale chtěla bych se zeptat , kde a kdy to bude . V kolik hodin bude začátek a kdo ještě přijde ? Koupila jsem pro tebe dárek ! ! ! Hodně štěstí a zdraví . Dávej na sebe pozor , měj se hezky , zavolej nebo napiš - li přeje Eva . Všechno nejlepší ! ! !

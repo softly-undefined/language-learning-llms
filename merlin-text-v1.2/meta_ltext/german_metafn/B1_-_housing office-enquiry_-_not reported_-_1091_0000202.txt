@@ -1,0 +1,35 @@
+METADATA
+
+General:
+Author ID: 1091_0000202
+Test language: German
+CEFR level of test: A2
+Task : letter to housing office - ID: 1091_0610301
+Mother tongue: not reported
+Age: 44
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Tobias Schmidt
+Winkel
+Stadt X
+ 
+Wohnungsamt
+Stadt X                                                   den. 9.3.´12
+Sehr geehrte Damen und Herren,
+ich bin Tobias Schmidt und ich bin Priester. Ich möchte einen Deutsch Kurs in Stadt X besuchen. Deshalb brauche ich eine Wohnung. 
+Ich brauche eine Wohnung mit 2 Zimmer, Küche, Bad und Toilette, ob möglich im Erdgeschoss. Ich kann ungäfehr 300 E inklusiv Nebenkosten als die Miete bezahlen. Wie hoch ist die Kaution? Ich habe ein Auto, deshalb brauche ich auch ein Garage. Muss ich für das Gerage bezahlen? Ich warte auf Ihre baldige Antwort. 
+mit freundlichen Grüßen
+P. Tobias Schmidt

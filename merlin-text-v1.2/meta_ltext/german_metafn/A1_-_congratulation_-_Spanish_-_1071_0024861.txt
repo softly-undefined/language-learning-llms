@@ -1,0 +1,32 @@
+METADATA
+
+General:
+Author ID: 1071_0024861
+Test language: German
+CEFR level of test: A1
+Task : congratulate to birth of child - ID: 1071_030101
+Mother tongue: Spanish
+Age: 23
+Gender: male
+
+Rating:
+Overall CEFR rating: A1
+Grammatical accuracy: A1
+Orthography: A2
+Vocabulary range: A1
+Vocabulary control: A1
+Coherence/Cohesion: A1
+Sociolinguistic appropriateness: A1
+
+----------------
+
+Learner text: 
+
+Hallo Jens,                                            Stadt X, 2012.03.19
+Du bist jetz Vater, es ist super!
+Wie heißt sein Sonn?
+Wir ist seine Frau geht?
+Ich mochte bis seine Haus gehen, kann ich am Freitag gehen?
+Viele Glückwünsche!
+Freundliche Grüße,
+Tobias

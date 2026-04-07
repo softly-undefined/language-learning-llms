@@ -1,0 +1,28 @@
+METADATA
+
+General:
+Author ID: 1071_0248307
+Test language: German
+CEFR level of test: A1
+Task : arrange appointment with friend to go swimming together - ID: 1071_120302
+Mother tongue: Russian
+Age: 57
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B2
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Liebe Daniela,
+ich will am Samstag um 18 Uhr ins Schwimmbad gehen. Möchtest du auch schwimmen? Dann kommst du ins Schwimmbad in Stadtteil X. Und du muss ihr schwimmanzug mitbringen.
+Bis später.
+Viele Grüße, deiner Michael

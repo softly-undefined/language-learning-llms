@@ -1,0 +1,44 @@
+METADATA
+
+General:
+Author ID: 0629
+Test language: Czech
+CEFR level of test: B1
+Task : answer to the email of Alena - ID: 1_Alena
+Mother tongue: German
+Age: not reported
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+19. července 2006
+Ahoj Mileno
+Mám se dobře a také jsem dlouho nepsal. Ale c tim se nikdo nic dělat.
+Ano, mám teď hodně práce, mam zkoušky na univerzitě. Bohužel nemám čas pro vaše grilovací party v Liberci, protože mám dovolenu a budu k moři.
+Ale o 14 dní později, 27.8., mám čas a  těšim se na svatbu. Setkame se v Liberci na nádraži v deset hodin a třicet minut? Potom totiž přijede vlak v Liberci. A ve středu příští týden také mám caš. Setkame se v šest hodin v kavárnu "kavárna X" na nádraži?  Tam bychom mohly jít na kávu a popovídát si o svatbě.
+A mám ještě jednou otázku. Hledam dobrou českou gramatiku. Znáš jednou? Když ano - prosím koupj ji. Přirozeně zaplatim.
+Měj se dobře! Vidime brzo.
+Zatim ahoj.
+Martin
+
+----------------
+
+Target hypothesis 1: 
+
+19. července 2006 Ahoj , Mileno ! Mám se dobře a také jsem dlouho nepsal . Ale s tím se nedá nic dělat . Ano , mám teď hodně práce , mam zkoušky na univerzitě . Bohužel nemám čas na vaši grilovací party v Liberci , protože mám dovolenou a budu u moře . Ale o 14 dní později , 27.8. , mám čas a těším se na svatbu . Setkáme se v Liberci na nádraží v deset hodin a třicet minut ? Potom totiž přijede vlak do Liberce . A ve středu příští týden také mám čas . Setkáme se v šest hodin v kavárně " kavárna X " na nádraží ? Tam bychom mohli jít na kávu a popovídat si o svatbě . A mám ještě jednu otázku . Hledám dobrou českou gramatiku . Znáš jednu ? Když ano - prosím , kup ji . Přirozeně zaplatím . Měj se dobře ! Uvidíme se brzo . Zatím ahoj . Martin
+
+----------------
+
+No target hypothesis 2 available.
+

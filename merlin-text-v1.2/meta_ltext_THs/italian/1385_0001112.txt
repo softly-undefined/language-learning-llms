@@ -1,0 +1,40 @@
+METADATA
+
+General:
+Author ID: 1385_0001112
+Test language: Italian
+CEFR level of test: A1
+Task : reschedule an appointment - ID: 1385_020100
+Mother tongue: other
+Age: 18
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Ciao Daniele,
+come stai? Io sto bene. Vorrei dirti che giovedi pomeriggio non posso venire al nostro incontro perchè  in ufficio c'è molto lavoro. È una settimane orribile. Che ne dici di incontrami sabato sera, pérchè ho molto tempo.
+Andiamo a cena in un ristorante tailandese? Ci ho già mangiato e è molto buono. Mi piace molto di vederti.
+Bacio
+Maria
+
+----------------
+
+Target hypothesis 1: 
+
+Ciao Daniele , come stai ? Io sto bene . Vorrei dirti che giovedì pomeriggio non posso venire al nostro incontro perché in ufficio c' è molto lavoro . È una settimana orribile . Che ne dici di incontrarci sabato sera , perché ho molto tempo ? Andiamo a cena in un ristorante tailandese ? Ci ho già mangiato ed è molto buono . Mi piace molto vederti . Bacio Maria
+
+----------------
+
+No target hypothesis 2 available.
+

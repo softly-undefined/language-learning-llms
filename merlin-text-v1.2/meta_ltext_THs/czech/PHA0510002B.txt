@@ -1,0 +1,36 @@
+METADATA
+
+General:
+Author ID: PHA0510002B
+Test language: Czech
+CEFR level of test: A2
+Task : describe a photo: playground - ID: A2PS0201_hriste
+Mother tongue: Other
+Age: 1519
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Na fotografii jsou Manžel, manželka a jejich děti, jsou v parku a odpočivaji. Cítí se velmy dobře, protože jsou ščastny byt spolu. Mysli na dobre počasy a hezký den. Mluvi o tom, kam pojedou na dovolenou a jak tam budou odpočivat. Myslim, že na fotografii je leto, protože oni nemaji mnoho oblečeni na sobě. Ta rodina je velmy ščastna, protože maj-ambiguous- všechno v požadku a je pěkny den, rodiče maji hodný děti a za tyden jedou všichy na vylet.
+
+----------------
+
+Target hypothesis 1: 
+
+Na fotografii jsou manžel , manželka a jejich děti , jsou v parku a odpočívají . Cítí se velmi dobře , protože jsou šťastní , že jsou spolu . Myslí na dobré počasí a hezký den . Mluví o tom , kam pojedou na dovolenou a jak tam budou odpočívat . Myslím , že na fotografii je léto , protože oni nemají mnoho oblečení na sobě . Ta rodina je velmi šťastná , protože mají všechno v pořádku a je pěkný den , rodiče mají hodné děti a za týden jedou všichni na výlet .
+
+----------------
+
+No target hypothesis 2 available.
+

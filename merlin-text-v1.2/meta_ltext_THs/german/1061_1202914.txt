@@ -1,0 +1,43 @@
+METADATA
+
+General:
+Author ID: 1061_1202914
+Test language: German
+CEFR level of test: B1
+Task : write a letter to a friend (visit) - ID: 1061_130101
+Mother tongue: Polish
+Age: 38
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Libe Dana,                           Stadt X 27.02.12.
+Danke für Sie deine Brif. Ich denke oft an dich.
+Natürlich besuche ich dich wann zürick kommen. Aber ich mache Party am Sontag und lade ich dich ein, Ich freue mich für usere Besuchen.
+Hast du Prüfung, ja?
+Ich wünsche dir viel Erfolg.
+Ich hatte aus Istanbul schal oder schone Ohre. Im schöne Land leben deine Verwandtem. Ich möchte gern in Istanbul urlob machen.
+Bis bald
+Maria
+
+----------------
+
+Target hypothesis 1: 
+
+Liebe Dana , Stadt X , 27.02.12 danke für deinen Brief . Ich denke oft an dich . Natürlich besuche ich dich . Wann kommst du zurück ? Aber ich mache Party am Sonntag und ich lade dich ein . Ich freue mich auf unseren Besuch . Hast du eine Prüfung , ja ? Ich wünsche dir viel Erfolg . Ich hatte aus Istanbul einen Schal oder ein schönes Ohr . Im schönen Land leben deine Verwandten . Ich möchte gern in Istanbul Urlaub machen . Bis bald Maria
+
+----------------
+
+No target hypothesis 2 available.
+

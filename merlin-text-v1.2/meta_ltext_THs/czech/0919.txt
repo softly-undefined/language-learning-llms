@@ -1,0 +1,44 @@
+METADATA
+
+General:
+Author ID: 0919
+Test language: Czech
+CEFR level of test: B1
+Task : answer to the email of Jana - ID: 2_Jana
+Mother tongue: Russian
+Age: not reported
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Ahoj Jano,
+Jsem taky moc ráda, že ses ozvala. Děkuju za tvůj email.
+Budu mít hodně zkoušek a tak nemam hodný čas tento měsíc. Ale v sobotu 14. 3 mam čas a těším se moc na tvůj pozvani. Moc děkuju! To by byla dobrá možnost pro mne a budu (řekat) mluvit moc česky. Přijí rada do Prahy. Muzu zůstat celý vikend? Protože nejsem byla ještě v měste. Kde je tvůj byt? Mužeš psát adresu a které metro musím jet. Víš, kolik stoji jízdenku? 
+Budes mi 30, co si přeješ? A potřebuju neco odtud? 
+Přejí ti s Martinem hezkou dovolenu a cestu do Itálie.
+Pro dnešek končím a zdravím Martine.
+Měj se hezky!
+ciao Sabine
+
+----------------
+
+Target hypothesis 1: 
+
+Ahoj Jano , jsem taky moc ráda , že ses ozvala . Děkuju za tvůj e-mail . Budu mít hodně zkoušek , a tak nemám hodně času tento měsíc . Ale v sobotu 14. 3. mám čas a těším se moc z tvého pozvání . Moc děkuju ! To by byla dobrá možnost pro mne a budu ( říkat ) mluvit moc česky . Přijedu ráda do Prahy . Můžu zůstat celý víkend ? Protože jsem ještě nebyla ve městě . Kde je tvůj byt ? Můžeš mi napsat adresu a kterým metrem musím jet ? Víš , kolik stojí jízdenka ? Budeš mít 30 , co si přeješ ? A potřebuju něco odtud ? Přeji ti s Martinem hezkou dovolenou a cestu do Itálie . Pro dnešek končím a zdravím Martina . Měj se hezky ! Ciao , Sabine
+
+----------------
+
+Target hypothesis 2: 
+
+Ahoj Jano , jsem taky moc ráda , že ses ozvala . Děkuju za tvůj e-mail . Budu mít hodně zkoušek , a tak nemám hodně času tento měsíc . Ale v sobotu 14. 3. mám čas a těším se moc z tvého pozvání . Moc děkuju ! To by byla dobrá možnost pro mne a budu ( říkat ) mluvit moc česky . Přijedu ráda do Prahy . Můžu zůstat celý víkend ? Protože jsem ještě nebyla ve městě . Kde je tvůj byt ? Můžeš mi napsat adresu a kterým metrem musím jet ? Víš , kolik stojí jízdenka ? Budeš mít 30 , co si přeješ ? A potřebuju něco odtud ? Přeji ti s Martinem hezkou dovolenou a cestu do Itálie . Pro dnešek končím a zdravím Martina . Měj se hezky ! Ciao , Sabine

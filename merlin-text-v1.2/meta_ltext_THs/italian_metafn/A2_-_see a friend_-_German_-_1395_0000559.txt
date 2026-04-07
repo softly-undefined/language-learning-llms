@@ -1,0 +1,40 @@
+METADATA
+
+General:
+Author ID: 1395_0000559
+Test language: Italian
+CEFR level of test: A2
+Task : go see a friend - ID: 1395_040101
+Mother tongue: German
+Age: 15
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Città X, 29/01/2011
+Cara Anna,
+come stai? Mi chiamo Maria e sono di Città X, in Germania. Io voglio incontrarci ma ho anche delle domande: Dove abiti? Ho letto che tu abiti a Milano, vero? Come'è la città? E cosa potriamo fare la sera? Avete un cinema o un teatro? Come sta la tua famiglia? Ho anche delle domande a causa del viaggio: Come posso arrivare a casa tua? E quanto tempo posso rimanere? Una settimana? Grazie per il contatto. Scrivimi.
+Ci vediamo,
+Maria
+
+----------------
+
+Target hypothesis 1: 
+
+Città X , 29 / 01 / 2011 Cara Anna , come stai ? Mi chiamo Maria e sono di Città X , in Germania . Io voglio incontrarti ma ho anche delle domande : dove abiti ? Ho letto che tu abiti a Milano , vero ? Com' è la città ? E cosa possiamo fare la sera ? Avete un cinema o un teatro ? Come sta la tua famiglia ? Ho anche delle domande a causa del viaggio : come posso arrivare a casa tua ? E quanto tempo posso rimanere ? Una settimana ? Grazie per il contatto . Scrivimi . Ci vediamo , Maria
+
+----------------
+
+No target hypothesis 2 available.
+

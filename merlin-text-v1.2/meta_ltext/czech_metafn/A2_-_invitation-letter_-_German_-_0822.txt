@@ -1,0 +1,30 @@
+METADATA
+
+General:
+Author ID: 0822
+Test language: Czech
+CEFR level of test: B1
+Task : answer to the email of Alena - ID: 1_Alena
+Mother tongue: German
+Age: not reported
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+18.07.08
+Ahoj Aleno, 
+děkuji za tvůj přijemný email. Těšil jsem se moc, že jsi psala. Mám se dobře, ale jsem nezačal pracovat na diplomce. Chci až začinat po dovoleně. Pojedu do Španělska, protože chci plavat v moře. Těším se na tvou návštěvu. Chci zvát na můj byt. V kolik hodin přijedeš v Drážďanech? Můžu jít na , potom  můžeme prohlížet město. Vypravovalajsi o  kurzy češtiny. Kolik to  stojí a kdy bude začinat? Těšil bych se, když můžeš poslet mi inzerát. Asi budu rozumit lépši tvůj dopis brzo.Musím končit email, protože půjdu dnes večer do kina. 
+Měj se dobře,
+
+tvůj Martin

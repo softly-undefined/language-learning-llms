@@ -1,0 +1,40 @@
+METADATA
+
+General:
+Author ID: 1365_0100002
+Test language: Italian
+CEFR level of test: B1
+Task : answer to an wedding invitation - ID: 1365_020300
+Mother tongue: French
+Age: 39
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: C1
+Vocabulary range: B1
+Vocabulary control: B2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Signora, Signore,
+Prima di tutto congratulazzioni per questo splendido matrimogno al quale vi ringrazzio moltissimo per la invitazzione della cerimonia in chiesa et del pranzo al ristorante.
+E con grande piacere che vi confermo la mia venuta sia in chiesa che al ristorante per festeggiare questo fantastico momento. 
+In oltre vorrei sapere in che modo posso partecipare al regalo per gli sposi.
+Vi ringrazzio ancora di poter essere presente a questo indimenticabile momento. Com Afetto
+
+----------------
+
+Target hypothesis 1: 
+
+Signora , Signore , prima di tutto congratulazioni per questo splendido matrimonio . Vi ringrazio moltissimo per la invitazione alla cerimonia in chiesa e al pranzo al ristorante . È con grande piacere che vi confermo la mia venuta sia in chiesa che al ristorante per festeggiare questo fantastico momento . Inoltre vorrei sapere in che modo posso partecipare al regalo per gli sposi . Vi ringrazio ancora di poter essere presente a questo indimenticabile momento . Con affetto
+
+----------------
+
+No target hypothesis 2 available.
+

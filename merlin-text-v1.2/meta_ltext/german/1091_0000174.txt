@@ -1,0 +1,28 @@
+METADATA
+
+General:
+Author ID: 1091_0000174
+Test language: German
+CEFR level of test: A2
+Task : ask friend to take care of pet - ID: 1091_0650102
+Mother tongue: not reported
+Age: 46
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+
+Liebe Freund
+Ich habe ein Hond ich Kann nicht mit Deswegen ein Paar tag nicht in hause. Wann Kann ich mit nehemen
+ich fahre.

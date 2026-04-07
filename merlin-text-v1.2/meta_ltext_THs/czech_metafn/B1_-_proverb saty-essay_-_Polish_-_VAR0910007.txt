@@ -1,0 +1,38 @@
+METADATA
+
+General:
+Author ID: VAR0910007
+Test language: Czech
+CEFR level of test: B2
+Task : write an essay: Clothes make the man - ID: B2PS0201_saty
+Mother tongue: Polish
+Age: 2029
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B2
+Vocabulary control: B1
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Jsem člověk, který dlouhou dobu svého života nevěnoval jakoukoliv pozornost svému oblečení. Když někdo měl nějake namítky k mému oblečení tak vzápéti jsem odpovídál: ,, To ne šaty dělají člověka, to člověk děla šaty". A tím jsem končil každý další rozhovor. Dneska už o tom vím, že jsem žil ve špatné představě. Asi se mne zeptáte, co spůsobilo takovou změnu mého názoru. Tak dovolte mne to vysvětlit.
+V roce 2002 jsem se seznámil s Davidem. Tehdy on bydlel na Slovensku v Košicích, studioval na zdejší technické univerzitě. Seznamili jsme se  přes internet a přes internet jsme byli v kontaktu. Spojilo nás společné hobby, koníček - zámilováni ve literecké tvorbě Ladislava Fukse. Je to můj nejoblibenější spisovatel, kterého knihy, také jako např. ,,Spalovač mrtvol" prostě zbožňují. Diskutovali jsme s Davidem dlouhé hodiny o interpretacích fuksových knih, o přeslávi fuksové tvorby. David udělal na mne obrovský dojem, jeho ználost literatury, dějín České a Slovenské Republiki, světové polityky byla prostě impozantní. Po pěti letech jsme se konečne potkáli. A bylo to sklamání pro mně. Uviděl jsem hnusného, špatně oblečeného tloustého člověka. Moje dřivější představa o Davidovi zmízela. Sice byl to vzdělaný člověk, nádprůměrně inteligentní, ale jeho vnejší výhled byl strašny. Štitil jsem se jít s nim do hospody. A tehdy v Davidovi jsem uviděl samého sebe - jak v zrcadle. A jsem rozhodl, že já nemůžu byt už taky. A od té doby už nejsem , 
+Takže lidská inteligence, pováha to je jedne věc. Ale jeho vnější, estetycké působění je také moc důležité. Většína lídí hodnotí svět vzrákem a nesmíme na to zapomenout. Vždyt nejdůležitejší je první dojem, a tenhle dojem ziskáváme vzrákem. 
+
+----------------
+
+Target hypothesis 1: 
+
+Jsem člověk , který dlouhou dobu svého života nevěnoval jakoukoliv pozornost svému oblečení . Když někdo měl nějaké námitky k mému oblečení , tak jsem mu vzápětí odpověděl : " To ne šaty dělají člověka , to člověk dělá šaty " . A tím jsem končil každý další rozhovor . Dneska už o tom vím , že jsem žil ve špatné představě . Asi se mne zeptáte , co způsobilo takovou změnu mého názoru . Tak dovolte mi to vysvětlit . V roce 2002 jsem se seznámil s Davidem . On tehdy bydlel na Slovensku v Košicích , studoval na zdejší technické univerzitě . Seznámili jsme se přes internet a přes internet jsme byli v kontaktu . Spojilo nás společné hobby , koníček - zamilování do literecké tvorby Ladislava Fukse . Je to můj nejoblíbenější spisovatel , kterého knihy , také jako např . " Spalovač mrtvol " , prostě zbožňuji . Diskutovali jsme s Davidem dlouhé hodiny o interpretacích Fuksových knih , o -incomp- Fuksovy tvorby . David na mne udělal obrovský dojem , jeho znalost literatury , dějin České a Slovenské republiky , světové politiky byla prostě impozantní . Po pěti letech jsme se konečně potkali . A bylo to pro mě zklamání . Uviděl jsem hnusného , špatně oblečeného tlustého člověka . Moje dřívější představa o Davidovi zmizela . Sice to byl vzdělaný člověk , nadprůměrně inteligentní , ale jeho vnější výhled byl strašný . Štítil jsem se jít s ním do hospody . A tehdy jsem v Davidovi uviděl sebe samého - jak v zrcadle . A rozhodl jsem se , že já nemůžu být už takový . A od té doby už nejsem . Takže lidská inteligence , povaha , to je jedna věc . Ale jeho vnější , estetické působení je také moc důležité . Většina lidí hodnotí svět zrakem a nesmíme na to zapomenout . Vždyť nejdůležitější je první dojem a tenhle dojem získáváme zrakem .
+
+----------------
+
+No target hypothesis 2 available.
+

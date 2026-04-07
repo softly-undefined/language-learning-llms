@@ -1,0 +1,43 @@
+METADATA
+
+General:
+Author ID: 1365_0100198
+Test language: Italian
+CEFR level of test: B1
+Task : answer to an wedding invitation - ID: 1365_020300
+Mother tongue: German
+Age: 50
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: B1
+Orthography: C1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+                                                                                            Città X, 27 Maggio, 2011 Gentili Signori, 
+tanti auguri per Voi aver potuto anunciare questo matrimonio di Beatrice a Stefano. Vorrei ringraziarVi per questa invita e vorrei farVi sapere che mi godo di potere participare a questa festa. Ci vediamo in Chiesa di Santa Chiara e dopo al ristorante "Da Ciro". 
+Ho solo una domanda. Potete aiutarmi facendomi sapere che regalo potrei portare? 
+In attesa di una risposta (anche su telefonino: 0345-11111111) Vi ringrazio anticipamente. 
+Distinti saluti,  Maria Rossi 
+ 
+
+
+
+----------------
+
+Target hypothesis 1: 
+
+Città X , 27 Maggio , 2011 Gentili Signori , tanti auguri a Voi per aver potuto annunciare questo matrimonio di Beatrice a Stefano . Vorrei ringraziarVi per questo invito e vorrei farVi sapere che godo di potere partecipare a questa festa . Ci vediamo nella Chiesa di Santa Chiara e dopo al ristorante " Da Ciro " . Ho solo una domanda . Potete aiutarmi facendomi sapere che regalo potrei portare ? In attesa di una risposta ( anche sul telefonino : 0345-11111111 ) Vi ringrazio anticipamente . Distinti saluti , Maria Rossi
+
+----------------
+
+No target hypothesis 2 available.
+

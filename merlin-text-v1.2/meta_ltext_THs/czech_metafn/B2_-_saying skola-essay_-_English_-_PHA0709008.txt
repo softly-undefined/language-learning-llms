@@ -1,0 +1,37 @@
+METADATA
+
+General:
+Author ID: PHA0709008
+Test language: Czech
+CEFR level of test: B2
+Task : write an essay: The school is the basis of the life - ID: B2PS0200_skola
+Mother tongue: English
+Age: 2029
+Gender: male
+
+Rating:
+Overall CEFR rating: B2
+Grammatical accuracy: B2
+Orthography: B1
+Vocabulary range: B2
+Vocabulary control: B2
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Dneska být vzdělání je velmi duležité pro život člověka. Žiju v Americe a tam bez vysoké školy si těžko seženu pořádnou práci. Mam par kamarádu které se na to vykašlaly a od nǐch ted jen sliším jak nadavaji na sebe a na rodiče že je tam nedonutily. Ve škole se učíme základ, bez kterého je velmi težké pokračuvat dál v životě. Mužu postavit dům bez základu ale dlouho nevidṙží stát. Přijde bouřka nebo nejaká vážná událost a bude to s cela jasné že tam neco chybí. Přesne tak je to s tou školou. Hlavně ted,  Když se řítíme do budoucnosti, musime dbát na tom  abyse každy učil co nejvíc.  čím dal tím víc přecházime hranice různých zemý a musime umět jiné jazyky, znát nové pravidla, a chápat postoje lídí s kterymi  musíme souhlasit. Bez tech informacích se už dnes neobéjdeme a potřebujeme je víc a víc. Ve škole se tohle vše naučíme abychom se mohly od života učit dál.
+
+----------------
+
+Target hypothesis 1: 
+
+Dneska být vzdělaný je velmi důležité pro život člověka . Žiju v Americe a tam si bez vysoké školy těžko seženu pořádnou práci . Mám pár kamarádů , kteří se na to vykašlali , a od nich teď jen slyším , jak nadávají na sebe a na rodiče , že je tam nedonutili . Ve škole se učíme základ , bez kterého je velmi težké pokračovat dál v životě . Můžu postavit dům bez základu , ale dlouho nevydrží stát . Přijde bouřka nebo nějaká vážná událost a bude to zcela jasné , že tam něco chybí . Přesně tak je to s tou školou . Hlavně teď , když se řítíme do budoucnosti , musíme dbát na to , aby se každý učil co nejvíc . Čím dál tím víc přecházíme hranice různých zemí a musíme umět jiné jazyky , znát nová pravidla a chápat postoje lidí , se kterými musíme souhlasit . Bez těch informací se už dnes neobejdeme a potřebujeme je víc a víc . Ve škole se tohle vše naučíme , abychom se mohli od života učit dál .
+
+----------------
+
+Target hypothesis 2: 
+
+Dneska být vzdělaný je velmi důležité pro život člověka . Žiju v Americe a tam si bez vysoké školy těžko seženu pořádnou práci . Mám pár kamarádů , kteří se na to vykašlali , a od nich teď jen slyším , jak nadávají na sebe a na rodiče , že je tam nedonutili . Ve škole se učíme základ , bez kterého je velmi těžké pokračovat dál v životě . Můžu postavit dům bez základu , ale dlouho nevydrží stát . Přijde bouřka nebo nějaká vážná událost a bude to zcela jasné , že tam něco chybí . Přesně tak je to s tou školou . Hlavně teď , když se řítíme do budoucnosti , musíme dbát na to , aby se každý učil co nejvíc . Čím dál tím víc překračujeme hranice různých zemí a musíme umět cizí jazyky , znát nová pravidla , a chápat postoje lidí , se kterými musíme souhlasit . Bez těch informací se už dnes neobejdeme a potřebujeme je víc a víc . Ve škole se tohle vše naučíme , abychom se mohli od života učit dál .

@@ -1,0 +1,28 @@
+METADATA
+
+General:
+Author ID: 1395_0000599
+Test language: Italian
+CEFR level of test: A2
+Task : inform friends about language course - ID: 1395_010300
+Mother tongue: Polish
+Age: 30
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Cari amici,                                                                    5 agosto 2009 
+Siamo qui a Città X per seguire un corso di italiano. Ci piace molto; impariamo italiano con i ragazzi di diversi nazionalità. Quando siamo di riposo andiamo a visitare la città. Torniamo il lundì prossimo. 
+Tanti cari saluti, 
+Maria e Michele 

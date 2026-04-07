@@ -1,0 +1,48 @@
+METADATA
+
+General:
+Author ID: 1325_1001043
+Test language: Italian
+CEFR level of test: B2
+Task : describe experiences with language learning - ID: 1325_040300-1
+Mother tongue: Hungarian
+Age: 18
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: C1
+Vocabulary range: B2
+Vocabulary control: B2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Spettabile:
+Dipartimento di Linguistica Teorica e Appl.
+Università degli Studi di Pavia, Corso Strada Nuova, 65,
+27100 Pavia, Italia
+1 ottobre 2011
+Egregio Signora Favati,
+ho letto il Suo avviso e colgo l'occassione per aiutarLa.
+Ho cominciato a studiare l'inglese da bambina nella scuola elementare. Fortunamente ho superato all'esame e poi ho cominciato studiare la lingua francese nel liceo. Non avevo già l'esame di francese ma la seconda lingua è più facile, secondo me.
+Uso l'inglese quasi ogni giorno perchè questa lingue è la lingua più importante.
+Quando sono all'estero ognuno sono capace di capire e secondo me questo è molto buono. Scrivo a miei amici stranieri in inglese.
+Secondo me  la cosa più importante quando si studia una lingua è risolvere situazioni. Per esempio fare la shopping, prenotare biglietti, ordinare in una ristorante, chiedere un'aiuta, comunicare con gli altri.
+Cordiali saluti,
+Maria Rossi
+
+----------------
+
+Target hypothesis 1: 
+
+Spettabile : Dipartimento di Linguistica Teorica e Appl. Università degli Studi di Pavia , Corso Strada Nuova , 65 , 27100 Pavia , Italia 1 ottobre 2011 Egregia signora Favati , ho letto il Suo avviso e colgo l' occasione per aiutarLa . Ho cominciato a studiare l' inglese da bambina nella scuola elementare . Fortunamente ho superato l' esame e poi ho cominciato a studiare la lingua francese al liceo . Non avevo già l' esame di francese ma la seconda lingua è più facile , secondo me . Uso l' inglese quasi ogni giorno perché questa lingua è la lingua più importante . Quando sono all' estero ognuno è capace di capire e secondo me questo è molto buono . Scrivo ai miei amici stranieri in inglese . Secondo me la cosa più importante quando si studia una lingua è risolvere situazioni . Per esempio fare lo shopping , prenotare biglietti , ordinare in un ristorante , chiedere un aiuto , comunicare con gli altri . Cordiali saluti , Maria Rossi
+
+----------------
+
+No target hypothesis 2 available.
+

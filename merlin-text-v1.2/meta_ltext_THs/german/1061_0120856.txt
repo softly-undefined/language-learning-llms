@@ -1,0 +1,41 @@
+METADATA
+
+General:
+Author ID: 1061_0120856
+Test language: German
+CEFR level of test: B1
+Task : write a letter to a friend (birthday) - ID: 1061_170900
+Mother tongue: not reported
+Age: not reported
+Gender: not reported
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+                          12.03.12
+                           Stadt X
+Liebe Silke
+Wie geht es dir? Danke schön fur Ihr brief. Ich habe sehr gefreut von euch zu horen. uns gehts auch sehr gut. Ich hatte gern besuch komm aber moment ist ein bisschen schwere weil Stefan hat eingefangen ins mannschaft Fußball zur spielen und Jeden wochenende der hat eine punkte Spiel. Ich finde sehr schön das Max kümmert sich auf die Katze, Wir haben auch uberliegt eine haus tiere zu haben und eine Katze ist eine gute Idee. Für Geburtstag Wünsch Würde gut für uns zur treffen das ist eine gut Geburtstag geschenk.
+Bis bald
+Friedrich
+
+----------------
+
+Target hypothesis 1: 
+
+12.03.12 Stadt X Liebe Silke ! Wie geht es dir ? Danke schön für Ihren Brief . Ich habe mich sehr gefreut von euch zu hören . Uns geht's auch sehr gut . Ich war gern zu Besuch gekommen , aber im Moment ist es ein bisschen schwer , weil Stefan hat angefangen in einer Mannschaft Fußball zu spielen und jedes Wochenende hat er ein Punktespiel . Ich finde sehr schön , dass Max sich um die Katze kümmert . Wir haben auch überlegt Haustiere zu haben und eine Katze ist eine gute Idee . Als Geburtstagwunsch würde es gut für uns sein , uns zu treffen , das ist ein gutes Geburtstaggeschenk . Bis bald Friedrich
+
+----------------
+
+No target hypothesis 2 available.
+

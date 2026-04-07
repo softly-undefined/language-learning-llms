@@ -1,0 +1,31 @@
+METADATA
+
+General:
+Author ID: 1061_0120409
+Test language: German
+CEFR level of test: B1
+Task : write a letter to a friend (visit) - ID: 1061_130101
+Mother tongue: Polish
+Age: 25
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B2
+Vocabulary range: B1
+Vocabulary control: B2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B2
+
+----------------
+
+Learner text: 
+
+                                            Stadt X, den 05.03.2012
+Liebe Dana,
+vielen Dank, dass du zu mir aus Istanbul geschrieben hast.
+Ich freue mich sehr, dass du den Prüfung bestanden hast. Ich Gratuliere dir und wünsche viel Glück.
+Du kannst mir aus Istanbul ein Paar Fotos schicken. Ich möchte gern deinen Verwandten sehen und der Stadt wo sie wohnen. Kannst du mir noch schreiben wo sie Leben, weil ich wergessen habe. Ich besuche dich sehr gern, wenn du schon nach Hause zuruck gekommen bis. Ich freue mich schon, dass wir bald uns sehen.
+Ich wünsche dir noch schönen Urlaub Liebe Grüße für Dich und deinen Verwandten
+Katharina

@@ -1,0 +1,50 @@
+METADATA
+
+General:
+Author ID: 1325_9000322
+Test language: Italian
+CEFR level of test: B2
+Task : inform oneself about an aid project - ID: 1325_010300-1
+Mother tongue: German
+Age: 40
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B2
+Orthography: C1
+Vocabulary range: B2
+Vocabulary control: B2
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+ Maria Rossi
+Strada Maggiore
+12345 Città X
+Solidarietà Viva                                                                               18 giugno 2011
+Viale Bruzzi 117
+21023 Milano
+Oggetto: Il Vostro campo d'estate
+Spettabile Solidarietà Viva
+in riferimento al vostro annuncio apparso nel giornale "Nature One" il 10 giugno 2011 mi interesse al lavoro che offrite perché sono del parere che la natura sia una cosa importantissima a fare attenzione a. Io trovo benissimo che il denaro guadagnato sia usato per finanziare progetti di sviluppo in paesi come l'Africa, l'Asia o l'America latina. Per questi motivi vorrei fare domanda per il vostro campo. Vorrei presentarmi in breve e darVi alcuni informazioni sulla mia persona. 
+Ho 40 anni, sono nubile, senza figli e abito vicino a Città X. Lavoro come impiegata commerciale presso una dittà che produce vetro speciale.
+Per quanto riguarda il periodo del lavoro sarei libera dal 1 luglio al 1 agosto. 
+Vi sarei gradita se poteste inviarmi qualche ulteriore informazione su i Vostri progetti.  
+Nell'augurarmi se prendiate in considerazione il mio aiuto Vi porgo i miei più distinti saluti.
+Vi sarei anche       
+
+----------------
+
+Target hypothesis 1: 
+
+Maria Rossi Strada Maggiore 12345 Città X Solidarietà Viva 18 giugno 2011 Viale Bruzzi 117 21023 Milano Oggetto : Il Vostro campo d' estate Spettabile Solidarietà Viva , in riferimento al vostro annuncio apparso nel giornale " Nature One " il 10 giugno 2011 mi interessa il lavoro che offrite perché sono del parere che la natura sia una cosa importantissima a cui fare attenzione . Io trovo buonissimo che il denaro guadagnato sia usato per finanziare progetti di sviluppo in paesi come l' Africa , l' Asia o l' America latina . Per questi motivi vorrei fare domanda per il vostro campo . Vorrei presentarmi in breve e darVi alcune informazioni sulla mia persona . Ho 40 anni , sono nubile , senza figli e abito vicino a Città X . Lavoro come impiegata commerciale presso una ditta che produce vetro speciale . Per quanto riguarda il periodo del lavoro , sarei libera dal 1 luglio al 1 agosto . Vi sarei gradita se poteste inviarmi qualche ulteriore informazione sui Vostri progetti . Nell' augurarmi che prendiate in considerazione il mio aiuto Vi porgo i miei più distinti saluti . Vi sarei anche
+
+----------------
+
+Target hypothesis 2: 
+
+Maria Rossi Strada Maggiore 12345 Città X Solidarietà Viva 18 giugno 2011 Viale Bruzzi 117 21023 Milano Oggetto : Il Vostro campo d' estate Spettabile Solidarietà Viva , in riferimento al vostro annuncio apparso nel giornale " Nature One " il 10 giugno 2011 mi interessa il lavoro che offrite perché sono del parere che la natura sia una cosa importantissima a cui fare attenzione . Io trovo buonissimo che il denaro guadagnato sia usato per finanziare progetti di sviluppo in paesi come l' Africa , l' Asia o l' America latina . Per questi motivi vorrei fare domanda per il vostro campo . Vorrei presentarmi in breve e darVi alcune informazioni sulla mia persona . Ho 40 anni , sono nubile , senza figli e abito vicino a Città X . Lavoro come impiegata commerciale presso una ditta che produce vetro speciale . Per quanto riguarda il periodo del lavoro , sarei libera dal 1 luglio al 1 agosto . Vi sarei grata se poteste inviarmi qualche ulteriore informazione sui Vostri progetti . Nell' augurarmi che prendiate in considerazione il mio aiuto Vi porgo i miei più distinti saluti . Vi sarei anche

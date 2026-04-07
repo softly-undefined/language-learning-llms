@@ -1,0 +1,33 @@
+METADATA
+
+General:
+Author ID: 1071_0024758
+Test language: German
+CEFR level of test: A1
+Task : congratulate to birth of child - ID: 1071_030101
+Mother tongue: not reported
+Age: 32
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B2
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Hallo Ingo,
+wie gehts es dir?
+Also, habe ich eine Arbeit in Neuburg gefunden und am 15.07.2012 ist meine erste Tag in die Firma. Aber habe ich ein Problem. Ich brauche dort eine Wohnung. 
+Könntest du bitte mir bei der Wohnungssuche hilfen?
+Ich brauchen ca. 75 m² Wohnung mit 2 Zimmer, Bad, Kuche, toilette und garage.
+Ich rufe dich noch mal an.
+Vielen Dank für  deine Hilfe!
+Vielen Gruße,
+Eva

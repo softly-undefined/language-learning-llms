@@ -1,0 +1,29 @@
+METADATA
+
+General:
+Author ID: 1061_0120288
+Test language: German
+CEFR level of test: B1
+Task : write a letter to a friend (birthday) - ID: 1061_170900
+Mother tongue: not reported
+Age: 40
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: A2
+Orthography: B2
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+                                 Stadt X, den 27.02.2012
+Lieber Silke,
+ich habe dein Brief bekommet und habe ich schon gelesen. Ich bin gut und mein Mann unde meine Kinder auch gut sind. Ich komme bei dir unbedingt, weil du ja auch bald Geburtstag hast. Was wünschst du zum Geburtstag. Gibst du mir bitte ein Tipp. Telefonisch. Ich wollte bei dir paar Tage besuch bleiben. Ich bringe mein Katze mit, weil mein Sohn Katze mag.
+Hoffentlich bis bald
+Katharina

@@ -1,0 +1,45 @@
+METADATA
+
+General:
+Author ID: 0721
+Test language: Czech
+CEFR level of test: B1
+Task : answer to the email of Alena - ID: 1_Alena
+Mother tongue: German
+Age: not reported
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B2
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+16.07.2007
+Ahoj Aleno,
+děkuji Ti mockrát za tvůj e-mail. Je mi lito, že jsem nepsal dlouho. Mám se velmi dobře, ale mám moc práce. Studium je dobře. Nepracuju na diplomce, ale pišu seminární práci, která musím odevzdat přiští týden Plánuju dovolenou po létě. Chtěl bych cestovat po Evropě.
+Těsím se, že přijděs brzo do Drážďan. Chtěla  bys přijed k mně odpoledne. Co říkaš?
+Kdy bude přijet vlakem na nadraži. Muzu tě dojit. Napsala jsi, zě jsi našla zajímavý inzerát. Mužeš mi ho poslat?
+Kdy začiná kurzy češtiny a kolik ji stojí? V létě bych měl  čas a těsil  bych, kdybychom uvidime.
+Bohužel musím ukončit psaní ale musím pracovat na seminární práci.
+Mej se dobře a zatím ahoj.
+
+Tvůj David
+
+----------------
+
+Target hypothesis 1: 
+
+16.07.2007 Ahoj Aleno , děkuji Ti mockrát za Tvůj e-mail . Je mi líto , že jsem nepsal dlouho . Mám se velmi dobře , ale mám moc práce . Studium je dobré . Nepracuju na diplomce , ale píšu seminární práci , kterou musím odevzdat příští týden . Plánuju dovolenou po létě . Chtěl bych cestovat po Evropě . Těším se , že přijdeš brzo do Drážďan . Chtěla bys ke mně přijet odpoledne ? Co říkáš ? Kdy přijede vlak na nádraží ? Můžu pro Tebe dojít . Napsala jsi , že jsi našla zajímavý inzerát . Můžeš mi ho poslat ? Kdy začíná kurz češtiny a kolik to stojí ? V létě bych měl čas a těšil bych se , kdybychom se uviděli . Bohužel musím ukončit psaní a musím pracovat na seminární práci . Měj se dobře a zatím ahoj . Tvůj David
+
+----------------
+
+No target hypothesis 2 available.
+

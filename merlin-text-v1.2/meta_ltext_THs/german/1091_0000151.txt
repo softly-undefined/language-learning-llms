@@ -1,0 +1,41 @@
+METADATA
+
+General:
+Author ID: 1091_0000151
+Test language: German
+CEFR level of test: A2
+Task : letter to housing office - ID: 1091_0610301
+Mother tongue: Arabic
+Age: not reported
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A1
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A1
+Coherence/Cohesion: A1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+19.01.12
+Sehr geheert Damen und Herren:
+Ich suche dringed große Wohnung mit Balkon, 3 bis 4 Zimmer weil ich habe zwei Kinder. Ich betzal die Miete bis 800 Euro warm
+Mit Freundlich
+Meier
+
+----------------
+
+Target hypothesis 1: 
+
+19.01.12 Sehr geehrte Damen und Herren : Ich suche dringend eine große Wohnung mit Balkon , 3 bis 4 Zimmer , weil ich habe zwei Kinder . Ich bezahle die Miete bis 800 Euro warm . Mit freundlichen Grüßen Meier
+
+----------------
+
+Target hypothesis 2: 
+
+19.01.12 Sehr geehrte Damen und Herren , ich suche dringend eine große Wohnung mit Balkon und 3 bis 4 Zimmern , weil ich zwei Kinder habe . Ich kann eine Miete bis 800 Euro warm bezahlen . Mit freundlichen Grüßen Meier

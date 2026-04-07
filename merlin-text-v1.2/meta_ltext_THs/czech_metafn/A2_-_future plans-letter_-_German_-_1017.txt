@@ -1,0 +1,42 @@
+METADATA
+
+General:
+Author ID: 1017
+Test language: Czech
+CEFR level of test: B1
+Task :  - ID: 3_Jana
+Mother tongue: German
+Age: not reported
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Ahoj, Jano,
+děkuju ti za tvůj email. Těšim se psala jsi . Ta novinka je zajímava. Jaké obor chtěla bys studovat v Praze? Jsem moc štastna že budu brzo končit mé studium  Po ukončení studia planuju staze v nejakou firmy v Praze. Chtěla bych zlepšovat moje znalosti jazyky češtinu. Jaký libiš se ti ten kurs anglický? Chtěla bych  vědět, zda je tam nějaké kursy češtiní. v letos? Chtěla bych přijit  do Brno s tím uvidime  častěji.
+Momentalní nemám nějaké  plány na léto, ale doufám že budu dobré počasi.
+Můžeš mi, prosím ti, poslat odkazu na  webovou stranu ? školem? To by bylo fajn. Budu poslat někteří hezké fotky  vyletem s Thomasem. Byla hezký den. Mám radost že brzo se uvidime
+Měj se krasne
+ Martina
+
+----------------
+
+Target hypothesis 1: 
+
+Ahoj , Jano , děkuju ti za tvůj e-mail . Těší mě , že jsi napsala . Ta novinka je zajímavá . Jaký obor bys chtěla studovat v Praze ? Jsem moc šťastná , že budu brzo končit své studium . Po ukončení studia plánuju stáž v nějaké firmě v Praze . Chtěla bych zlepšovat své znalosti jazyka češtiny . Jak se ti líbí ten anglický kurs ? Chtěla bych vědět , zda jsou tam nějaké kursy češtiny letos ? Chtěla bych přijít do Brna , uvidíme se častěji . Momentálně nemám žádné plány na léto , ale doufám , že bude dobré počasí . Můžeš mi , prosím tě , poslat odkaz na webovou stranu školy ? To by bylo fajn . Budu posílat některé hezké fotky z výletu s Thomasem . Byl hezký den . Mám radost , že se brzo uvidíme . Měj se krásně , Martina
+
+----------------
+
+Target hypothesis 2: 
+
+Ahoj , Jano , děkuju ti za tvůj e-mail . Těší mě , že jsi napsala . Ta novinka je zajímavá . Jaký obor bys chtěla studovat v Praze ? Jsem moc šťastná , že budu brzo končit své studium . Po ukončení studia plánuju stáž v nějaké firmě v Praze . Chtěla bych zlepšovat své znalosti jazyka češtiny . Jak se ti líbí ten anglický kurs ? Chtěla bych vědět , zda jsou tam nějaké kursy češtiny letos ? Chtěla bych přijít do Brna , uvidíme se častěji . Momentálně nemám žádné plány na léto , ale doufám , že bude dobré počasí . Můžeš mi , prosím tě , poslat odkaz na webovou stránku školy ? To by bylo fajn . Budu posílat některé hezké fotky z výletu s Thomasem . Byl hezký den . Mám radost , že se brzo uvidíme . Měj se krásně , Martina

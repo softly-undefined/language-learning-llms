@@ -1,0 +1,39 @@
+METADATA
+
+General:
+Author ID: PHA0811016
+Test language: Czech
+CEFR level of test: B2
+Task : write an essay: No pain no gain - ID: B2PS0202_kolace
+Mother tongue: Other
+Age: 1519
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B2
+Vocabulary control: B2
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Bez práce nejsou koláče. To znamená že nikdo nic nedostané za darmo. Ne jenom peníze, jídlo nebo věci co chcéme a potřebujéme ale práce taky potrebuje "práce". To znamená že všichny musíme se snažit y pro věci co nemáme ráda abychom jsme dokonci dostalí co chcéme.
+Na přiklad mali ďiťemusí se snažit řict že něco chce aby se to dostalo. Student musí se účit abych dostal na univezitu kterou chcė. Sportovce musej trenovat abychom vyhráli a dostáli penize. Tak, obicejnej člověk musí prácovat abych si mohl žit jak chce.
+Ve fráze "bez práce nejsou koláče", práce je to studováni, to trenováni a to všechno co člověk děla aby mohl žit nebo aby si dostal to co potřebuje/chcé. Ten "koláce muže byt peníze, jídlo, práce a známená ten "darek" co jsme dostali na to pracováni.
+Ta fráze existuze skoro ve všech jazyku. To asi znamená že je pravďivá. Tak všichny musime se snážit (prácovat) pro lépši život!
+
+----------------
+
+Target hypothesis 1: 
+
+Bez práce nejsou koláče . To znamená , že nikdo nic nedostane zadarmo . Nejenom peníze , jídlo nebo věci , co chceme a potřebujeme , ale práce taky potřebuje " práci " . To znamená , že se všichni musíme snažit i ve věcech , co nemáme rádi , abychom dokonce dostali , co chceme . Na příklad malé dítě se musí snažit říct , že něco chce , aby to dostalo . Student se musí učit , aby se dostal na univerzitu , kterou chce . Sportovci musejí trénovat , aby vyhráli a dostali peníze . Obyčejný člověk musí pracovat , aby si mohl žít , jak chce . Ve frázi " bez práce nejsou koláče " je práce to studování , to trénování a to všechno , co člověk dělá , aby mohl žít , nebo aby dostal to , co potřebuje / chce . Ty " koláče " můžou být peníze , jídlo , práce a znamená to " dárek " , co jsme dostali na to pracování . Ta fráze existuje skoro ve všech jazycích . To asi znamená , že je pravdivá . Tak se všichni musíme snažit ( pracovat ) pro lepší život !
+
+----------------
+
+No target hypothesis 2 available.
+

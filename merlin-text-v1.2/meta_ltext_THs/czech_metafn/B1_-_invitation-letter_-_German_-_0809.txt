@@ -1,0 +1,40 @@
+METADATA
+
+General:
+Author ID: 0809
+Test language: Czech
+CEFR level of test: B1
+Task : answer to the email of Alena - ID: 1_Alena
+Mother tongue: German
+Age: not reported
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Ahoj Aleno!
+Jak se máš?
+Mám se moc dobře protože mám dovolenou. Ale jen dva týdni. Potom už chci pracovat na diplomce. Ještě nemám svou tému. Brzo se setkám se svým profesorem. Už se těšim na diplomku. O dovolené budu jet do Rakouska. Budu tam dělat pěší túry. Ale 13. 13. dubna ještě budu doma v Drážďanech Y a moc se těším, co přijedeš. Kdy dudeš na nádrazi ? Půjdu pro tebe a spolu pojedeme ke mně domů. Moje maminka konečně chce tě poznávat a už se těší. 
+Můžeš mi poslat ten inzerát? Je to zajímavé pro mne. Kdy se koná prázdninový kurz a kolik to stojí? Moc ráda přijedu k tobě v létě. 
+Uvidíme se v patku. Zatím ahoj, Dana
+
+----------------
+
+Target hypothesis 1: 
+
+Ahoj Aleno ! Jak se máš ? Mám se moc dobře , protože mám dovolenou . Ale jen dva týdny . Potom už chci pracovat na diplomce . Ještě nemám své téma . Brzo se setkám se svým profesorem . Už se těším na diplomku . O dovolené pojedu do Rakouska . Budu tam dělat pěší túry . Ale 13. dubna ještě budu doma v Drážďanech a moc se těším , až přijedeš . Kdy budeš na nádraží ? Půjdu pro tebe a spolu pojedeme ke mně domů . Moje maminka tě chce konečně poznat a už se těší . Můžeš mi poslat ten inzerát ? Je to pro mne zajímavé . Kdy se koná prázdninový kurz a kolik to stojí ? Moc ráda přijedu k tobě v létě . Uvidíme se v pátek . Zatím ahoj , Dana
+
+----------------
+
+No target hypothesis 2 available.
+

@@ -1,0 +1,42 @@
+METADATA
+
+General:
+Author ID: 1061_0120375
+Test language: German
+CEFR level of test: B1
+Task : write a letter to a friend (birthday) - ID: 1061_170900
+Mother tongue: Spanish
+Age: 37
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Lieber Silke,
+Ich froeue mich du und deine Fannilia sind gut, und deine Kinders sind gesud, ich finde eine gute ide von Max eine Katze huben, und Ana im Kindergarde anfangen ist sehr schwirrig, kümmerst, arbeiten serr Viel ist überal,
+Danke hast du gedacht bei meine Guburtag, duch habe ich eine wüche mit deine familliu Feiern. meine Gebustug.
+Leider kann ich nicht zu dir kummem in disses Jahr. zu besuchen, 
+Ich wüche. dir und deine Famillia alles gute.
+Viele Gruße.
+Tobias
+
+----------------
+
+Target hypothesis 1: 
+
+Liebe Silke , ich freue mich , du und deine Familie sind gut , und deine Kinder sind gesund . Ich finde es eine gute Idee von Max , eine Katze zu haben , und mit Ana im Kindergarten anzufangen ist sehr schwierig , du kümmerst dich , arbeitest sehr viel , bist überall . Danke , du hast an meinen Geburtstag gedacht , doch ich habe einen Wunsch , mit deiner Familie meinen Geburtstag zu feiern . Leider kann ich in diesem Jahr nicht zu dir zu Besuch kommen . Ich wünsche dir und deiner Familie alles Gute . Viele Grüße . Tobias
+
+----------------
+
+No target hypothesis 2 available.
+

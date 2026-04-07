@@ -1,0 +1,30 @@
+METADATA
+
+General:
+Author ID: 1385_0001126
+Test language: Italian
+CEFR level of test: A1
+Task : reschedule an appointment - ID: 1385_020100
+Mother tongue: Polish
+Age: 49
+Gender: female
+
+Rating:
+Overall CEFR rating: A1
+Grammatical accuracy: A1
+Orthography: A2
+Vocabulary range: A1
+Vocabulary control: A1
+Coherence/Cohesion: A1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Caro Daniele, Mi dispiace
+I non spiegare a giovedi pomeriggio perche c'è molto lavoro in ufficio.
+Incontriamo sabato sera, e andiamo in pizzeria
+come stai?
+Tu baccio
+Michele

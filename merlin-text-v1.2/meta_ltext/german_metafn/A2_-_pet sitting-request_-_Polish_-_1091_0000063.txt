@@ -1,0 +1,31 @@
+METADATA
+
+General:
+Author ID: 1091_0000063
+Test language: German
+CEFR level of test: A2
+Task : ask friend to take care of pet - ID: 1091_0650102
+Mother tongue: Polish
+Age: 41
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+                            Stadt X, 06.01.2012
+Liebe Maria
+am Samstag um 14 Uhr. nachmitag flige ich nach Polen.
+Können Sie bitte meine Katze füttern.
+Ich werfe Meinen Schlüssel ich Ihren brifkasten. Am Freitag bin ich zurück. Monika bytte dier nicht fergesen.
+Danke für Ihre Hilfe. 
+Mit freundlichen Grüßen.

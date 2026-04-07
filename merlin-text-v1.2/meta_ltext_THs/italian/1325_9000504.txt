@@ -1,0 +1,50 @@
+METADATA
+
+General:
+Author ID: 1325_9000504
+Test language: Italian
+CEFR level of test: B2
+Task : apply for internship in company - ID: 1325_020400-1
+Mother tongue: Polish
+Age: 39
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B2
+Orthography: C1
+Vocabulary range: B2
+Vocabulary control: B2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Maria Rossi                                                                                            il 17 aprile 2010
+Strada Maggiore 4/66
+12345 Città X 
+                                                         Valtour - viaggi e vacanze
+                                                         Via F. Redi 3 
+                                                         Sinalunga (SI) 
+                                                         ITALIA 
+In risposta al vostro annuncio voglio presentarmi e chiedere della possibilità di fare uno stage o un tirocinio nella vostra società. Vorrei lavorare nell'agenzia dei viaggi perché sono educata in questa facoltà. 
+Ho finito l'Università due anni fa. Studiavo le scienze culturale alla specializzazione "l'arte e il turismo" all'Università di Università X a Città X. Ho fatto anche un corso dei guidi turistici. Parlo le lingue straniere: l'inglese, l'italiano, il francese. 
+Mi piace viaggiare, conoscere altri paesi e le sue culture, mi piacerebbe conoscere sempre le persone nuove. 
+Mi piacerebbe anche fare le nuove esperienze professionale, ci tengo molto. 
+L'anno scorso ho fatto un tirocinio nell'agenzia dei viaggi "Logostour" che si trova a Città X. Adesso avrei la voglia fare lo stage nell'agenzia "Valtour" in Italia. 
+In caso della vostra risposta positiva, vi prego del contatto. 
+Con il rispetto
+   Maria Rossi                                                                                              
+
+----------------
+
+Target hypothesis 1: 
+
+Maria Rossi il 17 aprile 2010 Strada Maggiore 4 / 66 12345 Città X Valtour - viaggi e vacanze Via F . Redi 3 Sinalunga ( SI ) ITALIA In risposta al vostro annuncio voglio presentarmi e chiedere della possibilità di fare uno stage o un tirocinio nella vostra società . Vorrei lavorare nell' agenzia di viaggi perché sono stata educata in questa facoltà . Ho finito l' Università due anni fa . Studiavo scienze culturali con specializzazione " l' arte e il turismo " all' Università di Università X a Città X . Ho fatto anche un corso di guida turistica . Parlo le lingue straniere : l' inglese , l' italiano , il francese . Mi piace viaggiare , conoscere altri paesi e le loro culture , mi piacerebbe conoscere sempre nuove persone . Mi piacerebbe anche fare nuove esperienze professionali ; ci tengo molto . L' anno scorso ho fatto un tirocinio nell' agenzia di viaggi " Logostour " che si trova a Città X . Adesso avrei voglia di fare lo stage nell' agenzia " Valtour " in Italia . In caso di vostra risposta positiva , vi prego di contattarmi . Con il rispetto Maria Rossi
+
+----------------
+
+No target hypothesis 2 available.
+

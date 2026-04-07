@@ -1,0 +1,42 @@
+METADATA
+
+General:
+Author ID: 1395_0001115
+Test language: Italian
+CEFR level of test: A2
+Task : go see a friend - ID: 1395_040101
+Mother tongue: German
+Age: 17
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+                                                                       9 luglio 2011 
+Carissimo Alessandro, 
+come stai? Mia madre e io stiamo molto bene. Spero che la tua familia anche sta bene. Mi piacerebbe rivederti presto. Forse possiamo incontrarci questo mese perché abbiamo vacanze estive.
+Che cosa pensi di trovarci fra due settimane per cinque giorni?
+Sono certa che c'é un sacco di cose da fare insieme, per esempio andare in discoteca. Hai una idea che ancora potremmo fare? 
+Ciao e a presto
+Maria
+
+----------------
+
+Target hypothesis 1: 
+
+9 luglio 2011 Carissimo Alessandro , come stai ? Mia madre e io stiamo molto bene . Spero che anche la tua famiglia stia bene . Mi piacerebbe rivederti presto . Forse possiamo incontrarci questo mese perché abbiamo vacanze estive . Che cosa pensi di trovarci fra due settimane per cinque giorni ? Sono certa che c' è un sacco di cose da fare insieme , per esempio andare in discoteca . Hai una idea che ancora potremmo fare ? Ciao e a presto Maria
+
+----------------
+
+No target hypothesis 2 available.
+

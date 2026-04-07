@@ -1,0 +1,47 @@
+METADATA
+
+General:
+Author ID: 0633
+Test language: Czech
+CEFR level of test: B1
+Task : answer to the email of Alena - ID: 1_Alena
+Mother tongue: Polish
+Age: not reported
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B2
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+19. července 2006 
+Ahoj Mileno! 
+Děkuji Ti mockrát za Tvůj email. Už jsem Ti dlouho nepsala, protože jsem byla nemocna, a par dní jsem ležela. 
+Byla jsem u doktora po tabletky, a už jsem zdrava. Srdečne Ti dekuju za Tve pozvání na grilovací party. bohužel budu mět dovolená v praci i nemůžu přijet. Ale 27. 8 se uvídíme! Češim se na vašou svatbu! Co   chtite dostat na tou slavnost? Pokud potřebuješ s nečim pomoct,  ozvi se. 
+Ano, budu přišti týden v Dražďanech, a rada se s Tebou setkam. Mam čas v sredu v 16 hodin. Budu na Tebe čekat v restauraci "Mango" u supermarketu. Odpovída Ti to? 
+Odpověz brzy, gdyž budu tam rezervovat stůl pro 2 osoby na 2 hodiny. Dobře? 
+Ještě jsem se  chtěla zeptat, znaš nejakou dobrou českou gramatiku? 
+Mužeš mi ji koupit? Ja Ti jí samozřejmě zaplatím! 
+Pro dnešek koncim. 
+Pozdravuj všechny a hlavně Petra!
+Ahoj! 
+Tvoja Markéta
+
+----------------
+
+Target hypothesis 1: 
+
+19. července 2006 Ahoj Mileno ! Děkuji Ti mockrát za Tvůj e-mail . Už jsem Ti dlouho nepsala , protože jsem byla nemocná a pár dní jsem ležela . Byla jsem u doktora pro tabletky a už jsem zdravá . Srdečně Ti děkuju za Tvé pozvání na grilovací party . Bohužel budu mít dovolenou v práci a nemůžu přijet . Ale 27.8. se uvídíme ! Těším se na Vaši svatbu ! Co chcete dostat na tu slavnost ? Pokud potřebuješ s něčím pomoct , ozvi se . Ano , budu příští týden v Drážďanech a ráda se s Tebou setkám . Mám čas ve středu v 16 hodin . Budu na Tebe čekat v restauraci " Mango " u supermarketu . Odpovídá Ti to ? Odpověz brzy , když tam budu rezervovat stůl pro 2 osoby na 2 hodiny . Dobře ? Ještě jsem se chtěla zeptat , znáš nějakou dobrou českou gramatiku ? Můžeš mi ji koupit ? Já Ti ji samozřejmě zaplatím ! Pro dnešek končím . Pozdravuj všechny a hlavně Petra ! Ahoj ! Tvoje Markéta
+
+----------------
+
+No target hypothesis 2 available.
+

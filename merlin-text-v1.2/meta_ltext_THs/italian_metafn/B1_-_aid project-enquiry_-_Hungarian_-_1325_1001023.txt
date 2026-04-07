@@ -1,0 +1,45 @@
+METADATA
+
+General:
+Author ID: 1325_1001023
+Test language: Italian
+CEFR level of test: B2
+Task : inform oneself about an aid project - ID: 1325_030300-1
+Mother tongue: Hungarian
+Age: 18
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: C1
+Vocabulary range: B2
+Vocabulary control: B2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Egregi Signori,
+ho letto un annuncio sul giornale e adesso Gli scrivo perchè vorrei chiedere informazioni:
+Se voglio dire la verità io ho diciotto anni, ma voglio lavorare in America latina, perchè vorrei imparare la lingua. Aiuto volentieri, se qualcuno ha un problema.
+Purtroppo non ho molto tempo libero, perchè devo studiare molto, perciò se c'è possibilità vorrei andare in agosto. Cosa é necessario esattamente per lavorare?
+Che cosa fará esattamente? Quanto costa il questo viaggio?
+Naturalmente voglio sapere che sará il salario? Perché se no, purtroppo non posso pagare per il questo, adesso non ho lavoro per questo non ho soldi e miei genitori non li piace che vorrei viaggiare. Mi  scusi, ma devo sapere tutto Allora se c'è possibilità voglio andare dalle 3 agosto alle 13 agosto.
+Naturalmente se Lei offre qualcosa leggeró volentieri.
+La mia amica può venire con me? Veramente non abbiamo mai lavorato in un campo di lavoro. Aspetto la Sua lettera!
+Cordiali saluti:
+Maria Rossi 
+
+----------------
+
+Target hypothesis 1: 
+
+Egregi signori , ho letto un annuncio sul giornale e adesso gli scrivo perché vorrei chiedere delle informazioni : se voglio dire la verità io ho diciotto anni , ma voglio lavorare in America Latina , perché vorrei imparare la lingua . Aiuto volentieri , se qualcuno ha un problema . Purtroppo non ho molto tempo libero perché devo studiare molto , perciò se c' è la possibilità vorrei andare in agosto . Cosa è necessario esattamente per lavorare ? Che cosa farà esattamente ? Quanto costa il viaggio ? Naturalmente voglio sapere se ci sarà il salario . Perché se no , purtroppo non posso pagare per questo , adesso non ho lavoro per questo non ho soldi e ai miei genitori non piace che vorrei viaggiare . Mi scusi , ma devo sapere tutto . Allora se c' è la possibilità voglio andare dal 3 agosto al 13 agosto . Naturalmente se Lei offre qualcosa leggerò volentieri . La mia amica può venire con me ? Veramente non abbiamo mai lavorato in un campo di lavoro . Aspetto la Sua lettera ! Cordiali saluti , Maria Rossi
+
+----------------
+
+No target hypothesis 2 available.
+

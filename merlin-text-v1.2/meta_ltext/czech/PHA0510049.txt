@@ -1,0 +1,28 @@
+METADATA
+
+General:
+Author ID: PHA0510049
+Test language: Czech
+CEFR level of test: B2
+Task : write an essay: Clothes make the man - ID: B2PS0201_saty
+Mother tongue: Russian
+Age: 1519
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B2
+Orthography: B2
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Šaty dělají člověka
+Vzdy, když se s nějakým neznámým člověkem seznámíme, nejdřív daváme pozor na to, jak on vypádá. Většina lidí by měla ráda raději pana v obleku, než  v nějakém sportovním oblečení. 
+Myslím, že vzhled musí být jednou z prvních věcí, o kter by se každy měl zamyslet. Nedavno jsem četl v novinach, že jeden český politik, jmeno kterého jsem zapoměl, řekl, že nejezdí metrem, protože může tam potkat lidé ve špínavém oblečení. Jako politik by on neměl tak řict, ale on má pravdu, že nějací spolucestující občas dělají nasi cestu nepříjemnou. 
+Jako závěr chtel bych řict, že žádný oblek neuděla Vás hodným čili lepším, než Vý jste. 

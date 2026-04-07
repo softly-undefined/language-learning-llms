@@ -1,0 +1,30 @@
+METADATA
+
+General:
+Author ID: 1061_0120358
+Test language: German
+CEFR level of test: B1
+Task : write a letter to a friend (birthday) - ID: 1061_170900
+Mother tongue: English
+Age: 22
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+                                                            28/2/2012
+                                                            Stadt X
+Liebe Silke
+Gestern habe ich deine brief bekommen. Mir geht ist gut, meine familie auch. Ich gratuliert max zum er geburtstag hat, finde ich ihr geschenkt ganz Toll. Es ist Sehr Schon dass, Ann Schon in der Kindergarten gegangen ist. Ich mochte gern bei dir besuche weil ich alle so lange nicht gesehe. Am näschte Wochenede möchte ich bie dir komme. Ich habe keine wünsche zu meine geburtstag obwohl ich dich eine gute geschenk gibst weiss. Danke für deinen brief, Bis bald
+Mit freundlichen Grüßen
+Julia

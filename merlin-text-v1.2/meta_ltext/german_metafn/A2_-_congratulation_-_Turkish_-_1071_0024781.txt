@@ -1,0 +1,30 @@
+METADATA
+
+General:
+Author ID: 1071_0024781
+Test language: German
+CEFR level of test: A1
+Task : congratulate to birth of child - ID: 1071_030101
+Mother tongue: Turkish
+Age: 24
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A1
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+                                      Stadt X, 26.04.12
+Hallo Liebe Maria
+wie geht es dir? was machst du? wie lange seit nicht sehen. Bist du glüclich. wann ist deine Kinder sein. Ist deine Kinder sohn oder Tochter. Was ist dein Kinder Name. Wie geht es dein Mutter und deine Kinder. Wo ist deine Kinder geburst. Küsst du für mich deine Kinder.
+Tschüs
+Liebe Grüße
+Friedrich Meier

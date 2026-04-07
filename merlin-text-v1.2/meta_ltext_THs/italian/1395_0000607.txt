@@ -1,0 +1,43 @@
+METADATA
+
+General:
+Author ID: 1395_0000607
+Test language: Italian
+CEFR level of test: A2
+Task : inform friends about language course - ID: 1395_010300
+Mother tongue: French
+Age: 55
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: A1
+Vocabulary control: A1
+Coherence/Cohesion: A1
+Sociolinguistic appropriateness: A1
+
+----------------
+
+Learner text: 
+
+Città X, 12 gennaio 2010
+                     Cara clara, Caro tino,  
+sono in Italia e sto facendo un corso di Italiano. Mi insegnante è Angelica abita a Città X, parla multò bene della citta i quando non c'è lezione, vado visitare i musei, la Monumento X. 
+Ritorno la settimana corsa in Francia,      
+                  Bacio, cio Amici
+La Tua Amica, 
+                       Maria
+
+----------------
+
+Target hypothesis 1: 
+
+Città X , 12 gennaio 2010 Cara Clara , caro Tino , sono in Italia e sto facendo un corso di italiano . La mia insegnante è Angelica , abita a Città X e parla molto bene della città . Quando non c' è lezione , vado a visitare i musei e la Monumento X . Ritorno la settimana scorsa in Francia . Un bacio , ciao amici . La tua amica Maria
+
+----------------
+
+Target hypothesis 2: 
+
+Città X , 12 gennaio 2010 Cara Clara , caro Tino , sono in Italia e sto facendo un corso di italiano . La mia insegnante è Angelica , abita a Città X e parla molto bene della città . Quando non c' è lezione , vado a visitare i musei e la Monumento X . Ritorno la settimana prossima in Francia . Un bacio , ciao amici . La vostra amica Maria

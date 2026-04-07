@@ -1,0 +1,41 @@
+METADATA
+
+General:
+Author ID: VAR0910009
+Test language: Czech
+CEFR level of test: B2
+Task : write an essay: Clothes make the man - ID: B2PS0201_saty
+Mother tongue: Polish
+Age: 2029
+Gender: female
+
+Rating:
+Overall CEFR rating: B2
+Grammatical accuracy: B2
+Orthography: B1
+Vocabulary range: B2
+Vocabulary control: B2
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Velá prísloví nese obrovský kus pravdy - avšak neměli bychom věřit všem. Přísloví ,,šaty dělají člověka" je podle mého nazoru víc lží jako pravda. 
+V naše společností eqzistují úrčité normy hovní a jedna z takových norem řiká, že bychom měly dávat na sebe konkretní druh šatů vkonkretní životní situace. Tak máme společenská oblečení, sportovní oblečení, prazdninové oblečení. To, jaké oblečení si oblečeme udělo z nas jistý druh člověka: pracovníka, sportovec aj dokonce lufťaka. 
+Jenom jestli to je vše? Jesti ty šaty opravdu udělaly nas člověkem? Myslím si, že ne. To, jestli jsme opravdivý pracovník - člověk, který děla důsledné svou prácí - zaleží jenom na nás. Přesně řečeno - na našem vnitřním pocitů a rozhodnutí. Neveřím tomu, že pouhým obleknutím uniformy někdo se dokáže v jedném okamžíku stát profesorem nebo policistou. V uniformě se može jenom tvařit jako policista nebo profesor. To, jakým člověkem jsme zavisí jenom na nás. 
+Na druhé straně samozřejmě můžeme použivt  oblečení abychom davali najevo jaky je náš postoj k životu, jaký je náš řebřiček hodnot, co máme radí a co ne, s cím souhlasíme a co nás zlobí. Mužeme to dělat na příklad pomocí triček na kterých jsou nalepená hesla nebo vzkazy. Šaty nám taký pomahají udržet sebevedomí- citíme se líp a smělej když máme na sebe něco v cím se citíme dobře a co nám sluší. 
+Rozhodně neměli bychom brát přisloví ,,šaty dělají člověka" až doslová važně. Šaty mužou pomoct urobit člověka, ale stát se ním mužeme jenom vlastním rozhodnutím a prácí. 
+
+----------------
+
+Target hypothesis 1: 
+
+Velké přísloví nese obrovský kus pravdy - avšak neměli bychom věřit všem . Přísloví " šaty dělají člověka " je podle mého názoru víc lží než pravdou . V naší společnosti existují určité normy chování a jedna z takových norem říká , že bychom měli dávat na sebe konkrétní druh šatů v konkrétní životní situaci . Tak máme společenská oblečení , sportovní oblečení , prázdninové oblečení . To , jaké oblečení si oblečeme , z nás udělá jistý druh člověka : pracovníka , sportovce aj . , dokonce lufťáka . Jenom jestli to je vše . Jestli ty šaty nás opravdu udělaly člověkem . Myslím si , že ne . To , jestli jsme opravdový pracovník - člověk , který dělá důsledně svou práci - , záleží jenom na nás . Přesně řečeno - na našem vnitřním pocitu a rozhodnutí . Nevěřím tomu , že pouhým obléknutím uniformy se někdo dokáže v jednom okamžiku stát profesorem nebo policistou . V uniformě se může jenom tvářit jako policista nebo profesor . To , jakým člověkem jsme , závisí jenom na nás . Na druhé straně samozřejmě můžeme používat oblečení , abychom dávali najevo , jaký je náš postoj k životu , jaký je náš žebříček hodnot , co máme rádi a co ne , s čím souhlasíme a co nás zlobí . Můžeme to dělat na příklad pomocí triček , na kterých jsou nalepená hesla nebo vzkazy . Šaty nám také pomáhají udržet sebevědomí - cítíme se líp a směleji , když máme na sobě něco , v čem se cítíme dobře a co nám sluší . Rozhodně bychom neměli brát přísloví " šaty dělají člověka " až doslova vážně . Šaty můžou pomoct urobit člověka , ale stát se jím můžeme jenom vlastním rozhodnutím a prací .
+
+----------------
+
+Target hypothesis 2: 
+
+Známé přísloví nese obrovský kus pravdy - avšak neměli bychom věřit všem . Přísloví " šaty dělají člověka " je podle mého názoru víc lží než pravdou . V naší společnosti existují určité normy chování a jedna z takových norem říká , že bychom měli dávat na sebe konkrétní druh šatů v konkrétní životní situaci . Tak máme společenské oblečení , sportovní oblečení , prázdninové oblečení . To , jaké oblečení si oblečeme , z nás udělá jistý druh člověka : pracovníka , sportovce aj . , dokonce lufťáka . Jenom jestli to je vše . Jestli ty šaty nás opravdu udělaly člověkem . Myslím si , že ne . To , jestli jsme opravdový pracovník - člověk , který dělá důsledně svou práci - , záleží jenom na nás . Přesněji řečeno - na našem vnitřním pocitu a rozhodnutí . Nevěřím tomu , že pouhým obléknutím uniformy se někdo dokáže v jednom okamžiku stát profesorem nebo policistou . V uniformě se může jenom tvářit jako policista nebo profesor . To , jakým člověkem jsme , závisí jenom na nás . Na druhé straně samozřejmě můžeme používat oblečení , abychom dávali najevo , jaký je náš postoj k životu , jaký je náš žebříček hodnot , co máme rádi a co ne , s čím souhlasíme a co nás zlobí . Můžeme to dělat na příklad pomocí triček , na kterých jsou nalepená hesla nebo vzkazy . Šaty nám také pomáhají udržet sebevědomí - cítíme se líp a směleji , když máme na sobě něco , v čem se cítíme dobře a co nám sluší . Rozhodně bychom neměli brát přísloví " šaty dělají člověka " až doslova vážně . Šaty můžou pomoct udělat člověka , ale stát se jím můžeme jenom vlastním rozhodnutím a prací .

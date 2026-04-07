@@ -1,0 +1,42 @@
+METADATA
+
+General:
+Author ID: 1395_0000608
+Test language: Italian
+CEFR level of test: A2
+Task : inform friends about language course - ID: 1395_010300
+Mother tongue: French
+Age: 49
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A1
+Coherence/Cohesion: A1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+                                                                                 Martedí, 12 gennaio, 2010 
+                       Caro Marco, caro Carlo, 
+            Sono in Italia, con Michele, a Città X. Le conosci! Stiamo facendo un corso di italiano. L'insegnante di questo corso, è la mia ragazza. Sono contento di trovarmi qui. Impariamo molto i vesti italiani, scriviamo cartoline etc. La sera andiamo tutti i due al ristorante, fare un giro in Centro, visitiamo la città. 
+Vi visto la settimana prossima; ci vediamo presto
+       un abbraccio a tutti 
+                                          Michele
+
+----------------
+
+Target hypothesis 1: 
+
+Martedì , 12 gennaio , 2010 Caro Marco , caro Carlo , sono in Italia , con Michele , a Città X . Le conosci ! Stiamo facendo un corso di italiano . L' insegnante di questo corso è la mia ragazza . Sono contento di trovarmi qui . Impariamo molte vesti italiane , scriviamo cartoline etc . La sera andiamo tutti e due al ristorante , a fare un giro in centro e visitiamo la città . Vi vedrò la settimana prossima . Ci vediamo presto , un abbraccio a tutti Michele
+
+----------------
+
+Target hypothesis 2: 
+
+Martedì , 12 gennaio , 2010 Caro Marco , caro Carlo , sono in Italia , con Michele , a Città X . La conosci ! Stiamo facendo un corso di italiano . L' insegnante di questo corso è la mia ragazza . Sono contento di trovarmi qui . Leggiamo molti testi italiani , scriviamo cartoline etc . La sera andiamo tutti e due al ristorante , a fare un giro in centro e visitiamo la città . Vi vedrò la settimana prossima . Ci vediamo presto , un abbraccio a tutti Michele

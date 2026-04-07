@@ -1,0 +1,39 @@
+METADATA
+
+General:
+Author ID: 1031_0003172
+Test language: German
+CEFR level of test: C1
+Task : essay about why it's of value to learn German - ID: 1031_010300
+Mother tongue: Spanish
+Age: 32
+Gender: male
+
+Rating:
+Overall CEFR rating: B2
+Grammatical accuracy: B2
+Orthography: B2
+Vocabulary range: B2
+Vocabulary control: B2
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: B2
+
+----------------
+
+Learner text: 
+
+Nach meiner Meinung ist es heutezutage sehr wichtig Deutsch zu lernen, weil die „goldene Banane" von Europa sich dort befindet: Die goldene Banane sind die industrializierten Länder von Europa. In dieser goldenen Banane teilen Länder, wie Deutschland, Österreich, die Schweiz, Nord-Italien, Frankreich und einige Haupstäte von Spanien (Madrid und Barcelona), mit. Jetz gehe ich zum Thema. Warum ist es sehr wichtig? In diesem Gebiet befindet sich die hauptwirtschäftliche Handlungen Europas. Das bedeutet, dass es dort viele Arbeitsplätze gibt und wer sich eine gute proffesionelle Karriere wünscht, muss man das verscuchen zu erreichen. Wegendem finde ich, dass Deutsch, als Fremdsprache zu beherschen, sinnvoll ist. Auch gibt es andere Gründen, um Deutsch zu lernen. Zum Beispiel ist dort die Lebensqualität höher als in den nicht gennanten Ländern.
+Anderer Grund ist die tiege Arbeitslosigkeit zu diesen Ländern gibt es nur ein kleines Prozent von Leute, die keine Arbeit finden kann. Man kann ein Beispiel nehmen. Diese Beispiel ist Spanien, wo jetz es das Arbeitslosesprozent über 20 % der totalen aktiven Personen. Vielleicht klingt die Ziffer nicht so tragisch aus aber in Nummer sind circa 45 Millionen Personen ohne Arbeit, während diesen industrializierten Gebiet mehr und mehr zunehmen. Man kann das feststellen, wenn wir die Arbeitslosskeitsrate von der Schweiz anschauen. Es ist nur ein 4 % oder weniger.
+Wegen allen diesen Gründen finde ich, dass es wertvöllig ist, Deutsch zu lernen.
+Anderer Grund ist es auch, dass Deutsch die Sprache von Literatur ist. Man kann bekannte Authoren in ihren Muttersprachen lesen und so seine Meinung besser verstehen.
+
+----------------
+
+Target hypothesis 1: 
+
+Nach meiner Meinung ist es heutzutage sehr wichtig , Deutsch zu lernen , weil die " goldene Banane " von Europa sich dort befindet : Die goldene Banane sind die industrialisierten Länder von Europa . In dieser goldenen Banane teilen Länder wie Deutschland , Österreich , die Schweiz , Nord-Italien , Frankreich und einige Haupstädte von Spanien ( Madrid und Barcelona ) , mit . Jetzt gehe ich zum Thema . Warum ist es sehr wichtig ? In diesem Gebiet befinden sich die hauptwirtschaftlichen Handlungen Europas . Das bedeutet , dass es dort viele Arbeitsplätze gibt und wer sich eine gute , professionelle Karriere wünscht , muss das versuchen zu erreichen . Wegen dem finde ich , dass Deutsch als Fremdsprache zu beherschen , sinnvoll ist . Es gibt auch andere Gründe , um Deutsch zu lernen . Zum Beispiel ist dort die Lebensqualität höher als in den nicht genannten Ländern . Ein anderer Grund ist die tiefe Arbeitslosigkeit : In diesen Ländern gibt es nur ein kleines Prozent von Leuten , die keine Arbeit finden können . Man kann ein Beispiel nehmen . Dieses Beispiel ist Spanien , wo jetzt das Arbeitslosesprozent über 20 % der totalen aktiven Personen ist . Vielleicht klingt die Ziffer nicht so tragisch , aber in Nummern sind das circa 45 Millionen Personen ohne Arbeit , während dieses industrialisierte Gebiet mehr und mehr zunimmt . Man kann das feststellen , wenn wir die Arbeitslosskeitsrate von der Schweiz anschauen . Es ist nur 4 % oder weniger . Wegen allen diesen Gründen finde ich , dass es wertvöllig ist , Deutsch zu lernen . Ein anderer Grund ist auch , dass Deutsch die Sprache der Literatur ist . Man kann bekannte Autoren in ihren Muttersprachen lesen und so seine Meinung besser verstehen .
+
+----------------
+
+No target hypothesis 2 available.
+

@@ -1,0 +1,51 @@
+METADATA
+
+General:
+Author ID: 1325_9000087
+Test language: Italian
+CEFR level of test: B2
+Task : apply for internship in company - ID: 1325_020400-1
+Mother tongue: German
+Age: 19
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: C2
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Maria Rossi
+Strada Maggiore 19
+12345 Città X
+Germania
+Giorgio Armani
+moda
+Via Borgonuovo, 21
+20121 Milano
+Spettabile direzione del personale,
+vi scrivo in riferimento al vostro annuncio che ha pubblicato nel giornale di moda ieri.
+Io ho 18 anni e fanno la mia maturità in quest'anno. Dopo questo voglio fare qualcosa creativa con moda per questo sono molto interessata in fare uno stage alla vostra ditta. Sono libero per lavorare dal 01/07/2010 al 31/08/2010.
+Nel mio tempo libero amo incontrare gli amici, fare lo shopping e leggere. Anche sono molto interessato nella moda italiana e come viene prodotto e per questo uno stage alla vostra ditta sembra essere molto buone per me.
+Una altra passione mia e la creatività e questo è un altro motivo per cui desiderò lavorare per Giorgio Armani moda nel mio tempo libero.
+In attesa di una risposta buona porgo i miei cordiali saluti.
+Città X 11/05/2010
+Maria Rossi
+
+----------------
+
+Target hypothesis 1: 
+
+Maria Rossi Strada Maggiore 19 12345 Città X Germania Giorgio Armani moda Via Borgonuovo , 21 20121 Milano Spettabile direzione del personale , vi scrivo in riferimento al vostro annuncio che avete pubblicato nel giornale di moda ieri . Io ho 18 anni e faccio la mia maturità quest' anno . Dopo questo voglio fare qualcosa di creativo con la moda , per questo sono molto interessata a fare uno stage alla vostra ditta . Sono libero per lavorare dal 01 / 07 / 2010 al 31 / 08 / 2010 . Nel mio tempo libero amo incontrare gli amici , fare lo shopping e leggere . Sono anche molto interessato alla moda italiana e a come viene prodotta e per questo uno stage alla vostra ditta sembra essere molto buono per me . Un' altra mia passione è la creatività e questo è un altro motivo per cui desidero lavorare per Giorgio Armani moda nel mio tempo libero . In attesa di una buona risposta porgo i miei cordiali saluti . Città X 11 / 05 / 2010 Maria Rossi
+
+----------------
+
+No target hypothesis 2 available.
+

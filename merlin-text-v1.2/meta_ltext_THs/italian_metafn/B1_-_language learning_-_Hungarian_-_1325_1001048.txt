@@ -1,0 +1,55 @@
+METADATA
+
+General:
+Author ID: 1325_1001048
+Test language: Italian
+CEFR level of test: B2
+Task : describe experiences with language learning - ID: 1325_040300-1
+Mother tongue: Hungarian
+Age: 27
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: A2
+Orthography: C1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Gabriella Favati
+Dipartimento di Linguistica Teorica e Applicata
+Universita degli Studi di Pavia
+Corso Strada Nuova 65
+27100 - Pavia
+Italia
+Maria Rossi
+Strada Maggiore 34
+12345 Città X
+Ungheria
+01/01/2011
+Gentile Gabriella Favati,
+In referimento all'annuncio del dito di Università degli Studi di Pavia.
+Vorrei ti aiuto, e scrivo la mia esperianza quando ho studiata la lingua straniera.  Io non ho studiato mai l'italiano nell' scuola, solo all'estero.
+Ho iniziato imparare italiano quando sono stata lì. Ho provato parlare con gli altri, e ho provato conoscere la cultura itoliana, la vita, la gente. Allora secondo me è molto importante se voui conoscere l'altra cultura non solo la lingua.
+Quando sono stata a Caserta, tutti i giorni ho imparato qualcosa di nuovo. E ho fatto un giro in Italia, perchè durante il questo tempo ho conoscuto la lingua, la cultura, il cibo, la gente. Ero a Caserta italia da tre mesi, quando ho studiato all'estero.Attualmente uso il mio italiano quando parlo con i miei amici italiani. Secondo me è importante se può conoscere anche la cultura. Magari è meglio.
+Spero la questa lettera sarà aiuta e La ringrazio la sua gentile attenzione. Le invio il mio curriculum, se vouó parlare con la assocazione do ho studiato.
+Buona gironata
+Maria Rossi
+Allegato: lingua straniera
+
+----------------
+
+Target hypothesis 1: 
+
+Gabriella Favati Dipartimento di Linguistica Teorica e Applicata Università degli Studi di Pavia Corso Strada Nuova 65 27100 - Pavia Italia Maria Rossi Strada Maggiore 34 12345 Città X Ungheria 01 / 01 / 2011 Gentile Gabriella Favati , in riferimento all' annuncio del dito dell' Università degli Studi di Pavia , vorrei aiutarti e scrivo la mia esperienza quando ho studiato la lingua straniera . Io non ho studiato mai l' italiano a scuola , solo all' estero . Ho iniziato a imparare l' italiano quando sono stata lì . Ho provato a parlare con gli altri e ho provato a conoscere la cultura italiana , la vita , la gente . Questo secondo me è molto importante se vuoi conoscere l' altra cultura e non solo la lingua . Quando sono stata a Caserta , tutti i giorni ho imparato qualcosa di nuovo . E ho fatto un giro in Italia , perché durante questo tempo ho conosciuto la lingua , la cultura , il cibo , la gente . Sono stata a Caserta in Italia per tre mesi quando ho studiato all' estero . Attualmente uso il mio italiano quando parlo con i miei amici italiani . Secondo me è importante se si può conoscere anche la cultura . Magari è meglio . Spero che questa lettera sarà d' aiuto e La ringrazio per la sua gentile attenzione . Le invio il mio curriculum , se vuole parlare con l' associazione dove ho studiato . Buona giornata Maria Rossi Allegato : lingua straniera
+
+----------------
+
+No target hypothesis 2 available.
+

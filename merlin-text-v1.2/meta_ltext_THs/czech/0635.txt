@@ -1,0 +1,44 @@
+METADATA
+
+General:
+Author ID: 0635
+Test language: Czech
+CEFR level of test: B1
+Task : answer to the email of Alena - ID: 1_Alena
+Mother tongue: German
+Age: not reported
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+19. července 2006
+Milá Mileno,
+děkuji ti mnohokrat za tvoje Email. Je mi líto, že nemůzu přijít na grilovací party u vás. Budu byt na dovolenu. Pojedu vlakem na Slovensku a chci chodit na hory. Ale v 27. srpna budu rádi přijt u vás. Příští týden budu mít čas a těším se na setkání. Čekali bychom v ponděli v Drážďanech na hlavní nádraží.
+
+Kromě toho, hledám na dobrou gramatiku češtinou. Znám jedna a můžeš koupit gramatiku češtinou pro měho? Samozřejmý budu dát peníze za gramatiku.
+
+Ahoj a měj se hezky
+Andrea
+
+----------------
+
+Target hypothesis 1: 
+
+19. července 2006 Milá Mileno , děkuji ti mnohokrát za tvůj e-mail . Je mi líto , že nemůžu přijít na grilovací party u vás . Budu na dovolené . Pojedu vlakem na Slovensko a chci chodit na hory . Ale 27. srpna přijedeme k vám . Příští týden budu mít čas a těším se na setkání . Čekali bychom v pondělí v Drážďanech na hlavním nádraží . Kromě toho hledám dobrou gramatiku češtiny . Znám jednu a můžeš pro měj koupit gramatiku češtiny ? Samozřejmě dám peníze za gramatiku . Ahoj a měj se hezky Andrea
+
+----------------
+
+Target hypothesis 2: 
+
+19. července 2006 Milá Mileno , děkuji ti mnohokrát za tvůj e-mail . Je mi líto , že nemůžu přijít na grilovací party u vás . Budu na dovolené . Pojedu vlakem na Slovensko a chci chodit po horách . Ale 27. srpna přijedeme k vám . Příští týden budu mít čas a těším se na setkání . Čekali bychom v pondělí v Drážďanech na hlavním nádraží . Kromě toho hledám dobrou gramatiku češtiny . Znám jednu , můžeš pro měj koupit gramatiku češtiny ? Samozřejmě ti dám peníze za gramatiku . Ahoj a měj se hezky Andrea

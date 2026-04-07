@@ -1,0 +1,45 @@
+METADATA
+
+General:
+Author ID: 1325_1001124
+Test language: Italian
+CEFR level of test: B2
+Task : help someone who has problems with chats - ID: 1325_040300-2
+Mother tongue: Hungarian
+Age: 18
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B2
+Vocabulary range: B2
+Vocabulary control: B2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+-image-
+Settimana Giovani  
+via Crispi, 119
+80127
+                                                                                             Città X, 01.22.2012 
+Caro Giorgio, 
+secondo me uso di Internet ha tanti vantiaggi per esempio possiamo conoscere nuova gente e questo caso è molto importante per i giovanesi. Io preferisci l'amicizie nella scuola all'amicizie virtuali ma amicizie virtuali è una cosa buona. Qualche mesi fa ho conosciuto una bella ragazza sull'Internet si chiama Maria e adesso lui è la mia amica. 
+Secondo me Internet è una miraculosa nel caso tuo Internet può aiutare e per me Internet è stato un grande aiuto nella vita. Giorgio, pùoi continuare l'uso di internet per conoscere nuova gente. La gente sull'internet à molto amichevole e pùoi parlare a loro ogni giorno, quando se vuole!
+Porgo i miei saluti, 
+Michele Rossi 
+
+----------------
+
+Target hypothesis 1: 
+
+-image- Settimana Giovani via Crispi , 119 80127 Città X , 01.22.2012 Caro Giorgio , secondo me l' uso di Internet ha tanti vantaggi , per esempio , possiamo conoscere nuova gente e questo caso è molto importante per i giovani . Io preferisco le amicizie nella scuola alle amicizie virtuali , ma le amicizie virtuali sono una cosa buona . Qualche mese fa ho conosciuto una bella ragazza su Internet ; si chiama Maria e adesso lei è la mia amica . Secondo me , Internet è un miracolo ; nel caso tuo Internet può aiutare e per me Internet è stato un grande aiuto nella vita . Giorgio , puoi continuare l' uso di Internet per conoscere nuova gente . La gente su Internet è molto amichevole e puoi parlare con loro ogni giorno , quando si vuole ! Ti porgo i miei saluti , Michele Rossi
+
+----------------
+
+No target hypothesis 2 available.
+

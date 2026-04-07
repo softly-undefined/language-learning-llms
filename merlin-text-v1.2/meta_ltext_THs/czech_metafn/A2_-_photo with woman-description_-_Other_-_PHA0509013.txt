@@ -1,0 +1,37 @@
+METADATA
+
+General:
+Author ID: PHA0509013
+Test language: Czech
+CEFR level of test: A2
+Task : describe a photo: woman sitting at the window - ID: A2PS0200_zena
+Mother tongue: Other
+Age: 2029
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Ta žena je učitelka a se jmenuje Eva Svobodová. Teď je v bytu maminky. Ona je z Slovenska, z Bratislavy. Ona je 45 let a je chytrá a veselá. Vystudovala angličtinu a němčinu a teď pracuje jako učitela. Ma manžel a tří děti, jedneho kluga a dvě holky. Ten klug se jmenuje Martin a holky se jmenujou Eva a Julie. Myslí na Slovensko. Má ráda romantické knihy. chodí ráda na procházku do lesa. Nemá psa.
+
+----------------
+
+Target hypothesis 1: 
+
+Ta žena je učitelka a jmenuje se Eva Svobodová . Teď je v bytu maminky . Ona je ze Slovenska , z Bratislavy . Jí je 45 let a je chytrá a veselá . Vystudovala angličtinu a němčinu a teď pracuje jako učitelka . Má manžela a tři děti , jednoho kluka a dvě holky . Ten kluk se jmenuje Martin a holky se jmenujou Eva a Julie . Myslí na Slovensko . Má ráda romantické knihy . Chodí ráda na procházku do lesa . Nemá psa .
+
+----------------
+
+Target hypothesis 2: 
+
+Ta žena je učitelka a jmenuje se Eva Svobodová . Teď je v bytu maminky . Ona je ze Slovenska , z Bratislavy . Jí je 45 let a je chytrá a veselá . Vystudovala angličtinu a němčinu a teď pracuje jako učitelka . Má manžela a tři děti , jednoho kluka a dvě holky . Ten kluk se jmenuje Martin a holky se jmenujou Eva a Julie . Myslí na Slovensko . Má ráda romantické knihy . Chodí ráda na procházku do lesa . Nemá psa .

@@ -1,0 +1,29 @@
+METADATA
+
+General:
+Author ID: 1395_0001150
+Test language: Italian
+CEFR level of test: A2
+Task : inform friends about language course - ID: 1395_010300
+Mother tongue: Polish
+Age: 28
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: A1
+Vocabulary control: A2
+Coherence/Cohesion: A1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Cari amici,
+sono in Italia a Città X e sto facendo un corso di italiano qui. Mi piace studiare la lingua italiana. Imparo anche molte cose interesanti di cultura e storia d'Italia. Quando non c'é lezione passo il tempo in modo attivo; faccio i passegiate e trovo i miei nuovi amici italiano. 
+ 
+Un abbraccio!
+ Maria

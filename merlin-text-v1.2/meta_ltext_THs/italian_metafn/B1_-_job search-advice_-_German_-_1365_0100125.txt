@@ -1,0 +1,39 @@
+METADATA
+
+General:
+Author ID: 1365_0100125
+Test language: Italian
+CEFR level of test: B1
+Task : help a friend who is looking for work after school-leaving exam - ID: 1365_040501
+Mother tongue: German
+Age: 27
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B2
+Orthography: C1
+Vocabulary range: B2
+Vocabulary control: B2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Città X, 10 dicembre 2010
+Ciao Francesco,
+auguri! sono contenta per te. Come stai? Come ti conosco hai festeggiato abbastanza la tua maturità linguistica?! Hai fatto bene. Anch'io ho fatto l'esame, ho frequentato un corso d'italiano spero che è andata tutto bene. per quello vado anch'io sta sera a festeggiare con una mia amica. Eh sì dai, adesso ti puoi prendere un po' di tempo per ripensare cosa vuoi fare essatamente nel  tuo futuro. Penso che al momento non sia facile di trovare un lavoro, lo sai com'è durante l'inverno a Città Y. Anch'io lavoro attualmente solo 50% perchè c'è pocca gente in giro abbiamo quasi solo uomini d'affari nell'albergo. Ma comunque in caso che sento qualcosa ti fai sapere subito. In bocca lupo, spero che possa trovare già presto un posto di lavoro quale ti piace. Mi farebbe piacere di rivederti e già da tanto tempo che non ci vediamo più. Ti chiamerò nei prossimi giorni, un caro saluto da Città X e mi saluto anche la tua famiglia, Maria 
+
+----------------
+
+Target hypothesis 1: 
+
+Città X , 10 dicembre 2010 Ciao Francesco , auguri ! Sono contenta per te . Come stai ? Come ti conosco , avrai festeggiato abbastanza la tua maturità linguistica ! Hai fatto bene . Anch' io ho fatto un esame : ho frequentato un corso d' italiano e spero che sia andato tutto bene . Per quello vado anch' io stasera a festeggiare con una mia amica . Eh sì dai , adesso ti puoi prendere un po' di tempo per ripensare a cosa vuoi fare esattamente nel tuo futuro . Penso che al momento non sia facile trovare un lavoro , lo sai com' è durante l' inverno a Città Y . Anch' io lavoro attualmente solo al 50% perché c' è poca gente in giro e abbiamo quasi solo uomini d' affari nell' albergo . Ma comunque , in caso senta qualcosa , ti faccio sapere subito . In bocca al lupo , spero che tu possa trovare presto un posto di lavoro che ti piace . Mi farebbe piacere rivederti , è già da tanto tempo che non ci vediamo . Ti chiamerò nei prossimi giorni , un caro saluto da Città X e mi saluti anche la tua famiglia , Maria
+
+----------------
+
+Target hypothesis 2: 
+
+Città X , 10 dicembre 2010 Ciao Francesco , auguri ! Sono contenta per te . Come stai ? Per come ti conosco , avrai festeggiato abbastanza la tua maturità linguistica ! Hai fatto bene . Anch' io ho fatto un esame : ho frequentato un corso d' italiano e spero che sia andato tutto bene . Per questo vado anch' io stasera a festeggiare con una mia amica . Eh sì dai , adesso ti puoi prendere un po' di tempo per ripensare a cosa vuoi fare esattamente nel tuo futuro . Penso che al momento non sia facile trovare un lavoro , lo sai com' è durante l' inverno a Città Y . Anch' io lavoro attualmente solo al 50% perché c' è poca gente in giro e abbiamo quasi solo uomini d' affari nell' albergo . Ma comunque , in caso senta qualcosa , ti faccio sapere subito . In bocca al lupo , spero che tu possa trovare presto un posto di lavoro che ti piace . Mi farebbe piacere rivederti , è già da tanto tempo che non ci vediamo . Ti chiamerò nei prossimi giorni , un caro saluto da Città X e mi saluti anche la tua famiglia , Maria

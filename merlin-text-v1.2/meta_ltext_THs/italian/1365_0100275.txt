@@ -1,0 +1,45 @@
+METADATA
+
+General:
+Author ID: 1365_0100275
+Test language: Italian
+CEFR level of test: B1
+Task : help a friend who is looking for work after school-leaving exam - ID: 1365_040501
+Mother tongue: German
+Age: 16
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: C1
+Vocabulary range: B2
+Vocabulary control: B2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+                                                                                                   Città X, 24.9.11 
+Caro Francesco, 
+anche io finalmente che l'ho fatta, ho finito l'ultimo anno di scuola. E ho ricevuto anche una pagella fantastica. 
+Si, fai bene di lavorare un po', prima che iscrivi à l'università cosi puoi anche guadagnare i soldi. Non è grave, se son hai ancora le idee chiare, sei ancora giovane e hai tempo di pensarci un po' cosa vuoi fare. Quindi, nell albergo "Stella" a Città Y cercano personale, manda il tuo curriculum, sono sicura che ti hanno un lavoro. 
+Io invece ho incominciato il mio apprendistato di carpentiere di legno, che dura tre anni. Dopo farò il giro del mondo con i miei amici. 
+Auguri per la maturità Francesco! Io lo sapevo, che tu ce la fai senza problemi. 
+ 
+Spero che ti ho potuto aiutare. 
+Tanti saluti
+Maria
+
+----------------
+
+Target hypothesis 1: 
+
+Città X , 24.9.11 Caro Francesco , anche io finalmente ce l' ho fatta , ho finito l' ultimo anno di scuola e ho ricevuto anche una pagella fantastica . Sì , fai bene a lavorare un po' prima che ti iscrivi all' università così puoi anche guadagnare i soldi . Non è grave se non hai ancora le idee chiare , sei ancora giovane e hai tempo per pensarci un po' su cosa vuoi fare . Quindi , nell' albergo " Stella " a Città Y cercano personale , manda il tuo curriculum , sono sicura che hanno un lavoro . Io invece ho incominciato il mio apprendistato di carpentiere di legno che dura tre anni . Dopo farò il giro del mondo con i miei amici . Auguri per la maturità Francesco ! Io lo sapevo che tu ce la facevi senza problemi . Spero che ti abbia potuto aiutare . Tanti saluti Maria
+
+----------------
+
+No target hypothesis 2 available.
+

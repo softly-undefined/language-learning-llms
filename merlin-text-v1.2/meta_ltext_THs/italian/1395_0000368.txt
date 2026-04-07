@@ -1,0 +1,42 @@
+METADATA
+
+General:
+Author ID: 1395_0000368
+Test language: Italian
+CEFR level of test: A2
+Task : contact a friend after a long time - ID: 1395_020300
+Mother tongue: German
+Age: 36
+Gender: male
+
+Rating:
+Overall CEFR rating: A1
+Grammatical accuracy: A1
+Orthography: A2
+Vocabulary range: A1
+Vocabulary control: A2
+Coherence/Cohesion: A1
+Sociolinguistic appropriateness: A1
+
+----------------
+
+Learner text: 
+
+Città X 29.Marzo 2010
+Ciao Max
+Va bene, ed la famiglia è tout a posto? Sono in forma ed ma famiglia anchè.
+Dal 26. Maggio vado a vacanze a Città Y per una settimana.
+A presto
+Salutì
+Michele
+
+----------------
+
+Target hypothesis 1: 
+
+Città X , 29 marzo 2010 Ciao Max ! Va bene ? E con la famiglia è tutto a posto ? Sono in forma e la mia famiglia anche . Dal 26 maggio vado in vacanza a Città Y per una settimana . A presto . Saluti Michele
+
+----------------
+
+No target hypothesis 2 available.
+

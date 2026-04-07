@@ -1,0 +1,25 @@
+METADATA
+
+General:
+Author ID: LON0611002B
+Test language: Czech
+CEFR level of test: A2
+Task : describe a photo: swimming in the sea - ID: A2PS0202_more
+Mother tongue: French
+Age: 2029
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Na fotografii vídíme otec a dcera. Koupáji v moře. Jsou tam, protože jsou na dovolená v letě. Mátka je z Italie a každý rok celá rodiná jede do Italii, protože má dům blizko pláže. Oba máji na sobě plavení kostým. Otec má také na sobě bríle. Jsou moc spokojeni. Otec řiká, že vodá je teplá, ale dcera myslí, že vodá je moc ziná!

@@ -1,0 +1,39 @@
+METADATA
+
+General:
+Author ID: 1385_0001124
+Test language: Italian
+CEFR level of test: A1
+Task : reschedule an appointment - ID: 1385_020100
+Mother tongue: Polish
+Age: 46
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Ciao caro Daniele.
+Giovedi pomeriggio non posso incontrarsi con te perche mio capo ha organizzato una riunione. Andiamo a cena sabato sera. Andiamo a cena in un ristorante tailandese.
+Un saluto e un bacio.
+Maria
+
+----------------
+
+Target hypothesis 1: 
+
+Ciao caro Daniele . Giovedi pomeriggio non posso incontrarmi con te perché il mio capo ha organizzato una riunione . Andiamo a cena sabato sera . Andiamo a cena in un ristorante tailandese . Un saluto e un bacio . Maria
+
+----------------
+
+No target hypothesis 2 available.
+

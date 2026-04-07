@@ -1,0 +1,40 @@
+METADATA
+
+General:
+Author ID: 1395_0000379
+Test language: Italian
+CEFR level of test: A2
+Task : contact a friend after a long time - ID: 1395_020300
+Mother tongue: German
+Age: 36
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Cara Lucia
+sono in vacanze, in Sardegna, La isola e fantastica, e io penso a te. La nostra familia non devo fare le vacanze insième. Ma io fatto delle belle fotografie.
+Pensato di incontrati verso le 20 agosto. Puoi chiamarmi dopo il 30. maggio, si va bene per te? Allora spero tutto va bene. Ah mi dimenticate qual cose... voglio non più lavorare... Penso da stare qui a Sardegna...
+Allora cara saluti
+Maria
+
+----------------
+
+Target hypothesis 1: 
+
+Cara Lucia , sono in vacanza in Sardegna . L' isola è fantastica e io penso a te . La nostra famiglia non deve fare le vacanze insieme . Ma io ho fatto delle belle fotografie . Pensavo di incontrarti verso il 20 agosto . Puoi chiamarmi dopo il 30 maggio , se va bene per te . Allora spero che tutto vada bene . Ah , mi dimenticavo qualche cosa ... non voglio più lavorare ... Penso di stare qui in Sardegna ... Allora cari saluti Maria
+
+----------------
+
+No target hypothesis 2 available.
+

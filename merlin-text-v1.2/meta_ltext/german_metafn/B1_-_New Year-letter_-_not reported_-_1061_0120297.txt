@@ -1,0 +1,30 @@
+METADATA
+
+General:
+Author ID: 1061_0120297
+Test language: German
+CEFR level of test: B1
+Task : write a letter for New Year to a friend - ID: 1061_110101
+Mother tongue: not reported
+Age: 28
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: A2
+Orthography: B2
+Vocabulary range: B1
+Vocabulary control: A2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Lieber Michael,                                     Stadt X 22.02.12
+vielen Dank für dein Brief.
+Hoffentlich geht mein Wunsch für das neue Jahr in Erfüllung.
+Im neue Jahr würde Ich nicht mehr rauchen und Ich würde eine neue Ausbildung anfangen. Ich Arbeite in gleiche Firma und Alles sind gleich wie frühe waren nichts neues passiet. Ich würde auch dass wir euch Treffen. Wir können zusammen ein ausflug machen an Silvester habe ich viel spaß mit meiner familie gemacht Am Abend wir haben - zusammen gegessen und wir auch uns das Feuerwerk angesehen haben.
+Liebe Grüße
+Friedrich

@@ -1,0 +1,32 @@
+METADATA
+
+General:
+Author ID: 1365_0100136
+Test language: Italian
+CEFR level of test: B1
+Task : answer to an wedding invitation - ID: 1365_020300
+Mother tongue: German
+Age: 60
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: C1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Carissima Emma,
+la tua figlia si vuole sposare! Congratulazione!! Sono molto felice di questa novità.
+Grazie per il tuo invito. Verrò venire volentieri! Non vedo l'ora di rivederti e la tua famiglia. Per fortuna non devo lavorare in Novembre, per questo ho la possibilità di venire.
+Stefano non lo conosco ancora, ma sono secura, che Beatrice ha fatta la scelta giusta!
+Dove si hanno connosciuto? All'università?
+Che cosa posso regalare? Forse un buono? O soldi? Fammelo sapere, che desideri hanno le due fidanzati?
+Tanti cari saluti e un grande abbraccio per te
+Maria

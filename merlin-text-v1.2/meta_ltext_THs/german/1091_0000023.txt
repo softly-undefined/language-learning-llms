@@ -1,0 +1,39 @@
+METADATA
+
+General:
+Author ID: 1091_0000023
+Test language: German
+CEFR level of test: A2
+Task : offer a ticket not used to a friend - ID: 1091_0690403
+Mother tongue: Polish
+Age: 53
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: B1
+Orthography: C1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B2
+
+----------------
+
+Learner text: 
+
+Hallo Jula
+Ich wollte nach Berlin mit dir farchren, wie wir haben damals gesprochen um 3 Januar aber weil bin ich krang gewisen deschalb du muß allein fahren mit dem zug 
+Tobias
+
+----------------
+
+Target hypothesis 1: 
+
+Hallo Julia ! Ich wollte mit dir nach Berlin fahren , wie wir damals am 3. Januar besprochen haben , aber weil ich krank gewesen bin , musst du deshalb allein mit dem Zug fahren . Tobias
+
+----------------
+
+Target hypothesis 2: 
+
+Hallo Julia ! Ich wollte mit dir nach Berlin fahren , wie wir damals am 3 . Januar besprochen haben , aber weil ich krank gewesen bin , musst du allein mit dem Zug fahren . Tobias

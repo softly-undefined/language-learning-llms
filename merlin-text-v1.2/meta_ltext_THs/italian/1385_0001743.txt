@@ -1,0 +1,37 @@
+METADATA
+
+General:
+Author ID: 1385_0001743
+Test language: Italian
+CEFR level of test: A1
+Task : reschedule an appointment - ID: 1385_020100
+Mother tongue: Polish
+Age: 29
+Gender: female
+
+Rating:
+Overall CEFR rating: unrated
+Grammatical accuracy: 0
+Orthography: 0
+Vocabulary range: 0
+Vocabulary control: 0
+Coherence/Cohesion: 0
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Ciao Michele, 
+Come stai? Io bene. Perche' non potete incontrarvi con lui giovedi pomeriggio? Tu vai un ristorante pomeriggio?  
+
+----------------
+
+Target hypothesis 1: 
+
+Ciao Michele . Come stai ? Io sto bene . Perché non potete incontrarvi con lui giovedì pomeriggio ? Tu vai in un ristorante il pomeriggio ?
+
+----------------
+
+No target hypothesis 2 available.
+

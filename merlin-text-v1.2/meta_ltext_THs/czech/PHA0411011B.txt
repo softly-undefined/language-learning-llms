@@ -1,0 +1,37 @@
+METADATA
+
+General:
+Author ID: PHA0411011B
+Test language: Czech
+CEFR level of test: A2
+Task : describe a photo: swimming in the sea - ID: A2PS0202_more
+Mother tongue: German
+Age: 2029
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Na obrazku vidíte otce s jeho dcerou. Jsou v jižní Evropě moři, například ve Španělsku nebo na Korsice. Pojeli tam na prázdniny, protože v letě je tam horko a slunce svití celý den Takže divka má na sobě jenom pradlo Můž nosí kratké kalhoty a  brýle. Obvykle odpočívají, jenom čas od času plavou nebo stojí na moři jako na fotografii. Celkem jsou moc spokojení a říkají: ,,Jak krasné život může být ..."
+
+----------------
+
+Target hypothesis 1: 
+
+Na obrázku vidíte otce s jeho dcerou . Jsou v jižní Evropě u moře , například ve Španělsku nebo na Korsice . Jeli tam na prázdniny , protože v létě je tam horko a slunce svítí celý den . Takže dívka má na sobě jenom prádlo . Muž nosí krátké kalhoty a brýle . Obvykle odpočívají , jenom čas od času plavou nebo stojí u moře jako na fotografii . Celkem jsou moc spokojení a říkají : ,, Jak krásný život může být ... "
+
+----------------
+
+Target hypothesis 2: 
+
+Na obrázku vidíte otce s jeho dcerou . Jsou v jižní Evropě u moře , například ve Španělsku nebo na Korsice . Jeli tam na prázdniny , protože v létě je tam horko a slunce svítí celý den . Takže dívka má na sobě jenom plavky . Muž nosí krátké kalhoty a brýle . Obvykle odpočívají , jenom čas od času plavou nebo stojí u moře jako na fotografii . Celkem jsou moc spokojení a říkají : ,, Jak krásný život může být ... "

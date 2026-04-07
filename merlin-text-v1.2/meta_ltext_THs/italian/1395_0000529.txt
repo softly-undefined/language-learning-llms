@@ -1,0 +1,42 @@
+METADATA
+
+General:
+Author ID: 1395_0000529
+Test language: Italian
+CEFR level of test: A2
+Task : contact a friend after a long time - ID: 1395_020300
+Mother tongue: German
+Age: 39
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+26/11/2011
+Ciao Luigi,
+come va? Sto molto bene e anche la mia famiglia. Perchè?
+Siamo andati per due settimane in vacanza in Sardegna. Il tempo fa molto bello e l'appartamento era vicino al mare con una spiaggia splendida. E il mio lavoro mi piace molto!
+In fine, hai tempo la prossima fine settimana?
+Tanti saluti
+Michele
+
+----------------
+
+Target hypothesis 1: 
+
+26 / 11 / 2011 Ciao Luigi , come va ? Sto molto bene e anche la mia famiglia . Perché ? Siamo andati per due settimane in vacanza in Sardegna . Il tempo faceva molto bello e l' appartamento era vicino al mare con una spiaggia splendida . E il mio lavoro mi piace molto ! Infine , hai tempo il prossimo fine settimana ? Tanti saluti Michele
+
+----------------
+
+No target hypothesis 2 available.
+

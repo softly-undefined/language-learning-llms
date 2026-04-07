@@ -1,0 +1,54 @@
+METADATA
+
+General:
+Author ID: 1023_0101900
+Test language: German
+CEFR level of test: B2
+Task : apply for internship in sales department - ID: 1023_120301
+Mother tongue: not reported
+Age: 42
+Gender: female
+
+Rating:
+Overall CEFR rating: B2
+Grammatical accuracy: B2
+Orthography: B2
+Vocabulary range: C1
+Vocabulary control: B2
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: B2
+
+----------------
+
+Learner text: 
+
+Eva Meier, bahnhofstraße 12, 4321 Stadt X. tel. 012,345,67-89
+an Vertriebspraktikantin
+Computer-Spezialist
+Odenwaldstrasse 5,
+53119 Bon
+den, 20.03., Stadt Y
+Bewerbungsbrief in Ihrem Betrib
+Sehr geehrte Damen und Herren
+ich möchte mich um die obengenannte Praktikum Stelle bewerben.
+Nach meinem Schulabschluss, mit sehr guten Noten, habe ich begonnen Kommunikationwissenschaften zu Studieren.
+Jetzt bin ich im vorletzten Semester. Für diese Verantwortungsvolle Aufgabe bringe alle Voraussetzungen mit, wie Sie aus meinem Lebenslauf und die Zeugnisse ersähen können.
+Neben Kommunikationswissenschaften habe ich Germanistik studiert. Aus diesem Grund möchte ich ein Praktikum in Ihrem Betrib machen, um so meinem Sprachkenntnisse zu verbessern.
+Ich will noch dazu erwähnen, dass ich recht gut mündlich und schriftlich auf Deutsch ausdrücken kann. 
+Ich bin sehr Flexibel und Motiviert. Ich kann Prioritätet setzen.
+Ich hoffe mit diesen Angabe gedient zu haben und verbleibe mit Hoffnung auf eine Positiven bescheid von ihnen.
+Über eine Einladung zu einen Vorstellung geschprech wurde ich mich sehr freuen. 
+Mit frendlichen Grüßer
+Beilage: Lebenslauff
+                              Zeugnisse in Kopie.         Eva Meier
+
+----------------
+
+Target hypothesis 1: 
+
+Eva Meier Bahnhofsstraße 12 4321 Stadt X tel . 012-345-67 -89 An Vertriebspraktikantin Computer-Spezialist Odenwaldstrasse 5 , 53119 Bonn Stadt Y , den 20.03 . Bewerbungsbrief in Ihrem Betrieb Sehr geehrte Damen und Herren , ich möchte mich um die obengenannte Praktikumstelle bewerben . Nach meinem Schulabschluss mit sehr guten Noten habe ich begonnen Kommunikationwissenschaften zu studieren . Jetzt bin ich im vorletzten Semester . Für diese verantwortungsvolle Aufgabe bringe alle Voraussetzungen mit , wie Sie aus meinem Lebenslauf und den Zeugnissen ersehen können . Neben Kommunikationswissenschaften habe ich Germanistik studiert . Aus diesem Grund möchte ich ein Praktikum in Ihrem Betrieb machen , um so meine Sprachkenntnisse zu verbessern . Ich will noch dazu erwähnen , dass ich mich recht gut mündlich und schriftlich auf Deutsch ausdrücken kann . Ich bin sehr flexibel und motiviert . Ich kann Prioritäten setzen . Ich hoffe , mit dieser Angabe gedient zu haben und verbleibe mit Hoffnung auf einen positiven Bescheid von ihnen . Über eine Einladung zu einem Vorstellunggespräch  würde ich mich sehr freuen . Mit freundlichen Grüßen Beilage : Lebenslauf Zeugnisse in Kopie Eva Meier
+
+----------------
+
+No target hypothesis 2 available.
+

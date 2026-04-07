@@ -1,0 +1,47 @@
+METADATA
+
+General:
+Author ID: 1365_0100031
+Test language: Italian
+CEFR level of test: B1
+Task : answer to an wedding invitation - ID: 1365_020300
+Mother tongue: English
+Age: 36
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: C2
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+7, Strada Maggiore
+1234 Città X
+FRANCIA
+15 MARZO, 2010 Città X
+VIA FRIULI, 72
+80123 NAPOLI
+ITALIA
+GENTILI SiGNORI,
+VI RINGRAZIO PER IL VOSTRO INViTO E TUTTI I MIEI AUGURI PER IL VOSTRO MATRIMONIO. INSOMMA. CONGRATULAZIONI!
+PURTROPPO, NON POTRÒ VENIRE, STO FACENDO UN CORSO D'ITALIANO E AVRÒ L'ESAME IL 20 NOVEMBRE! Mi DISPIACE!
+COSA POTREI COMPRARE COME REGALO? PENSAVO A COMPRARVI UNA MACCHiNA NUOVA' O UNA VACANZA, MAGARI? SONO GENTILE E HO MOLTI SOLDI!
+IN ATTESA DI UNA VOSTRA RISPOSTA. CORDIALI SALUTI, -unreadable-
+
+----------------
+
+Target hypothesis 1: 
+
+7 , Strada Maggiore 1234 Città X Francia 15 marzo 2010 Città X Via Friuli , 72 80123 Napoli Italia Gentili signori , vi ringrazio per il vostro invito e tutti i miei auguri per il vostro matrimonio . Insomma , congratulazioni ! Purtroppo , non potrò venire , sto facendo un corso d' italiano e avrò l' esame il 20 novembre ! Mi dispiace ! Cosa potrei comprare come regalo ? Pensavo di comprarvi una macchina nuova o una vacanza magari ? Sono gentile e ho molti soldi ! In attesa di una vostra risposta invio cordiali saluti , -unreadable-
+
+----------------
+
+No target hypothesis 2 available.
+

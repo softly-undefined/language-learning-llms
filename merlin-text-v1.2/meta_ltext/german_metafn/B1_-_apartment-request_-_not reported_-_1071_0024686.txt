@@ -1,0 +1,30 @@
+METADATA
+
+General:
+Author ID: 1071_0024686
+Test language: German
+CEFR level of test: A1
+Task : ask friend for help for finding apartment - ID: 1071_020200
+Mother tongue: not reported
+Age: 24
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+                                                Stadt X, 08 Marz 2011
+Lieber Ingo,
+Wie geht´s dir? Ich habe eine große Nachricht "Ich habe eine Arbeit in Neuber gefunden". Deshalb muss ich eine Wohnung suchen. Meine Arbeit beginnt ab 01. Juni, abere will ich von 15. Mai unziehen. Die Wohnung muss aus einem Schlafzimmer, einem Babezimmer und einer Kleinen Küche bestehen.
+Könntest du mir bitte bei der Wohnungssuche helfen. Das wird nett von dir sein
+Vielen Dank im Voraus
+Julia

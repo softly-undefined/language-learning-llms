@@ -1,0 +1,29 @@
+METADATA
+
+General:
+Author ID: 1385_0001727
+Test language: Italian
+CEFR level of test: A1
+Task : reschedule an appointment - ID: 1385_020100
+Mother tongue: German
+Age: 44
+Gender: male
+
+Rating:
+Overall CEFR rating: A1
+Grammatical accuracy: A1
+Orthography: A2
+Vocabulary range: A1
+Vocabulary control: A1
+Coherence/Cohesion: A1
+Sociolinguistic appropriateness: A1
+
+----------------
+
+Learner text: 
+
+                                                                                   Città X, 9.7.2011 
+Caro Daniele,
+é una settimana orribile. In ufficio c'è molto lavoro e giovedì pomeriggio non posso avete tempo per incontrare con te perché il mio capo ha organizzato una riunione giovedi  pomeriggio. Andiamo a sabato sera in un ristorante tailandese? 
+Tante -unreadable-grazie e cordiali saluti! 
+ Michele

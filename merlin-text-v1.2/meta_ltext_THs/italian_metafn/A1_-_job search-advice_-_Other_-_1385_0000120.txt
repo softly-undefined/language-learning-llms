@@ -1,0 +1,39 @@
+METADATA
+
+General:
+Author ID: 1385_0000120
+Test language: Italian
+CEFR level of test: A1
+Task : help a friend who is looking for work - ID: 1385_040101
+Mother tongue: other
+Age: 48
+Gender: male
+
+Rating:
+Overall CEFR rating: A1
+Grammatical accuracy: A1
+Orthography: A2
+Vocabulary range: A1
+Vocabulary control: A1
+Coherence/Cohesion: A1
+Sociolinguistic appropriateness: A1
+
+----------------
+
+Learner text: 
+
+Quando ore lavore per settimana? Questo tipo di lavore? A questa data le posto libero?
+Quando settimani vacaze per anni?
+A queste cita di posto?
+Tante grazie per risponse.
+
+----------------
+
+Target hypothesis 1: 
+
+Quante ore lavori per settimana ? Questo tipo di lavoro ? In questa data il posto è libero ? Quante settimane di vacanze hai per anno ? In queste città c' è posto ? Tante grazie per le risposte .
+
+----------------
+
+No target hypothesis 2 available.
+

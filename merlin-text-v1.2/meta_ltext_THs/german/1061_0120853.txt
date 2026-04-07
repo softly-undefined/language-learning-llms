@@ -1,0 +1,45 @@
+METADATA
+
+General:
+Author ID: 1061_0120853
+Test language: German
+CEFR level of test: B1
+Task : write a letter to a friend (birthday) - ID: 1061_170900
+Mother tongue: not reported
+Age: not reported
+Gender: not reported
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: A2
+Orthography: B2
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+                    Stadt X, den 12.03.2012.
+Liebe Silke,
+Danke schön für dein Brief. Das mich gefreut hat. Es ist sehr gut auf deine Familie zu  lesen.
+Letztes mal, hast du mir gesagt, dass du mich besuchst. Vielleicht, du könnst  zum meinen Geburtsag kommen. Das wäre sehr toll,  dass du an meinen Geburtstagparty kommen werden. Nach meinem Geburtstag, habe ich eine kleine Reise in Austria, aber nachdem werde ich dich besuchen auch.
+Max sollte glücklich über die Katze. Ich auch mag die Tiere, aber nicht in Wohnungs. Mein Großeltern hatte eines Haus, und das war sehr gut mit den Hunden und Katzen.
+Zum meinen Geburtstag, wünsche ich dich  hier zu sein, das wäre ganz genug. Wenn du etwas kaufen wollte,  ich habe wenig Blumen und meine  Terrasse ist lehr.
+Zum meinen Familie geht es gut,  aber ich habe ihnen nicht getroffen für lange Zeit.
+
+Grüß,
+Stefan
+
+----------------
+
+Target hypothesis 1: 
+
+Stadt X , den 12.03.2012 . Liebe Silke , danke schön für deinen Brief . Das hat mich gefreut . Es ist sehr gut , von deiner Familie zu lesen . Letztes Mal hast du mir gesagt , dass du mich besuchst . Vielleicht könntest du zu meinem Geburtstag kommen . Das wäre sehr toll , wenn du zu meiner Geburtstagparty kommen würdest . Nach meinem Geburtstag habe ich eine kleine Reise nach Österreich , aber danach werde ich dich auch besuchen . Max sollte glücklich über die Katze sein . Ich mag die Tiere auch , aber nicht in Wohnungen . Meine Großeltern hatten ein Haus , und das war sehr gut mit den Hunden und Katzen . Zum meinem Geburtstag wünsche ich , dich hier zu haben , das wäre ganz genug . Wenn du etwas kaufen wolltest , ich habe wenig Blumen und meine Terrasse ist leer . Meiner Familie geht es gut , aber ich habe sie lange Zeit nicht getroffen . Grüße , Stefan
+
+----------------
+
+No target hypothesis 2 available.
+

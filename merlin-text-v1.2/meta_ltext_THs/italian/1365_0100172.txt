@@ -1,0 +1,44 @@
+METADATA
+
+General:
+Author ID: 1365_0100172
+Test language: Italian
+CEFR level of test: B1
+Task : answer to an wedding invitation - ID: 1365_020300
+Mother tongue: German
+Age: 18
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: C2
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Caro Stefano e Beatrice, 
+ho ricevuto la vostra invitazione per il vostro matrimonio e mi avete fatto piacere. 
+Vuoi congratularvi e sono sicuro che dimenticiare avere un futuro felice insieme. 
+Anche vi ringrazio per la vostra invitazione e anche se Napoli è lontano da Germania, posso andare a Napoli in novembre per vedere il vostro matrimonio. 
+Ho una problema perché non posso ballare, ma forse posso fare un corso di balla. 
+Non è facile di trovare qualcosa che vi posso regalare ma sono sicuro che trovi una sorpresa. 
+
+ Tanti auguri 
+                                   Maria Rossi 
+
+----------------
+
+Target hypothesis 1: 
+
+Caro Stefano e Beatrice , ho ricevuto la vostra invitazione per il vostro matrimonio e mi ha fatto piacere . Voglio congratularmi e sono sicuro che avrete un futuro felice insieme . Vi ringrazio anche per la vostra invitazione e anche se Napoli è lontano dalla Germania , posso andare a Napoli in novembre per vedere il vostro matrimonio . Ho un problema perché non posso ballare , ma forse posso fare un corso di ballo . Non è facile trovare qualcosa che vi possa regalare ma sono sicuro che troverò una sorpresa . Tanti auguri Maria Rossi
+
+----------------
+
+No target hypothesis 2 available.
+

@@ -1,0 +1,36 @@
+METADATA
+
+General:
+Author ID: PHA0810004
+Test language: Czech
+CEFR level of test: B2
+Task : write an essay: A friend in need is a friend indeed - ID: B2PS0202_pritel
+Mother tongue: Russian
+Age: 4049
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B2
+Vocabulary control: B2
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+V dnešni době hodně se mluvi o přatelstvi. Ale na můj pohled přatelstvi v dnešni době trošku se změnilo. Dřive kdyz lide byli vetšinou na stejně životni urovni tak nikdo ne hledal v přatelstvi nijaku vyhodu. Muj nazor je takovy že v dnešni době většina lidi hleda přatela na "urovně", a když znamy nebo přitel se ocitne v těžke situace, tak neni takova snaha pomoc jako dřiv. To je můj nazor. Dřive lidi měli vic citu, žalosti, teď mi se zda žije každý vic zavřeny. Ne hazim všech do jednoho pytle, jsov lidi, kteři ochotni pomoct kdy koliv i komu koliv. A najvic samozreme přatele poznaš v nouze. Muže člověk řikat že je tvůj nejvetši přitel, ale když ho potřebuješ tak on nikde i naopak, nevíš o člověku nic, a v připadě nouzi on mezi prvnima. Hodně lidi z přatelstvi hleda vyhodu a to neni přatelstvi, to chamtivost. Když je člověky špatně, když potřebyje pomoc, tak teprve kolem něho sejdut přatele. Proto světove přislovi hlasi: "V nouzi poznaš přitele." To je svatá pravda.
+
+----------------
+
+Target hypothesis 1: 
+
+V dnešní době se hodně mluví o přátelství . Ale na můj pohled se přátelství v dnešní době trošku změnilo . Dříve , když lidé byli většinou na stejné životní úrovni , tak nikdo nehledal v přátelství nějakou výhodu . Můj názor je takový , že v dnešní době většina lidí hledá přátele na " úrovni " , a když se známý nebo přítel ocitne v těžké situaci , tak není taková snaha mu pomoct jako dřív . To je můj názor . Dříve lidi měli víc citu , žalosti , teď se mi zdá , že je každý víc zavřený . Neházím všechny do jednoho pytle , jsou lidi , kteří jsou ochotni pomoct kdykoliv i komukoliv . A nejvíc samozřejmě přátele poznáš v nouzi . Může člověk říkat , že je tvůj největší přítel , ale když ho potřebuješ , tak on nikde , i naopak , nevíš o člověku nic , a v případě nouze on mezi prvními . Hodně lidí v přátelství hledá výhodu , a to není přátelství , to je chamtivost . Když je člověku špatně , když potřebuje pomoc , tak se teprve kolem něho sejdou přátelé . Proto světové přísloví hlásí : " V nouzi poznáš přítele . " To je svatá pravda .
+
+----------------
+
+No target hypothesis 2 available.
+

@@ -1,0 +1,45 @@
+METADATA
+
+General:
+Author ID: 1365_0100282
+Test language: Italian
+CEFR level of test: B1
+Task : answer to an wedding invitation - ID: 1365_020300
+Mother tongue: Hungarian
+Age: 31
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: C2
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Cari Beatrice e Stefano, 
+ho ricevuto il vostro invitato. È da molto tempo che non ci vediamo. Sono molto contenta che mi abbiamo invitato alla vostra cerimonia di matrimonio. 
+Prima vi invio i miei congratulazioni. Spero che il vostro matrimonio sarà contento e che non finische mai. Vi ringrazio l'invito e siccome la data è perfetta a me ci andrò con piacere. Voi sapete bene che vivo a Città X così prenderò una camera in un albergo tre stelle a Napoli. Probabilmente arrivò il 18 novembre e resterò fino al 22 novembre. Vorrei incontrare anche i vostri genitori. Sono sicuro che loro aspettano molto "il giorno grande". 
+Alla fine una ultima domanda. Vorrei comprarvi un bel regalo, cosi potreste inviare una lista del regalo che vorreste?
+Aspetto la vostra risposta. 
+ 
+                        Vi abbraccio 
+                                      Maria
+ 
+Città X, 1° ottobre 2011
+
+----------------
+
+Target hypothesis 1: 
+
+Cari Beatrice e Stefano , ho ricevuto il vostro invitato . È da molto tempo che non ci vediamo . Sono molto contenta che mi abbiate invitato alla vostra cerimonia di matrimonio . Prima vi invio le mie congratulazioni . Spero che il vostro matrimonio sia contento e che non finisca mai . Vi ringrazio per l' invito e siccome la data è perfetta per me ci andrò con piacere . Voi sapete bene che vivo a Città X e così prenderò una camera in un albergo a tre stelle a Napoli . Probabilmente arriverò il 18 novembre e resterò fino al 22 novembre . Vorrei incontrare anche i vostri genitori . Sono sicuro che loro aspettano molto " il grande giorno " . Alla fine un' ultima domanda . Vorrei comprarvi un bel regalo , così potreste inviare una lista di regali che vorreste ? Aspetto la vostra risposta . Vi abbraccio Maria Città X , 1 ° ottobre 2011
+
+----------------
+
+No target hypothesis 2 available.
+

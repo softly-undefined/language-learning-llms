@@ -1,0 +1,32 @@
+METADATA
+
+General:
+Author ID: 1385_0001768
+Test language: Italian
+CEFR level of test: A1
+Task : reschedule an appointment - ID: 1385_020100
+Mother tongue: German
+Age: 16
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Caro Daniele 
+ 
+Come stai? Io sto bene, 
+ma è una settimana orribile. In ufficio c'è molto lavoro e giovedì pomeriggio non posso incontrarvi con te. Io non ho tempo, perchè mio capo ha organizzato una riunione giovedì pomeriggio. 
+Hai voglio di un altro giorno per nostro incontro a sabato sera? Andiamo a cena in un ristorante tailandese? 
+ 
+ Cari saluti a presto. 
+         la tua amica  Maria

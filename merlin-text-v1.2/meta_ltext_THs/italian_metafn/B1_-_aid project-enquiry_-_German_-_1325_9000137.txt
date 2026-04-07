@@ -1,0 +1,55 @@
+METADATA
+
+General:
+Author ID: 1325_9000137
+Test language: Italian
+CEFR level of test: B2
+Task : inform oneself about an aid project - ID: 1325_030300-1
+Mother tongue: German
+Age: 20
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B2
+Orthography: C1
+Vocabulary range: B2
+Vocabulary control: B2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+a: Solidarietà Viva
+Viale Bruzzi 117
+21203 Milano 
+ITALIA
+                                             Città X, il 21.05.2011
+                                             Maria Rossi
+                                            Strada Maggiore 13
+                                            12345 Città X 
+                                            Paese X
+Cari Signori e Signore di Solidarietà Viva, 
+mi chiamo Maria Rossi e ho 19 anni. 
+Vivo in Paese X e ho studiato l'italiano in scuola. Finiscerò la scuola quest'anno e comincerò studiare la legge internazionale nei Paese Y. Dopo aver studiato, vorrei lavorare per organisazioni come Unicef o Amnesty international. Per questo motivo mi piacciono molto le vostre attività! Ho letto il vostro annuncio e subito ho voluto di aiutarvi! Penso che la vostra idea del materiale reciclabile sia fantastica e mi diverto molto quando vendo le cose nei mercantini dell'usato. Infatti, posso portare alcuni dei miei vestiti vecchi al campo per venderli. 
+Vorrei volentieri partecipare al primo campo, ma sfortunamente non sono libera. 
+Posso aiutarvi dal 29. luglio al 29. agosto.
+So che potrebbe essere difficile trovare un posto per me, ma dopo il 29 agosto, comincerò  studiare nei Paese Y. 
+Spero che posso aiutarvi!
+Allora, scrivetemi quando avete deciso in quale campo posso partecipare. 
+Sinceramente, 
+Maria Rossi         
+
+----------------
+
+Target hypothesis 1: 
+
+a : Solidarietà Viva Viale Bruzzi 117 21203 Milano ITALIA Città X , il 21.05.2011 Maria Rossi Strada Maggiore 13 12345 Città X Paese X Cari signori e signore di Solidarietà Viva , mi chiamo Maria Rossi e ho 19 anni . Vivo in Paese X e ho studiato l' italiano a scuola . Finirò la scuola quest' anno e comincerò a studiare legge internazionale nei Paese Y . Dopo aver studiato , vorrei lavorare per organizzazioni come UNICEF o Amnesty International . Per questo motivo mi piacciono molto le vostre attività ! Ho letto il vostro annuncio e subito ho voluto aiutarvi ! Penso che la vostra idea del materiale riciclabile sia fantastica e mi diverto molto quando vendo le cose nei mercatini dell' usato . Infatti , posso portare alcuni dei miei vestiti vecchi al campo per venderli . Vorrei partecipare al primo campo , ma sfortunamente non sono libera . Posso aiutarvi dal 29 luglio al 29 agosto . So che potrebbe essere difficile trovare un posto per me , ma dopo il 29 agosto comincerò a studiare nei Paese Y . Spero che posso aiutarvi ! Allora , scrivetemi quando avete deciso a quale campo posso partecipare . Sinceramente , Maria Rossi
+
+----------------
+
+Target hypothesis 2: 
+
+a : Solidarietà Viva Viale Bruzzi 117 21203 Milano ITALIA Città X , il 21.05.2011 Maria Rossi Strada Maggiore 13 12345 Città X Paese X Cari signori e signore di Solidarietà Viva , mi chiamo Maria Rossi e ho 19 anni . Vivo in Paese X e ho studiato l' italiano a scuola . Finirò la scuola quest' anno e comincerò a studiare diritto internazionale nei Paese Y . Dopo aver studiato , vorrei lavorare per organizzazioni come UNICEF o Amnesty International . Per questo motivo mi piacciono molto le vostre attività ! Ho letto il vostro annuncio e ho subito pensato di aiutarvi ! Penso che la vostra idea del materiale riciclabile sia fantastica . Mi diverto molto quando vendo le cose nei mercatini dell' usato perciò posso portare alcuni dei miei vestiti vecchi al campo per venderli . Vorrei partecipare al primo campo , ma sfortunatamente non sono libera . Posso aiutarvi dal 29 luglio al 29 agosto . So che potrebbe essere difficile trovare un posto per me , ma dopo il 29 agosto comincerò a studiare nei Paese Y . Spero che potrò aiutarvi ! Scrivetemi quando avete deciso a quale campo posso partecipare . Cordialmente , Maria Rossi

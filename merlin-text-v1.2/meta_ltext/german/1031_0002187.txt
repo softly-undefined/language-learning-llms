@@ -1,0 +1,27 @@
+METADATA
+
+General:
+Author ID: 1031_0002187
+Test language: German
+CEFR level of test: C1
+Task : reporting about the housing situation - ID: 1031_050300
+Mother tongue: English
+Age: 22
+Gender: female
+
+Rating:
+Overall CEFR rating: B2
+Grammatical accuracy: B2
+Orthography: C1
+Vocabulary range: C1
+Vocabulary control: B2
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: B2
+
+----------------
+
+Learner text: 
+
+Ein Haus, oder eine Wohnung zu mieten oder kaufen in Stadt X könnte entweder teuer oder billig sein. Das kommt darauf an die Ort und der Umgebung wo man leben möchte. Studenten, z.B., werden es immer schaffen Geld zu sparen, da es Studentenwohnungen gibt, die ganz billig und günstig sein könnten. Mansche Studenten suchen sich diese Studentenwohnungen, in Orten wie Stadtteil X oder Stadtteil Y aus, weil die Umgebung ganz lebendig und „Multikulti" sein könnte.
+Für Menschen, die ein ruhiges Leben erhalten wollen, die auch bereits sind, mehr Geld auszugeben, Orten wie Stadtteil Z wurde empfehlen. Orten in der Nähe von Zentralplatz bis Bahnhofsstraße wären die ideale Umgebung für Familien. Solche Straßen bieten immer freie Wohnungen an, die normalerweiße in der Ecke von dem Einkaufszentrum sind.
+Wenn man jedoch ein Haus kaufen möchte, man sollte aber auch bereit sein, mehrere Verantwortungen zu übernehmen. Im vergleich mit dem Mieten einer Wohnung ist das Hauskaufen schwieriger. Man achtet nicht nur auf die Ort wo man sein Haus haben möchte, aber auch auf die andere Voraussetzungen die immer nachgefragt wurden.

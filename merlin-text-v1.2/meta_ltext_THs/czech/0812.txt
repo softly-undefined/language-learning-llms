@@ -1,0 +1,44 @@
+METADATA
+
+General:
+Author ID: 0812
+Test language: Czech
+CEFR level of test: B1
+Task : answer to the email of Alena - ID: 1_Alena
+Mother tongue: German
+Age: not reported
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Ahoj Aleno, 
+jak se máš? Mám se dobře. Děkují Ti mnohokrát za Tvůj email. Těším se na  Tvůj návštěvu v Drážďany. Mám čas. Chtěla bych pozvat tě odpoledne na mi doma. Kdy přijdéš? Chtěla bych jít tě na nádraží. 
+Zajímá se o prázdninové kurzy češtiny. Kdy je ho? Kolik stojí prázdninové kurzy?   Můžeš poslat inzerát? Studium je fajn. Pracuju na diplomce. To je těžky. Ale vezmím čas pro tebe. Nemám plán, co budu dělat na dovolené. Chtěla bych cestovat do Prahy. Doufám, že  to  bude hezky.
+
+Pro dneška končím.
+Měj se dobře.
+Zatím ahoj.
+Tvoje Kateřina 
+
+----------------
+
+Target hypothesis 1: 
+
+Ahoj Aleno , jak se máš ? Mám se dobře . Děkuji Ti mnohokrát za Tvůj e-mail . Těším se na Tvoji návštěvu v Drážďanech . Mám čas . Chtěla bych Tě pozvat odpoledne ke mně doma . Kdy přijdeš ? Chtěla bych Ti jít na nádraží . Zajímá se o prázdninové kurzy češtiny . Kdy je to ? Kolik stojí prázdninové kurzy ? Můžeš poslat inzerát ? Studium je fajn . Pracuju na diplomce . To je těžké . Ale vezmu čas pro Tebe . Nemám plán , co budu dělat na dovolené . Chtěla bych cestovat do Prahy . Doufám , že to bude hezké . Pro dnešek končím . Měj se dobře . Zatím ahoj . Tvoje Kateřina
+
+----------------
+
+Target hypothesis 2: 
+
+Ahoj Aleno , jak se máš ? Mám se dobře . Děkuji Ti mnohokrát za Tvůj e-mail . Těším se na Tvoji návštěvu v Drážďanech . Mám čas . Chtěla bych Tě pozvat odpoledne ke mně domů . Kdy přijdeš ? Chtěla bych Ti jít na nádraží . Zajímá se o prázdninové kurzy češtiny . Kdy je to ? Kolik stojí prázdninové kurzy ? Můžeš poslat inzerát ? Studium je fajn . Pracuju na diplomce . To je těžké . Ale najdu si čas pro Tebe . Nemám plán , co budu dělat na dovolené . Chtěla bych cestovat do Prahy . Doufám , že to bude hezké . Pro dnešek končím . Měj se dobře . Zatím ahoj . Tvoje Kateřina

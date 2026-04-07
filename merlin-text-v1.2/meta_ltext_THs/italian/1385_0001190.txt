@@ -1,0 +1,42 @@
+METADATA
+
+General:
+Author ID: 1385_0001190
+Test language: Italian
+CEFR level of test: A1
+Task : reschedule an appointment - ID: 1385_020100
+Mother tongue: German
+Age: 43
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A1
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A1
+Coherence/Cohesion: A1
+Sociolinguistic appropriateness: A1
+
+----------------
+
+Learner text: 
+
+Ciao Daniele,
+Come stai? scusi tanto, 
+è una settimana orribile. In ufficio c'è molto lavoro e giovedì pomeriggio non posso  l'appuntamento con te, miei capo ha organizzato una riunione. 
+È bene per te un nuove incontro sabato sera? 
+Andiamo a cenare in un ristorante tailandese a Città X? 
+Dimmi quando è bene 
+a prossima          Maria
+
+----------------
+
+Target hypothesis 1: 
+
+Ciao Daniele , come stai ? Scusi tanto , è una settimana orribile . In ufficio c' è molto lavoro e giovedì pomeriggio non posso venire all' appuntamento con te , il mio capo ha organizzato una riunione . È bene per te un nuovo incontro sabato sera ? Andiamo a cenare in un ristorante tailandese a Città X ? Dimmi quando è bene . Alla prossima Maria
+
+----------------
+
+No target hypothesis 2 available.
+

@@ -1,0 +1,48 @@
+METADATA
+
+General:
+Author ID: 0926
+Test language: Czech
+CEFR level of test: B1
+Task : answer to the email of Jana - ID: 2_Jana
+Mother tongue: German
+Age: not reported
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B2
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Ahoj Jano, 
+děkuji Tí mnohokrát za Tvůj e-mail. Těšila jsem se z tvého e-mailu.  
+Mám moc černé svědomí, že jsem Tí už dlouho nepsala. 
+A teď mám zkoušky z češtiny a historie. Tak mám málo času a moc práce na univerzitě. Příští týden musím napsát seminární práce. 
+Jínak mam se dobře. V  březnu mám dovolenou. Myslím , že přijedu na velkou party. Mam čas a chuť. Doufám že přijědu v pátek odpoledne a odjědu v neděli večer. Jo to v pořádku? 
+Rada bych viděla městoX! Můžeme spolu jít na kostel. 
+A ještě jednu otázku, ráda bych věděla kde bydlíš v městěX? Napiš mi prosím  adresu a číslo tramvaje. Kolik stojí jízdenka? Neznám městoX, nejsem byla v městěX. Byla jsem jenom v městěY. To bylo moc hezké. 
+Těším se na naše setkání. Máš nějaké přání? Co si přeješ. Budeš už 30!!  Co můžu přinest? 
+Přeju vám krásnou dovolenou. 
+Pozdravuj Petra.
+Měj se hezky.
+Zatím ahoj.
+Tvoje Dano.
+
+----------------
+
+Target hypothesis 1: 
+
+Ahoj Jano , děkuji Ti mnohokrát za Tvůj e-mail . Těšila jsem se z Tvého e-mailu . Mám moc černé svědomí , že jsem Ti už dlouho nepsala . A teď mám zkoušky z češtiny a historie . Mám tak málo času a moc práce na univerzitě . Příští týden musím napsat seminární práci . Jinak se mám dobře . V březnu mám dovolenou . Myslím , že přijedu na velkou party . Mám čas a chuť . Doufám , že přijedu v pátek odpoledne a odjedu v neděli večer . Je to v pořádku ? Ráda bych viděla Prahu ! Můžeme spolu jít do kostela . A mám ještě jednu otázku , ráda bych věděla , kde bydlíš v Praze ? Napiš mi prosím adresu a číslo tramvaje . Kolik stojí jízdenka ? Neznám Prahu , nebyla jsem v Praze . Byla jsem jenom v Ústí nad Labem . To bylo moc hezké . Těším se na naše setkání . Máš nějaké přání ? Co si přeješ ? Budeš mít už 30 ! ! Co můžu přinést ? Přeju Vám krásnou dovolenou . Pozdravuj Petra . Měj se hezky . Zatím ahoj . Tvoje Julie .
+
+----------------
+
+No target hypothesis 2 available.
+

@@ -1,0 +1,33 @@
+METADATA
+
+General:
+Author ID: 1365_0100021
+Test language: Italian
+CEFR level of test: B1
+Task : answer to an wedding invitation - ID: 1365_020300
+Mother tongue: French
+Age: 48
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B2
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Città X il 30/08/10
+Cari amichi,
+Ho avuto vostra lettera, sono un pó sorpresa ma vi mando tutte le mie congratulaziono, molto felice.
+Vi ringrazio per l'invito ma non porrei venire perche ho trovato un nuovo lavoró é comminció il 15 ottobre al "Club ulivi" Per me fare perdonnare e  potere vedervi un pó, vi mando mio regalo: un biglietto con questa lettera.
+Vi ho affitato per una Settimana, un bungalow viccino al mare con formala pensione e molte animazione nello "Club Ulivi" un posto tranquillo
+Spero di recevere una vostra  lettera presto.
+Vi abbraccio molto affetuosamente 
+-unreadable-
+PS: 1 biglietto

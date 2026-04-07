@@ -1,0 +1,34 @@
+METADATA
+
+General:
+Author ID: 0615
+Test language: Czech
+CEFR level of test: B1
+Task : answer to the email of Alena - ID: 1_Alena
+Mother tongue: German
+Age: not reported
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: A2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Ahoj Aleno,
+děkuju Ty za Tvuj email. Jak se maš? Jak krasné, že měla hezkou dovolenu.
+Mám se dobře. Končila jsem zkoušky a teď plánuju  magisterskou práce. Nebudu mám čas za dovolenu, protože take musím pracovat - potřebuju peníze.
+Zamozřejmě mám čas,  kdyz přicházeš do Drážďan se radovám na Tebe. Když chceš, pozvám Ty doma v pátku odpoledne. Kdy přijedeš? Chtela bych Ty na nádraží.
+Prosím, můžeš poslat mně ten inzerát o prázdninove kurzy?  Chci  vědět, kdy začiná a kolík stojí. Nabít skutečně je zajímavě.  Snad se budu učastnit.
+
+Doufám, že  brzo bude duben a budu vidět  Tebe.
+
+Srdečně Tě zdravím
+Dana

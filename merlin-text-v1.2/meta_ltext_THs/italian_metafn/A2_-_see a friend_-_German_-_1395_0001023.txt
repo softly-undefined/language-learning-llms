@@ -1,0 +1,39 @@
+METADATA
+
+General:
+Author ID: 1395_0001023
+Test language: Italian
+CEFR level of test: A2
+Task : go see a friend - ID: 1395_040101
+Mother tongue: German
+Age: 15
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A1
+
+----------------
+
+Learner text: 
+
+Ciao Anna, 
+Come stai e come sta la tua famiglia?
+Abito a Città X in Paese X e la città è molto bene. Mi piacono molto i musei della città. Vado al liceo con il treno, ma arrivo a casa mia con il bus. Possiamo guardare la TV la sera o per esempio possiamo giocare al calcio la sera se sono a Roma. Che cosa fai la sera? Come può arrivare a casa sua se te voglio andare a trovare? E com'è la tua città? So che abiti a Roma, ma la città è bella? 
+Ciao, Maria
+
+----------------
+
+Target hypothesis 1: 
+
+Ciao Anna , come stai e come sta la tua famiglia ? Abito a Città X in Paese X e la città è molto bella . Mi piacciono molto i musei della città . Vado al liceo con il treno , ma arrivo a casa mia con il bus . Possiamo guardare la TV la sera o per esempio possiamo giocare a calcio la sera se sono a Roma . Che cosa fai la sera ? Come posso arrivare a casa sua se ti voglio andare a trovare ? E com' è la tua città ? So che abiti a Roma , ma la città è bella ? Ciao , Maria
+
+----------------
+
+No target hypothesis 2 available.
+

@@ -1,0 +1,30 @@
+METADATA
+
+General:
+Author ID: 1071_0024766
+Test language: German
+CEFR level of test: A1
+Task : congratulate to birth of child - ID: 1071_030101
+Mother tongue: Turkish
+Age: 29
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Lieber Jens,
+Herzliche Glückwünsche für Ihre Baby. Wie geht´s deine Frau und dein Baby? Und wie heißt Baby?
+Ich möchte am wochenende dir kommen. Ich bringe natürlich Babys Geschenk mit. :)
+Bis wochenende!
+Herzliche Grüße
+Maria

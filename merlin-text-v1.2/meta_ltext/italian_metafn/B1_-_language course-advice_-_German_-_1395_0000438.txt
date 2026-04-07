@@ -1,0 +1,27 @@
+METADATA
+
+General:
+Author ID: 1395_0000438
+Test language: Italian
+CEFR level of test: A2
+Task : inform friends about language course - ID: 1395_010300
+Mother tongue: German
+Age: 16
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B2
+Orthography: C2
+Vocabulary range: B2
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Cari amici,
+come state? Vorrei informarvi che sto benissimo. Come sapete già, sono in Italia a Città X per imparare l'italiano. Il tempo qui fa veramente caldo così che ho la possibilità di scoprire questa bella città. Ci sono molti monumenti da ammirare. Inoltre, si può anche fare dello shopping e mangiare i buoni piatti italiani. Qui ho accidentalmente incontrato il mio amico Michele, di cui vi ho spesso parlato, che anche frequenta questo corso di italiano. Le altre persone che frequentano il corso vengono di molti paesi diversi e sono assolutamente gentilissimi. Allora devo rincominciare a studiare per il esame che scrivremo domani. Sono felice di rivedervi presto! 
+A presto, il vostro amico Francesco

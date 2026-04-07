@@ -1,0 +1,39 @@
+METADATA
+
+General:
+Author ID: PHA0610019A
+Test language: Czech
+CEFR level of test: A2
+Task : write an email to a hotel - ID: A2PS0101_hotel
+Mother tongue: German
+Age: 4049
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: B1
+Orthography: A2
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A1
+
+----------------
+
+Learner text: 
+
+Dobrý den, 
+chtěla bych s kamerádkou jet na hory a hledame ještě hotel. Máte pro nás volný dvoulůzkový pokoj c sprchou a WC? Kolik to stoji, když zůstame 14 dní, od 1. 2 do 14. 2? Jake jídlo nabízete? Chtěli bychom snídat u vás, to by šlo? Chceme jezdit autem , máte parkoviště blízko hotelu? A existuje u vás také lyžařskou skolu? 
+Zdravím vás, Eva Černá
+
+----------------
+
+Target hypothesis 1: 
+
+Dobrý den , chtěla bych s kamarádkou jet na hory a hledáme ještě hotel . Máte pro nás volný dvoulůžkový pokoj se sprchou a WC ? Kolik to stojí , když zůstaneme 14 dní , od 1. 2. do 14. 2. ? Jaké jídlo nabízíte ? Chtěli bychom u Vás snídat , to by šlo ? Chceme jezdit autem , máte parkoviště blízko hotelu ? A existuje u Vás také lyžařská škola ? Zdravím Vás , Eva Černá
+
+----------------
+
+Target hypothesis 2: 
+
+Dobrý den , chtěli bychom s kamarádkou jet na hory a hledáme ještě hotel . Měli byste pro nás volný dvoulůžkový pokoj se sprchou a WC ? Kolik to stojí , když zůstaneme 14 dní , od 1. 2. do 14. 2. ? Jaké jídlo nabízíte ? Chtěli bychom u Vás snídat , to by šlo ? Chceme jet autem , máte parkoviště blízko hotelu ? A existuje u Vás také lyžařská škola ? Zdravím Vás , Eva Černá

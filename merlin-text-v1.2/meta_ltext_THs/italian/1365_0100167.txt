@@ -1,0 +1,43 @@
+METADATA
+
+General:
+Author ID: 1365_0100167
+Test language: Italian
+CEFR level of test: B1
+Task : answer to an wedding invitation - ID: 1365_020300
+Mother tongue: German
+Age: 18
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Cara Beatrice, caro Stefano,
+tanti auguri! È benissimo che decidono per il matrimonio. Poi cinque anni sarà tempo. Grazie mille per vogliono invitare Paolo e me. Ma Beatrice ... perchè non parli un po' di matrimonio quando telefoni con me? Spero trovari un vestito bellissimo. Ma, come conosco to, è tuo vestito il più bello del mondo. Puoi mandare una foto a me? Quando scrivo la lettera, prendo il mano di Paolo e vanno nella cità in due. Ne faccio lo shopping. Cerco un vestito e forse ancora le scarpe nuove o la giacca nuova. Lascio pagare Paolo. 
+Vedono, è sicuro che vanno. 
+Posso aiutare con qualcosa? Parlano quando hanno bisogna l'aiuto. 
+Conosco che desiderano per il matrimonio. Paolo ha parlato con tua madre, Stefano. Saranno felice perchè il regalo ma anche perchè il matrimonio. 
+Vedono al matrimonio. 
+Con tanti saluti.
+Francesca 
+
+----------------
+
+Target hypothesis 1: 
+
+Cara Beatrice , caro Stefano , tanti auguri ! È benissimo che decidano per il matrimonio . Dopo cinque anni sarà tempo . Grazie mille per voler invitare Paolo e me . Ma Beatrice , perché non parli un po' del matrimonio quando mi telefoni ? Spero di trovare un vestito bellissimo . Ma , come ti conosco , il tuo vestito è il più bello del mondo . Puoi mandare una foto a me ? Quando scrivo la lettera , prendo la mano di Paolo e andiamo in città in due . Faccio lo shopping . Cerco un vestito e forse anche le scarpe nuove o la giacca nuova . Lascio pagare Paolo . È sicuro che vanno . Posso aiutare con qualcosa ? Parlano quando hanno bisogno di aiuto . Conosco che desiderano per il matrimonio . Paolo ha parlato con tua madre , Stefano . Saranno felici per il regalo ma anche per il matrimonio . Ci vedono al matrimonio . Con tanti saluti . Francesca
+
+----------------
+
+No target hypothesis 2 available.
+

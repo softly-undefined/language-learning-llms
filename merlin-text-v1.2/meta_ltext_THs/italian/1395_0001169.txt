@@ -1,0 +1,44 @@
+METADATA
+
+General:
+Author ID: 1395_0001169
+Test language: Italian
+CEFR level of test: A2
+Task : inform friends about language course - ID: 1395_010300
+Mother tongue: German
+Age: 21
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Cari amici,
+tanti saluti da Città X. 
+Sto facendo un corso di italiano in strada maggiore . 
+La mia insegnante si chiama Carla. Lei è davvero brava e mi aiuta molto d'imparare la lingua italiana. Per questo sto benissimo. 
+Nel mio tempo libro  mi godo il sole e faccio lo shopping. Ho visto già tante belle cose ... Spero che anche voi state bene... 
+Purtroppo tra due settimane devo ritornare a casa. 
+A presto! Bacio! 
+       Maria
+
+----------------
+
+Target hypothesis 1: 
+
+Cari amici , tanti saluti da Città X . Sto facendo un corso di italiano in strada Maggiore . La mia insegnante si chiama Carla . Lei è davvero brava e mi aiuta molto a imparare la lingua italiana . Per questo sto benissimo . Nel mio tempo libero mi godo il sole e faccio lo shopping . Ho visto già tante belle cose ... Spero che anche voi stiate bene ... Purtroppo tra due settimane devo ritornare a casa . A presto ! Bacio ! Maria
+
+----------------
+
+Target hypothesis 2: 
+
+Cari amici , tanti saluti da Città X . Sto facendo un corso di italiano in strada Maggiore . La mia insegnante si chiama Carla . Lei è davvero brava e mi aiuta molto a imparare la lingua italiana . Per questo sto benissimo . Nel mio tempo libero mi godo il sole e faccio lo shopping . Ho visto già tante belle cose ... Spero che anche voi stiate bene ... Purtroppo tra due settimane devo ritornare a casa . A presto ! Bacio ! Maria

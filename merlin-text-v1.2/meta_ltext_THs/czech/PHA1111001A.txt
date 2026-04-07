@@ -1,0 +1,39 @@
+METADATA
+
+General:
+Author ID: PHA1111001A
+Test language: Czech
+CEFR level of test: A2
+Task : answering on a birthday invitation - ID: A2PS0102_oslava
+Mother tongue: Other
+Age: 2029
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Ahoj Evo!
+Jak se máš? Jsem dobře. Neviděla jsem ti už dlouho. Děkuji za přihlašku. Jistě přijdu. Promiň, ale nevím Kolik je ti let? Máme už pěkný dárek, určitě se tí líbí. Kde budete oslavovat? 
+Nevím ještě kdy přijedu, protože mám hodně prace a skouzky na univerzitě. Příští tyden napíšu tí ještě jeden e-mail. O vikendu půjdu na nádraží pro jízdenky. 
+Mnoho bude hostů? Bude sestra z Ameriky? Pojedeme na chatu nebo budeme na vsi u babičky?
+
+----------------
+
+Target hypothesis 1: 
+
+Ahoj Evo ! Jak se máš ? Jsem dobře . Neviděla jsem tě už dlouho . Děkuji za přihlášku . Jistě přijdu . Promiň , ale nevím , kolik je ti let ? Mám už pěkný dárek , určitě se ti bude líbit . Kde budete oslavovat ? Ještě nevím , kdy přijedu , protože mám hodně práce a zkoušky na univerzitě . Příští týden ti napíšu ještě jeden e-mail . O víkendu půjdu na nádraží pro jízdenky . Bude mnoho hostů ? Bude tam sestra z Ameriky ? Pojedeme na chatu nebo budeme na vsi u babičky ?
+
+----------------
+
+No target hypothesis 2 available.
+

@@ -1,0 +1,28 @@
+METADATA
+
+General:
+Author ID: 1061_0120309
+Test language: German
+CEFR level of test: B1
+Task : write a letter to a friend (birthday) - ID: 1061_170900
+Mother tongue: Russian
+Age: 52
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Liebe Silke!
+Vielen Dank für ihre Brief. Uns geht es ganz gut. Ich möge Tiere auch gut. Ich möchte gerne ein beby hund zum geburstag becommen Leider habe ich keine zeit zur besuch. Sehr viel arbeit!
+bis bald
+Stefan

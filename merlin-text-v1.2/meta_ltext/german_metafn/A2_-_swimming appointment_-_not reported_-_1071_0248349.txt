@@ -1,0 +1,28 @@
+METADATA
+
+General:
+Author ID: 1071_0248349
+Test language: German
+CEFR level of test: A1
+Task : arrange appointment with friend to go swimming together - ID: 1071_120302
+Mother tongue: not reported
+Age: 36
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: A1
+Vocabulary control: A1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Liebe Daniela.
+Ich möchte am Samstag mit Dir Schwimmen gehen. Ich Danke du komst mit. Kanst do ein Bisen getrenk mit bringen. ich holen essen mit.
+mit freundlile Grüß
+Tobias

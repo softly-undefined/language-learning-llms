@@ -1,0 +1,29 @@
+METADATA
+
+General:
+Author ID: 1071_0243582
+Test language: German
+CEFR level of test: A1
+Task : arrange appointment with friend to go swimming together - ID: 1071_120302
+Mother tongue: Arabic
+Age: 28
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A1
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Liebe Daniela,
+wie geht es Dir?
+Ich möchte mit Dir zum schwimmen gehen. Wir kann am Sammstag bie mir zu Hause treffen und ins Schwimbad zusamen gehen. Do sollt dein schwimmen Sachen mit bringen. Kannst Do gehen mit ? Ruf mich an bitte. 
+Viele Gruße,
+Dein Freunde M.

@@ -1,0 +1,40 @@
+METADATA
+
+General:
+Author ID: 1395_0000549
+Test language: Italian
+CEFR level of test: A2
+Task : contact a friend after a long time - ID: 1395_020300
+Mother tongue: German
+Age: 31
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Caro Salvo,
+fa molto che non ti sento. Come va la tua vita? Sto abbastanza bene, quasi ho finito l'università. Dopo vado vedere che cosa faccio perchè anche depende del mio ragazzo chi lavora qui.
+Quest'estate abbiamo fatto un viaggio corto a Sicilia. Noi ha piaciuto molto e certamente ritorniamo in altro momento. Solo siami rimasti per una settimana mà il tempo è stato sempre bello. Come va il tuo lavoro? Ancora sei in quello negozzio di telefonino? Anche fammi sapere se tutto sta in ordine con la tua famiglia. Fino ad allora, tanti saluti,
+Maria
+
+----------------
+
+Target hypothesis 1: 
+
+Caro Salvo , fa molto che non ti sento . Come va la tua vita ? Sto abbastanza bene , ho quasi finito l' università . Dopo devo vedere che cosa faccio perché dipende anche dal mio ragazzo che lavora qui . Quest' estate abbiamo fatto un viaggio corto in Sicilia . Ci è piaciuto molto e certamente ritorneremo in un altro momento . Siamo rimasti solo per una settimana ma il tempo è stato sempre bello . Come va il tuo lavoro ? Sei ancora in quel negozio di telefonini ? Fammi sapere anche se tutto sta in ordine con la tua famiglia . Fino ad allora , tanti saluti , Maria
+
+----------------
+
+Target hypothesis 2: 
+
+Caro Salvo , è molto che non ti sento . Come va la tua vita ? Sto abbastanza bene , ho quasi finito l' università . Dopo devo decidere che cosa fare perché dipende anche dal mio ragazzo che lavora qui . Quest' estate abbiamo fatto un breve viaggio in Sicilia . Ci è piaciuto molto e certamente ci ritorniamo in un altro momento . Siamo rimasti solo per una settimana ma il tempo è stato sempre bello . Come va il tuo lavoro ? Sei ancora in quel negozio di telefonini ? Fammi sapere anche se tutto è in ordine con la tua famiglia . Fino ad allora , tanti saluti , Maria

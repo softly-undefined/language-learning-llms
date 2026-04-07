@@ -1,0 +1,42 @@
+METADATA
+
+General:
+Author ID: 1385_0001765
+Test language: Italian
+CEFR level of test: A1
+Task : reschedule an appointment - ID: 1385_020100
+Mother tongue: German
+Age: 33
+Gender: male
+
+Rating:
+Overall CEFR rating: A1
+Grammatical accuracy: A1
+Orthography: A1
+Vocabulary range: A1
+Vocabulary control: A1
+Coherence/Cohesion: 0
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Caro Daniele 
+Io non potete incontravi. 
+Ho In ufficio c'è molto Lavoro. 
+ 
+Io vado a cena di ristorante tailandese è sabato sera. 
+ 
+ Salute Michele
+
+----------------
+
+Target hypothesis 1: 
+
+Caro Daniele , io non posso incontrarvi . In ufficio c' è molto lavoro . Io vado a cena in un ristorante tailandese sabato sera . Saluti Michele
+
+----------------
+
+No target hypothesis 2 available.
+

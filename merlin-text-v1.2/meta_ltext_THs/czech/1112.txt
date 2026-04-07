@@ -1,0 +1,44 @@
+METADATA
+
+General:
+Author ID: 1112
+Test language: Czech
+CEFR level of test: B1
+Task : answer to the email of a Tandem agency - ID: 4_Katerina
+Mother tongue: German
+Age: not reported
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: A2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Ahoj Kateřina,
+děkuju za informace, ale mám další otázky. Chtěl bych mit  jazýkový kurz v červenci, protoze v zaři bude zase hodně pracovat a špatně můžu jit na dovolenou. Bohužel jsem uviděl, že kurz vstahuje se k 04.08.11., protože budu mit schůzku a chtěl bych vědět, zda přece  ukončím kurz. Jistě néni problém.
+Měl jsem četinu od roku 2010 a  dosahoval jsem uroveň B1, doufám, že je dobře. V kurzovi  jsme potřebovali "Tshechisch Schvilt frei Schilt"  od Lidy Holy - možna muz̊u zase použit. Měl bych zájem.  Je taky možnost, začinat stipendium?  Měl bych vád, kdybys  posilála informace na ubytování, pomůžeš mi moc.
+Doufám, že zlepším moje češtinu a můžu dovědět víc přes češtinu a české republice. Byl jsem v české republici 2010, když  jsem měl exkurze. bylí jsme v Praha X, v Brně Y a na pálavské vrchni. To byl moc hezký.
+Když mam  dalši otázky, budu  napsat ti.
+Děkuju ještě jednou
+se srdečným pozdravem
+ Lukáš Novák 
+
+----------------
+
+Target hypothesis 1: 
+
+Ahoj Kateřino , děkuju za informace , ale mám další otázky . Chtěl bych mít jazykový kurz v červenci , protože v září budu zase hodně pracovat a špatně můžu jít na dovolenou . Bohužel jsem viděl , že kurz se vztahuje k 04.08.11 , protože budu mít schůzku , chtěl bych vědět , zda přece ukončím kurz . Jistě to není problém . Měl jsem češtinu od roku 2010 a dosáhl jsem úrovně B1 , doufám , že je dobrá . V kurzu jsme potřebovali " Tschechisch Schritt für Schritt " od Lídy Holé - možná ji můžu zase použít . Měl bych zájem . Je taky možnost začít stipendium ? Byl bych rád , kdybys mi poslala informace k ubytování , moc mi pomůžeš . Doufám , že zlepším svoji češtinu a můžu se dovědět víc o češtině a České republice . Byl jsem v České republice v roce 2010 , když jsem měl exkurzi . Byli jsme v Praze , v Brně a na Pálavských vrchách . To bylo moc hezké . Když budu mít další otázky , napíšu ti . Děkuju ještě jednou . Se srdečným pozdravem Lukáš Novák
+
+----------------
+
+Target hypothesis 2: 
+
+Ahoj Kateřino , děkuju za informace , ale mám další otázky . Chtěl bych mít jazykový kurz v červenci , protože v září budu zase hodně pracovat a těžko můžu jet na dovolenou . Bohužel jsem viděl , že kurz se vztahuje k 04.08.11 , protože budu mít schůzku , chtěl bych vědět , zda vlastně ukončím kurz . Jistě to není problém . Měl jsem češtinu od roku 2010 a dosáhl jsem úrovně B1 , doufám , že je dobrá . V kurzu jsme používali " Tschechisch Schritt für Schritt " od Lídy Holé - možná ji můžu zase použít . Měl bych zájem . Je taky možnost dostat stipendium ? Byl bych rád , kdybys mi poslala informace k ubytování , moc mi pomůžeš . Doufám , že zlepším svoji češtinu a můžu se dovědět víc o češtině a České republice . Byl jsem v České republice v roce 2010 , když jsem měl exkurzi . Byli jsme v Praze , v Brně a na Pálavských vrchách . To bylo moc hezké . Když budu mít další otázky , napíšu ti . Děkuju ještě jednou . Se srdečným pozdravem Lukáš Novák

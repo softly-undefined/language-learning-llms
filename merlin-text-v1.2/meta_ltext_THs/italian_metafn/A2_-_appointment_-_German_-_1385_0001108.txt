@@ -1,0 +1,40 @@
+METADATA
+
+General:
+Author ID: 1385_0001108
+Test language: Italian
+CEFR level of test: A1
+Task : reschedule an appointment - ID: 1385_020100
+Mother tongue: German
+Age: 19
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Caro Daniele,
+è una settimana orribile. 
+In ufficio c'è molto lavoro e giovedì pomeriggio non posso venire per incontrarti, perchè il mio capo ha organizzato una riunione al questo dato. Ci possiamo incontrare  sabato sera e  andiamo  cena in un ristorante tailandese.
+Hai voglia? Hai tempo?
+Scrivimi presto!
+
+----------------
+
+Target hypothesis 1: 
+
+Caro Daniele , è una settimana orribile . In ufficio c' è molto lavoro e giovedì pomeriggio non posso venire per incontrarti , perché il mio capo ha organizzato una riunione in questa data . Ci possiamo incontrare sabato sera e andiamo a cena in un ristorante tailandese . Hai voglia ? Hai tempo ? Scrivimi presto !
+
+----------------
+
+No target hypothesis 2 available.
+

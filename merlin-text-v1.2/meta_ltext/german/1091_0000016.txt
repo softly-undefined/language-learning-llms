@@ -1,0 +1,30 @@
+METADATA
+
+General:
+Author ID: 1091_0000016
+Test language: German
+CEFR level of test: A2
+Task : offer a ticket not used to a friend - ID: 1091_0690403
+Mother tongue: not reported
+Age: 43
+Gender: female
+
+Rating:
+Overall CEFR rating: A1
+Grammatical accuracy: A1
+Orthography: A2
+Vocabulary range: A1
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+                                     Stadt X, 05.01.2012
+Liebe Julia,
+ich habe eine Fahrkarte für einen Wohe nach Köln. gehen. Leider konnte ich nicht gehen. Ich war krank.
+Vielen Dank für Ihre Hilfe
+Viele Grüße
+Eva Müller

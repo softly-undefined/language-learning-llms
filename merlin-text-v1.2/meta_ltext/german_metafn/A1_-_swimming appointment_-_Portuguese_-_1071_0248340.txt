@@ -1,0 +1,28 @@
+METADATA
+
+General:
+Author ID: 1071_0248340
+Test language: German
+CEFR level of test: A1
+Task : arrange appointment with friend to go swimming together - ID: 1071_120302
+Mother tongue: Portuguese
+Age: 45
+Gender: male
+
+Rating:
+Overall CEFR rating: A1
+Grammatical accuracy: A1
+Orthography: A2
+Vocabulary range: A1
+Vocabulary control: A1
+Coherence/Cohesion: A1
+Sociolinguistic appropriateness: A1
+
+----------------
+
+Learner text: 
+
+MORGEN
+MEIN LIEBE DANIELA VIELES DU NACH MITTAGE EM SCHWIMMENBAD MIT UNS.
+TREFEN UN 2 UHR AN BAHNHOF SCHUSS EIN SCHON GRUß FON MIER.
+                                                 STEFAN

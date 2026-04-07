@@ -1,0 +1,31 @@
+METADATA
+
+General:
+Author ID: 1091_0000263
+Test language: German
+CEFR level of test: A2
+Task : offer a ticket not used to a friend - ID: 1091_0690403
+Mother tongue: not reported
+Age: 33
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B2
+Orthography: C1
+Vocabulary range: B1
+Vocabulary control: B2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B2
+
+----------------
+
+Learner text: 
+
+                                 Stadt X den 13 März 2012
+                   Liebe Julia,
+           Ich habe eine Fahrkarte für einen wochenendausflug gekauft. Ich wollte der Dom aus Stadt Y besuchen. Aber ich kann nicht fahren, weil ich mit meiner Kleinen Nichte bleiben muss. Meine Schwester mit meinem Schwager machen den Urlaub und sind nicht zu Hause.
+         Möchtest du diese Fahrkarte? Der Ausflug ist am 12 April. Die Fahrkarte ist für den Zug und die Bahnhof ist in der Nähe dem Dom. Du kannst zu Fuß bis dort gehen.
+        Ich warte auf deine baldige Antwort! 
+       Viele Grüßen! 
+                                Friedrich

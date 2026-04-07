@@ -1,0 +1,39 @@
+METADATA
+
+General:
+Author ID: 1091_0000207
+Test language: German
+CEFR level of test: A2
+Task : letter to housing office - ID: 1091_0610301
+Mother tongue: not reported
+Age: 33
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Müller Stefan
+Bahnhofsstr. 123
+12345 Stadt X
+ 
+Wohnungsamt 
+Müllergasse 2
+54321 Stadt Y                                Stadt X den 10 März 2012
+Wohnungsuchen
+Sehr geehte Damen und Herren,
+ich heiße Stefan Müller und ich bin Ingenieur von Beruf. Privat wird meine Situation verändert. Ich muss eine Ausbildung in Stadt Y machen. Deshalb ich muss eine Wohnung suchen. Können Sie mir helfen? Können Sie eine Wohnung vermieten?
+Ich suche eine Wohnung mit zwei Zimmer, ein WC und eine Küche. Ich möchte auch meine Zimmer eine Tiefgarage haben. Es ist möglich auch ein Balkon haben?
+Ich verdiene nicht so viel Geld. Ich verdiene 1000 €. Wie hoch ist die Miete?
+Ich hoffe auf eine baldige Antwort.
+Mit freundlichen Grüßen!
+Stefan Müller

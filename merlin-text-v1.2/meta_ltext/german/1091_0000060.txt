@@ -1,0 +1,28 @@
+METADATA
+
+General:
+Author ID: 1091_0000060
+Test language: German
+CEFR level of test: A2
+Task : ask friend to take care of pet - ID: 1091_0650102
+Mother tongue: Polish
+Age: 52
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B2
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B2
+
+----------------
+
+Learner text: 
+
+Liebe Maria,
+Wie geht es Dir? Mir gehts gut. Ich habe neue Arbeit gefunden. Gefällt mir sehr,  aber habe  ich ein Problem. Ich muß ins Ausland auf drei Tage fahren ,  und kann ich mein Hund nicht mitnehmen. Aus diesem Grund stelle ich dir eine Frage, ob  kannst du um meinem Hund kümmern? Ich warte ungeduldig auf deine positive Antwort. Du kennst mein Yorkshire sehr gut und weisst, dass er sehr lieb ist.  
+Schöne Grüße!
+ Eva

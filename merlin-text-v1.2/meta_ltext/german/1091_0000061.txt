@@ -1,0 +1,27 @@
+METADATA
+
+General:
+Author ID: 1091_0000061
+Test language: German
+CEFR level of test: A2
+Task : ask friend to take care of pet - ID: 1091_0650102
+Mother tongue: Polish
+Age: 53
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: B1
+Orthography: B2
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Liebe Maria
+Weil ich ab dem 3 März mache urlaub bitte aufpassen auf maine katze, Nur 2 mal pro tag futer und geben milch
+Danke Stefan

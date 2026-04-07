@@ -1,0 +1,29 @@
+METADATA
+
+General:
+Author ID: 1091_0000009
+Test language: German
+CEFR level of test: A2
+Task : offer a ticket not used to a friend - ID: 1091_0690403
+Mother tongue: Arabic
+Age: 62
+Gender: female
+
+Rating:
+Overall CEFR rating: A1
+Grammatical accuracy: A1
+Orthography: A2
+Vocabulary range: A1
+Vocabulary control: A1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A1
+
+----------------
+
+Learner text: 
+
+Hallo Julia
+Ich haben eine Fahrkarte meine Sona
+einen Wochenendausflug gekauft Leider känn ich nicht fahren Fragen.
+Ich gehe Senter und Kerche möchtes du Fragen. Kannst du das Ticket mehrem u fahren
+Viel Gruße Danke

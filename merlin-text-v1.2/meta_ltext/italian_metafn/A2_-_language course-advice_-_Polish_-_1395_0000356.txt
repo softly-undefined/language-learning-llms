@@ -1,0 +1,30 @@
+METADATA
+
+General:
+Author ID: 1395_0000356
+Test language: Italian
+CEFR level of test: A2
+Task : inform friends about language course - ID: 1395_010300
+Mother tongue: Polish
+Age: 24
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Città X, 16/04/2010
+Ciao Franco,
+come stai? Io sto bene ed adesso sono a Città X. Studio nella scuola di lingua italiana. Sono qui con la mia amica Maria. Quando non c'è lezione visitano insieme i musei fiorentini.
+Ci vediamo a Città X!
+Un abbraccio forte,
+Eva

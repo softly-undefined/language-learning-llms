@@ -1,0 +1,40 @@
+METADATA
+
+General:
+Author ID: 1395_0001108
+Test language: Italian
+CEFR level of test: A2
+Task : go see a friend - ID: 1395_040101
+Mother tongue: German
+Age: 23
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A1
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A1
+Coherence/Cohesion: A1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Ciao Paolo, 
+Come stai? La tua famiglia tutto bene? Arrivo lunedi prossima alle 14.00 a Città X e alle 15.00 00 a tua casa. Va bene per te? Martedi, io vuole visitare Città X  perche in un altro lettera tu scritto, Città X e una interessante città. Sono per tre giorni in Città X e vuole sapere tutti della città. 
+Tanti saluti
+Maria  
+
+----------------
+
+Target hypothesis 1: 
+
+Ciao Paolo , come stai ? La tua famiglia sta tutto bene ? Arrivo lunedì prossimo alle 14.00 a Città X e alle 15.00 a casa tua . Va bene per te ? Martedì io voglio visitare Città X perché in un' altra lettera tu hai scritto che Città X è una città interessante . Sono per tre giorni a Città X e voglio sapere tutto della città . Tanti saluti , Maria
+
+----------------
+
+Target hypothesis 2: 
+
+Ciao Paolo , come stai ? Alla tua famiglia va tutto bene ? Arrivo lunedì prossimo alle 14.00 a Città X e alle 15.00 a casa tua . Va bene per te ? Martedì io voglio visitare Città X perché in un' altra lettera tu hai scritto che Città X è una città interessante . Sono per tre giorni a Città X e voglio sapere tutto della città . Tanti saluti , Maria

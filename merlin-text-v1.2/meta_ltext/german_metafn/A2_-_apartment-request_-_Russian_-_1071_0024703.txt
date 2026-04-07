@@ -1,0 +1,28 @@
+METADATA
+
+General:
+Author ID: 1071_0024703
+Test language: German
+CEFR level of test: A1
+Task : ask friend for help for finding apartment - ID: 1071_020200
+Mother tongue: Russian
+Age: 31
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Liebe Ingo!
+Ich habe eine neue Arbeit gefunden. Am September 5, möchte Ich nach Neuburg umziehen. Kannst du mir helfen? Ich brauche eine große wohnung, ca 100m² mit Balkon, und kuche. Hast du ein Zeit mir helfen?
+Liebe Gruße,
+Michael

@@ -1,0 +1,44 @@
+METADATA
+
+General:
+Author ID: 0929
+Test language: Czech
+CEFR level of test: B1
+Task : answer to the email of Jana - ID: 2_Jana
+Mother tongue: German
+Age: not reported
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A1
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A1
+
+----------------
+
+Learner text: 
+
+Ahoj Jana,
+těšim se mě z tvojeho dopisu. Mám se dobře a zkoušek nebýli těška. Teď mám dovolenu a dělam moc tělocvik. Mám rada tělocvik, co znáš. Itálie je dobře. Byla jsem v Římě minuly rok na dva týdny. Napiješ mě dopisnihu?
+V březnu mám čas a připojedu do Prahy a setkám váš. Těším mě, že mouším ře-unreadable- češtinu s kameradech česke. Chtěl bych stávat o víkendu a půjedu pro Prahy. Kdýž počasi bude špátně, pojedeme na vystávu a na museu. Jaká je tvůj adresa? Prosim pišeš mě jak metro musím  od hlávného nádraži. Kolik stojí jízdenku? Viš?
+Znáš darku pro tebe? Přináším ještě jine?
+Mám jednou novinu pro tébe. David je hotovo a nepišeš diplomce. Už  pracuješ v malého firmě v centru. To je blizko parku a moušiš jet tramavaji. Teď  máme víc penize a koupime nové auto, protože staré auto neopravoje. 
+Teď musím uklizet být. Dostáme návštevu o víkendu. Přam ti i Martin hezkou dovolenu v Italii. Doufám počasi nebude spátně na přisty týdný.
+Uvidime nás v březnu.
+Tvůj Sabine.
+
+----------------
+
+Target hypothesis 1: 
+
+Ahoj Jano , těším se z tvého dopisu . Mám se dobře a zkoušky nebyly těžké . Teď mám dovolenou a dělám moc tělocviku . Mám ráda tělocvik , co znáš . Itálie je dobrá . Byla jsem v Římě minulý rok na dva týdny . Napíšeš mi dopis ? V březnu mám čas a přijedu do Prahy a setkám se s vámi . Těší mě , že můžu ře-unreadable- češtinu s kamarádem česky . Chtěla bych zůstat o víkendu a pojedu do Prahy . Když počasí bude špatné , pojedeme na výstavu a do muzea . Jaká je tvoje adresa ? Prosím napíšeš mně , jakým metrem musím jet od hlavního nádraží . Kolik stojí jízdenka ? Víš ? Jaký dárek chceš ? Přinesu ještě jiné . Mám jednu novinu pro tebe . David je hotový a nepíše diplomku . Už pracuje v malé firmě v centru . To je blízko parku a musíš jet tramvají . Teď máme víc peněz a koupíme nové auto , protože staré auto neopravíme . Teď musím uklízet byt . Dostaneme návštevu o víkendu . Přeju ti i Martinovi hezkou dovolenou v Itálii . Doufám , že počasí nebude špatné příští týdny . Uvidíme vás v březnu . Tvoje Sabine .
+
+----------------
+
+Target hypothesis 2: 
+
+Ahoj Jano , těším se z tvého dopisu . Mám se dobře a zkoušky nebyly těžké . Teď mám dovolenou a hodně cvičím . Mám ráda tělocvik , to víš . Itálie je dobrá . Byla jsem v Římě minulý rok na dva týdny . Napíšeš mi dopis ? V březnu mám čas a přijedu do Prahy a setkám se s vámi . Těší mě , že můžu ře-unreadable- češtinu s kamarádem česky . Chtěla bych zůstat o víkendu a pojedu do Prahy . Když počasí bude špatné , pojedeme na výstavu a do muzea . Jaká je tvoje adresa ? Prosím napíšeš mně , jakým metrem musím jet od hlavního nádraží ? Kolik stojí jízdenka ? Víš ? Jaký dárek chceš ? Přivezu ještě jiné . Mám jednu novinu pro tebe . David je hotový a nepíše diplomku . Už pracuje v malé firmě v centru . To je blízko parku a musíš jet tramvají . Teď máme víc peněz a koupíme nové auto , protože staré auto neopravíme . Teď musím uklízet byt . Čekáme návštevu o víkendu . Přeju ti i Martinovi hezkou dovolenou v Itálii . Doufám , že počasí nebude špatné příští týdny . Uvidíme vás v březnu . Tvoje Sabine .

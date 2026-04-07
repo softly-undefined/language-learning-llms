@@ -1,0 +1,52 @@
+METADATA
+
+General:
+Author ID: 1325_1001133
+Test language: Italian
+CEFR level of test: B2
+Task : describe experiences with language learning - ID: 1325_040300-1
+Mother tongue: Hungarian
+Age: 18
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: C2
+Vocabulary range: B2
+Vocabulary control: B2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Dipartimento di Linguistica 
+Teorica e Applicata, 
+Università degli Studi di Pavia,                                      Maria Rossi 
+Corso Strada Nuova, 55                                                Strada Maggiore 59 
+27100 Pavia, Italia                                                         1234 Città X
+                                                                                     Paese X 
+                                                                                     22.01.2012 
+Spettabile Scuola di Lingua, 
+Egregio Gabriella Favati, 
+ho letto il Vostro opportunità su Internet. Desidero sottoporre alla Vostra attenzione la mia candidatura. Credo di essere adatta ai vostri requisti  richiesti. 
+Sono Maria Rossi. Ho 25 anni. Abito in Città X in Paese X. Nel 2004 ho ricevuto il mio diploma di maturità nel Liceo linguistico. 
+Ho un'ottima comprensione e produzione sia scritto che orale della lingua inglese, tedesco e italiano. Ho studiatto inglese per 12 anni, tedesco e italiano 4 anni. Studio cinese da mezz'anno. Ho lavorato in Inghilterra, Italia. Ho fatto tanti amici stranieri e parlo con loro ogni giorno su Facebook. 
+Ho soli buoni esperienzi personale nel corso dell'apprendimento delle lingue. Secondo me per imparare la lingua dobbiamo praticare tanto. Vorrei conoscere tante lingie  perche posso parlare con tanta gente. 
+                                                       Distinti saluti
+                                                      Maria Rossi
+In allegato Vi mando le fotocopiei dei miei certificati. Credo che potere aiutarVi. 
+
+----------------
+
+Target hypothesis 1: 
+
+Dipartimento di Linguistica Teorica e Applicata , Università degli Studi di Pavia , Maria Rossi Corso Strada Nuova , 55 Strada Maggiore 59 27100 Pavia , Italia 1234 Città X Paese X 22.01.2012 Spettabile Scuola di Lingua , Egregia Gabriella Favati , ho letto la Vostra opportunità su Internet . Desidero sottoporre alla Vostra attenzione la mia candidatura . Credo di essere adatta ai vostri requisti richiesti . Sono Maria Rossi . Ho 25 anni . Abito a Città X in Paese X . Nel 2004 ho ricevuto il mio diploma di maturità al liceo linguistico . Ho un' ottima comprensione e produzione sia scritta che orale della lingua inglese , tedesca e italiana . Ho studiato inglese per 12 anni , tedesco e italiano 4 anni . Studio cinese da mezz' anno . Ho lavorato in Inghilterra e in Italia . Ho fatto tanti amici stranieri e parlo con loro ogni giorno su Facebook . Ho avuto solo buone esperienze personali nel corso dell' apprendimento delle lingue . Secondo me per imparare una lingua dobbiamo praticare tanto . Vorrei conoscere tante lingue perché così posso parlare con tanta gente . Distinti saluti Maria Rossi In allegato Vi mando le fotocopie dei miei certificati . Credo che possano aiutarVi
+
+----------------
+
+Target hypothesis 2: 
+
+Dipartimento di Linguistica Teorica e Applicata , Università degli Studi di Pavia , Maria Rossi Corso Strada Nuova , 55 Strada Maggiore 59 27100 Pavia , Italia 1234 Città X Paese X 22.01.2012 Spettabile Scuola di Lingua , Gentile Gabriella Favati , ho letto la Sua inserzione su Internet . Desidero sottoporre alla Sua attenzione la mia candidatura . Credo di essere adatta ai requisti richiesti . Sono Maria Rossi . Ho 25 anni . Abito a Città X in Paese X . Nel 2004 ho ottenuto il mio diploma di maturità al liceo linguistico . Ho un' ottima comprensione e produzione sia scritta che orale della lingua inglese , tedesca e italiana . Ho studiato inglese per 12 anni , tedesco e italiano 4 anni . Studio cinese da mezz' anno . Ho lavorato in Inghilterra e in Italia . Mi sono fatto tanti amici stranieri e parlo con loro ogni giorno su Facebook . Ho avuto solo buone esperienze personali nel corso dell' apprendimento delle lingue . Secondo me per imparare una lingua dobbiamo praticare tanto . Vorrei conoscere tante lingue perché così posso parlare con tanta gente . Distinti saluti Maria Rossi In allegato Le mando le fotocopie dei miei certificati . Credo che possano aiutarLa

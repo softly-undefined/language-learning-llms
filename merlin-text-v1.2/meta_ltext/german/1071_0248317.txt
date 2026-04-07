@@ -1,0 +1,28 @@
+METADATA
+
+General:
+Author ID: 1071_0248317
+Test language: German
+CEFR level of test: A1
+Task : congratulate to birth of child - ID: 1071_030101
+Mother tongue: not reported
+Age: 57
+Gender: male
+
+Rating:
+Overall CEFR rating: A1
+Grammatical accuracy: A1
+Orthography: A2
+Vocabulary range: A1
+Vocabulary control: A1
+Coherence/Cohesion: A1
+Sociolinguistic appropriateness: A1
+
+----------------
+
+Learner text: 
+
+Lieber Jens,                           den 31-05-12 Stadt X
+ich Glückwünsche des Baby und ganze Familie. Sagen Sie bitte name des Babyi ? Vigehet ire Frau?
+Mit freundliche Gruße
+Friedrich

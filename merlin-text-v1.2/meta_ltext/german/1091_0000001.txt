@@ -1,0 +1,28 @@
+METADATA
+
+General:
+Author ID: 1091_0000001
+Test language: German
+CEFR level of test: A2
+Task : offer a ticket not used to a friend - ID: 1091_0690403
+Mother tongue: Russian
+Age: 51
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Guten Tag
+Liebe Julia
+Ich habe eine Fahrkarte für einen Wochenendausflug Fur Berlin gekauft Aber leider kann ich nicht nach Berlin fahren. Weil mein Mann krank ist. Der FarkarTe ist fur nechste Woche am 15.02.2012. um 10.uhr. Ich wolte die Faren wenn du diese karte wilst.
+Viele Grüße          Julia

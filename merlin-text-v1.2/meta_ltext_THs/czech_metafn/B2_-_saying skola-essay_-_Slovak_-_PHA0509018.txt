@@ -1,0 +1,40 @@
+METADATA
+
+General:
+Author ID: PHA0509018
+Test language: Czech
+CEFR level of test: B2
+Task : write an essay: The school is the basis of the life - ID: B2PS0200_skola
+Mother tongue: Slovak
+Age: 3039
+Gender: female
+
+Rating:
+Overall CEFR rating: B2
+Grammatical accuracy: B2
+Orthography: B2
+Vocabulary range: B2
+Vocabulary control: B2
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+ŠKOLA - ZÁKLAD ŽIVOTA?
+Zaujal mě otazník na konci věty. Žeby to někdo zpochybňoval? Mezi základní životné pilíře škola určitě patří. Je pro každého důležitá. Druhá strana je kvalita výučby a vzdělání, kvalita pedagogů, kvalita celého školskeho systému. Když se zamyslím, v mém životě byli asi dva pedagogové, který se mi dostali do paměti, a na které nikdy nezapomenu. Čož je málo!
+Nedávno se mi dostali do rukou spisy J. A. Komenského, jeho výchovný odkaz, staré vydání. Žasla jsem nad jeho názory, jako by to psal pro dnešní dobu. Byl pokrokový, odvážný, srozumitelný, jasný a konkrétný. Souhlasím s jeho praktickými metodikami, se spojením, s přírodou a hlavně praktickým využitim vědomostí a dovedností. Dostala jsem chuť přestudovat „Velkou didaktiku" a další skvosty jeho práce. Snad to zvládnu.
+A člověk se v podstatě vzdělává pořád. Když má zajímavou práci a správné lidi kolem sebe, tak to jde přirozeně. Určitě, že systém školy, který byl, když jsem chodila do školy již je pro dnešní 21. století zastaralý. Proto je velmi důležitá technická dovednost dnešních dětí a pedagogů. Jsem zastánce přirozenosti a praktičnosti ve výchově a vzdělávání. Když dítě  skončí školu, aby vědělo řešit náročné životné problémy, vzájemné vztahy partnerské i kolegiální, aby se vědělo rozhodnout, někdy i nesprávně. Škola je důležitá i pro 21. století, jen je potřeba ji správně „uchopit" a natrafit na dobré pedagogy.
+
+----------------
+
+Target hypothesis 1: 
+
+ŠKOLA - ZÁKLAD ŽIVOTA ? Zaujal mě otazník na konci věty . Že by to někdo zpochybňoval ? Mezi základní životní pilíře škola určitě patří . Je pro každého důležitá . Druhá strana je kvalita výučby a vzdělání , kvalita pedagogů , kvalita celého školského systému . Když se zamyslím , v mém životě byli asi dva pedagogové , kteří se mi dostali do paměti a na které nikdy nezapomenu . Což je málo ! Nedávno se mi dostaly do rukou spisy J.A.Komenského , jeho výchovný odkaz , staré vydání . Žasla jsem nad jeho názory , jako by to psal pro dnešní dobu . Byl pokrokový , odvážný , srozumitelný , jasný a konkrétní . Souhlasím s jeho praktickými metodikami , se spojením s přírodou a hlavně praktickým využitím vědomostí a dovedností . Dostala jsem chuť přestudovat Velkou didaktiku a další skvosty jeho práce . Snad to zvládnu . A člověk se v podstatě vzdělává pořád . Když má zajímavou práci a správné lidi kolem sebe , tak to jde přirozeně . Určitě systém školy , který byl , když jsem chodila do školy , je již pro dnešní 21. století zastaralý . Proto je velmi důležitá technická dovednost dnešních dětí a pedagogů . Jsem zastánce přirozenosti a praktičnosti ve výchově a vzdělávání . Když dítě skončí školu , aby vědělo řešit náročné životní problémy , vzájemné partnerské i kolegiální vztahy , aby se vědělo rozhodnout , někdy i nesprávně . Škola je důležitá i ve 21. století , jen je potřeba ji správně " uchopit " a natrefit na dobré pedagogy .
+
+----------------
+
+Target hypothesis 2: 
+
+ŠKOLA - ZÁKLAD ŽIVOTA ? Zaujal mě otazník na konci věty . Že by to někdo zpochybňoval ? Mezi základní životní pilíře škola určitě patří . Je pro každého důležitá . Druhá strana je kvalita výuky a vzdělání , kvalita pedagogů , kvalita celého školského systému . Když se zamyslím , v mém životě byli asi dva pedagogové , kteří se mi dostali do paměti a na které nikdy nezapomenu . Což je málo ! Nedávno se mi dostaly do rukou spisy J.A.Komenského , jeho výchovný odkaz , staré vydání . Žasla jsem nad jeho názory , jako by to psal pro dnešní dobu . Byl pokrokový , odvážný , srozumitelný , jasný a konkrétní . Souhlasím s jeho praktickými metodikami , se spojením s přírodou a hlavně praktickým využitím vědomostí a dovedností . Dostala jsem chuť prostudovat Velkou didaktiku a další skvosty jeho práce . Snad to zvládnu . A člověk se v podstatě vzdělává pořád . Když má zajímavou práci a správné lidi kolem sebe , tak to jde přirozeně . Určitě systém školy , který byl , když jsem chodila do školy , je již pro dnešní 21. století zastaralý . Proto je velmi důležitá technická dovednost dnešních dětí a pedagogů . Jsem zastánce přirozenosti a praktičnosti ve výchově a vzdělávání . Když dítě skončí školu , aby umělo řešit náročné životní problémy , vzájemné partnerské i kolegiální vztahy , aby se umělo rozhodnout , někdy i nesprávně . Škola je důležitá i ve 21. století , jen je potřeba ji správně " uchopit " a natrefit na dobré pedagogy .

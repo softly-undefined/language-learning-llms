@@ -1,0 +1,46 @@
+METADATA
+
+General:
+Author ID: 0632
+Test language: Czech
+CEFR level of test: B1
+Task : answer to the email of Alena - ID: 1_Alena
+Mother tongue: German
+Age: not reported
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+13. cervence 2006 
+Ahoj Mileno!
+Děkuji Ti mockrat za tvůj email. Pisu Ti teprve dnes, protože mám hodně práce. Mam stástný, protože jsem -unreadable-koncil studium v květnu. Hledám  praci  Pisu moc žádostí. 
+Je mi líto, ale nepřij-unreadable- na grilovací party, protože mám dovolenu. Přij-unreadable- do Rakouska a -unreadable-vštivim moji rodinu. Ale jsem tady  27. srpna. Co přeješ? 
+Co budeš dělat přístí středu? Mam čas a tesim se na setkaní. Jsi na fakulta v -unreadable-? Budeme jet do menzy v 12 hodin na kavu? 
+Jedna  otázka. Hledam dobrou gramatiku pro Cestinu? Nas knihu? Koupíš gramatiku? Zaplatím pro ji. 
+T-unreadable- koncim, je už pozdy. Musim pracovat. 
+Tesim se na náse setkání. 
+Zatím ahoj! 
+Richard
+
+----------------
+
+Target hypothesis 1: 
+
+13. července 2006 Ahoj Mileno ! Děkuji Ti mockrát za Tvůj e-mail . Píšu Ti teprve dnes , protože mám hodně práce . Mám šťastný , protože jsem -unreadable-koncil studium v květnu . Hledám práci Píšu moc žádostí . Je mi líto , ale nepřij-unreadable- na grilovací party , protože mám dovolenou . Přijedu do Rakouska a navštívím moji rodinu . Ale jsem tady 27. srpna . Co CHA ? Co budeš dělat příští středu ? Mám čas a těším se na setkání . Jsi na fakultě v -unreadable- ? Pojedeme do menzy v 12 hodin na kávu ? Jedna otázka . Hledám dobrou gramatiku pro češtinu ? Máš knihu ? Koupíš gramatiku ? Zaplatím za ni . T-unreadable- končím , je už pozdě . Musím pracovat . Těším se na naše setkání . Zatím ahoj ! Richard
+
+----------------
+
+Target hypothesis 2: 
+
+13. července 2006 Ahoj Mileno ! Děkuji Ti mockrát za Tvůj e-mail . Píšu Ti teprve dnes , protože mám hodně práce . Jsem šťastný , protože jsem ukončil v květnu studium . Hledám práci . Píšu moc žádostí . Je mi líto , ale nepřijedu na grilovací party , protože mám dovolenou . Pojedu do Rakouska a navštívím svoji rodinu . Ale jsem tady 27. srpna . Co si přeješ ? Co budeš dělat příští středu ? Mám čas a těším se na setkání . Jsi na fakultě v -unreadable- ? Pojedeme do menzy v 12 hodin na kávu ? Jedna otázka . Hledám dobrou gramatiku na češtinu ? Máš knihu ? Koupíš gramatiku ? Zaplatím za ni . Tím končím , je už pozdě . Musím pracovat . Těším se na naše setkání . Zatím ahoj ! Richard

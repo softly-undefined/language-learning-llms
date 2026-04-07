@@ -1,0 +1,47 @@
+METADATA
+
+General:
+Author ID: 1325_9000095
+Test language: Italian
+CEFR level of test: B2
+Task : complain against a hotel - ID: 1325_020400-2
+Mother tongue: German
+Age: 19
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: C1
+Vocabulary range: B2
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Residence del Lago
+Via Daguerre 50
+65408 Lugano
+Maria Rossi
+Strada Maggiore 13
+12345 Città X
+11 maggio 2010
+Egregi signori,
+ho letto l'annuncio di Vostro "Residence del Lago" nel Telegiornale e poi ho passato due settimane terribile dal 13 luglio al 27 luglio a Città Y. Molte delle informazioni scritti nella pubblicità erano inesatte. Il vostro residence non era "di recente costruzione" ma vecchio, l'aria condizionata di che ho avuto bisogno non ha funzionato e l'animazione c'era solo una sera la settimana. Spero che vede che questa pubblicità non mostra la realtà. Ma questo non è tutto. Non ho anche avuto la possibilità di fare dello sport a causa della riparazione dei campi da tennis e la sovraffolazione della piscina.
+Adesso Vi prego di riflettere in che modo dovete migliorare la Vostra programma nel "Residence del Lago" o di corretare la pubblicità che poi tutti possono vedere la realtà. Inoltre Vi prego di ridarmi i soldi o almeno un parte di soldi.
+Sarebbero contento di una Vostra risposta così veloce che possibile.
+Maria Rossi
+
+----------------
+
+Target hypothesis 1: 
+
+Residence del Lago Via Daguerre 50 65408 Lugano Maria Rossi Strada Maggiore 13 12345 Città X 11 maggio 2010 Egregi signori , ho letto l' annuncio del Vostro " Residence del Lago " nel telegiornale e poi ho passato due settimane terribili dal 13 luglio al 27 luglio a Città Y . Molte delle informazioni scritte nella pubblicità erano inesatte . Il vostro residence non era " di recente costruzione " ma vecchio , l' aria condizionata di cui avevo bisogno non ha funzionato e l' animazione c' era solo una sera la settimana . Spero che veda che questa pubblicità non mostra la realtà . Ma questo non è tutto . Non ho neanche avuto la possibilità di fare dello sport a causa della riparazione dei campi da tennis e il sovraffollamento della piscina . Adesso Vi prego di riflettere in che modo dovete migliorare il Vostro programma nel " Residence del Lago " o di correggere la pubblicità in modo che poi tutti possano vedere la realtà . Inoltre Vi prego di ridarmi i soldi o almeno una parte di soldi . Sarei contento di una Vostra risposta più veloce possibile . Maria Rossi
+
+----------------
+
+No target hypothesis 2 available.
+

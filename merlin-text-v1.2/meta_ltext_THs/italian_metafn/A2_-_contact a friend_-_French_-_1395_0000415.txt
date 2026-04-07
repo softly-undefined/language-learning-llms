@@ -1,0 +1,45 @@
+METADATA
+
+General:
+Author ID: 1395_0000415
+Test language: Italian
+CEFR level of test: A2
+Task : contact a friend after a long time - ID: 1395_020300
+Mother tongue: French
+Age: 20
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+11.06.10
+Ciao Paulo,
+Come stai?
+Io sto molto bene, l'estate è arivata!!!
+Mia famiglia sta anche bene però mio fratello è un po malato...
+Io lavoro ancora alla Posta Svizzera a Città X allo sportello e mi piace tanto. Mio capo e veramente bravo e gentile. Sono contenta del mio posto di lavoro.
+A presto
+Cari saluti
+Maria
+
+----------------
+
+Target hypothesis 1: 
+
+11.06.10 Ciao Paulo , come stai ? Io sto molto bene , l' estate è arrivata ! ! ! Anche la mia famiglia sta bene però mio fratello è un po' malato ... Io lavoro ancora alla Posta Svizzera a Città X allo sportello e mi piace tanto . Il mio capo è veramente bravo e gentile . Sono contenta del mio posto di lavoro . A presto Cari saluti Maria
+
+----------------
+
+Target hypothesis 2: 
+
+11.06.10 Ciao Paulo , come stai ? Io sto molto bene , l' estate è arrivata ! ! ! Anche la mia famiglia sta bene però mio fratello è un po' malato ... Io lavoro ancora alla Posta Svizzera a Città X allo sportello e mi piace tanto . Il mio capo è veramente bravo e gentile . Sono contenta del mio posto di lavoro . A presto Cari saluti Maria

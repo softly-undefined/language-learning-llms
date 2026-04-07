@@ -1,0 +1,29 @@
+METADATA
+
+General:
+Author ID: 1061_0120413
+Test language: German
+CEFR level of test: B1
+Task : write a letter to a friend (visit) - ID: 1061_130101
+Mother tongue: not reported
+Age: 28
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+                                       Stadt X 05.03.12
+Liebe Dana,
+vielen Dank für dienen Brief. Ich freue sehr, dass du jetzt ein Urlaub in Istanbul macht. Ich wünsche dir ales gute zur bestanden Prüfung Ich verstehe wie ist in Istanbul. Es ist sehr schlecht weil ales meinen Verwandten in andere land leben
+Viele Grüße
+Michael

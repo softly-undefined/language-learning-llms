@@ -1,0 +1,29 @@
+METADATA
+
+General:
+Author ID: 1385_0001769
+Test language: Italian
+CEFR level of test: A1
+Task : reschedule an appointment - ID: 1385_020100
+Mother tongue: German
+Age: 26
+Gender: male
+
+Rating:
+Overall CEFR rating: unrated
+Grammatical accuracy: 0
+Orthography: 0
+Vocabulary range: 0
+Vocabulary control: 0
+Coherence/Cohesion: 0
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Ciao Daniele 
+Andiamo a cena in ristorante tailandese a Lunedì?
+Altro giorno per il vostro incontro di domenica sera? 
+Perchè non potete incontrarvi con lui govedì, altro giorni di mercoledì? 
+Saluti 

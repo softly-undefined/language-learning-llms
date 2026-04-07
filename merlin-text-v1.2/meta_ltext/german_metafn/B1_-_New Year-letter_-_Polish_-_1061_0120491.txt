@@ -1,0 +1,30 @@
+METADATA
+
+General:
+Author ID: 1061_0120491
+Test language: German
+CEFR level of test: B1
+Task : write a letter for New Year to a friend - ID: 1061_110101
+Mother tongue: Polish
+Age: 26
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: C1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Lieber Michael,
+Danke schön für deine wünche. Ich wünche dir noch einmal alles Gute zum neuen Jahr. Die Silvesternacht habe ich zu hause mit meine Mann verbracht. Wir haben Musik gehört. Später sind wir dann zum Meine Eltern gegangen, wo wir das Feuerwerk angesehen haben.
+Letzte Zeit ich muss viel Arbeit, weil meine Kollege ist krank, aber sonst ist alles gut.
+Kannst du kommen wann du willst ich habe immer Lust mit dir etwas unternehmen. Ich warte auf dich.
+Herzliche Grüße
+Maria

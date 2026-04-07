@@ -1,0 +1,40 @@
+METADATA
+
+General:
+Author ID: 1031_0003155
+Test language: German
+CEFR level of test: C1
+Task : write article about sticking to one's traditions and 'assimilation' in a new environment - ID: 1031_030301
+Mother tongue: English
+Age: 43
+Gender: female
+
+Rating:
+Overall CEFR rating: B2
+Grammatical accuracy: B2
+Orthography: B2
+Vocabulary range: C1
+Vocabulary control: B2
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: B2
+
+----------------
+
+Learner text: 
+
+Neulich gibt es viele verschiedene Meinungen über das Thema Tradition und Kulturen, ob man sie im Ausland auch weiter fortsetzen soll oder nicht.
+Tradition und Kultur macht  Menschen interessant. Jeder Mensch hat seine eigenen Kultur und Tradition wie zum Beispiel eigene Sitten und Bräuchte, eigenes traditionalen Essen, eigene Sprache, Musik, und Bekleidung. 
+Wenn man in einem fremden Land wohnt, soll man sein eigene Kultur und Tradition nicht vergessen. Eine Chinesin würde unwohl fühle wenn sie die Dirndl anziehen muss. Aüßerdem wurde es sehr langweilig wenn es keine mehr Chinesische, Italienische, Japanische oder Griesische Restaurante  gibt.
+Natürlich soll man die Sprache des Gastlandes lernen. Kommunikation ist die Brücke zu Toleranz, Integration und gegenseitig Verstehen. Wenn man die Sprach lernt, kann man sich besser und schneller in dem Gastland integrieren Und damit vermeindet man falschen und negative Eindruck
+Meiner Meinung nach, die verschiedene Kultur und Tradition macht das Land und die Welt bunt. Man soll eigene Tradition und Kultur mit nehmen wenn man auswandern. . Um negative Eindrucken zu vermeiden soll man die Sprache und die übliche Sitten und Bräuchte das   adoptiv Landes mit offene Arme nehme.
+
+----------------
+
+Target hypothesis 1: 
+
+Neulich gibt es viele verschiedene Meinungen über das Thema Tradition und Kulturen , ob man sie im Ausland auch weiter fortsetzen soll oder nicht . Tradition und Kultur machen Menschen interessant . Jeder Mensch hat seine eigene Kultur und Tradition , wie zum Beispiel eigene Sitten und Bräuche , eigenes traditionales Essen , eigene Sprache , Musik und Bekleidung . Wenn man in einem fremden Land wohnt , soll man seine eigene Kultur und Tradition nicht vergessen . Eine Chinesin würde sich unwohl fühlen , wenn sie das Dirndl anziehen muss . Außerdem wurde es sehr langweilig , wenn es kein chinesisches , italienisches , japanisches oder griechisches Restaurant mehr gibt . Natürlich soll man die Sprache des Gastlandes lernen . Kommunikation ist die Brücke zu Toleranz , Integration und gegenseitigen´m Verstehen . Wenn man die Sprache lernt , kann man sich besser und schneller in dem Gastland integrieren . Und damit vermeindet man einen falschen und negativen Eindruck . Meiner Meinung nach , machen die verschiedene Kultur und Tradition das Land und die Welt bunt . Man soll die eigene Tradition und Kultur mitnehmen , wenn man auswandern . . Um negative Eindrücke zu vermeiden , soll man die Sprache und die üblichen Sitten und Bräuche des Adoptivlandes mit offenen Armen nehmen .
+
+----------------
+
+No target hypothesis 2 available.
+

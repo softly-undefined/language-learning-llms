@@ -1,0 +1,30 @@
+METADATA
+
+General:
+Author ID: 1395_0000537
+Test language: Italian
+CEFR level of test: A2
+Task : inform friends about language course - ID: 1395_010300
+Mother tongue: German
+Age: 23
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Cara Milena, caro Tommi
+Sto qui a Città X! Sono arrivata tre giorni fa e mi piace molto. Per il ufficio devo fare questo corso speciale per due settimane.
+Adesso non credete che è anche in questo corso! Vi ricordate di Maria? Siamo andati a scuola insieme dieci anni fa!
+Quando non abbiamo corso, vado in città con Maria. Abbiamo già visto il Monumento X e diversi musei. È veramente una bellissima città. Allora vi racconto di più quando sarò a casa.
+Cari saluti e bacio
+Eva

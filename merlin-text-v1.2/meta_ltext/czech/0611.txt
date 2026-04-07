@@ -1,0 +1,29 @@
+METADATA
+
+General:
+Author ID: 0611
+Test language: Czech
+CEFR level of test: B1
+Task : answer to the email of Alena - ID: 1_Alena
+Mother tongue: English/Chinese
+Age: not reported
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Milá Aleno, 
+mám velkou radost, že jsem dostala tvůj email. Studium je nudné, protože musím pracovat na diplomce. Neplánuju dovolenou, protože nemám čas. Těším se na tvou brzou navštěvu v Drážďanech. Chceš přijít k mně v odpoledne? Koupím velký dort pro tebe! Kdy přijedeš v Draˇžďanech? Chci docházet pro tebe na nadraží . Prázdninové kurzy češtiny jsou zajímavé. Chci se ucházet o kurze a asi stipendium. Kolik to stojí? Kdy začina kurz? To je kouzelný, že zůstam chvilečku v Praze. Můzeš posílat mě toho inzerát? Jsi velmi milá!
+Měj se dobře! 
+Dana
+

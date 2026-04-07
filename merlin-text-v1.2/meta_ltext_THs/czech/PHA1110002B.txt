@@ -1,0 +1,36 @@
+METADATA
+
+General:
+Author ID: PHA1110002B
+Test language: Czech
+CEFR level of test: A2
+Task : describe a photo: playground - ID: A2PS0201_hriste
+Mother tongue: Other
+Age: 1519
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Na fotografii jsou čtýři lidí. Jsou to můž a žena a jejích dvě děti. Můž a žena jsou mládí a šťastní. Jsou na hříšti, někde v parku, a snad jsou na Petříně. Děti se usmívá a jejích rodiče mluví o něčém. Myslím, že počasí je opravdu hezké a je to leto. Dospěli mají na sobě sportovní obleky a letní boty. Je to jasně, že všíchni se cítí výborně a všechno je vpořádku. Dneska večer samozřejmě budou mít večeří spolů a možna, že k ním na navštěvu přijdou jejích kamarady. Je to opravdu krásná rodina.
+
+----------------
+
+Target hypothesis 1: 
+
+Na fotografii jsou čtyři lidé . Jsou to muž a žena a jejich dvě děti . Muž a žena jsou mladí a šťastní . Jsou na hřišti , někde v parku , a snad jsou na Petříně . Děti se usmívají a jejich rodiče o něčem mluví . Myslím , že počasí je opravdu hezké a je léto . Dospělí mají na sobě sportovní obleky a letní boty . Je jasné , že všichni se cítí výborně a všechno je v pořádku . Dneska večer spolu samozřejmě budou mít večeři a možná , že k nim na návštěvu přijdou jejich kamarádi . Je to opravdu krásná rodina .
+
+----------------
+
+No target hypothesis 2 available.
+

@@ -1,0 +1,41 @@
+METADATA
+
+General:
+Author ID: 1021
+Test language: Czech
+CEFR level of test: B1
+Task :  - ID: 3_Jana
+Mother tongue: German
+Age: not reported
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Ahoj Jano!
+těší mě, že konečně jsi mohla odpovidat na email. To je fajn, že pokračuješ studium v Praze. Tak, pospěš! Máš názbyt  jenom pár dnů do 15.7. ...
+Který odbor chceš tam studovat? A jak se líbíš kurz  angličtiny? Řekni mi, jestli mají také kurzy českého jazyka v létě! Ráda jela bych do Brna. To bylo by skvělé, protože nás mohly jsme vidět častěji. Prosím tě, pošli mi odkaz na stranku školy. Snad mi mohla jsi poslat  nějaké fotky posledního výletu s Thomasem.
+Já pokračuju studium tady v Drážďaněch a byla bych psát bakalářskou praci na podzim. Ale ještě nemám ani plány po ukončení  studia, třeba strávím  příští semestr  v cizině. Ale ještě nevím kde. Tak, ozvi se mi, když mají kurzy češtiny v Brně.
+Zatím, Peťa.
+
+----------------
+
+Target hypothesis 1: 
+
+Ahoj Jano ! Těší mě , že jsi konečně mohla odpovědět na e-mail . To je fajn , že pokračuješ ve studiu v Praze . Tak pospěš ! Máš nazbyt jenom pár dnů do 15.7. ... Který odbor tam chceš studovat ? A jak se ti líbí kurz angličtiny ? Řekni mi , jestli mají také kurzy českého jazyka v létě ! Ráda bych jela do Brna . To by bylo skvělé , protože bychom se mohly vidět častěji . Prosím tě , pošli mi odkaz na stránku školy . Snad jsi mi mohla poslat nějaké fotky posledního výletu s Thomasem . Já pokračuju ve studiu tady v Drážďanech a měla bych psát bakalářskou práci na podzim . Ale ještě nemám ani plány po ukončení studia , třeba strávím příští semestr v cizině . Ale ještě nevím kde . Tak se mi ozvi , jestli mají kurzy češtiny v Brně . Zatím , Peťa .
+
+----------------
+
+Target hypothesis 2: 
+
+Ahoj Jano ! Těší mě , že jsi konečně mohla odpovědět na e-mail . To je fajn , že pokračuješ ve studiu v Praze . Tak pospěš ! Zbývá jenom pár dnů do 15.7. ... Který obor tam chceš studovat ? A jak se ti líbí kurz angličtiny ? Řekni mi , jestli mají také kurzy českého jazyka v létě ! Ráda bych jela do Brna . To by bylo skvělé , protože bychom se mohly vidět častěji . Prosím tě , pošli mi odkaz na stránku školy . Snad jsi mi mohla poslat nějaké fotky posledního výletu s Thomasem . Já pokračuju ve studiu tady v Drážďanech a měla bych psát bakalářskou práci na podzim . Ale ještě nemám ani plány po ukončení studia , třeba strávím příští semestr v cizině . Ale ještě nevím kde . Tak se mi ozvi , jestli mají kurzy češtiny v Brně . Zatím , Peťa .

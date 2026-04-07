@@ -1,0 +1,29 @@
+METADATA
+
+General:
+Author ID: 1061_0120346
+Test language: German
+CEFR level of test: B1
+Task : write a letter to a friend (birthday) - ID: 1061_170900
+Mother tongue: Turkish
+Age: 22
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B2
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+                                           28.02.2012
+Liebe Silke,
+ich habe gestern deine Brief bekommen. Ich habe sehr gefreut. Vielen dank für das. Uns geht es auch ganz gut. Maria arbeitet und ich besuche ein Deutschkurs. Ich mag auch Tier besonders Hund. Aber ich kann mit ihm nicht sich kommern, weil ich kein Zeit habe. Ich muss jeden Tag Deutsch lernen, weil ich 9. März eine Prüfung habe. Ich möchte dich besuchen und kann nach Prüfung besuchen. Ich wünsche mich neu Handy, damit mein Handy nicht gut funktioniert. Ich hoffe bis bald.
+Liebe Grüße
+Michael

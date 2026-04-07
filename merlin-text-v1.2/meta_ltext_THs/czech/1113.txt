@@ -1,0 +1,41 @@
+METADATA
+
+General:
+Author ID: 1113
+Test language: Czech
+CEFR level of test: B1
+Task : answer to the email of a Tandem agency - ID: 4_Katerina
+Mother tongue: German
+Age: not reported
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Milá Kateřino,
+děkuji tě pro tvůj dopis. Ano, mám zájem o vaše kurzy zvláště v měsici července, až bude teplý. V července také potřebuju jenom stan nebo postel, napřiklad v  pokoji spolu s  s dalšimi lidy. Odpolodne chtěl bych podnikat vylet, napřiklad v přirodě nebo  na navštěvu na nějakem zámku nebo hradu; v Čechách, tam jsou všude zámky a hrady, ne? Také byl bych rád,  kdybychom vařeli navečer; já rádě vařim, tak to bylo by super!
+Tak, to ještě musíte vědět? Učím češtinu asi tři semestry na univerzitě, také znám češtinu mnozi let, protože mám rodinu v Čechách. Proto učim češtinu, abych mohl se bavit s mou prarodičy.
+Měj se hezky, David
+P.S. Mám ještě dva otázky: Poprve, jestli je možný, že dostám stipendiu pro tento kurz (nemám hodně peníze). A konečně, kolik stoji kniha kurzy. Děkuji.
+
+----------------
+
+Target hypothesis 1: 
+
+Milá Kateřino , děkuji ti za tvůj dopis . Ano , mám zájem o vaše kurzy zvláště v měsíci červenci , až bude teplo . V červenci také potřebuju jenom stan nebo postel , například v pokoji spolu s dalšími lidmi . Odpoledne bych chtěl podniknout výlet , například do přírody nebo návštěvu na nějakém zámku nebo hradu ; v Čechách , tam jsou všude zámky a hrady , ne ? Také bych byl rád , kdybychom vařili navečer ; já rád vařím , tak to by bylo super ! Tak , to ještě musíte vědět ? Učím se češtinu asi tři semestry na univerzitě , také znám češtinu mnoho let , protože mám rodinu v Čechách . Proto se učím češtinu , abych se mohl bavit se svými prarodiči . Měj se hezky , David P.S. Mám ještě dvě otázky : Poprvé , jestli je možné , že dostanu stipendium pro tento kurz ( nemám hodně peněz ) . A konečně , kolik stojí kniha na kurz . Děkuji .
+
+----------------
+
+Target hypothesis 2: 
+
+Milá Kateřino , děkuji ti za tvůj dopis . Ano , mám zájem o vaše kurzy zvláště v měsíci červenci , až bude teplo . V červenci také potřebuju jenom stan nebo postel , například v pokoji spolu s dalšími lidmi . Odpoledne bych chtěl podniknout výlet , například do přírody nebo návštěvu na nějakém zámku nebo hradu ; v Čechách , tam jsou všude zámky a hrady , ne ? Také bych byl rád , kdybychom vařili navečer ; já rád vařím , tak to by bylo super ! Tak , co ještě potřebuješ vědět ? Učím se češtinu asi tři semestry na univerzitě , také znám češtinu mnoho let , protože mám rodinu v Čechách . Proto se učím češtinu , abych se mohl bavit se svými prarodiči . Měj se hezky , David P.S. Mám ještě dvě otázky : Zaprvé , jestli je možné , že dostanu stipendium pro tento kurz ( nemám hodně peněz ) . A konečně , kolik stojí kniha na kurz . Děkuji .

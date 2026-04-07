@@ -1,0 +1,48 @@
+METADATA
+
+General:
+Author ID: 1365_0100188
+Test language: Italian
+CEFR level of test: B1
+Task : answer to an wedding invitation - ID: 1365_020300
+Mother tongue: German
+Age: 19
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: C2
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+                                                                                                       Città X, 14 5 2011 
+Caro Stefano, cara Beatrice, 
+primo vorrei vi gratulare per il matrimonio. L'invito mi piace molto e per questo vi ringrazio. 
+Vorrei dire a voi, che siete veramente una coppia carina. 
+Naturalmente andrò alla ceremonia, ma bisogna dire che non è possibile che vi incontro al ristorante. Sono invito purtroppo da un  compleanno a questo giorno, così bisogna partire dopo la ceremonia. 
+Vi prego -unreadable-.
+Vorrei anche sapere che cosa devo regalare a voi. 
+Non ho una idea. 
+Sarebbe gentile se mi scrivete una risposta. 
+Sono veramente contenta di vedervi. 
+ 
+Tanti saluti e a dopo,
+       Maria
+
+----------------
+
+Target hypothesis 1: 
+
+Città X , 14 5 2011 Caro Stefano , cara Beatrice , primo mi vorrei gratulare per il matrimonio . L' invito mi piace molto e per questo vi ringrazio . Vorrei dire a voi che siete veramente una coppia carina . Naturalmente andrò alla cerimonia , ma bisogna dire che non è possibile incontrarvi al ristorante . Purtroppo sono invitato a un compleanno questo giorno , così bisogna partire dopo la cerimonia . Vi prego -unreadable- . Vorrei anche sapere che cosa devo regalare a voi . Non ho una idea . Sarebbe gentile se mi scriveste una risposta . Sono veramente contenta di vedervi . Tanti saluti e a dopo , Maria
+
+----------------
+
+No target hypothesis 2 available.
+

@@ -1,0 +1,39 @@
+METADATA
+
+General:
+Author ID: 1091_0000225
+Test language: German
+CEFR level of test: A2
+Task : ask friend to take care of pet - ID: 1091_0650102
+Mother tongue: Russian
+Age: 42
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: B1
+Orthography: B2
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B2
+
+----------------
+
+Learner text: 
+
+Ich habe HausTiren, eine Kätze Sie ist wonnen in Haus. 
+Morgen ich fahre in Urlaub und Kätze bleiben in das Haus
+Ich habe Freundin, ich ihr bitte brauche meine Kätze für zwei wochen, und dann  ich abholen zürük. 
+
+----------------
+
+Target hypothesis 1: 
+
+Ich habe Haustiere , eine Katze . Sie wohnt im Haus . Morgen fahre ich in den Urlaub und die Katze bleibt in dem Haus . Ich habe eine Freundin , ich brauche sie bitte für meine Katze für zwei Wochen , und dann hole ich sie zurück .
+
+----------------
+
+Target hypothesis 2: 
+
+Ich habe ein Haustier , eine Katze . Sie wohnt im Haus . Morgen fahre ich in den Urlaub und die Katze bleibt im Haus . Ich habe eine Freundin , ich brauche sie bitte für meine Katze für zwei Wochen und dann hole ich sie zurück .

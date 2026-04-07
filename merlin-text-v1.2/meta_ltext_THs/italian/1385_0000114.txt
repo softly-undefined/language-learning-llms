@@ -1,0 +1,38 @@
+METADATA
+
+General:
+Author ID: 1385_0000114
+Test language: Italian
+CEFR level of test: A1
+Task : help a friend who is looking for work - ID: 1385_040101
+Mother tongue: German
+Age: 40
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Ciao Michele
+grazie per la tua email. Vorrei aiutarti, ma ho bisogno di qualche informazione in più. Puoi dirmi dove lavori adesso e perché vuoi cambiare il tuo posto? Non ti piace più? Vorrei sapere che tipo di lavoro vuoi fare? Cerchi un posto in un ufficio o come artigiano? Puoi anche dirmi quando vuoi iniziare il nuovo posto? Vuoi iniziarlo subito o hai tempo qualchi mesi?
+tanti saluti Michele
+
+----------------
+
+Target hypothesis 1: 
+
+Ciao Michele , grazie per la tua email . Vorrei aiutarti , ma ho bisogno di qualche informazione in più . Puoi dirmi dove lavori adesso e perché vuoi cambiare il tuo posto ? Non ti piace più ? Vorrei sapere che tipo di lavoro vuoi fare . Cerchi un posto in un ufficio o come artigiano ? Puoi anche dirmi quando vuoi iniziare il nuovo posto ? Vuoi iniziarlo subito o hai tempo qualche mese ? Tanti saluti Michele
+
+----------------
+
+No target hypothesis 2 available.
+

@@ -1,0 +1,39 @@
+METADATA
+
+General:
+Author ID: 1385_0001748
+Test language: Italian
+CEFR level of test: A1
+Task : reschedule an appointment - ID: 1385_020100
+Mother tongue: Polish
+Age: 29
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+CARO DANIELE 
+COME STAI? SPERO CHE TUTTO VA BENE. SCRIVO PER DIRE CHE NON POSSO INCONTRARE CON TE GIOVEDI POMERIGGIO. HO UNA SETTIMANA ORRIBILE, SONO MOLTO OCCUPATA. IL MIO CAPO HA ORGANIZZATO UNA RIUNIONE GIOVEDI POMERIGGIO E NON HO TEMPO PER APPUNTAMENTO. MA SABATO SERA SONO LIBERA. SI TU VOUI, E NON SEI OCCUPATO POSSIAMO INCONTRARE. CERCO IL NUOVO RISTORANTE TAILANDESO NEL CENTRO DI Città X, LA CUCCINA È VERAMENTE BUONA. POSSIAMO ANDARE A CENA AL QUESTA RISTORANTE. 
+BACCI  ed ABRACI
+SALUTI  Maria
+
+----------------
+
+Target hypothesis 1: 
+
+Caro Daniele , come stai ? Spero che tutto vada bene . Scrivo per dire che non posso incontrarmi con te giovedì pomeriggio . Ho una settimana orribile , sono molto occupata . Il mio capo ha organizzato una riunione giovedì pomeriggio e non ho tempo per l' appuntamento . Ma sabato sera sono libera . Se tu vuoi e non sei occupato , possiamo incontrarci . Cerco il nuovo ristorante tailandese nel centro di Città X , la cucina è veramente buona . Possiamo andare a cena in questo ristorante . Baci ed abbracci . Saluti Maria
+
+----------------
+
+No target hypothesis 2 available.
+

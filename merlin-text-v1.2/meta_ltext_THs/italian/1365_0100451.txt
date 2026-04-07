@@ -1,0 +1,45 @@
+METADATA
+
+General:
+Author ID: 1365_0100451
+Test language: Italian
+CEFR level of test: B1
+Task : help a friend who is looking for work after school-leaving exam - ID: 1365_040501
+Mother tongue: German
+Age: 43
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+                                                                                Città X, 28.01.2012 
+Caro Francesco, 
+mi fa tanto piacere sentire da te! 
+Prima di tutto ti mando i miei migliori auguri! Quanto sei furbo! Io non sono mai riuscita a fare un esame con il massimo dei voti! Congratulazione! 
+Come lo sai, faccio una pausa di maternità, sto a casa con la mia piccola figlia. Attualmente sto imparando l'Italiano, vorrei fare un esame linguistico, con cui vorrei trovare altro lavoro dopo la pausa. Come ti ho spiegato al telefono, pecato la dità per cui ho lavorato 18 anni cudeva pocchi mesi fa. 
+Secondo lavoro  forze ti potrei aiutare. Vicino a casa mia si trova il mondo di cristallo, è la dità Ditta X. Visto che loro cercano qualcuno con la lingua madre italiano, per l'estate. Cosi potrei lavorare qualche mesi, e decidere come va avanti in autuno. Se hai interesse dimmi subito, vado li per parlare la persone responsabile. Basta mandarmi via mail il tuo curriculum. 
+Spero di sentirti presto. 
+Non vedo l'ora a rivederti! 
+Cari saluti
+ Maria
+
+----------------
+
+Target hypothesis 1: 
+
+Città X , 28.01.2012 Caro Francesco , mi fa tanto piacere sentire notizie da te ! Prima di tutto ti mando i miei migliori auguri ! Quanto sei furbo ! Io non sono mai riuscita a fare un esame con il massimo dei voti ! Congratulazione ! Come sai , faccio una pausa di maternità ; sto a casa con la mia piccola figlia . Attualmente sto imparando l' italiano , vorrei fare un esame linguistico con cui vorrei trovare un altro lavoro dopo la pausa . Come ti ho spiegato al telefono , peccato per la ditta per cui ho lavorato 18 anni ; chiudeva pochi mesi fa . Per il secondo lavoro forse ti potrei aiutare . Vicino casa mia si trova il mondo di cristallo , è la ditta Ditta X . Ho visto che loro cercano qualcuno con la lingua madre italiana per l' estate . Così potrei lavorare qualche mese e decidere come andare avanti in autunno . Se hai interesse dimmi subito , vado lì per parlare con la persona responsabile . Basta mandarmi via mail il tuo curriculum . Spero di sentirti presto . Non vedo l' ora di rivederti ! Cari saluti Maria
+
+----------------
+
+No target hypothesis 2 available.
+

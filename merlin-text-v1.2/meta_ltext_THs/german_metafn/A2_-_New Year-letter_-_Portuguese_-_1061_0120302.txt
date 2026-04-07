@@ -1,0 +1,45 @@
+METADATA
+
+General:
+Author ID: 1061_0120302
+Test language: German
+CEFR level of test: B1
+Task : write a letter for New Year to a friend - ID: 1061_110101
+Mother tongue: Portuguese
+Age: 56
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+                       Stadt X, 22.02.2012
+Lieber Michael
+Vielen Dank für deine Glückwunschkarte zum neuen jahr.
+Ich wünsche dir auch alles Gute für das neues Jahr, gesund und alles Gut!
+Die Silvesternacht habem mein Bruder und ich in den Kirche Katolick gehen und spät besuchen in sehr Gute Restaurant, ein Gut Trockener frischer (Portuguesich Fischer) gegessen. Ich habe viel Bewerb gemacht und Deutsch Kurs besuche. 
+Meine Zukunft ist ein Gute Stellen Angebot kommen. Ich brauche arbeit(stellen).
+Michael und ich treffen nach Stadt X, und Fliege nach Stadt Y.
+Herzliche Grüße
+Katharina 
+
+----------------
+
+Target hypothesis 1: 
+
+Stadt X , 22.02.2012 Lieber Michael ! Vielen Dank für deine Glückwunschkarte zum neuen Jahr . Ich wünsche dir auch alles Gute für das neue Jahr , Gesundheit und alles Gute ! In der Silvesternacht sind mein Bruder und ich in die katholische  Kirche gegangen und haben spät ein sehr gutes Restaurant besucht , einen guten trockenen frischen portugiesischen Fischer gegessen . Ich habe viele Bewerbe gemacht und einen Deutschkurs besucht . Meine Zukunft ist , ein gutes Stellenangebot zu bekommen . Ich brauche Arbeit ( Stellen ) . Michael und ich treffen uns in Stadt X und fliegen nach Stadt Y . Herzliche Grüße Katharina
+
+----------------
+
+Target hypothesis 2: 
+
+Stadt X , 22.02.2012 Lieber Michael ! Vielen Dank für deine Glückwunschkarte zum neuen Jahr . Ich wünsche dir auch alles Gute für das neue Jahr , Gesundheit und alles Gute ! In der Silvesternacht sind mein Bruder und ich in die katholische Kirche gegangen und haben spät ein sehr gutes Restaurant besucht und einen guten trockenen frischen portugiesischen Fisch gegessen . Ich habe viele Bewerbungen geschrieben und einen Deutschkurs besucht . Meine Zukunft ist , ein gutes Stellenangebot zu bekommen . Ich brauche Arbeit ( eine Stelle ) . Michael und ich treffen uns in Stadt X und fliegen nach Stadt Y . Herzliche Grüße Katharina

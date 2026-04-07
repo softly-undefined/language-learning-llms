@@ -1,0 +1,40 @@
+METADATA
+
+General:
+Author ID: 1385_0000101
+Test language: Italian
+CEFR level of test: A1
+Task : reschedule an appointment - ID: 1385_020100
+Mother tongue: Polish
+Age: 25
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+CARO DANIELE
+COME STAI,
+è UNA SETTIMANA ORRIBILE. IN UFFICIO C'È MOLTO LAVORO E GIOVEDI POMERIGGIO NON POSSO INCONTRARE CON TU. IO HO ORGANIZZATO UNA RIUNIONE GIOVEDI POMERIGIO ANDIAMO A CENA SABATO SERA? IO CONOSCO BELLA RISTORANTE TALIANDESE IN CITTA.
+TI BRACCIO MOLTO
+Maria
+
+----------------
+
+Target hypothesis 1: 
+
+Caro Daniele , Come stai ? È una settimana orribile . In ufficio c' è molto lavoro e giovedì pomeriggio non posso incontrarmi con te . Io ho organizzato una riunione giovedì pomeriggio . Andiamo a cena sabato sera ? Io conosco un bel ristorante tailandese in città . Ti abbraccio molto Maria
+
+----------------
+
+No target hypothesis 2 available.
+

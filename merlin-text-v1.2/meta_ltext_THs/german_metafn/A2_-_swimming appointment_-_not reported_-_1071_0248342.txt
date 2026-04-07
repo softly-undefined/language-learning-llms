@@ -1,0 +1,40 @@
+METADATA
+
+General:
+Author ID: 1071_0248342
+Test language: German
+CEFR level of test: A1
+Task : arrange appointment with friend to go swimming together - ID: 1071_120302
+Mother tongue: not reported
+Age: 34
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A1
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Liebe Daniela, möchte ich in der schwimmer gehen. Kommst du mit? Wir gehen nach dem Schule, in Stadt X. Da gibst ein schun  schwimmer.
+Du bringst eine Cola, und nicht meher, worum da gibt alles.
+mit den Gruß,
+deine Freundin Julia
+
+----------------
+
+Target hypothesis 1: 
+
+Liebe Daniela , ich möchte in den Schwimmer gehen . Kommst du mit ? Wir gehen nach der Schule , in Stadt X . Da gibt es einen schönen Schwimmer . Du bringst eine Cola , und nicht mehr , warum gibt es da alles . Mit dem Gruß , deine Freundin Julia
+
+----------------
+
+Target hypothesis 2: 
+
+Liebe Daniela , ich möchte ins Schwimmbad gehen . Kommst du mit ? Wir gehen nach der Schule , in Stadt X . Da gibt es ein schönes Schwimmbad . Du bringst eine Cola , und nicht mehr , denn da gibt es alles . Mit Grüßen , deine Freundin Julia

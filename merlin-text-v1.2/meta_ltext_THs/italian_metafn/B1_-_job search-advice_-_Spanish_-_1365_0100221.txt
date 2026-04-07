@@ -1,0 +1,41 @@
+METADATA
+
+General:
+Author ID: 1365_0100221
+Test language: Italian
+CEFR level of test: B1
+Task : help a friend who is looking for work after school-leaving exam - ID: 1365_040501
+Mother tongue: Spanish
+Age: 33
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B2
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+CARO FRANCESCO                                              Città X, 20.1.2011 
+Ho ricevuto la tua lettera probrio oggi. Ti ringrazio e ti do i miei tantissimi auguri per aver aprovato il esame di maturita linguistica. 
+Io invece mi sono andato a presentare a 3 dite lavorative, ingui a 2 non avevano lavoro. Pero dopo una settimana mi hanno scritto di poter andarmi a presentarmi il piu presto possibile. 
+Comunque domani parto per andare in Italia e ci potremo vederci presto. Ho un amico che lavora in un albergo nelle tue vicinanze. Potrei domandere per un lavoro e dirli di conoscerti molto bene.
+Caro Francesco ti ringrazio ancora tantissimo per la tua lettera e spero di vederti presto. 
+Tanti Saluti da Michele Rossi
+
+----------------
+
+Target hypothesis 1: 
+
+CARO FRANCESCO Città X , 20.1.2011 ho ricevuto la tua lettera proprio oggi . Ti ringrazio e ti do i miei tantissimi auguri per aver approvato l' esame di maturità linguistica . Io invece mi sono andato a presentare a 3 ditte lavorative , di  cui  2 non avevano lavoro . Però dopo una settimana mi hanno scritto che potevo andarmi a presentare il più presto possibile . Comunque domani parto per andare in Italia e ci potremo vedere presto . Ho un amico che lavora in un albergo nelle tue vicinanze . Potrei domandare un lavoro e dirgli di conoscerti molto bene . Caro Francesco , ti ringrazio ancora tantissimo per la tua lettera e spero di vederti presto . Tanti Saluti da Michele Rossi
+
+----------------
+
+No target hypothesis 2 available.
+

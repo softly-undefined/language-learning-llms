@@ -1,0 +1,36 @@
+METADATA
+
+General:
+Author ID: 1385_0000037
+Test language: Italian
+CEFR level of test: A1
+Task : help a friend who is looking for work - ID: 1385_040101
+Mother tongue: German
+Age: 47
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A1
+
+----------------
+
+Learner text: 
+
+Puoi dirmi che lavoro hai fatto e che tipo di lavoro vuoi fare. Quando puoi cominciare a lavorare? Hai una macchina e puoi lavorare alla fine settimana? Il mio amico cerca sempre persone per aiutare nella sua discoteca.
+
+----------------
+
+Target hypothesis 1: 
+
+Puoi dirmi che lavoro hai fatto e che tipo di lavoro vuoi fare ? Quando puoi cominciare a lavorare ? Hai una macchina e puoi lavorare il fine settimana ? Il mio amico cerca sempre persone per aiutarlo nella sua discoteca .
+
+----------------
+
+No target hypothesis 2 available.
+

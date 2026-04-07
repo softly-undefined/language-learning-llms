@@ -1,0 +1,26 @@
+METADATA
+
+General:
+Author ID: 1385_0001195
+Test language: Italian
+CEFR level of test: A1
+Task : reschedule an appointment - ID: 1385_020100
+Mother tongue: German
+Age: 25
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Caro Daniele, mi dispiace, è una settimana orribile. In ufficio c'è molto lavoro e giovedi pommerigio non posso perchè devo andare a Milano per incontrare un cliente molto importante. Forse ci possiamo incontrare sabato sera? Mi penso che non abbia di fare niente sabato. Ho ascoltato, c'è un bello ristorante tailandese vicino a te! Hai voglia di andare a questo ristorante? Siccuramente è una esperienza nuova. Speriamo ti stai bene; a questo sabato! 
+Tanti saluti, Michele

@@ -1,0 +1,40 @@
+METADATA
+
+General:
+Author ID: 1395_0000554
+Test language: Italian
+CEFR level of test: A2
+Task : go see a friend - ID: 1395_040101
+Mother tongue: German
+Age: 44
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Caro Pietro
+come stai? Come la tua vita a Città X? Penso e piu tranquillo di quella a Città Y. Hai trovato finalmente una casa? La tua sorella m'ha detto ché hai avuto problemi da trovare un alloggio. Allora dové la tua casa e come si arriva?
+Senti, la settimana prossima Maria e io avremmo tempo per fare una visita. Che ne pensi? Potremmo mangiare il tartuffo dal tuo ristorante prefferito. E la sera faremmo qualche passi in citta.
+Se hai tempo e un spazio per noi per due notte, telefona mi sta sera!
+Cari saluti, Michele
+
+----------------
+
+Target hypothesis 1: 
+
+Caro Pietro , come stai ? Com' è la tua vita a Città X ? Penso che sia più tranquilla di quella a Città Y . Hai trovato finalmente una casa ? Tua sorella m' ha detto che hai avuto problemi per trovare un alloggio . Allora dov' è la tua casa e come ci si arriva ? Senti , la settimana prossima Maria e io avremmo tempo per fare una visita . Che ne pensi ? Potremmo mangiare il tartufo nel tuo ristorante preferito e la sera faremmo qualche passo in città . Se hai tempo e uno spazio per noi per due notti , telefonami stasera ! Cari saluti , Michele
+
+----------------
+
+No target hypothesis 2 available.
+

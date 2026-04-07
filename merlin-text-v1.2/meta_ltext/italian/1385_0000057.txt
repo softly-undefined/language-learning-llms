@@ -1,0 +1,28 @@
+METADATA
+
+General:
+Author ID: 1385_0000057
+Test language: Italian
+CEFR level of test: A1
+Task : help a friend who is looking for work - ID: 1385_040101
+Mother tongue: German
+Age: 46
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Caro Luca,
+grazie per la tua email. Vorrei aiutarti, ma ho bisogno di qualche informazione in più. Mi puoi direr che dove lavorarer adesso? Che tipo di lavoro vuoi farer? Cerco un lavoro interessanto? Quando ti vuoi inizarer il nuovo posto di lavaro? Come stai? Tutto a posto? A prossimo email-
+Tanti saluti!
+Maria

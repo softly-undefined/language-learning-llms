@@ -1,0 +1,40 @@
+METADATA
+
+General:
+Author ID: 1395_0000338
+Test language: Italian
+CEFR level of test: A2
+Task : contact a friend after a long time - ID: 1395_020300
+Mother tongue: French
+Age: 31
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Giovedi 4 Marzo
+Caro Paulo,
+Fa molto tempo che non ho di tue noticies. Come state tu e tua familia? Adesso, vado bene anche i miei genitori e mia sorella. Purtroppo, oggi sono disoccupata dopo avere lavorare nelle negozio a Città X. Ma adesso ho tempo libero e con Sergio siamo partiti in vacanza al Portugalo. Fa bel tempo ma troppo caldo! Era buene anzi fantastiche!
+Quando se incontrati? Vieni al compleano di Patrizia? Espero ti vedere al compleano! 
+A presto Eva
+
+----------------
+
+Target hypothesis 1: 
+
+Giovedì 4 marzo Caro Paulo , è da molto tempo che non ho tue notizie . Come state tu e la tua famiglia ? Adesso , vanno bene anche i miei genitori e mia sorella . Purtroppo , oggi sono disoccupata dopo aver lavorato in un negozio a Città X . Ma adesso ho del tempo libero e con Sergio siamo partiti in vacanza per il Portogallo . Fa bel tempo , ma troppo caldo ! Era bello , anzi fantastico ! Quando ci incontriamo ? Vieni al compleanno di Patrizia ? Spero di vederti al compleanno ! A presto Eva
+
+----------------
+
+No target hypothesis 2 available.
+

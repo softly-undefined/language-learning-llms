@@ -1,0 +1,44 @@
+METADATA
+
+General:
+Author ID: 1365_0100261
+Test language: Italian
+CEFR level of test: B1
+Task : answer to an wedding invitation - ID: 1365_020300
+Mother tongue: German
+Age: 22
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: C2
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+                                                                                                          Città X, 25/6/2011 
+Cara Beatrice, 
+ 
+Grazie mille per l'invito al tuo matrimonio. Sono molto contenta che tu abbia trovato l'uomo giusto. Ti mando le mie congratulazioni. Sono molto felice per te. 
+Vengo volentieri il 20 novembre a Napoli o forse partirò già un giorno primo, altrimenti sarei molto stanca. Non conosco Stefano ancora e così non lo so che cosa vi augurivate. Avete una lista con le cose che si può regalarvi? 
+Non vedo l'ora di vederti al tuo matrimonio. 
+ 
+                           Tanti saluti e a presto 
+                                            Maria
+
+----------------
+
+Target hypothesis 1: 
+
+Città X , 25 / 6 / 2011 Cara Beatrice , grazie mille per l' invito al tuo matrimonio . Sono molto contenta che tu abbia trovato l' uomo giusto . Ti mando le mie congratulazioni . Sono molto felice per te . Vengo volentieri il 20 novembre a Napoli o forse partirò già un giorno prima , altrimenti sarei molto stanca . Ancora non conosco Stefano e così non so che cosa vi augurate . Avete una lista con le cose che si possono regalarvi ? Non vedo l' ora di vederti al tuo matrimonio . Tanti saluti e a presto Maria
+
+----------------
+
+No target hypothesis 2 available.
+

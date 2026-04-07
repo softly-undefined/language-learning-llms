@@ -1,0 +1,39 @@
+METADATA
+
+General:
+Author ID: 1395_0000590
+Test language: Italian
+CEFR level of test: A2
+Task : inform friends about language course - ID: 1395_010300
+Mother tongue: French
+Age: 45
+Gender: female
+
+Rating:
+Overall CEFR rating: unrated
+Grammatical accuracy: 0
+Orthography: 0
+Vocabulary range: 0
+Vocabulary control: 0
+Coherence/Cohesion: 0
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+               Caro  Pietro e Anna                                                    Sabato 13 Sept 
+Io partito al scuola di città X per apprendo la lingue d'italianno. La lingue é molto difficile, L'insegnante é seriosa, ponctuale. El corso d'italiano mio servico per lavoro. é tempo libro fatto una revisioné.
+                                        Saluti            Baci 
+                                                                Maria  
+
+----------------
+
+Target hypothesis 1: 
+
+Sabato 13 sett. Caro Pietro e Anna , io sono partito alla scuola di città X per apprendere la lingua italiana . La lingua è molto difficile . L' insegnante è seriosa e puntuale . Il corso d' italiano mi serve per lavoro . Nel tempo libero faccio una revisione . Saluti e baci Maria
+
+----------------
+
+No target hypothesis 2 available.
+

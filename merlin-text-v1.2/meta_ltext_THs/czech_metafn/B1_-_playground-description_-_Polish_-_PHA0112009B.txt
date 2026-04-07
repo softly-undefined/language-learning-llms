@@ -1,0 +1,36 @@
+METADATA
+
+General:
+Author ID: PHA0112009B
+Test language: Czech
+CEFR level of test: A2
+Task : describe a photo: playground - ID: A2PS0201_hriste
+Mother tongue: Polish
+Age: 3039
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Na fotografii je rodina. Jsou rodiče a děti. Je leto a je hezké počasi. Celá rodina je v parku, kde je misto pro dětí. Všíchni se spolu baví a cítí se dobře. Myslím, že mají hodně času na zabavu a také budou sportovat, protože mají sportovní oblečení a obuv. Rodiče se usmívají a už planujou co budou delat potom. Myslí na další čast dne a planujou kíno. Teď rodiče mluví o tom, že už je čas na oběd ale dětí nechtejí jít, chtejí ještě zustat v parku
+
+----------------
+
+Target hypothesis 1: 
+
+Na fotografii je rodina . Jsou tam rodiče a děti . Je léto a je hezké počasí . Celá rodina je v parku , kde je místo pro děti . Všichni se spolu baví a cítí se dobře . Myslím , že mají hodně času na zábavu a také budou sportovat , protože mají sportovní oblečení a obuv . Rodiče se usmívají a už plánujou , co budou dělat potom . Myslí na další část dne a plánujou kino . Teď rodiče mluví o tom , že už je čas na oběd , ale děti nechtějí jít , chtějí ještě zůstat v parku .
+
+----------------
+
+No target hypothesis 2 available.
+

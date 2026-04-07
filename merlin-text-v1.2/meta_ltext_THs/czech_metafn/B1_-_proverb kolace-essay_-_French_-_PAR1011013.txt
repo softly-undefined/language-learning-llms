@@ -1,0 +1,41 @@
+METADATA
+
+General:
+Author ID: PAR1011013
+Test language: Czech
+CEFR level of test: B2
+Task : write an essay: No pain no gain - ID: B2PS0202_kolace
+Mother tongue: French
+Age: 2029
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B2
+Vocabulary range: B2
+Vocabulary control: B1
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Vybrala jsem druhou tématu protože dobře obrazuje realitu životu. Kdybyste nepekli těsto, neměli byste šanci ochutnat tu koláče.
+Určitě můžete ji koupit v pekárně ale ta nebude mít stejnou chuť než tu jste pekli sámi. V životu, je to denní skušenost. Od té doby, co jsme byli poprvé v škole, učíme se, že prace je moc důležitá a že, bez ní nic není možné
+Podle mého názoru, radit žáky, aby dobře a pílně pracovali v školství je dobrá věc.
+To jsem se učila brzo a měla jsem čas abych cvičila a porozumněla jak a proč pracovat. Náštěstí rodiče moc mě podporovali a to bylo nutné. Dnes vím přesně co dělat, abych dostala co potřebuji.
+To platí za všechno - hlavně za školu a praci ale taky za přátelství, lásku, cestování, sport, koničky, uplně za všechno
+Určitě, jsou lidé, kteři moc pracovat nepotřebujou protože umí jak dostat co chtějí jinak (třeba nepečujicí kolače ale kupujici ji) ale myslím že, ti lidé neznájí veselost byt pracovitý a dostat věci za praci.
+
+----------------
+
+Target hypothesis 1: 
+
+Vybrala jsem druhé téma , protože dobře zobrazuje realitu života . Kdybyste nepekli těsto , neměli byste šanci ochutnat ty koláče . Určitě je můžete koupit v pekárně , ale ty nebudou mít stejnou chuť , než ty které jste pekli sami . V životě je to denní zkušenost . Od té doby , co jsme byli poprvé ve škole , učíme se , že práce je moc důležitá a že bez ní nic není možné . Podle mého názoru radit žákům , aby dobře a pilně pracovali ve školství , je dobrá věc . To jsem se učila brzo a měla jsem čas , abych cvičila a porozuměla jak a proč pracovat . Naštěstí rodiče moc mě podporovali a to bylo nutné . Dnes vím přesně co dělat , abych dostala , co potřebuji . To platí pro všechno - hlavně pro školu a práci , ale taky pro přátelství , lásku , cestování , sport , koníčky , úplně pro všechno . Určitě jsou lidé , kteří moc pracovat nepotřebujou , protože umí dostat , co chtějí jinak ( třeba nepečou koláče , ale kupují je ) , ale myslím , že ti lidé neznají veselost být pracovitý a dostat věci za práci .
+
+----------------
+
+No target hypothesis 2 available.
+

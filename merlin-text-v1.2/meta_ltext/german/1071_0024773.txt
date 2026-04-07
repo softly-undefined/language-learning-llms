@@ -1,0 +1,31 @@
+METADATA
+
+General:
+Author ID: 1071_0024773
+Test language: German
+CEFR level of test: A1
+Task : congratulate to birth of child - ID: 1071_030101
+Mother tongue: not reported
+Age: 44
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+                                                         Stadt X, 26.04.12
+Lieber Freund Jens, es freu mich sehr gut dass du, Vater bist.
+Und wie heisst das Kind. wie geht´s es? wie geht deine Frau?
+Ich offe alles ist gut!
+Ich wünsche Euch ein gut, und viel glück
+Liebe Grüße.
+Dein - Michael

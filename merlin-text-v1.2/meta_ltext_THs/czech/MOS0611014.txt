@@ -1,0 +1,43 @@
+METADATA
+
+General:
+Author ID: MOS0611014
+Test language: Czech
+CEFR level of test: B2
+Task : write an essay: No pain no gain - ID: B2PS0202_kolace
+Mother tongue: Russian
+Age: 1519
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+
+Mýslím že každy člověk ma nejakou práce. Prace mužna byt růžne: služební cesta, studiům, prace, hobbie. Tu práce človek musí udelat velní dobře kdyz jeho přatéle po prácí a jeho představeny mněl dobroy myslínky o tom človeke. Když človek prácuji dobře představeny dá mů zvyšenou platů, davá jemu premie a můznost jít do sluzební cestu.
+Bohužel, člověk ma volný práce: udela volněvy věcí, krostlime obražky a hraji na gitaze se svými přatelami, píšime knihovy. Totiz jeho "koláče" budou peniže a mílost jeho kamarádek.
+Mýslím ze člověk můze líbit se svou práce. Ze člověku práce ne dost pozitivu všehno bude udělat špatně počasí v jeho důse.
+Každy člověk musí od narožení umít dělat všehno s laskou. Kdýž udeláme špatne, nikdo ne bude milovat jeho práce, a jeho samoho.
+Naopak, kdýz človek prácuji velní mnoho, jeho představeny můze mýslit, že tomu člověku nic udelat, kromě práce, a můze jemu dávát horší práce, než on mohl by ste udelát.
+Ale take mýslím že každý člověk musí dělat svou práce dobře i budou u neho mnoho "koláče".
+
+----------------
+
+Target hypothesis 1: 
+
+Myslím , že každý člověk má nějakou práci . Práce mohou být různé : služební cesta , studium , práce , hobby . Tu práci člověk musí dělat velmi dobře , když jeho přátelé po práci a jeho představený měli dobré myslínky o tom člověku . Když člověk pracuje dobře , představený mu dá zvýšený plat , dává mu prémie a můznost jít na služební cestu . Bohužel , člověk má volnou práci : udělá volněvy věci , krostlime obrázky a hraje na gitaze se svými přáteli , píše knihy . Jeho " koláče " totiž budou peníze a milost jeho kamarádek . Myslím , že člověk se může líbit svou prací . Že člověku práce , ve které není dost pozitivní všechno , bude dělat špatné počasí v jeho duši . Každý člověk musí od narození umět dělat všechno s láskou . Když něco udělá špatně , nikdo nebude milovat jeho práci a jeho samého . Naopak , když člověk pracuje velmi mnoho , jeho představený si může myslit , že tomu člověku nic neudělá , kromě práce , a může mu dávat horší práce , než by on mohl dělat . Ale také myslím , že každý člověk musí dělat svou práci dobře , a bude u něho mnoho " koláčů " .
+
+----------------
+
+Target hypothesis 2: 
+
+Myslím , že každý člověk má nějakou práci . Práce mohou být různé : služební cesta , studium , zaměstnání , hobby . Tu práci člověk musí dělat velmi dobře , aby jeho přátelé v práci a jeho nadřízený měli dobré myšlenky o tom člověku . Když člověk pracuje dobře , nadřízený mu dá zvýšený plat , dává mu prémie a možnost jet na služební cestu . Bohužel , člověk má volnou práci : udělá volněvy věci , kreslí obrázky a hraje na kytaru se svými přáteli , píše knihy . Jeho " koláče " totiž budou peníze a náklonnost jeho kamarádů . Myslím , že člověk se může líbit svou prací . Že člověku práce , ve které není dost pozitivní všechno , bude dělat špatné počasí v jeho duši . Každý člověk musí od narození umět dělat všechno s láskou . Když něco udělá špatně , nikdo nebude milovat jeho práci a jeho samého . Naopak , když člověk pracuje velmi mnoho , jeho nadřízený si může myslit , že tomu člověku nic neudělá , kromě práce , a může mu dávat horší práce , než by on mohl dělat . Ale také myslím , že každý člověk musí dělat svou práci dobře , a bude u něho mnoho " koláčů " .

@@ -1,0 +1,26 @@
+METADATA
+
+General:
+Author ID: 1385_0001785
+Test language: Italian
+CEFR level of test: A1
+Task : help a friend who is looking for work - ID: 1385_040101
+Mother tongue: German
+Age: 43
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A1
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A1
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Puoi mi dice che lavoro fai adesso? Che tipo di lavoro vuoi fare et che lingui parli?
+Vorrei sapere quanto ore pó lavorare per la settimana. Dove lavori adesso? Tu poi andare à una altra città per lavora? Tu poi lavorare la mattina et anche la sera? Hai una maccina? 

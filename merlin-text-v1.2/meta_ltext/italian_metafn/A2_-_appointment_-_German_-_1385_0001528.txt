@@ -1,0 +1,28 @@
+METADATA
+
+General:
+Author ID: 1385_0001528
+Test language: Italian
+CEFR level of test: A1
+Task : reschedule an appointment - ID: 1385_020100
+Mother tongue: German
+Age: 37
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Ciao Daniele, 
+come stai? Per me questa settimana è orribile. In ufficio c'è molto lavoro. Mi dispiace, ma giovedi pomeriggio non posso incontrarti perché mio capo ha organizzato una riunione. Tu hai tempo sabato sera? Che ne dici di andare a cena in un ristorante tailandese? Se ti non piace la cucina tailandese possiamo andare in un altro ristorante. Ti prego di informarmi fino al venerdi. Credo che dobbiamo prenotare un tavolo, il sabato sera i ristoranti sono sempre pieni. 
+ Saluti
+ Maria

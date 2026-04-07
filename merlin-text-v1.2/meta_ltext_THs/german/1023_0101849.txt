@@ -1,0 +1,46 @@
+METADATA
+
+General:
+Author ID: 1023_0101849
+Test language: German
+CEFR level of test: B2
+Task : apply for internship in sales department - ID: 1023_120301
+Mother tongue: Spanish
+Age: 34
+Gender: male
+
+Rating:
+Overall CEFR rating: B2
+Grammatical accuracy: B2
+Orthography: B1
+Vocabulary range: B2
+Vocabulary control: B2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B2
+
+----------------
+
+Learner text: 
+
+Tobias Michael Meier Müller
+Müllergasse 12
+1234 Stadt X
+Computer-Spezialist
+Odenwaldstraße 5
+53119 Bonn                                   Stadt X den 30.12.2010
+Sehr geehrte Damen und Herren
+Mit großem Interesse habe ich Ihre Anzeige gelesen und bewerbe mich um eine praktikantenstelle bei Ihnen. In einer großem deutschen Firma ein Praktikum zu absolvieren war  und ist immer mein Großer Wunsch.
+Nach meine Deutschkurz würde ich gerne die Zeit nutzen um meiner deutsche Kentnisse zu verbesern und Praktische erfarungen zammel zu können. in meinen Heimat habe ich ein Ausbildung als Programierer absolviert. und in einen -unreadable- Comupter Centrum gearbeitet. Englisch und Spanisch behersche ich in Schrift und Wort. Im team zu Arbeiten macht mir große Freude aber ich kann auch allein mit die Kunden umgehen. Ich bin sehr mobil und Flexibel. In Ihren Firma konnte ich angfan Juni eintreten.
+auf eine Einladung zu geschprechen werde ich mich sehr freuen.
+Mit freundlichen Grußen Tobias.
+
+----------------
+
+Target hypothesis 1: 
+
+Tobias Michael Meier Müller Müllergasse 12 1234 Stadt X Computer-Spezialist Odenwaldstraße 5 53119 Bonn Stadt X , den 30.12.2010 Sehr geehrte Damen und Herren ! Mit großem Interesse habe ich Ihre Anzeige gelesen und bewerbe mich um eine Praktikantenstelle bei Ihnen . In einer großen deutschen Firma ein Praktikum zu absolvieren war und ist immer mein großer Wunsch . Nach meinem Deutschkurs würde ich gerne die Zeit nutzen , um meine deutschen Kenntnisse zu verbessern und praktische Erfahrungen sammeln zu können . In meiner Heimat habe ich eine Ausbildung als Programmierer absolviert und in einem -unreadable- Computerzentrum gearbeitet . Englisch und Spanisch beherrsche ich in Schrift und Wort . Im Team zu arbeiten macht mir große Freude , aber ich kann auch allein mit den Kunden umgehen . Ich bin sehr mobil und flexibel . In Ihre Firma konnte ich Anfang Juni eintreten . Auf eine Einladung zu Gesprächen werde ich mich sehr freuen . Mit freundlichen Grüßen Tobias
+
+----------------
+
+No target hypothesis 2 available.
+

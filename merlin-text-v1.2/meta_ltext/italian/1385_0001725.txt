@@ -1,0 +1,29 @@
+METADATA
+
+General:
+Author ID: 1385_0001725
+Test language: Italian
+CEFR level of test: A1
+Task : reschedule an appointment - ID: 1385_020100
+Mother tongue: German
+Age: 33
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+                                                                    Città X, 9. luglio 2011 
+Ciao Daniele
+è una settimana orribile. In ufficio c'è molto lavoro e giovedì pomeriggio non posso uscire con te giovedì. Ci vediamo sabato sera tu vuoi cenare in un ristorante tailandese?
+tanti cari saluti 
+Michele Rossi

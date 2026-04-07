@@ -1,0 +1,40 @@
+METADATA
+
+General:
+Author ID: PHA0510050
+Test language: Czech
+CEFR level of test: B2
+Task : write an essay: More people know more - ID: B2PS0201_hlava
+Mother tongue: Other
+Age: 2029
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B2
+Vocabulary range: B2
+Vocabulary control: B1
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+"Víc hlav, víc ví", či jak spolu víc dělame
+
+Žijeme v dobách, ve kterém všude najdeme ideologii, která nás řiká, že konkurence je nejlepší. Můj názor je úplně jiný, i když to neznamená, že samostatnost není důležitá. I když sami, mý lidé, určitě můžeme, a musíme, hodně cílů dostat, pravda je, že spolu žadnou hranici nemáme.
+Kooperace místo konkurenci, či proto existuje něco, které se j-ambiguous-enuje znalost. A ona je tam, abychom ji sdílili. Hokejisté bez lekařů nic nemohli by být, ani vychovatelští bez pedagogů. Každý z nás má jinou znalosti, a každá čásť této znalosti platí. Proč necháme vlády, aby samy rozhodnuly co je nejlépe pro obyvatelé? Nebylo by to lepší, jestli lidé by stavili jejich politický, economcký a socialný osud krok za krokem, ze společenské zkušenosti? 
+Víc hlav, vic ví, i když noviny pišou naopak. Všichny víme, známe a umíme něco. Čas je, aby ta všeobecná znalost nám měří někam. Každý z nás má co ríct, a musíme ho poslouchat, protože může všechno zlepšit. Posloucháme-li każdému, žadnou chybou neudělame.
+
+----------------
+
+Target hypothesis 1: 
+
+" Víc hlav , víc ví " , či jak spolu víc děláme . Žijeme v dobách , ve kterých všude najdeme ideologii , která nám říká , že konkurence je nejlepší . Můj názor je úplně jiný , i když to neznamená , že samostatnost není důležitá . I když sami , my lidé , určitě můžeme , a musíme , hodně cílů dostat , pravda je , že spolu žádnou hranici nemáme . Kooperace místo konkurence , či proto existuje něco , co se jmenuje znalost . A ona je tam , abychom ji sdíleli . Hokejisté bez lékařů by nemohli nic být , ani vychovatelé bez pedagogů . Každý z nás má jiné znalosti , a každá část těchto znalostí platí . Proč necháme vlády , aby samy rozhodly , co je nejlepší pro obyvatele ? Nebylo by to lepší , kdyby lidé stavili jejich politický , ekonomický a sociální osud krok za krokem , ze společenské zkušenosti ? Víc hlav , víc ví , i když noviny píšou opak . Všichni víme , známe a umíme něco . Je čas , aby ta všeobecná znalost nás někam směřovala . Každý z nás má , co říct , a musíme ho poslouchat , protože může všechno zlepšit . Posloucháme-li každého , žádnou chybu neuděláme .
+
+----------------
+
+No target hypothesis 2 available.
+

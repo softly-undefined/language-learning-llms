@@ -1,0 +1,40 @@
+METADATA
+
+General:
+Author ID: PHA0510048
+Test language: Czech
+CEFR level of test: B2
+Task : write an essay: Clothes make the man - ID: B2PS0201_saty
+Mother tongue: Other
+Age: 1519
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B2
+Vocabulary control: B2
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Slovo "přítel" znamená mnohém víc, než prostě člověk, který každé sobotu chodí s Vámi do kina. Mnozi z nás myslějí, že májí velké množství přátelu, ale to není pravda.
+Jak poznát kdo jépřítel, a kdo není? Oprávdový přítel, jak jé to správně řečéno v přislovi: "V nouzi poznáš přítele.", se poznává v složitých sítuacích. Každý můžé mít velké množství kamarádu, ale přátel nemůže být moc. Jenom v obtižnostích můžeme řict: "Ty jsi můj přítel." Ve válce se poznaválí přátele. Všude byl strašný hluk, chaos. Možna že byla zíma, ale tam jeden dával jínému svojéoblečení, aby ho ruka přestálá krvácet. Opravdový přítel nemohl jíst a dívat se jak ostátní vojaci dívalí na něho. Ten člověk dával část jídla všem ostaním. A vůbec to nevádílo, jestli on měl máso, nebo prostě kůschleba.
+Jestli soused prosí sto korůn, aby mohl koupít jídlo sobě a říká že vrací to zitra, ten jíný mu dá ty sto korůn. Soused ví, že ten nemá práce a bůde mů velice těžke vracit ty peníze. On nebůde ptát, jestli on oprávdu vráci peníze, a vůbec nebůde rozmyšlet: dávát, nebo ne. Ten člověk bůde přítelem, protože v tento situaci nejdé o podvodě, je to o tom: být člověkem nebo ne.
+"Přítel se poznává v nouze". V nouze se poznáva i ten, kdo chtěl vypádát jako přítel, Ale "nepodál vám růku", když vy potřebovaly.
+Přátel nemůže být hodně. Protože nekaždý pomůže Vám v nouze. I ten, kdo pomohl vám, zaslouží všechno nejlepší. Takoví přátele jsou do konce života.
+
+----------------
+
+Target hypothesis 1: 
+
+Slovo " přítel " znamená mnohem víc , než prostě člověk , který každou sobotu chodí s Vámi do kina . Mnozí z nás myslí , že mají velké množství přátel , ale to není pravda . Jak poznat kdo je přítel a kdo není ? Opravdový přítel , jak je to správně řečeno v přísloví : " V nouzi poznáš přítele . " , se poznává v složitých situacích . Každý může mít velké množství kamarádů , ale přátel nemůže být moc . Jenom v obtížnostech můžeme říct : " Ty jsi můj přítel . " Ve válce se poznávali přátelé . Všude byl strašný hluk , chaos . Možná , že byla zima , ale tam jeden dával jinému svoje oblečení , aby jeho ruka přestala krvácet . Opravdový přítel nemohl jíst a dívat se , jak se ostatní vojáci dívali na něho . Ten člověk dával část jídla všem ostaním . A vůbec to nevadilo , jestli on měl maso nebo prostě kus chleba . Jestli soused prosí o sto korun , aby mohl koupit jídlo sobě a říká , že to vrátí zítra , ten jiný mu dá těch sto korun . Soused ví , že ten nemá práci a bude mu velice těžko vracet ty peníze . On se nebude ptát , jestli on opravdu vrátí peníze , a vůbec nebude rozmýšlet : dávat nebo ne . Ten člověk bude přítelem , protože v této situaci nejde o podvod , je to o tom : být člověkem nebo ne . " Přítel se poznává v nouzi " . V nouzi se poznává i ten , kdo chtěl vypadat jako přítel , Ale " nepodal Vám ruku " , když jste Vy potřebovali . Přátel nemůže být hodně . Protože ne každý Vám pomůže v nouzi . I ten , kdo pomohl Vám , zaslouží všechno nejlepší . Takoví přátelé jsou do konce života .
+
+----------------
+
+No target hypothesis 2 available.
+

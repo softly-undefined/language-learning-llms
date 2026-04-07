@@ -1,0 +1,42 @@
+METADATA
+
+General:
+Author ID: 1395_0001040
+Test language: Italian
+CEFR level of test: A2
+Task : EMPTY - ID: 1395_010300
+Mother tongue: EMPTY
+Age: EMPTY
+Gender: EMPTY
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A1
+Orthography: A2
+Vocabulary range: A1
+Vocabulary control: A1
+Coherence/Cohesion: A1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Caro Daniele, 
+Io sono in Italia per studio bene il italiano. 
+Io con tre altro amici facendo un corso di italiano. 
+Alle otto dal undici sono le lezioni. Il pomeriggio noi vergiamo al strada. Il mare à bellissimo. 
+ 
+Un caro saluto 
+Michele 
+
+----------------
+
+Target hypothesis 1: 
+
+Caro Daniele , io sono in Italia per studiare bene l' italiano . Io , con tre altri amici , sto facendo un corso di italiano . Dalle otto alle undici ci sono le lezioni . Il pomeriggio noi passeggiamo per strada . Il mare è bellissimo . Un caro saluto Michele
+
+----------------
+
+No target hypothesis 2 available.
+

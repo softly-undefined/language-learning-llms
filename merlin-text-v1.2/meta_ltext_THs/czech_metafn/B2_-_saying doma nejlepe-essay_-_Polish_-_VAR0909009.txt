@@ -1,0 +1,40 @@
+METADATA
+
+General:
+Author ID: VAR0909009
+Test language: Czech
+CEFR level of test: B2
+Task : write an essay: Everywhere well but at home the best - ID: B2PS0200_doma
+Mother tongue: Polish
+Age: 4049
+Gender: male
+
+Rating:
+Overall CEFR rating: B2
+Grammatical accuracy: B2
+Orthography: B1
+Vocabulary range: B2
+Vocabulary control: B2
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Vždycky když jsem délší dobu doma, třeba 3 týdny nebo měsíc, tak už se mi zase chce cestovat. Nejraději bych si v takových okamžicích koupil jakoukoliv jizdenku nebo letenku a jel bych kolem světa. Cestování je nejzajímavejší když máme hodně času a peněz a nemusíme nikam spěchat. Vlak přijiždí k nějaké malé stanici, řekněme v Nemecku, a my tam vystupujeme, aniž bychom věděli, jestli v této vesnici je vůbec hotel. Pak jdeme do místní hospody a tam se seznámujeme s lídmi. Nemluvíme německý? - nevadí. Určitě najde se tam někdo, kdo mluví anglický nebo dokonce český. Potom všechno je už velmí snadné. Lidé jsou přece v každé zemí přibližně stejní. Mají rádi pivo, mají rádi filmy, hudbu a literaturu. A hlavně - mají také rádi cestování. A tak sedíme v hospodě v německé vesnici, vyprávíme o našich cestách kolem světa, které bychom chtěli kdysi realizovat. Hraje nam k tomu nějaký ruský jazzman, který také rád cestuje . přijel např. z Volgogradu. A samozřejmě táto situace není maximum našich možnosti. Je to jen otázka peněz. Cesta kolem světa je mnohém dražsí, než krátký výlet do Německa. Ale možnosti tu jsou. Potkál jsem jednou muže, který na kole projel -unreadable- několik zemí v Azií a Africe. - Bylo to nebezpečné? - zeptal jsem se ho. - Vůbec ne - řekl 
+Pokud se nebudeme příliš obávat, a budeme se slušně  chovat k lidém, tak naše cesty budou příjemné. Přijde  však takový okamžík, když  budeme v tom vlaku, letadle, autě, v těch hotelích nebo mezi přislušníky jiné kultury, a najednou se rozhodneme, že chceme se vrátit do toho města, které je naše.  k přátelům, k rodině  
+ A nezbyvá nam nic než jít do cestovní kanceláře nebo na nádraží v té cizí země, a koupit si jizdenku domů.
+Abychom zase, za měsíc nebo dva, měli ten zvláštní pocit, že zase chceme na cestu. Víme, co vlastně chceme? :)
+
+----------------
+
+Target hypothesis 1: 
+
+Vždycky když jsem delší dobu doma , třeba 3 týdny nebo měsíc , tak už se mi zase chce cestovat . Nejraději bych si v takových okamžicích koupil jakoukoliv jízdenku nebo letenku a jel bych kolem světa . Cestování je nejzajímavejší , když máme hodně času a peněz a nemusíme nikam spěchat . Vlak přijíždí k nějaké malé stanici , řekněme v Německu , a my tam vystupujeme , aniž bychom věděli , jestli je v této vesnici vůbec hotel . Pak jdeme do místní hospody a tam se seznamujeme s lidmi . Nemluvíme německy ? Nevadí . Určitě se tam najde někdo , kdo mluví anglicky nebo dokonce česky . Potom je všechno už velmi snadné . Lidé jsou přece v každé zemi přibližně stejní . Mají rádi pivo , mají rádi filmy , hudbu a literaturu . A hlavně - mají také rádi cestování . A tak sedíme v hospodě v německé vesnici , vyprávíme o našich cestách kolem světa , které bychom chtěli kdysi realizovat . Hraje nám k tomu nějaký ruský jazzman , který také rád cestuje . Přijel např. z Volgogradu . A samozřejmě tato situace není maximum našich možností . Je to jen otázka peněz . Cesta kolem světa je mnohem dražší než krátký výlet do Německa . Ale možnosti tu jsou . Potkal jsem jednou muže , který na kole projel -unreadable- několik zemí v Asii a Africe . " Bylo to nebezpečné ? " zeptal jsem se ho . " Vůbec ne , " řekl . Pokud se nebudeme příliš obávat a budeme se slušně chovat k lidem , tak naše cesty budou příjemné . Přijde však takový okamžik , kdy budeme v tom vlaku , letadle , autě , v těch hotelích nebo mezi příslušníky jiné kultury a najednou se rozhodneme , že se chceme vrátit do toho města , které je naše . K přátelům , k rodině . A nezbývá nám nic než jít do cestovní kanceláře nebo na nádraží v té cizí zemi a koupit si jízdenku domů . Abychom zase , za měsíc nebo dva , měli ten zvláštní pocit , že zase chceme na cestu . Víme , co vlastně chceme ? :)
+
+----------------
+
+Target hypothesis 2: 
+
+Vždycky když jsem delší dobu doma , třeba 3 týdny nebo měsíc , tak už se mi zase chce cestovat . Nejraději bych si v takových okamžicích koupil jakoukoliv jízdenku nebo letenku a jel bych kolem světa . Cestování je nejzajímavější , když máme hodně času a peněz a nemusíme nikam spěchat . Vlak přijíždí k nějaké malé stanici , řekněme v Německu , a my tam vystupujeme , aniž bychom věděli , jestli je v této vesnici vůbec hotel . Pak jdeme do místní hospody a tam se seznamujeme s lidmi . Nemluvíme německy ? Nevadí . Určitě se tam najde někdo , kdo mluví anglicky nebo dokonce česky . Potom je všechno už velmi snadné . Lidé jsou přece v každé zemi přibližně stejní . Mají rádi pivo , mají rádi filmy , hudbu a literaturu . A hlavně - mají také rádi cestování . A tak sedíme v hospodě v německé vesnici , vyprávíme o našich cestách kolem světa , které bychom chtěli jednou realizovat . Hraje nám k tomu nějaký ruský jazzman , který také rád cestuje . Přijel např. z Volgogradu . A samozřejmě tato situace není maximum našich možností . Je to jen otázka peněz . Cesta kolem světa je mnohem dražší než krátký výlet do Německa . Ale možnosti tu jsou . Potkal jsem jednou muže , který na kole projel -unreadable- několik zemí v Asii a Africe . " Bylo to nebezpečné ? " zeptal jsem se ho . " Vůbec ne , " řekl . Pokud se nebudeme příliš obávat a budeme se slušně chovat k lidem , tak naše cesty budou příjemné . Přijde však takový okamžík , kdy budeme v tom vlaku , letadle , autě , v těch hotelích nebo mezi příslušníky jiné kultury a najednou se rozhodneme , že se chceme vrátit do toho města , které je naše . K přátelům , k rodině . A nezbývá nám nic než jít do cestovní kanceláře nebo na nádraží v té cizí zemi a koupit si jízdenku domů . Abychom zase , za měsíc nebo dva , měli ten zvláštní pocit , že zase chceme na cestu . Víme , co vlastně chceme ? :)

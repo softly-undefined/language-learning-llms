@@ -1,0 +1,29 @@
+METADATA
+
+General:
+Author ID: 1395_0000398
+Test language: Italian
+CEFR level of test: A2
+Task : contact a friend after a long time - ID: 1395_020300
+Mother tongue: German
+Age: 17
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: C2
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Città X, 29.5.10
+Caro Marco.
+Come stai? Io sto bene. Anche la mia famiglia sta bene. I miei genitori sono andati in vacanza per due settimane, che fortuna che hanno. :)
+Mio fratello lavora tutto il giorno, e deve studiare tanto per l'esame, e poi va sempre in giro con la sua nuova ragazza. E come stanno i tuoi? Io lavoro ancora in Città Y come la ragazza alla pari, e mi piace tanto. Sono in una bellissima famiglia e Città X é troppo bello. E tu, che cosa fai adesso?
+Fammi sentire! Tanti e cari saluti. Maria-image-

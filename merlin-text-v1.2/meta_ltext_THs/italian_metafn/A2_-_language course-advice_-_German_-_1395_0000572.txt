@@ -1,0 +1,41 @@
+METADATA
+
+General:
+Author ID: 1395_0000572
+Test language: Italian
+CEFR level of test: A2
+Task : inform friends about language course - ID: 1395_010300
+Mother tongue: German
+Age: 46
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Città X, 5 maggio 2011
+Cari amici,
+Due settimane fa sono arrivata a Città X per fare un corso di italiano. L'insegnante è Maria Rossi, una donna grande, intelligente e cara. In tempo libero visito i musei e quando il tempo è bello vado al mare per fare un passeggiato.
+Tanti saluti,
+Maria
+
+----------------
+
+Target hypothesis 1: 
+
+Città X , 5 maggio 2011 Cari amici , due settimane fa sono arrivata a Città X per fare un corso di italiano . L' insegnante è Maria Rossi , una donna grande , intelligente e cara . Nel tempo libero visito i musei e quando il tempo è bello vado al mare per fare una passeggiata . Tanti saluti , Maria
+
+----------------
+
+Target hypothesis 2: 
+
+Città X , 5 maggio 2011 Cari amici , due settimane fa sono arrivata a Città X per fare un corso di italiano . L' insegnante è Maria Rossi , una donna grande , intelligente e cara . Nel tempo libero visito i musei e quando il tempo è bello vado al mare per fare una passeggiata . Tanti saluti , Maria

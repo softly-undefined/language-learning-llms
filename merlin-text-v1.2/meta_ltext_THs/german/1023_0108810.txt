@@ -1,0 +1,48 @@
+METADATA
+
+General:
+Author ID: 1023_0108810
+Test language: German
+CEFR level of test: B2
+Task : Au pair writes letter of complaint to Agency - ID: 1023_100303
+Mother tongue: Portuguese
+Age: 16
+Gender: male
+
+Rating:
+Overall CEFR rating: B2
+Grammatical accuracy: B2
+Orthography: B2
+Vocabulary range: B2
+Vocabulary control: B2
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: B2
+
+----------------
+
+Learner text: 
+
+Michael Schmidt                                    Stadt X, 29. Juli 11
+Bahnhofsstraße, 12
+12345-100 Stadt X, SP-BR
+Au-pair-Agentur Schultz & Partner
+Regenstr. 101 
+90451 Nürnberg
+Sehr geehrte Au-pair-Agentur Schultz & Partner,
+ich habe schön ein Vierteljahr in dieser Gastfamilie verbracht aber ich bin sehr unzufrieden. Ich möchte meine Situation in der Gastfamilie erklären und über eine Losung discutieren. 
+Ich komme aus Brasilien und ich spreche schön perfekt zwei Sprachen: Englisch und Portugiesisch. Die erste Problem mit die Gastfamilie ist: Sie sprechen nur Englisch mit mir. Ich bin nach Deutschland gegangen, weil ich meine Sprachkenntnisse komplettieren möchte. Ich muss mein Deutsch verbessern. Die zweite Problem ist das Essen. Sie essen nur Fast-Food. Das ist nicht Gesund und ich esse keine Fast-Food. Ich wunsche eine Familie, die Gesund ist, weil zu Hause ich nur Gesundessen esse. Der dritte und am schlechsten Problem ist die Sauberkeit des Hauses. Ich habe schön viele Insekten unter mein Bett und in die Küche. Das ist nicht normal für mich. Ein andern Aspekt der Sauberkeit ist, dass nur drei mal pro Woche die Familie duschen. Ich dusche mich mindestens zwei mal pro Tag. Das ist meine Situation in der Gastfamilie. Miene Situation in der Schule ist fast gleich. Ich habe schön viele Freunden aber sie sprechen nur Englisch mit mir.
+Wenn es möglich ist, wüsste ich gern einigen Losungsvorschlagen für diese Problem, wie die Gastfamilie tauschen, oder mit Sie sprechen. Ich warte auf die Antwort
+meine Freundlichen Grüßen,
+Michael Schmidt
+
+----------------
+
+Target hypothesis 1: 
+
+Michael Schmidt Stadt X , 29 . Juli 11 Bahnhofsstraße 12 12345-100 Stadt X , SP-BR Au-pair-Agentur Schultz & Partner Regenstr . 101 90451 Nürnberg Sehr geehrte Au-pair-Agentur Schultz & Partner , ich habe schön ein Vierteljahr in dieser Gastfamilie verbracht , aber ich bin sehr unzufrieden . Ich möchte meine Situation in der Gastfamilie erklären und über eine Lösung diskutieren . Ich komme aus Brasilien und ich spreche schön perfekt zwei Sprachen : Englisch und Portugiesisch . Das erste Problem mit der Gastfamilie ist : Sie sprechen nur Englisch mit mir . Ich bin nach Deutschland gegangen , weil ich meine Sprachkenntnisse komplettieren möchte . Ich muss mein Deutsch verbessern . Das zweite Problem ist das Essen . Sie essen nur Fast-Food . Das ist nicht gesund und ich esse kein Fast-Food . Ich wünsche eine Familie , die gesund ist , weil ich zu Hause nur Gesundessen esse . Das dritte und das schlechteste Problem ist die Sauberkeit des Hauses . Ich habe schön viele Insekten unter meinem Bett und in der Küche . Das ist nicht normal für mich . Ein anderer Aspekt der Sauberkeit ist , dass die Familie nur drei Mal pro Woche duscht . Ich dusche mich mindestens zwei Mal pro Tag . Das ist meine Situation in der Gastfamilie . Miene Situation in der Schule ist fast gleich . Ich habe schön viele Freunde , aber sie sprechen nur Englisch mit mir . Wenn es möglich ist , wüsste ich gern einige Lösungsvorschläge für dieses Problem , wie die Gastfamilie tauschen , oder mit Ihnen sprechen . Ich warte auf die Antwort . Meine freundlichen Grüßen , Michael Schmidt
+
+----------------
+
+Target hypothesis 2: 
+
+Michael Schmidt Stadt X , 29 . Juli 11 Bahnhofsstraße 12 12345-100 Stadt X , SP-BR Au-pair-Agentur Schultz & Partner Regenstr . 101 90451 Nürnberg Sehr geehrte Au-pair-Agentur Schultz & Partner , ich habe schon ein Vierteljahr in dieser Gastfamilie verbracht , aber ich bin sehr unzufrieden . Ich möchte meine Situation in der Gastfamilie erklären und über eine Lösung diskutieren . Ich komme aus Brasilien und ich spreche schon zwei Sprachen perfekt : Englisch und Portugiesisch . Das erste Problem mit der Gastfamilie ist : Sie sprechen nur Englisch mit mir . Ich bin nach Deutschland gegangen , weil ich meine Sprachkenntnisse vervollständigen möchte . Ich muss mein Deutsch verbessern . Das zweite Problem ist das Essen . Sie essen nur Fast-Food . Das ist nicht gesund und ich esse kein Fast-Food . Ich wünsche eine Familie , die gesund isst , weil ich zu Hause nur gesundes Essen esse . Das dritte und das größte Problem ist die Sauberkeit des Hauses . Ich hatte schon viele Insekten unter meinem Bett und in der Küche . Das ist nicht normal für mich . Ein anderer Aspekt der Sauberkeit ist , dass die Familie nur drei mal pro Woche duscht . Ich dusche mich mindestens zwei Mal pro Tag . Das ist meine Situation in der Gastfamilie . Meine Situation in der Schule ist fast gleich . Ich habe schon viele Freunde , aber sie sprechen nur Englisch mit mir . Wenn es möglich ist , wüsste ich gern einige Lösungsvorschläge für dieses Problem , wie die Gastfamilie zu tauschen , oder mit Ihnen zu sprechen . Ich warte auf Ihre Antwort . Meine freundlichen Grüße , Michael Schmidt

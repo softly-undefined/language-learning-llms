@@ -1,0 +1,52 @@
+METADATA
+
+General:
+Author ID: 1023_0109249
+Test language: German
+CEFR level of test: B2
+Task : Au pair writes letter of complaint to Agency - ID: 1023_100303
+Mother tongue: Spanish
+Age: 35
+Gender: female
+
+Rating:
+Overall CEFR rating: B2
+Grammatical accuracy: B1
+Orthography: B2
+Vocabulary range: B2
+Vocabulary control: B1
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: B2
+
+----------------
+
+Learner text: 
+
+Julia Müller
+Zentralplatz 12
+A 2 Stadt X - Peru
+Au-pair-Agentur Schultz & Partner
+Regenstr. 101
+90451 Nürnberg
+                                                        Stadt X, 08.09.2011
+Beschwerde Au-pair-Agentur Schultz & Partner.
+Sehr geehrte Damen und Herren,
+als ich Ihre Anzeige in der Süddeutsche Zeitung gelesen habe, habe ich sofort mit großem Erwartungen bei Ihrem Au-pair-Agentur Schultz & Partner angemeldet.
+Nach meinen Erlebnissen möchte ich nun meinen großen Enttäuschung Ausdruck verleihe
+Als ich angekommen bin, wurde in eine zwar  -unreadable- Familie gewöhnen. Ich dachte, dass ich hier mein Deuscht verbesser könnte aber da war nicht. Die Familie haben keine Zeit mit mir zu reden Außerdem musste ich statt zwei Kinder, drei Kinder aufpassen Wie ich Ihre Anzeige gelesen habe, könnte ich Freizeit habe aber das war auch nicht. Ich hatte überhaubt nicht keine Freizeit Ich wollte in eine Deutschschule Teilnehme aber ich habe vollzeit gearbeitet. Ich konnte auch nicht Deutsch lernen
+Vor einem Monat habe ich mit der Au-pair-Agentur versucht zu reden aber Sie möchten nicht mit mir reden. Sie haben keine losung für meinen Problemen gefunden
+Aus diesem Grund, bitte ich Sie mindestens 40 % meiner Reisekosten züruck zu erstatten, Andernfalls sehe ich mich gezwungen meinen Rechtsanwalt einzuschalten
+Mit freundlichen Grüßen
+Julia Müller
+
+----------------
+
+Target hypothesis 1: 
+
+Julia Müller Zentralplatz 12 A 2 Stadt X - Peru Au-pair-Agentur Schultz & Partner Regenstr . 101 90451 Nürnberg Stadt X , 08.09.2011 Beschwerde Au-pair-Agentur Schultz & Partner Sehr geehrte Damen und Herren , als ich Ihre Anzeige in der Süddeutschen Zeitung gelesen habe , habe ich mich sofort mit großen Erwartungen bei Ihrer Au-pair-Agentur Schultz & Partner angemeldet . Nach meinen Erlebnissen möchte ich nun meiner großen Enttäuschung Ausdruck verleihen . Als ich angekommen bin , wurde ich zwar an eine -unreadable- Familie gewöhnt . Ich dachte , dass ich hier mein Deutsch verbessern könnte , aber das war nicht . Die Familie hat keine Zeit mit mir zu reden . Außerdem musste ich statt auf zwei Kinder auf drei Kinder aufpassen . Wie ich Ihre Anzeige gelesen habe , könnte ich Freizeit haben , aber das war auch nicht . Ich hatte überhaupt keine Freizeit . Ich wollte an einer Deutschschule teilnehmen , aber ich habe Vollzeit gearbeitet . Ich konnte auch kein Deutsch lernen . Vor einem Monat habe ich mit der Au-pair-Agentur versucht zu reden , aber Sie möchten nicht mit mir reden . Sie haben keine Lösung für meine Probleme gefunden . Aus diesem Grund bitte ich Sie , mindestens 40 % meiner Reisekosten zurückzuerstatten . Andernfalls sehe ich mich gezwungen meinen Rechtsanwalt einzuschalten . Mit freundlichen Grüßen Julia Müller
+
+----------------
+
+Target hypothesis 2: 
+
+Julia Müller Zentralplatz 12 A 2 Stadt X - Peru Au-pair-Agentur Schultz & Partner Regenstr . 101 90451 Nürnberg Stadt X , 08.09.2011 Beschwerde Au-pair-Agentur Schultz & Partner Sehr geehrte Damen und Herren , als ich Ihre Anzeige in der Süddeutschen Zeitung gelesen habe , habe ich mich sofort mit großen Erwartungen bei Ihrer Au-pair-Agentur Schultz & Partner angemeldet . Nach meinen Erlebnissen möchte ich nun meiner großen Enttäuschung Ausdruck verleihen . Als ich ankam , musste ich mich sicher an die -unreadable- Familie gewöhnen . Ich dachte jedoch , dass ich hier mein Deusch verbessen könnte , aber dem war nicht so . Die Familie hatte keine Zeit mit mir zu reden . Außerdem musste ich statt auf zwei Kinder , auf drei Kinder aufpassen . Wie ich in Ihrer Anzeige gelesen habe , sollte ich Freizeit haben , aber das war auch nicht so . Ich hatte überhaupt keine Freizeit . Ich wollte eine Deutschschule besuchen , aber ich habe Vollzeit gearbeitet . Ich konnte also kein Deutsch lernen . Vor einem Monat habe ich versucht mit der Au-pair-Agentur zu reden , aber Sie wollten nicht mit mir reden . Sie haben keine Lösung für meine Probleme gefunden . Aus diesem Grund bitte ich Sie , mindestens 40 % meiner Reisekosten zurückzuerstatten . Andernfalls sehe ich mich gezwungen meinen Rechtsanwalt einzuschalten . Mit freundlichen Grüßen Julia Müller

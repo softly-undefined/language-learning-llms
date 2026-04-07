@@ -1,0 +1,40 @@
+METADATA
+
+General:
+Author ID: PHA0811010
+Test language: Czech
+CEFR level of test: B2
+Task : write an essay: No pain no gain - ID: B2PS0202_kolace
+Mother tongue: Russian
+Age: 2029
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B2
+Vocabulary control: B1
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Rčení "Bez práce nejsou koláče" víme už s mínulých století. To je pravda, protoze práce je už část života všech lidí.
+To je bylo vzdy. Ješte v davnestí pracovali v pole a v lesu dnes pracují lide v tovarne, kacelaří, na poliklinice a tomu podobně, ale vzdy davá, nam práce peníze. Bez peníz nemužeme mít ani být, ani auto, ani nabítek, ba ani kamarády. Protože na práce mužeme najít dobrých a zajmevých lidí. Promo mýslím, ze od práce zavísí nás osud.
+Kazdy človek chce cestovat, dobré odpočívat - chodit do kina nebo do divada, dostát dobré vzdelání, kupovat nové oblecení a jine protoze musí mnoho pracovat Kazdy človek Obýcejne práce trvá 8 hodin, ale některy pracují více, protože má rády své prace nebo chce dostat mnoho peněz.
+Malé děti vědi, ze po skoly budou pracovat, nebo studovat na univerite, aby mohli dale dostat dobré práce.
+Béz práce není zaujmý žívot. Nemaš zajim o nic, často nemám kamarády, necestuješ a nemužes dostat všechno co cheš. Všecni lidi musi pracovat a máji rády své práce, protože bez práce nejsou koláče.
+
+----------------
+
+Target hypothesis 1: 
+
+O rčení " bez práce nejsou koláče " víme už od minulých století . To je pravda , protože práce je už část života všech lidí . To bylo vždy . Ješte v dávnosti pracovali na poli a v lese , dnes pracují lidé v továrně , kanceláři , na poliklinice a tak podobně , ale vždy nám dává práce peníze . Bez peněz nemůžeme mít ani byt , ani auto , ani nábytek , ba ani kamarády . Protože v práci můžeme najít dobré a zajímavé lidi . Proto myslím , že od práce závisí náš osud . Každý člověk chce cestovat , dobře odpočívat - chodit do kina nebo do divadla , dostat dobré vzdělání , kupovat nové oblečení a jiné , protože musí každý člověk mnoho pracovat . Obyčejně práce trvá 8 hodin , ale někteří pracují více , protože mají rádi svou práci nebo chtějí dostat mnoho peněz . Malé děti vědí , že po škole budou pracovat nebo studovat na univerzitě , aby mohly dále dostat dobrou práci . Bez práce není zaujmý život . Nemáš zájem o nic , často nemáš kamarády , necestuješ a nemůžeš dostat všechno , co cheš . Všichni lidi musí pracovat a mají rádi svou práci , protože bez práce nejsou koláče .
+
+----------------
+
+No target hypothesis 2 available.
+

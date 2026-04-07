@@ -1,0 +1,30 @@
+METADATA
+
+General:
+Author ID: 1395_0000547
+Test language: Italian
+CEFR level of test: A2
+Task : contact a friend after a long time - ID: 1395_020300
+Mother tongue: German
+Age: 22
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: B1
+Orthography: B2
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Caro Maco,
+Come stai? Come va il tuo lavoro?
+Ti mando tanti saluti da Città X. Città X è il luogo dove studio l'economia del turismo. Mi piace studiare qui a Città X. Ho molti amici ma non ho molto tempo libero. Adesso sto imparando tutti i giorni.
+Sono andata a un concerto rock due settimane fa. La musica era molto bella. Il concerto era a Città Y, una grande città a nord. Ieri sono andata al cinema a Città Z con un'amica.
+Tanti cari saluti
+Maria

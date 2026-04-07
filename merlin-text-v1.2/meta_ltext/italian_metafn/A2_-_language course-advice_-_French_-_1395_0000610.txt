@@ -1,0 +1,29 @@
+METADATA
+
+General:
+Author ID: 1395_0000610
+Test language: Italian
+CEFR level of test: A2
+Task : inform friends about language course - ID: 1395_010300
+Mother tongue: French
+Age: 57
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+                                                                                Città X, il 23 ottobre 2009 
+Cari Marco e Anna, 
+Ho trovato stasera il tempo da scrivere. Imparare la lingua italiana è piu fastidioso che pensavo e no ho molto tempo libere. È molto interessante perche la mia insegnante è da Città X e conosce bene la città. Cuando abbiamo tempo o alla sera, visitiamo la città, e mangiamo in ristorante tipici. 
+   Ci vediamo fra una settimana 
+                                                Maria

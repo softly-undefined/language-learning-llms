@@ -1,0 +1,31 @@
+METADATA
+
+General:
+Author ID: 1385_0000033
+Test language: Italian
+CEFR level of test: A1
+Task : help a friend who is looking for work - ID: 1385_040101
+Mother tongue: German
+Age: 52
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Puoi dirmi dove lavori adesso?
+Che lavoro fai adesso e che lavoro vuoi fare? Vorrei sapere quale lavoro ti piace?
+Quando vuoi iniziare o quando puoi iniziare? Vorrei andare in machina o a piedi?
+Preferisce una ditta piccolo o grande?
+Tu ami lavori con molte college?
+Quando puoi guardare un nuovo posto di lavoro? Prego dirmi si tu  trovi un altre lavoro senza mia ajuto. 
+Tanti saluti

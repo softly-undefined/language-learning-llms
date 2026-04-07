@@ -1,0 +1,29 @@
+METADATA
+
+General:
+Author ID: 1071_0024847
+Test language: German
+CEFR level of test: A1
+Task : congratulate to birth of child - ID: 1071_030101
+Mother tongue: Russian
+Age: 38
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Lieber Jens,
+ich gratuliere dir! Du bist jetzt einen Fater! Ich wunsche deinem Baby Gesundheit und Glück. Und dir wunsche ich am besten Vater in der Welt zu sein! Hast du dein Baby schon genennt? Gefällt dir alte, unmodernische Namen? Ich habe vergessen, wie ist deine Frau? Wie fühl sie sich? Wie geht es ihr?
+Ich gratuliere euch noch ein Mal!
+Liebe Grüße,
+Julia

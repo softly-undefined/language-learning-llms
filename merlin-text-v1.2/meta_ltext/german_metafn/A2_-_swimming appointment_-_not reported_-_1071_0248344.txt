@@ -1,0 +1,29 @@
+METADATA
+
+General:
+Author ID: 1071_0248344
+Test language: German
+CEFR level of test: A1
+Task : arrange appointment with friend to go swimming together - ID: 1071_120302
+Mother tongue: not reported
+Age: 36
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: B1
+Vocabulary control: A2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Hallo Liebe Daniela.
+Wie gehts dir. Ich möchte morgen in Wiesbaden schwimmen gehen. Um 10 uhr Ich möchte das du mit kommst.
+Kannst du essen und Getrenk mit nemen und deine Tauch Birila mit beringen
+Liebe Gruß
+von mir Friedrich.

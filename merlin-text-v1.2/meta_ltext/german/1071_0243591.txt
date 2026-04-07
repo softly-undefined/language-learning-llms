@@ -1,0 +1,28 @@
+METADATA
+
+General:
+Author ID: 1071_0243591
+Test language: German
+CEFR level of test: A1
+Task : ask friend for help for finding apartment - ID: 1071_020200
+Mother tongue: Turkish
+Age: 18
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Lieber Ingo,
+wie geht es Dir? Ich brauche eine Wohnung in Neuburg. Kannst du mir helfen? Ich suche zum 20. April. Die Wohnung ist zweiter Stock, mit Balkon und mit Garage. Kannst du Wohnungsanzeigen suchen? Ich warte Dich. Bitte ruf mich an.
+Viele Grüße
+Maria

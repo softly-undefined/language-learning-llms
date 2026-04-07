@@ -1,0 +1,40 @@
+METADATA
+
+General:
+Author ID: PHA0510027
+Test language: Czech
+CEFR level of test: B2
+Task : write an essay: More people know more - ID: B2PS0201_hlava
+Mother tongue: Russian
+Age: 1519
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B2
+Vocabulary control: B1
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Víc hlav, víc ví
+Všechný lidi ví, že čím vice lidi tim vice nazorů. Ja vím jedno podobné tvrženi že "jedna hlava je to debře, a dve hlavý je lepši. S tim přislovim pořad souhlasi všechny. Ale občas existuji skupiny lídí který nikdy nemužou vymýslet níc dobrého. Myslím sí v dnešne době takových lidí je malo.
+Rád pracovat v skupinach pro mně to je jednoduše než být sam. Vždycký mně zajima nazorý jinych lidi kteři mýsli trošku jinak než ja. Také všem bych doporučil posluchat jíný nazo ry a pak myslit o svem vztahu na nějaku problemu nebo přibeh.
+Vůbec nerozumím tim lidem který nikde neposluchaji ostatních je to neni spravne.
+Pokud ja a můj kamarad něco nerozumím v matimatice nebo v jíných předmetu, spolu zkoušim to a hledame spravně odpovědi. A tak souhlasim s tim že víc hlav, vic ví. Pořad přesne vím že vice lidi mají lepši uspech než jeden človek.
+
+----------------
+
+Target hypothesis 1: 
+
+Víc hlav víc ví Všichni lidé vědí , že čím více lidí , tím více názorů . Já vím o jednom podobném tvrzení , že " jedna hlava je dobře , a dvě hlavy jsou lepší " . S tím příslovím pořád souhlasí všichni . Ale občas existují skupiny lidí , které nikdy nemůžou vymyslet nic dobrého . Myslím si , že v dnešní době je takových lidí málo . Rád pracuji ve skupinách , pro mě to je jednodušší než být sám . Vždycky mě zajímají názory jiných lidí , kteří myslí trošku jinak než já . Také bych všem doporučil poslouchat jiné názory a pak myslit na svůj vztah k nějakému problému nebo příběhu . Vůbec nerozumím těm lidem , kteří nikdy neposlouchají ostatní , to není správné . Pokud já a můj kamarád něčemu nerozumíme v matematice nebo v jiných předmětech , spolu to zkoušíme a hledáme správné odpovědi . A tak souhlasím s tím , že víc hlav víc ví . Pořád přesně vím , že více lidí má lepší úspěch než jeden člověk .
+
+----------------
+
+No target hypothesis 2 available.
+

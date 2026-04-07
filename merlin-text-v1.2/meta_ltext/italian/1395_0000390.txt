@@ -1,0 +1,32 @@
+METADATA
+
+General:
+Author ID: 1395_0000390
+Test language: Italian
+CEFR level of test: A2
+Task : contact a friend after a long time - ID: 1395_020300
+Mother tongue: German
+Age: 20
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Caro Mario
+Come stai?
+Da noi è tutto posto
+pero a lavoro è veramente difficile
+negli ultimi tempi.
+E anche la nostra famiglia stanno molto bene.
+A presto!
+Cari saluti Maria e Michele

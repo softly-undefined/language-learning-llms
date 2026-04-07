@@ -1,0 +1,37 @@
+METADATA
+
+General:
+Author ID: PHA0210004
+Test language: Czech
+CEFR level of test: A2
+Task : describe a photo: woman sitting at the window - ID: A2PS0200_zena
+Mother tongue: Other
+Age: 3039
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Ta žena možná pracuje v Knihovně jako Knihovnice nebo je studentka. Její jmena vůbec neznám. Mohla být z Asie nebo Evropy. Myslím, že má asi třicet let. Je mozna, že je vdaná mozna ma děti, ale kolik, nevím. Myslím že Ta žena má ráda různé typy knihy. Ta žena vůbec nechodí na procházku. 
+
+----------------
+
+Target hypothesis 1: 
+
+Ta žena možná pracuje v knihovně jako knihovnice nebo je studentka . Její jméno vůbec neznám . Mohla by být z Asie nebo Evropy . Myslím , že má asi třicet let . Je možné , že je vdaná , možná má děti , ale kolik , nevím . Myslím , že ta žena má ráda různé typy knih . Ta žena vůbec nechodí na procházku .
+
+----------------
+
+Target hypothesis 2: 
+
+Ta žena možná pracuje v knihovně jako knihovnice nebo je studentka . Její jméno vůbec neznám . Mohla by být z Asie nebo Evropy . Myslím , že má asi třicet let . Je možné , že je vdaná , možná má děti , ale kolik , nevím . Myslím , že ta žena má ráda různé typy knih . Ta žena vůbec nechodí na procházku .

@@ -1,0 +1,38 @@
+METADATA
+
+General:
+Author ID: 1031_0003274
+Test language: German
+CEFR level of test: C1
+Task : essay about why it's of value to learn German - ID: 1031_010300
+Mother tongue: French
+Age: 19
+Gender: female
+
+Rating:
+Overall CEFR rating: B2
+Grammatical accuracy: B2
+Orthography: C1
+Vocabulary range: B2
+Vocabulary control: B2
+Coherence/Cohesion: C1
+Sociolinguistic appropriateness: B2
+
+----------------
+
+Learner text: 
+
+Heutzutage sind Sprachkenntnisse sehr wichtig geworden und oft die Voraussetzung um ein Arbeit zu finden, somit können wir festellen, dass mehr und mehr Sprache in der Schule erlenen werden. Vor diesem Hintergrund stellt sich die Frage, ob es sinvoll oder nicht Deutsch zu lernen.
+Ich bin der Meinung, dass eine Sprache zu kennen sehr wichtig, besonders Deutsch, weil ich in Stadt X wohne. Deshalb ist es praktisch und sogar fast notwendig, indem ich nah von Deutschland wohne und ebenfalls weil viele Einwohner alsäsich sprechen. Da ich deutsch gelernt habe, kann ich ihnen verstehen. Ein anderer Grund dafür ist, dass ich meine Studium in Deutschland absolvieren. Tatsächlich möchte ich eine Physiotherapie Schule  besuche, deswegen halte ich Deutschlernen für sinnvoll. Schließlich habe ich einen andere Grund dafür, deutsch zu lernen: Mein Horizont zu erweitern. Durch die Globalisierung hat Tourismus sich sehr entwickelt, z.B mit den BilligFlüge, züge usw... Deshalb sehe ich das so, dass man nicht mehr gut reisen und sich informieren über die andere Länder und ihr Kultur kann, wenn man keine Sprache lernt, wie z.B englisch und deutsch die für mich die wichtigste Sprache sind.
+Zum Schluss würde ich sagen dass es viele Gründe gibt, warum ich Deutschlernen für sehr wichtig ist. Außerdem könnte ich mir in Zukunft vorstellen, in Deutschland zu leben und arbeiten.
+
+----------------
+
+Target hypothesis 1: 
+
+Heutzutage sind Sprachkenntnisse sehr wichtig geworden und oft die Voraussetzung , um eine Arbeit zu finden . Somit können wir festellen , dass mehr und mehr Sprachen in der Schule erlernt werden . Vor diesem Hintergrund stellt sich die Frage , ob es sinnvoll ist oder nicht , Deutsch zu lernen . Ich bin der Meinung , dass eine Sprache zu kennen sehr wichtig ist , besonders Deutsch , weil ich in Stadt X wohne . Deshalb ist es praktisch und sogar fast notwendig , da ich nah bei Deutschland wohne und ebenfalls weil viele Einwohner elsässisch sprechen . Da ich Deutsch gelernt habe , kann ich sie verstehen . Ein anderer Grund dafür ist , dass ich mein Studium in Deutschland absolviere . Tatsächlich möchte ich eine Physiotherapieschule besuchen , deswegen halte ich Deutschlernen für sinnvoll . Schließlich habe ich einen anderen Grund dafür , Deutsch zu lernen : meinen Horizont zu erweitern . Durch die Globalisierung hat der Tourismus sich sehr entwickelt , z.B. mit den Billigflügen , Zügen usw. ... Deshalb sehe ich das so , dass man nicht mehr gut reisen und sich über die anderen Länder und ihre Kultur informieren kann , wenn man keine Sprache lernt , wie z.B Englisch und Deutsch , die für mich die wichtigsten Sprachen sind . Zum Schluss würde ich sagen , dass es viele Gründe gibt , warum Deutschlernen sehr wichtig ist . Außerdem könnte ich mir in Zukunft vorstellen , in Deutschland zu leben und zu arbeiten .
+
+----------------
+
+No target hypothesis 2 available.
+

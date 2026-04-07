@@ -1,0 +1,29 @@
+METADATA
+
+General:
+Author ID: 1071_0248320
+Test language: German
+CEFR level of test: A1
+Task : congratulate to birth of child - ID: 1071_030101
+Mother tongue: not reported
+Age: 52
+Gender: female
+
+Rating:
+Overall CEFR rating: A1
+Grammatical accuracy: 0
+Orthography: A1
+Vocabulary range: A1
+Vocabulary control: A1
+Coherence/Cohesion: 0
+Sociolinguistic appropriateness: A1
+
+----------------
+
+Learner text: 
+
+LiBe jens
+bekomen eine Bebi Vil Glückwünsche
+Vie es der Mutter 
+Grüze Eva
+Meier

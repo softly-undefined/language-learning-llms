@@ -1,0 +1,33 @@
+METADATA
+
+General:
+Author ID: 1071_0248348
+Test language: German
+CEFR level of test: A1
+Task : arrange appointment with friend to go swimming together - ID: 1071_120302
+Mother tongue: Polish
+Age: 29
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Liebe Daniela,
+Ich habe gute Idee!
+Gehen wir zusammen ? schwimmen?
+Wir treffen am Samstag um 17 00 Uhr
+In Stadt X im Schwimmbad.
+Sie bringen ein Touch und eine Bikini mit. 
+Ich warte auf antworte!
+Mit freundlichen Grußen
+Katharina

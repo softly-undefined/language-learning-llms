@@ -1,0 +1,41 @@
+METADATA
+
+General:
+Author ID: PAR1011018
+Test language: Czech
+CEFR level of test: B2
+Task : write an essay: No pain no gain - ID: B2PS0202_kolace
+Mother tongue: French
+Age: 1519
+Gender: male
+
+Rating:
+Overall CEFR rating: B2
+Grammatical accuracy: B2
+Orthography: B1
+Vocabulary range: C1
+Vocabulary control: B2
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Lidé občas myslí, že její práce se nevyplatí, nebo že v životě stači talent = bohužel - a nebo radějí řekneme bohudík - to není pravda!
+Proč si myslíte že člověk trápí 10 až 20 let ve škole? Abi se naučil že se v životě člověk zlepšuje rok po roce, a to tež i pozdějí během své karieře. Musí člověk "makat" abi dal svému životu do opravdy smýsl, abi něco za to dostal_
+Nějaký lidé si myslí že stači v životě talent, a že tím budou vždy uspěsný. Ale pravda je že talent a práce fungují v spolu. Talent který není použítý nedá nic konkrétniho, musí se s teho něco vytvořit.
+Navíc, důležité je se naučit že se něco vyplatí, a že to ne spadne samo z nebe.
+Na závěr: liný člověk není zajimavý, ten který spoléha na ostatných nebo na svuj talent taky ne. Člověk si musí vyrobit svoje kolače, vědět jak je dělat a taky umět si ho pak vychutnat = pro to musí člověk celý život dřít a věřit sebe.
+
+----------------
+
+Target hypothesis 1: 
+
+Lidé si občas myslí , že jejich práce se nevyplatí , nebo že v životě stačí talent , bohužel - a nebo raději řekněme bohudík - to není pravda ! Proč si myslíte , že člověk tráví 10 až 20 let ve škole ? Aby se naučil , že se v životě člověk zlepšuje rok po roce , a to též i později během své kariéry . Musí člověk " makat " , aby dal svému životu doopravdy smysl , aby něco za to dostal . Nějací lidé si myslí , že stačí v životě talent a že tím budou vždy úspěšní . Ale pravda je , že talent a práce fungují spolu . Talent , který není použítý , nedá nic konkrétního , musí se z toho něco vytvořit . Navíc je důležité se naučit , že se něco vyplatí a že to nespadne samo z nebe . Na závěr : líný člověk není zajimavý , ten , který spoléhá na ostatní nebo na svůj talent , taky ne . Člověk si musí vyrobit svoje koláče , vědět , jak je dělat , a taky si je umět pak vychutnat , proto musí člověk celý život dřít a věřit v sebe .
+
+----------------
+
+Target hypothesis 2: 
+
+Lidé si občas myslí , že jejich práce se nevyplatí , nebo že v životě stačí talent , bohužel - a nebo raději řekněme bohudík - to není pravda ! Proč si myslíte , že člověk tráví 10 až 20 let ve škole ? Aby se naučil , že se v životě člověk zlepšuje rok po roce , a to též i později během své kariéry . Musí člověk " makat " , aby dal svému životu doopravdy smysl , aby něco za to dostal . Někteří lidé si myslí , že stačí v životě talent a že tím budou vždy úspěšní . Ale pravda je , že talent a práce fungují spolu . Talent , který není použitý , nedá nic konkrétního , musí se z toho něco vytvořit . Navíc je důležité se naučit , že se něco vyplatí a že to nespadne samo z nebe . Na závěr : líný člověk není zajímavý , ten , který spoléhá na ostatní nebo na svůj talent , taky ne . Člověk si musí vyrobit svoje koláče , vědět , jak je dělat , a taky si je umět pak vychutnat , proto musí člověk celý život dřít a věřit v sebe .

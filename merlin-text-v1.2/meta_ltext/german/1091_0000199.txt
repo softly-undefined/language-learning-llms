@@ -1,0 +1,41 @@
+METADATA
+
+General:
+Author ID: 1091_0000199
+Test language: German
+CEFR level of test: A2
+Task : letter to housing office - ID: 1091_0610301
+Mother tongue: not reported
+Age: 34
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B2
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+                           Stadt X, 10-03-2012
+Direktor
+XYZ Wohnungsamt
+Zentralplatz 123
+Stadt X
+ 
+Pfr. Tobias Schmidt
+Akademie Klausenhof
+Bahnhofsstraße 123
+Stadt Y 12345
+ 
+Brauchen eine Wohnung
+Seehr Geehrte Damen und Herren,
+Ich suche eine Wohnung in Stadt X. Jetz besuche ich einen Sprachkurs in Stadt Y und möchte im nächsten Monat nach Stadt X ziehen. Ich möchte gern eine wohnung mit zwei Zimmer. Ich brache einen Balkon auch. Ich möchte gern wissen wie hoch die Miete sind. Können wir einen Besichtingungstermin vereinbaren?
+Ich warte auf eine baldige Antwort und verbleibe 
+Mit freundlichen Grüßen
+Tobias

@@ -1,0 +1,28 @@
+METADATA
+
+General:
+Author ID: 1071_0248310
+Test language: German
+CEFR level of test: A1
+Task : arrange appointment with friend to go swimming together - ID: 1071_120302
+Mother tongue: not reported
+Age: 29
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A1
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Liebe Daniela,
+wie geht´s? Ich mochte heute schwimmen gehen. Mochtest du? Ich gehe im 14 Uhr. Treffen uns in Bahnhofsstr. und wir gehen zussamen. Du solltest eine schokolade und ein Brot.
+Viele Gruße, 
+Deine Eva

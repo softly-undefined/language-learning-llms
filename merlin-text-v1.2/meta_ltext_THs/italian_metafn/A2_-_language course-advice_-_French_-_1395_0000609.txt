@@ -1,0 +1,45 @@
+METADATA
+
+General:
+Author ID: 1395_0000609
+Test language: Italian
+CEFR level of test: A2
+Task : inform friends about language course - ID: 1395_010300
+Mother tongue: French
+Age: 35
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A1
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A1
+
+----------------
+
+Learner text: 
+
+                                                            Città X, il 12 gennaio 2010, 
+        Cari Amici, 
+Sono a Città X in Italia. 
+Sono arrivata per Seguire un corso di Italiano. 
+I Miei insegnante se chiamanno Valeria e Nathalia, sono Molto gentile. 
+Sono con un group di Francese Molto simpatico. Dopo il corso, visitiamo la grande città di Roma, i musei, le chiese. 
+La Sera mangiamo al Tipico Ristorante. 
+            Penso a Voi             Bacio 
+                                                        Maria
+
+----------------
+
+Target hypothesis 1: 
+
+Città X , 12 gennaio 2010 , Cari amici , sono a Città X in Italia . Sono arrivata per seguire un corso di italiano . Le mie insegnanti si chiamano Valeria e Nathalia ; sono molto gentili . Sono con un gruppo di francesi molto simpatici . Dopo il corso , visitiamo la grande città di Roma , i musei e le chiese . La sera mangiamo in un ristorante tipico . Penso a voi . Bacio Maria
+
+----------------
+
+Target hypothesis 2: 
+
+Città X , 12 gennaio 2010 , Cari amici , sono a Città X in Italia . Sono arrivata per seguire un corso di italiano . Le mie insegnanti si chiamano Valeria e Nathalia ; sono molto gentili . Sono con un gruppo di francesi molto simpatici . Dopo il corso , visitiamo la grande città di Roma , i musei e le chiese . La sera mangiamo in un ristorante tipico . Penso a voi . Bacio Maria

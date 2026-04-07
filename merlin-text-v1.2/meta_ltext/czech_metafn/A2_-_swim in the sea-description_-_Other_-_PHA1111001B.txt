@@ -1,0 +1,26 @@
+METADATA
+
+General:
+Author ID: PHA1111001B
+Test language: Czech
+CEFR level of test: A2
+Task : describe a photo: swimming in the sea - ID: A2PS0202_more
+Mother tongue: Other
+Age: 2029
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Na obrázku vidím veselého tatínka malým ditem. Jsou v moři. V lětě jedou vždy odpočivat k moři nebo do zahranice. Tatínka rád odpočivá se svou rodinou a touží vždy na svůj vlastně dům vedle moři.
+Tatinka říká něco veselo malému hochu.  Je to pěkný, letní sluněčný den. Dítě rád, že tatinka stojí vedle a hrá s ním. Je to dobrá rodina.

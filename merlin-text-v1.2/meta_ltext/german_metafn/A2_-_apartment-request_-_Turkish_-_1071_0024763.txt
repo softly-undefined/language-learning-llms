@@ -1,0 +1,28 @@
+METADATA
+
+General:
+Author ID: 1071_0024763
+Test language: German
+CEFR level of test: A1
+Task : ask friend for help for finding apartment - ID: 1071_020200
+Mother tongue: Turkish
+Age: 31
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Liebe Ingo,
+Ich habe eine Arbeit in Neuburg gefunden, ich brauche eine Wohnung in Neuburg am 14.05.2012 ich suche Wohnung ca. 120 m und drei Zimmer vielen Dank für hilfe.
+Viele Grüße von 
+Stefan Meier

@@ -1,0 +1,29 @@
+METADATA
+
+General:
+Author ID: 1071_0024836
+Test language: German
+CEFR level of test: A1
+Task : congratulate to birth of child - ID: 1071_030101
+Mother tongue: Russian
+Age: 25
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Lieber Jens,
+wie geht es dir? Ich habe gehört, dass du Vater geworden bist. Das ist super! Ich wünsche dir und deiner großer Familie viel Gluck. Das ist der Junge oder das Mädschen? Und wie ist die Name des Babys? Deine Frau wolltet eine besonderes Name, oder? Ja, und wie es der Mutter des Babys geht? Sie ist gesund?
+Schreib doch mir schnell!
+Mit herzlichen grußen
+Tobias

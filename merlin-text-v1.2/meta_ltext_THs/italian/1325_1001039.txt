@@ -1,0 +1,51 @@
+METADATA
+
+General:
+Author ID: 1325_1001039
+Test language: Italian
+CEFR level of test: B2
+Task : help someone who has problems with chats - ID: 1325_040300-2
+Mother tongue: Hungarian
+Age: 27
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B2
+Orthography: C2
+Vocabulary range: B2
+Vocabulary control: B2
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Maria Rossi
+Strada Maggiore 1
+1234 Città X
+Spettabile Settimana Giovani
+Via Crispi -119
+80127 - Caserta
+Oggetto: Risposta alla lettera
+Egregio Giorgio,
+All' riferimento la Sua lettera, pubblicata nel giornale "Settimana Giovani" nella rubrica "Lettere Personali", voglio disporre al suo attenzione il mio opinione sulla tema.
+Mi chiamo Maria Rossi, ho ventisei anni e scrivo da Città X.
+Il mio parere rispetto al amicizia virtuale è che un vero perditamento del tempo, e penso che è meglio fare amicizie faccia a faccia, nel mondo reale. Ti consiglio di passare il tuo tempo libero con i tuoi coetanea, facendo sport insieme, o organizzare programmi insieme.
+Personalmente, io non ho nulla contro l'Internet, penso che usato intelligentemente, possa essere un mezzo di communicazione molto utile, ma lo stesso tempo, ha molti pericolosi e svantaggi anche. Prima di tutti, puoi diventare allontanato con il tuoi facilmente, tu puoi isolarsi e questo non fa bene nel lungo termine. Inoltre, penso che tu possa conoscere veramente l'altra persona tramite l'Internet, dialogando tramite un schermo. Queste amicizie ci tengo false e superficile. Io ho usato il chat nel passato, ma mi sono realizzato che non ho bisogno, ho cancellato il mio profilo, e non me ne sono pendita.
+Insomma, penso che sia meglio sfruttare il tuo tempo libero e fare cose più utili, per esempio, incontrare con gli amici nel bar, fare baldorie insieme, e non stare a casa davanti al computer ogni giorno.
+Spero che ho potuto aiutarti con i miei consigli.
+Tanti auguri, Maria Rossi
+
+----------------
+
+Target hypothesis 1: 
+
+essere tu Maria Rossi Strada Maggiore 1 1234 Città X Spettabile Settimana Giovani Via Crispi - 119 80127 - Caserta Oggetto : Risposta alla lettera Egregio Giorgio , in riferimento alla Sua lettera pubblicata nel giornale " Settimana Giovani " nella rubrica " Lettere Personali " , voglio disporre alla sua attenzione la mia opinione sul tema . Mi chiamo Maria Rossi , ho ventisei anni e scrivo da Città X . Il mio parere rispetto all' amicizia virtuale è che è un vero perditamento di tempo e penso che è meglio fare amicizie faccia a faccia , nel mondo reale . Ti consiglio di passare il tuo tempo libero con i tuoi coetanei , facendo sport insieme o organizzando programmi insieme . Personalmente , io non ho nulla contro Internet , penso che , se usato intelligentemente , possa essere un mezzo di comunicazione molto utile , ma allo stesso tempo , ha anche molti pericoli e svantaggi . Prima di tutto , puoi facilmente allontanato dai tuoi , puoi isolarti e questo non fa bene nel lungo termine . Inoltre , penso che tu non possa conoscere veramente l' altra persona tramite Internet , dialogando tramite uno schermo . Queste amicizie le tengo false e superficiali . Io ho usato la chat nel passato , ma ho realizzato che non ne ho bisogno , ho cancellato il mio profilo e non me ne sono pentita . Insomma , penso che sia meglio sfruttare il tuo tempo libero e fare cose più utili , per esempio incontrare gli amici al bar , fare baldorie insieme e non stare a casa davanti al computer ogni giorno . Spero che abbia potuto aiutarti con i miei consigli . Tanti auguri , Maria Rossi
+
+----------------
+
+Target hypothesis 2: 
+
+Maria Rossi Strada Maggiore 1 1234 Città X Spettabile Settimana Giovani Via Crispi - 119 80127 - Caserta Oggetto : Risposta alla lettera Gentile Giorgio , in riferimento alla tua lettera , pubblicata nel giornale " Settimana Giovani " nella rubrica " Lettere Personali " , vorrei porre alla tua attenzione la mia opinione sul tema . Mi chiamo Maria Rossi , ho ventisei anni e scrivo da Città X . Il mio parere rispetto all' amicizia virtuale è che è una vera perdita di tempo e penso che è meglio fare amicizie faccia a faccia , nel mondo reale . Ti consiglio di passare il tuo tempo libero con i tuoi coetanei , facendo sport insieme o organizzando programmi insieme . Personalmente , io non ho nulla contro Internet , penso che , se usato intelligentemente , possa essere un mezzo di comunicazione molto utile , ma allo stesso tempo , ha anche molti pericoli e svantaggi . Prima di tutto , puoi facilmente essere allontanato dai tuoi , tu puoi isolarti e questo non fa bene nel lungo termine . Inoltre , penso che tu non possa conoscere veramente l' altra persona tramite Internet , dialogando tramite uno schermo . Queste amicizie le ritengo false e superficiali . Io ho usato la chat nel passato , ma ho realizzato che non ne ho bisogno , ho cancellato il mio profilo e non me ne sono pentita . Insomma , penso che sia meglio sfruttare il tuo tempo libero e fare cose più utili , per esempio incontrare gli amici al bar , fare baldorie insieme e non stare a casa davanti al computer ogni giorno . Spero che abbia potuto aiutarti con i miei consigli . Tanti auguri , Maria Rossi

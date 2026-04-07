@@ -1,0 +1,49 @@
+METADATA
+
+General:
+Author ID: 1325_9000319
+Test language: Italian
+CEFR level of test: B2
+Task : help someone who has problems with chats - ID: 1325_010300-2
+Mother tongue: German
+Age: 61
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: C1
+Vocabulary range: B2
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+                                                                                                Città X
+                                                                                              18. jugnio 2011 
+Caro Giorgio,
+hai scritto sul giornale, che abbia problema con le amizie virtuali. 
+Secondo me l'amizicia virtuale  sia  possibile solo in alcune parte. 
+Una amizicia  sia possibile per parlare  su  problema o discutere soluzione. 
+Non sia possibile trovare una partner sull'Internet. Trovare una partner vuole dire avere contatti personalmenti. 
+Ti consiglio: prenda i tuoi contatti per solvere problemi a nuovo e non prova cercare partner o amici personalmenti sull'Internet. Invece - devi trovare amici veri. Per questo motivo poi entrare in un Club, fare dello sport in  in una squadra o frequentare corsi delle lingue. 
+Circa un anno fa anch'io ho "chattato" molto è anch'io ho perso quasi tutto i miei contatti reali. 
+A un certo punto ho visto che fossi stato in una situazione senza possibilità di agire in realtà. Non fossi cambiare problemi e trovare soluzione. 
+Per questo motivo ho smesso "chattare". Secondo me l'Internet  sia un mezzo per aiutarci e non sia la realtà. 
+Caro Giorgio, sono in attesa di una riposa.  
+Tanti saluti cordialmente, 
+M.     
+
+----------------
+
+Target hypothesis 1: 
+
+Città X 18 . giugno 2011 Caro Giorgio , hai scritto sul giornale che abbiamo un problema con le amicizie virtuali . Secondo me l' amicizia virtuale è possibile solo in alcune parti . Un' amicizia è possibile per parlare di un problema o discutere una soluzione . Non è possibile trovare una partner su Internet . Trovare una partner vuol dire avere contatti personalmente . Ti consiglio : prendi i tuoi contatti per solvere i problemi di nuovo e non provare a cercare partner o amici personalmente su Internet . Invece , devi trovare amici veri . Per questo motivo puoi entrare in un Club , fare dello sport in una squadra o frequentare i corsi delle lingue . Circa un anno fa anch' io ho " chattato " molto e anch' io ho perso quasi tutti i miei contatti reali . A un certo punto ho visto che ero in una situazione senza possibilità di agire in realtà . Non era possibile cambiare problemi e trovare una soluzione . Per questo motivo ho smesso di " chattare " . Secondo me Internet è un mezzo per aiutarci e non è la realtà . Caro Giorgio , sono in attesa di una risposta . Tanti saluti cordialmente , M .
+
+----------------
+
+No target hypothesis 2 available.
+

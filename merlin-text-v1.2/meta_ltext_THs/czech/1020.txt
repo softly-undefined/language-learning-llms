@@ -1,0 +1,42 @@
+METADATA
+
+General:
+Author ID: 1020
+Test language: Czech
+CEFR level of test: B1
+Task :  - ID: 3_Jana
+Mother tongue: German
+Age: not reported
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Ahoj Jano,
+děkuju za tvůj mail. Mám rádost, že ses ozvala.
+To je ale překvapení, že jsi se rozhodla, že budeš studovat dál. Jaký obor chceš studovat v Praze? A jak se ti líbí kurz angličtiny? Nevím, zda můžím tam dělat taky kurz češtiny? Chtěla bych přijit do Brna v létě. Pak se můžeme setkat častěji. Prosím tě, můžíš mi poslat odkaz na wébovou stránku školy?
+Po ukončení studia chci si hledat praci. Jsem momentálně ve stresu, protože pišu ještě moji diplomovou praci a musím jí dokončit přišti tyden. Ale v létě, budu jet na dovolenou s přitelem do Španělska. Snad přijdu taky do Brna. Jsem radá, že mám několik dní po ukončení studia. Poslšlu ti ještě nějaké fotky posledního výletu s Tomášem.
+Měj se fajn.
+Zdravím tě,
+ Eva
+
+----------------
+
+Target hypothesis 1: 
+
+Ahoj Jano , děkuju za tvůj mail . Mám radost , že ses ozvala . To je ale překvapení , že ses rozhodla , že budeš studovat dál . Jaký obor chceš studovat v Praze ? A jak se ti líbí kurz angličtiny ? Nevím , zda můžu tam dělat taky kurz češtiny . Chtěla bych přijít do Brna v létě . Pak se můžeme setkávat častěji . Prosím tě , můžeš mi poslat odkaz na webovou stránku školy ? Po ukončení studia si chci hledat práci . Jsem momentálně ve stresu , protože píšu ještě svoji diplomovou práci a musím ji dokončit příští týden . Ale v létě pojedu s přítelem na dovolenou do Španělska . Snad přijdu taky do Brna . Jsem ráda , že mám několik dní po ukončení studia . Pošlu ti ještě nějaké fotky z posledního výletu s Tomášem . Měj se fajn . Zdravím tě , Eva
+
+----------------
+
+No target hypothesis 2 available.
+

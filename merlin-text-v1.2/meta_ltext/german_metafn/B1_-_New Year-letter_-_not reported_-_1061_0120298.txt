@@ -1,0 +1,31 @@
+METADATA
+
+General:
+Author ID: 1061_0120298
+Test language: German
+CEFR level of test: B1
+Task : write a letter for New Year to a friend - ID: 1061_110101
+Mother tongue: not reported
+Age: 61
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+                          Stadt X 22.02.2012
+Lieber Peter,
+vielen Dank fur dein Brief und deine freundlichen wünchen zum neuen Jahr. Ich hofe dass mindestens ein paar vom meinen träumen dieses Jahres passiert. Ich glaube dass konnte ich am die wichtigsten Ausstellungen in Früling und Herbst teilnehmen.
+Und einen neuen Atelier haben in die neue Halle. Das konnte ich Michael treffen und zusamen arbeiten.
+Ich habe eigentlich mit er Silvester gefeiert. Er war der Feuerwer.
+Herzliche Gruße
+Stefan

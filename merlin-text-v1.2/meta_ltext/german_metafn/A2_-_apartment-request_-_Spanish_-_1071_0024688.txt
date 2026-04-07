@@ -1,0 +1,32 @@
+METADATA
+
+General:
+Author ID: 1071_0024688
+Test language: German
+CEFR level of test: A1
+Task : ask friend for help for finding apartment - ID: 1071_020200
+Mother tongue: Spanish
+Age: 34
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: B1
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Liebe Ingo,
+wie geht es dir?
+Ich bin schon sehr frog, Meine neue arbeit ist ganz toll und Neuburg ist einer shöne stadt, aber Ich braughe Ihre helfe.
+Ich have eine Woche für einen neue wohnung finden Könntest du mir helfen?
+Ich suche bei dem Wohnungssuche aber Ich weise nicht welche straße ist besser für leben.
+Ich braughe nicht einen größewohnung aber gäfell mir einen Helle mit größen Fernstem und mit einem modernen bad. 
+Liebe Grüße,
+Julia Müller

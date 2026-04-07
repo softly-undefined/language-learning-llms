@@ -1,0 +1,32 @@
+METADATA
+
+General:
+Author ID: 1071_0024866
+Test language: German
+CEFR level of test: A1
+Task : congratulate to birth of child - ID: 1071_030101
+Mother tongue: not reported
+Age: 27
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: C2
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Lieber Jens,
+was habe ich gestern gehört? Du bist Vater geworden!!! Oh, das ist SUPER, wunderbar, toll! Ich und Friedrich wünschen dem Baby viel Gesund und viel Glück und wir möchten euch, die Eltern, gratulieren.
+Wie möchtet ihr das Baby benennen? Ist es ein Junge oder ein Mädchen?
+Wie geht es Maria, deiner Frau? Ist sie schon zu Hause oder in dem Krankenhause?
+Wir lieben die Kinder, so wir möchten euch besuchen.
+Herzliche Grüße
+Julia
+P.S.: Bitte schrieb mir bald!

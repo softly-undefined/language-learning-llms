@@ -1,0 +1,42 @@
+METADATA
+
+General:
+Author ID: 1071_0248325
+Test language: German
+CEFR level of test: A1
+Task : ask friend for help for finding apartment - ID: 1071_020200
+Mother tongue: Turkish
+Age: 37
+Gender: female
+
+Rating:
+Overall CEFR rating: A1
+Grammatical accuracy: A1
+Orthography: A2
+Vocabulary range: A1
+Vocabulary control: A1
+Coherence/Cohesion: A1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Hallo Ingo,
+ich setze zwei zimmer eine Wohnung.
+Ich brauche nächster monat eine große der Wohnung. Ich möchte drei Zimmer, Küche, Bad und ein Balkon eine Wohnung.
+Bitte können Sie mir bitte helfen eine wohnungssuche?
+Bitte antworten sreiben Sie?
+Viele Grüße
+Eva
+
+----------------
+
+Target hypothesis 1: 
+
+Hallo Ingo , ich setze eine Zweizimmerwohnung . Ich brauche nächsten Monat eine große Wohnung . Ich möchte eine Wohnung mit drei Zimmern , Küche , Bad und einem Balkon . Können Sie mir bitte helfen bei der Wohnungssuche ? Bitte antworten und schreiben Sie . Viele Grüße Eva
+
+----------------
+
+No target hypothesis 2 available.
+

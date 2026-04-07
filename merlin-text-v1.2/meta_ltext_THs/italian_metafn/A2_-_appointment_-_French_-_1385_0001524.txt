@@ -1,0 +1,41 @@
+METADATA
+
+General:
+Author ID: 1385_0001524
+Test language: Italian
+CEFR level of test: A1
+Task : reschedule an appointment - ID: 1385_020100
+Mother tongue: French
+Age: 43
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A1
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Ciao Daniele, 
+non posso venire. Il mio capo ha organizzato una riunione giovedì pomeriggio. Che tu fai sabato sera? Io ho una idea, noi possiamo andare in un ristorante tailandese, mi piace la cuccina molto. Poi prenotare una tavola per due persone -unreadable- -unreadable-. D'accordo? 
+Sono domani a la mattina in ufficio. Tu hai mia E-Mail per rispondere. 
+ 
+ Buona settimana 
+Cari saluti  
+
+----------------
+
+Target hypothesis 1: 
+
+Ciao Daniele , non posso venire . Il mio capo ha organizzato una riunione giovedì pomeriggio . Che fai tu sabato sera ? Io ho un' idea , noi possiamo andare in un ristorante tailandese , mi piace molto la cucina . Puoi prenotare una tavola per due persone -unreadable- -unreadable- ? D' accordo ? Domani sono in ufficio di mattina . Tu hai la mia e-mail per rispondere . Buona settimana . Cari saluti
+
+----------------
+
+No target hypothesis 2 available.
+

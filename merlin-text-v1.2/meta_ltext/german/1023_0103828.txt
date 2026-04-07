@@ -1,0 +1,37 @@
+METADATA
+
+General:
+Author ID: 1023_0103828
+Test language: German
+CEFR level of test: B2
+Task : apply for internship in sales department - ID: 1023_120301
+Mother tongue: Polish
+Age: 52
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Maria Müller
+12-321 Stadt X
+Zentralplatz 123/4                              Stadt X, 7.07.2010.
+Computer-Spezialist
+Odenwaldstraße 5
+53119 Bonn
+Sehr geehrte Damen und Herren.
+Sie suchen jemanden der IT Systemkaufman. Meine spezielle gund für diese Tatigkeit mochte ich im folgenden darlegen:
+Ich bin kompetent, interesse an elektronische und arbeitete bereits praktikant informatik in Polizei. Ich habe kurs OFICCE.
+Wahrend meiner tatigkeit erwarb. 
+pozdraviam serdezcne  
+Mit Froindlichen Grüßen
+Müller

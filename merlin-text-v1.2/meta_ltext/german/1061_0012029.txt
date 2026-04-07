@@ -1,0 +1,29 @@
+METADATA
+
+General:
+Author ID: 1061_0012029
+Test language: German
+CEFR level of test: B1
+Task : write a letter for New Year to a friend - ID: 1061_110101
+Mother tongue: Russian
+Age: 62
+Gender: female
+
+Rating:
+Overall CEFR rating: B2
+Grammatical accuracy: B2
+Orthography: C1
+Vocabulary range: B2
+Vocabulary control: C1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Lieber Michael,                                       Stadt X, 01.03.12
+- Mein erster Wunsch ist, dass meine Tochter im April ein gesundes Kind zur Welt bringt, und dass ich mir eine Stelle als Bürokraft finde und endlich berufstätig werde.
+- Da ich zur Zeit nicht arbeite, gibt es bei mir nichts Neues.
+- Du kanns mich immer besuchen, wenn du Zeit u. Lust hast.
+- Die Silvesternacht habe ich mit meiner Kinder verbracht. Wir haben zusammen viel Spass gehabt und mit Kinder die Raketen angezündet

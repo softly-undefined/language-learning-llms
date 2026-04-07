@@ -1,0 +1,26 @@
+METADATA
+
+General:
+Author ID: PHA0509002
+Test language: Czech
+CEFR level of test: A2
+Task : describe a photo: woman sitting at the window - ID: A2PS0200_zena
+Mother tongue: Russian
+Age: 4049
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Ta žena je Kateřina Svobodová. Sidí v knihovňe. Kateřina je s Česká a bydlí v Praze. Je hezká, mladá a je jí 35 let. Vystudovala ekonomiku a pracuji v bance. Kouka  venku a mysli o počasí. Kateřina radá čte detektivy.
+Ma psa Honzika. Radá hodi s nim na  prohazku do parku. 

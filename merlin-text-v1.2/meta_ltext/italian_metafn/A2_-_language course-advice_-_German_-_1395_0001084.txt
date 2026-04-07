@@ -1,0 +1,30 @@
+METADATA
+
+General:
+Author ID: 1395_0001084
+Test language: Italian
+CEFR level of test: A2
+Task : inform friends about language course - ID: 1395_010300
+Mother tongue: German
+Age: 46
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Cari amici!
+Stiamo facendo un corso d'italiano. Siamo a Città X per due settimane. Ieri abbiamo imparato il passato prossimo. Non è facile! La nostra insegnante si chiama Maria. Lei è molto gentile. Michele, un amico della Svizzera, è anche qui. Quando non c'è lezione, facciamo una passeggiata a Città X. È una città bellissima. 
+
+Ci vediamo prossima settimana.
+Tanti saluti a tutti.
+Maria e Michele

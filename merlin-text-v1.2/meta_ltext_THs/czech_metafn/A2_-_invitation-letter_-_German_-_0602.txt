@@ -1,0 +1,46 @@
+METADATA
+
+General:
+Author ID: 0602
+Test language: Czech
+CEFR level of test: B1
+Task : answer to the email of Alena - ID: 1_Alena
+Mother tongue: German
+Age: not reported
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: A2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Ahoj Aleno,
+těší mě, že jsi mě napsala, a chci odpovědět hned.
+Jo, už pracuju na diplomce, tak bohužel nemám čas na dovolenou; ale jsem ráda, že bylo to tak  krasné v tvých  prázdniny.
+Ale samozřejmě pro tebe  budu mít čas! Těší mě, že přijedeš do Drážďan. Musíš mě návštívit; zvám tě na tato odpoledne. Bychom  si mohly prohližet  ženskou kostel, nebo chceš jenom  odpočívat a vypravovat?
+Ještě musím vědět kdy přijedeš na nádraží (hlavní nádraží?), abych  pro tebe mohla dojít.
+A přirozeně  ti přeju všechno nejlepší na ten pohovor.
+To je opravdu zajímavý, ten inzerát! Chtěla bychom to dělat moc ráda. Moje čeština taky potřebuje trochu zlepšení (jak můžeš číst... ;-)). Kolik stojí kurz, a kdy bude? Nejlépě mě posíláš ten inzerát, prosím, můžeš?
+Jinak nemám nic nového. Těším se na tebe, a snad si budeme vidět častějí!
+Měj se hezký,
+Dana.
+
+----------------
+
+Target hypothesis 1: 
+
+Ahoj Aleno , těší mě , že jsi mi napsala , a chci odpovědět hned . Jo , už pracuju na diplomce , tak bohužel nemám čas na dovolenou ; ale jsem ráda , že bylo to tak krásné o tvých prázdninách . Ale pro tebe samozřejmě budu mít čas ! Těší mě , že přijedeš do Drážďan . Musíš mě navštívit ; zvu tě na toto odpoledne . Mohly bychom si prohlédnout ženský kostel , nebo chceš jenom odpočívat a vypravovat ? Ještě musím vědět , kdy přijedeš na nádraží ( Hlavní nádraží ? ) , abych pro tebe mohla dojít . A přirozeně ti přeju všechno nejlepší na ten pohovor . To je opravdu zajímavé , ten inzerát ! Chtěla bych to dělat moc ráda . Moje čeština taky potřebuje trochu zlepšení ( jak můžeš číst ... ;-) ) . Kolik stojí kurz a kdy bude ? Nejlépe mi pošli ten inzerát , prosím , můžeš ? Jinak nemám nic nového . Těším se na tebe a snad se budeme vidět častěji ! Měj se hezky , Dana
+
+----------------
+
+Target hypothesis 2: 
+
+Ahoj Aleno , těší mě , že jsi mi napsala , a chci odpovědět hned . Jo , už pracuju na diplomce , tak bohužel nemám čas na dovolenou ; ale jsem ráda , že bylo to tak krásné o tvých prázdninách . Ale pro tebe samozřejmě budu mít čas ! Těší mě , že přijedeš do Drážďan . Musíš mě navštívit ; zvu tě na toto odpoledne . Mohly bychom si prohlédnout ženský kostel , nebo chceš jenom odpočívat a povídat si ? Ještě potřebuju vědět , kdy přijedeš na nádraží ( Hlavní nádraží ? ) , abych pro tebe mohla dojít . A přirozeně ti přeju hodně štěstí na ten pohovor . To je opravdu zajímavé , ten inzerát ! Chtěla bych to dělat moc ráda . Moje čeština taky potřebuje trochu zlepšení ( jak můžeš číst ... ;-) ) . Kolik stojí kurz a kdy bude ? Nejlépe mi pošli ten inzerát , prosím , můžeš ? Jinak nemám nic nového . Těším se na tebe a snad se budeme vidět častěji ! Měj se hezky , Dana

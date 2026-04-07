@@ -1,0 +1,42 @@
+METADATA
+
+General:
+Author ID: 1061_0120498
+Test language: German
+CEFR level of test: B1
+Task : write a letter for New Year to a friend - ID: 1061_110101
+Mother tongue: Spanish
+Age: 23
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B2
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B2
+
+----------------
+
+Learner text: 
+
+                                                         Stadt X, 13.03.2012
+Lieber Michael,
+vielen Dank auch für diene Glückwunschkarte. Ich sehe dass deine Silvesternacht war fantastisch!
+Jetzt, erzähle ich dir wie meine Nacht war. Wie jedes Jahr habe ich die mit meiner Familie verbracht. Zuerst haben meine Mutter und meine großmutter das Abendessen gekocht und danach haben die ganze Familie zusammen gegessen. Es war wunderbar! Später, habe ich zu Hause bleiben weil ich sehr müde war. Bei meiner Arbeit gibt es viele Neue. Jetzt ist meine Arbeit besser, daher verdiene ich mehr Geld. Deshalb, denke ich dass früh ein gut Auto kaufen kann. Wenn du möchtest, würden wir am Samstag treffen. Was denkst du? Es ist gut für dich? Ich habe viele Lust ins Kino zu gehen. Deswegen, können wir das machen und danach kann ich meine letzte neue erzählen.
+Mein Wunsch für das neue Jahr ist aufhören zu rauchen. Ich möchte auch weniger zu essen. Schreibe mir so schnell wie du kannst.
+Herzliche Grüße
+Katharina
+
+----------------
+
+Target hypothesis 1: 
+
+Stadt X , 13.03.2012 Lieber Michael , vielen Dank auch für deine Glückwunschkarte . Ich sehe , dass deine Silvesternacht fantastisch war ! Jetzt erzähle ich dir , wie meine Nacht war . Wie jedes Jahr habe ich die mit meiner Familie verbracht . Zuerst haben meine Mutter und meine Großmutter das Abendessen gekocht und danach hat die ganze Familie zusammen gegessen . Es war wunderbar ! Später bin ich zu Hause geblieben , weil ich sehr müde war . Bei meiner Arbeit gibt es viele Neue . Jetzt ist meine Arbeit besser , daher verdiene ich mehr Geld . Deshalb denke ich , dass ich früh ein gutes Auto kaufen kann . Wenn du möchtest , würden wir uns am Samstag treffen . Was denkst du ? Ist es gut für dich ? Ich habe viel Lust , ins Kino zu gehen . Deswegen können wir das machen und danach kann ich mein letztes Neues erzählen . Mein Wunsch für das neue Jahr ist , aufzuhören zu rauchen . Ich möchte auch weniger essen . Schreibe mir so schnell , wie du kannst . Herzliche Grüße Katharina
+
+----------------
+
+No target hypothesis 2 available.
+

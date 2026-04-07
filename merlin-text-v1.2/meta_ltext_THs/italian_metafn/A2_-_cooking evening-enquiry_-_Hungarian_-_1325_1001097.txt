@@ -1,0 +1,54 @@
+METADATA
+
+General:
+Author ID: 1325_1001097
+Test language: Italian
+CEFR level of test: B2
+Task : ask for information about International Cooking Evenings - ID: 1325_020401-2
+Mother tongue: Hungarian
+Age: 26
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Signora / Signore                                                               N. 9
+"Aggiungi un posto a tavola"                                                Città X
+Via dei Mille 48                                                               Strada Maggiore 18 
+17021                                                                             12345 
+Alassio (SV)                                                                    19, novembre 2011 
+Gentili Signora / Signore, 
+Voglio chiamare informazione di suo ristorante. 
+La condivisione del cibo è uno dei momento di maggiore unione in una famiglia o in un gruppo. Scuzi, prezenterà suo piatti per me. 
+La mia collega ha intolleraza della pomodora. 
+No lo so che usa in ristorante. 
+Voglio chiamare informazioni sui costi e sul calendario degli incontri. 
+Ho leggo suo ristorante perchè vogliano andare al ristorante. 
+Vogliano mangiare cibo culiniare. 
+Voglio cominciare dalla tavola? 
+Ha tavola libero per sabato sera? 
+Quanto persone uno settare nella tavola? 
+Grazie per pazienza. Atteso per suo risposta. 
+Gentili disposti, 
+                    XY
+
+----------------
+
+Target hypothesis 1: 
+
+Signora / Signore N . 9 " Aggiungi un posto a tavola " Città X Via dei Mille 48 Strada Maggiore 18 17021 12345 Alassio ( SV ) 19 , novembre 2011 Gentile Signora / Signore , voglio chiamare informazioni sul suo ristorante . La condivisione del cibo è uno dei momenti di maggiore unione in una famiglia o in un gruppo . Scusi , presenterà i suoi piatti per me . La mia collega ha un' intolleranza al pomodoro . Non lo so che si usa nel ristorante . Voglio chiamare informazioni sui costi e sul calendario degli incontri . Ho letto del suo ristorante perché vogliamo andare al ristorante . Vogliamo mangiare cibo culinario . Voglio cominciare dalla tavola . Ha un tavolo libero per sabato sera ? Quante persone uno può settare a tavola ? Grazie per la pazienza . Attendo la sua risposta . Gentili disposti , XY
+
+----------------
+
+No target hypothesis 2 available.
+

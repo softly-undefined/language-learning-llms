@@ -1,0 +1,36 @@
+METADATA
+
+General:
+Author ID: 1023_0101899
+Test language: German
+CEFR level of test: B2
+Task : apply for internship in sales department - ID: 1023_120301
+Mother tongue: not reported
+Age: 32
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B2
+Orthography: B2
+Vocabulary range: B2
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B2
+
+----------------
+
+Learner text: 
+
+Julia Schmidt
+Bahnhofsstraße 12, App. 21                                                   20.03.2010
+1234 Stadt X
+Bulgarien
+Odenwaldstraße 5
+53119 Bonn
+Bewerbung um ein Praktikum
+Sehr geehrte Damen und Herren,
+Ihre Anzeige habe ich in Regionaler Zeitung gelesen und hat meine Interesse geweckt. Ich Studiere Informationtechnologie in der Technische Universität in Stadt X. Um meine Ausbildung abzuschlißen muss ich ein Praktikum machen in darum bewerbe ich mich bei Ihnen Sie suchen ein Person mit Erfahrung und Kenntnisse in IT-Technologie brauche, Diese ihre Anforderungen erfülle ich. Neben meine Studium abreite ich als Verkauferin in ein großen Technologische Geschäft  wo ich viel Technische und Kommunikation gesammelt habe
+Ich bin flexibel, beherrsche kommunikation fähigen.
+Mit freundlichen Grüßen
+Julia Schmidt

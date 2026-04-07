@@ -1,0 +1,43 @@
+METADATA
+
+General:
+Author ID: 1365_0100003
+Test language: Italian
+CEFR level of test: B1
+Task : answer to an wedding invitation - ID: 1365_020300
+Mother tongue: Portuguese
+Age: 48
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Città X il 19.03.2010
+Cari amiche
+Ho riscivuto, la vostra. invita, sono molto felice per voi. è una bella notizie. mi fa piacere di essere invitata. State. seccuri che sarò la! per il giorno la più bello. della vostra vita. 
+Ho. soputo. che Sonia e Maria. sono anche lei. invitate, allora arriaviamo insieme, il 20 novembre a Napoli.
+Vorrei sapere che cosa vi piacereibbe à te e ad tuo marito come regalo? dame qualche idea per piacere.
+ti telefono presto.
+vi abraccio forte
+Maria
+
+----------------
+
+Target hypothesis 1: 
+
+Città X il 19.03.2010 Care amiche , ho ricevuto il vostro invito , sono molto felice per voi . È una bella notizia , mi fa piacere essere invitata . State sicuri che sarò là per il giorno più bello della vostra vita . Ho saputo che Sonia e Maria sono anche loro invitate , allora arriviamo insieme il 20 novembre a Napoli . Vorrei sapere : che cosa piacerebbe a te e a tuo marito come regalo ? Dammi qualche idea per piacere . Ti telefono presto . Vi abbraccio forte Maria
+
+----------------
+
+No target hypothesis 2 available.
+

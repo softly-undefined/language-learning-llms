@@ -1,0 +1,30 @@
+METADATA
+
+General:
+Author ID: 1395_0000514
+Test language: Italian
+CEFR level of test: A2
+Task : contact a friend after a long time - ID: 1395_020300
+Mother tongue: German
+Age: 47
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B2
+Orthography: C1
+Vocabulary range: B2
+Vocabulary control: B2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+20 novembre 2010
+Caro Vincenzo,
+spero che stia bene. Ho costruito una casa due anni fa a Città X. Al lavoro, faccio ancora il giurista, ma vorrei cambiare il professione. Mi piacerebbe lavorare come giornalista da una rivista di sport. Per la vacanza, sono stato per una settimana a Venezia. La città è molto bella, ma troppo turistica secondo me. La prossima volta, andrò  a un luogo "normale" per rilassare completamente.
+Spero che ci vediamo presto!
+Carissimi saluti
+Michele

@@ -1,0 +1,43 @@
+METADATA
+
+General:
+Author ID: 1365_0100117
+Test language: Italian
+CEFR level of test: B1
+Task : help a friend who is looking for work after school-leaving exam - ID: 1365_040501
+Mother tongue: German
+Age: 32
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B2
+Orthography: C2
+Vocabulary range: B1
+Vocabulary control: B2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Città X, 20.01.2011
+Caro Francesco,
+Sono contentissima di sentire che tu abbia superato gli esami con successo! Tanti auguri!
+Qui a Città X invece non c'è molto di nuovo. Devo lavorare tanto perchè la mia collega è incinta e solo lavora la mattina.
+Inoltre la mia ditta divente sempre più grande. La settimana scorsa hanno comminciato cinque nuove persone!
+Se tu sei interessato, potrei domandare al mio capo se tu potresti mandare il tuo curriculum. Sono sicura che stanno cercando ancora più persone con ottima qualificazioni. Fammi sapere se sei interessato.
+Saluti
+Maria
+
+----------------
+
+Target hypothesis 1: 
+
+Città X , 20.01.2011 Caro Francesco , sono contentissima di sentire che tu abbia superato gli esami con successo ! Tanti auguri ! Qui a Città X invece non c' è molto di nuovo . Devo lavorare tanto perché la mia collega è incinta e lavora solo la mattina . Inoltre la mia ditta diventa sempre più grande . La settimana scorsa hanno cominciato cinque persone nuove ! Se tu sei interessato , potrei domandare al mio capo se tu puoi mandare il tuo curriculum . Sono sicura che stanno cercando ancora più persone con ottime qualificazioni . Fammi sapere se sei interessato . Saluti Maria
+
+----------------
+
+No target hypothesis 2 available.
+

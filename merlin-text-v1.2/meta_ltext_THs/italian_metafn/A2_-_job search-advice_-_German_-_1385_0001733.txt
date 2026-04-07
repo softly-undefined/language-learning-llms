@@ -1,0 +1,41 @@
+METADATA
+
+General:
+Author ID: 1385_0001733
+Test language: Italian
+CEFR level of test: A1
+Task : help a friend who is looking for work - ID: 1385_040101
+Mother tongue: German
+Age: 44
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: B1
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Caro Michele, 
+grazie per la tua email. Vorrei aiutarti, ma ho bisogno di qualche informazione in più. Puoi dirmi dove tu lavori ora? In un negozio o in un ufficio? Vorrei sapere  quale professione hai e che tipo di lavoro ti piace? Quando potresti iniziare al nuovo lavoro? Adesso? 
+Vorrei ajuttarti volentieri. 
+ 
+Tanti saluti 
+la tua amica Maria
+
+----------------
+
+Target hypothesis 1: 
+
+Caro Michele , grazie per la tua email . Vorrei aiutarti , ma ho bisogno di qualche informazione in più . Puoi dirmi dove tu lavori ora ? In un negozio o in un ufficio ? Vorrei sapere quale professione hai e che tipo di lavoro ti piace . Quando potresti iniziare il nuovo lavoro ? Adesso ? Vorrei aiutarti volentieri . Tanti saluti la tua amica Maria
+
+----------------
+
+No target hypothesis 2 available.
+

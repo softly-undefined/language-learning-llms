@@ -1,0 +1,27 @@
+METADATA
+
+General:
+Author ID: LIB0611003A
+Test language: Czech
+CEFR level of test: A2
+Task : answering on a birthday invitation - ID: A2PS0102_oslava
+Mother tongue: Other
+Age: 2029
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Ahoj. Jak se maš? 
+Moc dekují za pozvaní na oslavu.Prosim te, napiš, gde planuješ provadet svatek a v kolik bude začatek? Kdy bych nahodou potřebovala z nečím pomoc, tak klidné napíš nebo zavolaj. Vzdycky rada pomachat. A kolik planuješ pozvat lidí na oslavu naroženín? A bude nekdo, koho mochla bych znat?
+Ješte jednou dekují za pozvanku a  tešim se na tvou brzou odpověd.

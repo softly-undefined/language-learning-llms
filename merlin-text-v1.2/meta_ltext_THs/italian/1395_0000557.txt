@@ -1,0 +1,39 @@
+METADATA
+
+General:
+Author ID: 1395_0000557
+Test language: Italian
+CEFR level of test: A2
+Task : contact a friend after a long time - ID: 1395_020300
+Mother tongue: German
+Age: 52
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B2
+Orthography: C1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Caro Berto,
+da molto tempo non ci siamo visti. Spero che tu stia bene. Mia moglie ed io  stiamo abbastanza bene. Il mio lavoro è un po' stressante, ma penso chè oggi questo sia normale. Quest'estate siamo stati in Italia sul lago di Garda. È una regione meravigliosa. Siamo andati con la motocicletta. È stata una esperienza straordinaria di attraversare gli Alpi.
+Spero che entro due mesi possiamo incontrarci. Comunque mi rallegro molto di rivederti.
+Cari saluti, Michele
+
+----------------
+
+Target hypothesis 1: 
+
+Caro Berto , da molto tempo non ci vediamo . Spero che tu stia bene . Mia moglie ed io stiamo abbastanza bene . Il mio lavoro è un po' stressante , ma penso che oggi questo sia normale . Quest' estate siamo stati in Italia sul lago di Garda . È una regione meravigliosa . Siamo andati con la motocicletta . È stata un' esperienza straordinaria attraversare le Alpi . Spero che entro due mesi possiamo incontrarci . Comunque mi rallegro molto di rivederti . Cari saluti , Michele
+
+----------------
+
+No target hypothesis 2 available.
+

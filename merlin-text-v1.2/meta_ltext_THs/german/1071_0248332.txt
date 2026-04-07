@@ -1,0 +1,41 @@
+METADATA
+
+General:
+Author ID: 1071_0248332
+Test language: German
+CEFR level of test: A1
+Task : ask friend for help for finding apartment - ID: 1071_020200
+Mother tongue: Polish
+Age: 26
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B2
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Lieber Ingo,
+ich habe eine Arbeit in Neuburg gefunden und ich begine von 1 Juli 2012. Ich muss nach Neuburg  bis 30. Juni 2012 mich umziehen.
+Ich muss neue Wohnung funden. Die Wohnung muss 80 m² große sein, weil ich mit meinem Freund wohnen will.
+Kannst du bitte mir helfen,  wenn ich in nächste Woche nach Neuburg komme und ich werde neue Wohnung suchen?
+Viele freundliche Grüße
+Maria
+
+----------------
+
+Target hypothesis 1: 
+
+Lieber Ingo , ich habe eine Arbeit in Neuburg gefunden und ich beginne am 1 . Juli 2012 . Ich muss nach Neuburg bis 30 . Juni 2012 umziehen . Ich muss eine neue Wohnung finden . Die Wohnung muss 80 m ² groß sein , weil ich mit meinem Freund wohnen will . Kannst du mir bitte helfen , wenn ich in der nächsten Woche nach Neuburg komme und eine neue Wohnung suchen werde ? Viele freundliche Grüße Maria
+
+----------------
+
+No target hypothesis 2 available.
+

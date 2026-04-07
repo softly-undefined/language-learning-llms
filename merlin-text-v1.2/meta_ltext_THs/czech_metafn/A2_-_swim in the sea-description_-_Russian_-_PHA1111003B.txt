@@ -1,0 +1,36 @@
+METADATA
+
+General:
+Author ID: PHA1111003B
+Test language: Czech
+CEFR level of test: A2
+Task : describe a photo: swimming in the sea - ID: A2PS0202_more
+Mother tongue: Russian
+Age: 1519
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Na fotografii vidím muže a ditě. Myslím, že jsou tatínek a jeho dcera nebo syn. Jsou ve vodě. Myslím, že jsou na moře, přijeli tam odpočívat. Baví se a hrajou spolu. Na sobě mají jenom  plavky. Také tatínek nosí tmavé BrylE a nějakou čepice. Cítí se skvěle, jsou opravdu šťastní. Nevím co říkají, ale je možné, že tatínek dělá legrace z jeho ditěte a naopák. Ročním období může být buďto leto, nebo začátek podzimu.
+
+----------------
+
+Target hypothesis 1: 
+
+Na fotografii vidím muže a dítě . Myslím , že to jsou tatínek a jeho dcera nebo syn . Jsou ve vodě . Myslím , že jsou u moře , přijeli tam odpočívat . Baví se a hrajou si spolu . Na sobě mají jenom plavky . Také tatínek nosí tmavé brýle a nějakou čepici . Cítí se skvěle , jsou opravdu šťastní . Nevím , co říkají , ale je možné , že si tatínek dělá legraci z jeho dítěte a naopak . Ročním období může být buďto léto , nebo začátek podzimu .
+
+----------------
+
+No target hypothesis 2 available.
+

@@ -1,0 +1,28 @@
+METADATA
+
+General:
+Author ID: 1385_0001119
+Test language: Italian
+CEFR level of test: A1
+Task : reschedule an appointment - ID: 1385_020100
+Mother tongue: Polish
+Age: 61
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Caro Daniele,
+è una settimana orribile. In ufficio c'e  molto lavoro e giovedi pomeriggio non può essere un appuntamento. Purtroppo, il mio capo ha organizerà un runione. Possiamo abbiamo un appuntamento il sabato sera?
+Andiamo a cena un ristorante tailandese. Che ne dici?
+Arivederci

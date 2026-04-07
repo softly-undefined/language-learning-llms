@@ -1,0 +1,42 @@
+METADATA
+
+General:
+Author ID: 1395_0000354
+Test language: Italian
+CEFR level of test: A2
+Task : inform friends about language course - ID: 1395_010300
+Mother tongue: Polish
+Age: 21
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A1
+
+----------------
+
+Learner text: 
+
+16.04.2010 Città X
+Cara Julia
+Sono in Italia nella citta Città X. Mio indirizzo è Strada Maggiore 10. Sono stato facendo un corso di italiano. Nel corso con me é mio vero amico Pietro. Ha venti anni. Lui é polacco anche. Nel mio tempo libero ho suono la chittara. Devo visitare dei musei italiani. 
+Cordiali Saluti,
+tuo amore 
+Michele
+
+----------------
+
+Target hypothesis 1: 
+
+16.04.2010 Città X Cara Julia , sono in Italia nella città di Città X . Il mio indirizzo è Strada Maggiore 10 . Sto facendo un corso di italiano . Nel corso con me c' è un mio vero amico Pietro . Ha venti anni . È anche lui polacco . Nel mio tempo libero suono la chitarra . Devo visitare dei musei italiani . Cordiali saluti , il tuo amore Michele
+
+----------------
+
+Target hypothesis 2: 
+
+16.04.2010 Città X Cara Julia , sono in Italia nella città di Città X . Il mio indirizzo è Strada Maggiore 10 . Sto facendo un corso di italiano . Nel corso con me c' è il mio vero amico Pietro . Ha venti anni . È anche lui polacco . Nel mio tempo libero suono la chitarra . Devo visitare dei musei italiani . Cari saluti , il tuo amore Michele

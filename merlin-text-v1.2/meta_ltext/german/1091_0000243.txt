@@ -1,0 +1,29 @@
+METADATA
+
+General:
+Author ID: 1091_0000243
+Test language: German
+CEFR level of test: A2
+Task : ask friend to take care of pet - ID: 1091_0650102
+Mother tongue: not reported
+Age: 28
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Liebe Katharina,
+Ich bin für ein paar Tage nicht zu Hause, weil ich in Indien fahren möchte. Kanst du mir helfen Meine Haustier, nimmst du ein paar Tage deine Hause. Ich muss nächte Donnerstag mitbringe meine Haustier. Meine Eltren und bin ich in montag fahren in Indien. ein Hund und eine Katz nimmst du ein paar Tage deine Haus. Vielen Dank Katharina. Bis bald
+Alles Liebe
+deine
+Julia

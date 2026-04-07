@@ -1,0 +1,39 @@
+METADATA
+
+General:
+Author ID: PHA0411043
+Test language: Czech
+CEFR level of test: B2
+Task : write an essay: A friend in need is a friend indeed - ID: B2PS0202_pritel
+Mother tongue: French
+Age: 4049
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B2
+Vocabulary control: B2
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Vybral jsem témata "v nouzi poznaš přiele". Proč? Protože myslím, že je to pořad aktualní temata.
+Všude a cely život mužete potkat lídí, ktéry mají, a nebo mělí, nějaky velky problemy. K rešení a jediný možnost to rešit byl, že existoval někomu, ktéry mohl pomahat a to diky tomu, že měli dobry přatele. Podle mě je to pravda, že mužete mit deset a nebo tricet ipratele ale to nezamená, že vsichni budou skopní vám pomahat v nouzi. Možna je to kvůli tomů, že on nemá tolik duveř na vás. Ale podle mě to je spiš, že nejsme pripravení a vychovaní aby jsme žílí spolu.
+Pamatuju pribeh clověka ktéry byl velmí bohatý. Měl hodně přatele a za jednou ztratil práce a měl velký uraz v autě - Kdych žadal svého pr-unreadable-tel-ambiguous- aby mu pomahalí, nikdo kromě jeden nechtěl mu dát peníze.
+Na zavěr myslím, že je treba vybirat spravně pritele a rozumět že, v současně době, nemužete očekavat, že kvůli tomu že chodíte na kafé a nebo do kina s vaší pratele, to znamena že ve nouzí, mužete počitat s tím že oníbudou pro vás k dispozicí.
+
+----------------
+
+Target hypothesis 1: 
+
+Vybral jsem si téma " V nouzi poznáš přítele . " Proč ? Protože myslím , že je to pořád aktuální téma . Všude a celý život můžete potkat lidi , kteří mají , a nebo měli , nějaký velký problém k řešení a jediná možnost to rešit byla , že existoval někdo , kdo jim mohl pomáhat , a to díky tomu , že měli dobré přátele . Podle mě je to pravda , že můžete mít deset a nebo třicet přátel , ale to neznamená , že všichni budou schopní Vám pomáhat v nouzi . Možná je to kvůli tomu , že on k Vám nemá tolik důvěry . Ale podle mě je to spíš proto , že nejsme připravení a vychovaní , abychom žili spolu . Pamatuju si příběh člověka , který byl velmi bohatý . Měl hodně přátel a najednou ztratil práci a měl velký úraz v autě . Když žádal své přátele , aby mu pomohli , nikdo mu kromě jednoho nechtěl dát peníze . Na závěr si myslím , že je třeba vybírat správně přítele a rozumět , že v současné době nemůžete očekávat , že kvůli tomu , že chodíte na kafé a nebo do kina s Vašimi přáteli , to znamená , že v nouzi můžete počítat s tím , že oni budou pro Vás k dispozici .
+
+----------------
+
+No target hypothesis 2 available.
+

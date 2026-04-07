@@ -1,0 +1,27 @@
+METADATA
+
+General:
+Author ID: 1091_0000062
+Test language: German
+CEFR level of test: A2
+Task : ask friend to take care of pet - ID: 1091_0650102
+Mother tongue: Russian
+Age: 61
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: B1
+Orthography: B2
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: B2
+
+----------------
+
+Learner text: 
+
+Sehr geehrt Frau Schmidt, ich bin ein paar Tage nicht zu Hause.
+Ich fahre am Sonntag in Stadt X. Konnen Sie zwei Tage um meine Katze kummern? Ich danke dir sehr.
+Bitte antwortet mich.

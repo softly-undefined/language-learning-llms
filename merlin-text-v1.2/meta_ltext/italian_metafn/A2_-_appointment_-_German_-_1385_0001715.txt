@@ -1,0 +1,30 @@
+METADATA
+
+General:
+Author ID: 1385_0001715
+Test language: Italian
+CEFR level of test: A1
+Task : reschedule an appointment - ID: 1385_020100
+Mother tongue: German
+Age: 51
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A1
+
+----------------
+
+Learner text: 
+
+Caro Daniele, 
+è una settimana orribile. In ufficio c'è molto lavoro e giovedi pomeriggio non posso incontrarti perchè il mio capo ha organizzato una riunione importante il giovedi pomeriggio. Posso avere la nostra appuntamento sabato sera. Ti piace? 
+Perchè non andiamo in il ristorante tailandese -unreadable- in centro di la città? Rispondi subito!
+         Penso a te 
+                        Ciao 
+                                     Maria

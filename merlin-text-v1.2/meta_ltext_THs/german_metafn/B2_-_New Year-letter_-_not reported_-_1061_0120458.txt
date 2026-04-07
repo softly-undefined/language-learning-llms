@@ -1,0 +1,46 @@
+METADATA
+
+General:
+Author ID: 1061_0120458
+Test language: German
+CEFR level of test: B1
+Task : write a letter for New Year to a friend - ID: 1061_110101
+Mother tongue: not reported
+Age: 21
+Gender: male
+
+Rating:
+Overall CEFR rating: B2
+Grammatical accuracy: B2
+Orthography: C1
+Vocabulary range: B2
+Vocabulary control: B2
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: B2
+
+----------------
+
+Learner text: 
+
+                                 Stadt X, 17.04.2012
+Lieber Michael,
+vielen Dank für dienen Wünsch. Ich freue mich sehr, dass du mich beantwortet hast. Ich wünsche dir noch einmal die beste im Leben für den neuen Jahr!
+Die Silvesternacht... Das war eine schone nacht! Ich habe mich mit allen Schulefreunden. getroffen. Das war echt super! Wir waren dreißig personen und haben ein großes Haus für drei Nächte gemietet und dort für zwei Tage gefeiert. In dem dritten Tag mussten wir aufräumen.
+In diesem Jahr will ich nich mehr so viel feiern und party. Ich muss mich fur die Prüfung von der Univesität vorbereiten.
+Ich habe vergessen, dass du nichts über meine Arbeit weißt. Ich arbeite nicht mehr. In den letzten drei Jahren ich habe ein bischen Geld zusammengelegt und jetzt will ich studieren. 
+Natürlich du kannst uns besuchen. Ich und meine Freundin haben dir immer sehr gern. Aber ich kann nicht so viel warten. Kannst du mir anrufen? Mein nummer ist jetzt 123456. Ich muss dir etwas sehr wichtig erzählen.
+Ich warte auf deine Antwort oder Anruf, wie es besser für dich ist. 
+Herzliche Grüße
+Tobias
+
+----------------
+
+Target hypothesis 1: 
+
+Stadt X , 17.04.2012 Lieber Michael , vielen Dank für deinen Wunsch . Ich freue mich sehr , dass du mir geantwortet hast . Ich wünsche dir noch einmal die Beste im Leben für das neue Jahr ! Die Silvesternacht ... Das war eine schöne Nacht ! Ich habe mich mit allen Schulefreunden getroffen . Das war echt super ! Wir waren dreißig Personen und haben ein großes Haus für drei Nächte gemietet und dort zwei Tage gefeiert . An dem dritten Tag mussten wir aufräumen . In diesem Jahr will ich nicht mehr so viel feiern und Party machen . Ich muss mich für die Prüfung von der Universität vorbereiten . Ich habe vergessen , dass du nichts über meine Arbeit weißt . Ich arbeite nicht mehr . In den letzten drei Jahren habe ich ein bisschen Geld zusammengelegt und jetzt will ich studieren . Natürlich kannst du uns besuchen . Ich und meine Freundin haben dich immer sehr gern . Aber ich kann nicht so viel warten . Kannst du mich anrufen ? Meine Nummer ist jetzt 123456 . Ich muss dir etwas sehr Wichtiges erzählen . Ich warte auf deine Antwort oder deinen Anruf , wie es besser für dich ist . Herzliche Grüße Tobias
+
+----------------
+
+Target hypothesis 2: 
+
+Stadt X , 17.04.2012 Lieber Michael , vielen Dank für deine Wünsche . Ich freue mich sehr , dass du mir geantwortet hast . Ich wünsche dir für das neue Jahr noch einmal das Beste im Leben ! Die Silvesternacht ... Das war eine schöne Nacht ! Ich habe mich mit allen Schulfreunden getroffen . Das war echt super ! Wir waren dreißig Personen und haben ein großes Haus für drei Nächte gemietet und dort an zwei Tagen gefeiert . Am dritten Tag mussten wir aufräumen . In diesem Jahr will ich nicht mehr so viel feiern und Party machen . Ich muss mich für die Prüfung von der Universität vorbereiten . Ich habe vergessen , dass du nichts über meine Arbeit weißt . Ich arbeite nicht mehr . In den letzten drei Jahren habe ich ein bisschen Geld zusammengespart und jetzt will ich studieren . Natürlich kannst du uns besuchen . Ich und meine Freundin haben dich immer sehr gern bei uns . Aber ich kann nicht so lange warten . Kannst du mich anrufen ? Meine jetzige Nummer ist die 123456 . Ich muss dir etwas sehr wichtig erzählen ! Ich warte auf deine Antwort oder deinen Anruf , wie es am besten für dich ist . Herzliche Grüße Tobias

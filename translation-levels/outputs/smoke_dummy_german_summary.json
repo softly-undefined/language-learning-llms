@@ -1,0 +1,35 @@
+{
+  "input_path": "/Users/ericbennett/Desktop/github/language-learning-llms/wmt-data/en_zh_closest_500.csv",
+  "output_path": "translation-levels/outputs/smoke_dummy_german_candidates.jsonl",
+  "summary_output_path": "translation-levels/outputs/smoke_dummy_german_summary.json",
+  "provider": "dummy",
+  "model": "dummy-cefr-v1",
+  "source_field": "english",
+  "reference_field": null,
+  "target_language": "German",
+  "temperature": 0.1,
+  "max_tokens": 800,
+  "levels": [
+    "A1",
+    "A2",
+    "B1",
+    "B2",
+    "C1",
+    "C2"
+  ],
+  "prompt_version": "wmt_cefr_translation_v2_cefr_companion",
+  "limit": 1,
+  "rows_seen": 1,
+  "rows_processed": 1,
+  "skipped_missing_source": 0,
+  "records_written": 6,
+  "successful_generations_by_level": {
+    "A1": 1,
+    "A2": 1,
+    "B1": 1,
+    "B2": 1,
+    "C1": 1,
+    "C2": 1
+  },
+  "errors_by_level": {}
+}

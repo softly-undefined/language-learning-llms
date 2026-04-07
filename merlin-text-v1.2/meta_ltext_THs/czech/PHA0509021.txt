@@ -1,0 +1,40 @@
+METADATA
+
+General:
+Author ID: PHA0509021
+Test language: Czech
+CEFR level of test: B2
+Task : write an essay: Everywhere well but at home the best - ID: B2PS0200_doma
+Mother tongue: French
+Age: 2029
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: A2
+Orthography: B2
+Vocabulary range: B1
+Vocabulary control: B2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Ráda cestuju, ráda poznám nové zemy, nové lide, novou kulturu. A když cestuju, citím se dobře, i ve země, která není vůbec podobná moje země. Už jsem cestovala do Ghany (v Africe) a neměla jsem žádný problem. Lidi byli na mě moc hodný. Mně pomohli když jsem potrebovala pomoct.
+Ale když se vratím domu, citim se lepší. Všechno a všichny znám nám. Vím jak mám mluvit a být. Mám tam kamarady a rodinu. A to je jasně že budou tam pořad pro mě.
+Taky mám rada být doma, když můžu vymyslet na přiští cestu, nebo se podívat na fotky a se vzpomínat jak byla poslední cesta.
+Ve cizí země, musím pořad dát pozor na jak mluvím, jak se obleknu, atd. To není velký problem, ale doma můžu mluvit a se obleknout jak obvikle. Ve cizí země musím taky dat pozor na co jím, abych nebyla nemocná. Doma, moje rodiče vaří co rada jím, protože mě nevidí hodně a chtějí abych měla radost.
+Myslím že, kdybych zustala doma a necestovala, nebylo by tolik dobrý doma. Pamatuju si když  jsem byla malá a  musila jsem uklízet, umýt nadobi, atd. Teď moje rodiče jsou tolik sťastný mě vídět, že nepoprosí na níc.
+
+----------------
+
+Target hypothesis 1: 
+
+Ráda cestuju , ráda poznávám nové země , nové lidi , novou kulturu . A když cestuju , cítím se dobře i v zemi , která není vůbec podobná mé zemi . Už jsem cestovala do Ghany ( v Africe ) a neměla jsem žádný problém . Lidé byli na mě moc hodní . když jsem potřebovala pomoct , pomohli mi . Ale když se vrátím domů , cítím se lépe . Všechno a všechny znám . Vím , jak mám mluvit a být . Mám tam kamarády a rodinu . A to je jasné , že tam budou pro mě pořád . Taky jsem ráda doma , když můžu vymyslet na příští cestu , nebo se podívat na fotky a vzpomínat , jaká byla poslední cesta . V cizí zemi musím pořád dávat pozor na to , jak mluvím , jak se oblékám atd. To není velký problém , ale doma můžu mluvit a oblékat se jako obvykle . V cizí zemi musím taky dávat pozor na to , co jím , abych nebyla nemocná . Doma moji rodiče vaří to , co ráda jím , protože mě nevidí hodně a chtějí , abych měla radost . Myslím , že kdybych zůstala doma a necestovala , nebylo by to doma tolik dobré . Pamatuju si , když jsem byla malá a musela jsem uklízet , umývat nádobí atd. Teď jsou moji rodiče tolik šťastní , že mě vidí , že nepoprosí o nic .
+
+----------------
+
+No target hypothesis 2 available.
+

@@ -1,0 +1,39 @@
+METADATA
+
+General:
+Author ID: VAR0910011
+Test language: Czech
+CEFR level of test: B2
+Task : write an essay: Clothes make the man - ID: B2PS0201_saty
+Mother tongue: Polish
+Age: 2029
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B2
+Orthography: B1
+Vocabulary range: B2
+Vocabulary control: B1
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Každý člověk nosi nějaké oblečení, aby mu nebylo zíma. Dnes plni oblečeni téký jine funkce - ukazuji zaměstnaní, koničky nebo charakter člověka atd. Lide řikaji: ,,Šaty dělají člověka" a ja jsem stejného názoru. Od toho jak výpadáme zaleži, co si o nás mohou mýslet jini lidé. 
+Elegantní oblečení je velmi důležité pro ženy. Každá holka radá jede do obhodního centra, a tady si skouši halenky, boty, džíny nebo něco jiného. Travime v obchodech dlouhe hodiny, a časté nakupovaní leze do peněz. Ale všechno na světě ma svou cenu! Když si koupim něco hezkého, a všichni mi řikaji, jak mi to sluší, mám  celý den dobrou naládu. 
+Kvalitné oblečení je důležíte táky v práci - mluvime o tom ,,dress code". Když pracujete s zakázniky a musite  se s nimi občas setkat, nesmite vypadát neelegantní. Nemamé na to žadný vliv. Musíme vždycký vypádat skvěle, mít hezké oblečení, když to znamená, že jsme štasťníštastní a uspěšní. Když si koupíme něco hezkého na sebe, citime se lépe, jsme komunikativní a diky tomu mužeme víc udělat. Když někdo mluvi, že šaty nedělají člověka je pro mě hipokryta  nebo idealista. To neni zločin travit penize na oblečení. 
+ Opravdu, lidé dělají horší věci. 
+
+----------------
+
+Target hypothesis 1: 
+
+Každý člověk nosí nějaké oblečení , aby mu nebyla zima . Dnes plní oblečení také jiné funkce - ukazují zaměstnání , koníčky nebo charakter člověka atd . Lidé říkají : " Šaty dělají člověka " a já jsem stejného názoru . Na tom , jak vypadáme , záleží , co si o nás mohou myslet jiní lidé . Elegantní oblečení je velmi důležité pro ženy . Každá holka ráda jede do obchodního centra a tady si zkouší halenky , boty , džíny nebo něco jiného . Trávíme v obchodech dlouhé hodiny , a časté nakupování leze do peněz . Ale všechno na světě má svou cenu ! Když si koupím něco hezkého a všichni mi říkají , jak mi to sluší , mám celý den dobrou náladu . Kvalitní oblečení je důležité taky v práci - mluvíme o " dress code " . Když pracujete se zákazníky a musíte se s nimi občas setkat , nesmíte vypadat neelegantně . Nemáme na to žádný vliv . Musíme vždycky vypadat skvěle , mít hezké oblečení , když to znamená , že jsme šťastní a úspěšní . Když si koupíme něco hezkého na sebe , cítíme se lépe , jsme komunikativní a díky tomu můžeme víc udělat . Když někdo mluví o tom , že šaty nedělají člověka , je pro mě hypokrita nebo idealista . To není zločin trávit peníze na oblečení . Opravdu , lidé dělají horší věci .
+
+----------------
+
+No target hypothesis 2 available.
+

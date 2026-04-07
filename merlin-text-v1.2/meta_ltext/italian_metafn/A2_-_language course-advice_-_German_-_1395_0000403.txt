@@ -1,0 +1,30 @@
+METADATA
+
+General:
+Author ID: 1395_0000403
+Test language: Italian
+CEFR level of test: A2
+Task : inform friends about language course - ID: 1395_010300
+Mother tongue: German
+Age: 56
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: B1
+Orthography: C2
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Cari Angelina e Mauro
+sono arrivato ad Città X 3 settimane fa. L'insegnante nel corso di italiano è molto carina. Impariamo tanto e mi sento molto bene nella classe con gli altri.
+Quando non c'è lezione facciamo delle passeggiate in città o mangiamo insieme. Si mangia bene qui!
+Sono molto contento di rimanere 7 settimane di più ed Città X - è una città interessantissimo!
+Cari saluti
+Maria

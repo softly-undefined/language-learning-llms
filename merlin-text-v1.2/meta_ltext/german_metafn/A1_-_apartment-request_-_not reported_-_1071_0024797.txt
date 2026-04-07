@@ -1,0 +1,34 @@
+METADATA
+
+General:
+Author ID: 1071_0024797
+Test language: German
+CEFR level of test: A1
+Task : ask friend for help for finding apartment - ID: 1071_020200
+Mother tongue: not reported
+Age: 31
+Gender: male
+
+Rating:
+Overall CEFR rating: A1
+Grammatical accuracy: A1
+Orthography: A2
+Vocabulary range: A1
+Vocabulary control: A1
+Coherence/Cohesion: A1
+Sociolinguistic appropriateness: A1
+
+----------------
+
+Learner text: 
+
+Hallo, Maria,
+wie geht´s? Am wochenende Ich war in Neuburg. Ich finde eine neue Arbeit.
+Ich brauche eine Wohnung in Neuburg.
+Können Sie mir helfen?
+Ja, gern.
+Morgen kommt es. Haben Sie zeit Suchen susamen
+Viele Danke. Maria
+Ich komme Morgen
+Aufwiederhören
+Tschuch. 

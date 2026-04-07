@@ -1,0 +1,32 @@
+METADATA
+
+General:
+Author ID: PHA0112006A
+Test language: Czech
+CEFR level of test: A2
+Task : write an email to a hotel - ID: A2PS0101_hotel
+Mother tongue: Other
+Age: 3039
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B2
+Orthography: B2
+Vocabulary range: B1
+Vocabulary control: B2
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: B2
+
+----------------
+
+Learner text: 
+
+Dobrý den,
+potřebovala bych objednat jeden pokoj pro dva v termínu 26. února. Ráda bych pokoj se socialním zařízením, s televizí a možností připojit se k internetu.
+Poslete mi prosím, informace o stravovaní a možnosti využití lyžařské školy ve vašim středisku.
+Chtěla bych se zeptat, jestli máte v předem uvedeným termínu volný pokoj a kolik stojí.
+Zajimalo by mě ještě jestli je možné parkovat vedle chaty.
+Předem děkuji za informace.
+S přáním hezkého dne,
+Marie Eva Nováková

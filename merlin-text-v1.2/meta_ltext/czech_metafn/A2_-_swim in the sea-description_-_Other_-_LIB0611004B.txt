@@ -1,0 +1,25 @@
+METADATA
+
+General:
+Author ID: LIB0611004B
+Test language: Czech
+CEFR level of test: A2
+Task : describe a photo: swimming in the sea - ID: A2PS0202_more
+Mother tongue: Other
+Age: 3039
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Na fotografii je mladý muž se svým malým synem. Oni jsou na dovolené. Radi se opalují a plavou. Myslím, že tato rodina řešila jet na dovolenou do Španělska a odpočnout, protože je leto. Muž a jeho syn jsou veselé a šťastné Na sobě mají jenom šortky, muž taky mají brýle, protože je moc horko, a světit slunce. Malý kluk říká svému otci, že nechci plavat, protože se bojí vody. Všichni se cítí moc dobře!

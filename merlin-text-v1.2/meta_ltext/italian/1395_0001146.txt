@@ -1,0 +1,29 @@
+METADATA
+
+General:
+Author ID: 1395_0001146
+Test language: Italian
+CEFR level of test: A2
+Task : inform friends about language course - ID: 1395_010300
+Mother tongue: Polish
+Age: 31
+Gender: female
+
+Rating:
+Overall CEFR rating: A1
+Grammatical accuracy: A1
+Orthography: A1
+Vocabulary range: A1
+Vocabulary control: A1
+Coherence/Cohesion: A1
+Sociolinguistic appropriateness: A1
+
+----------------
+
+Learner text: 
+
+Carrisimi, 
+Finalmente sono in Città X e sta facendo un corso di italiano. Nel corso e anche Maria, la mia amica con lavoro. 
+Quando non c'e lezione, passeggiamo, visitiamo Città X e mangiamo buon piatti. 
+ 
+Ci braccio Eva

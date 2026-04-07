@@ -1,0 +1,37 @@
+METADATA
+
+General:
+Author ID: ST071122B
+Test language: Czech
+CEFR level of test: A2
+Task : describe a photo: woman sitting at the window - ID: A2PS0200_zena
+Mother tongue: Other
+Age: not reported
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Jmenuje se Jana Černá. Je doma. Je z českých Budějovicích. Je veselá a je jí 48 let. Vystudovala Anglištinu na vysokou školi a pracuje  doma jako překladatelka. Je vdaná a má 2 děti. Teď právě myslí o nich, protože za měsíc přijdou za ní o vánocích. Má ráda anglické literatury. Ráda chodí do lesa na procházku. S psem, které se jmenuje Rex.
+
+----------------
+
+Target hypothesis 1: 
+
+Jmenuje se Jana Černá . Je doma . Je z Českých Budějovic . Je veselá a je jí 48 let . Vystudovala angličtinu na vysoké škole a pracuje doma jako překladatelka . Je vdaná a má 2 děti . Teď právě myslí na ně , protože za měsíc přijdou za ní , o Vánocích . Má ráda anglické literatury . Ráda chodí do lesa na procházku . Se psem , který se jmenuje Rex .
+
+----------------
+
+Target hypothesis 2: 
+
+Jmenuje se Jana Černá . Je doma . Je z Českých Budějovic . Je veselá a je jí 48 let . Vystudovala angličtinu na vysoké škole a pracuje doma jako překladatelka . Je vdaná a má 2 děti . Teď právě myslí na ně , protože za měsíc přijdou za ní , o Vánocích . Má ráda anglickou literaturu . Ráda chodí do lesa na procházku . Se psem , který se jmenuje Rex .

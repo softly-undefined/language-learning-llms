@@ -1,0 +1,42 @@
+METADATA
+
+General:
+Author ID: 1061_0120490
+Test language: German
+CEFR level of test: B1
+Task : write a letter for New Year to a friend - ID: 1061_110101
+Mother tongue: Turkish
+Age: 21
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B2
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B2
+
+----------------
+
+Learner text: 
+
+                                                     Stadt X 13.02.2012
+Liebe Michael,
+ich danke dir, dass du mir diese Brief geschriebt hast. Ich wünsche dir alles Gute zum neuen Jahr.
+Ich wollte mich mit dir treffen in der Silvesternach, weil Ich für dich ein Geschängt gekauft habe. Aber Nach den diesem Monat, können wir uns auch treffen. weil Ich eine neue Stelle in dem Fabrik gefunden habe. Ich fängt da als Chemistin an. Deshalb könnten wir uns nicht jetzt treffen. Entschuldigung aber du weißt dass diese beruf mein traumjob ist.
+Du weißt dass wir nicht Silvester ferien. Deshalb in diese Zeit, wollten wir Urlaub machen. Alles war super. Wir haben nach Österrich, Polen, Stadt X gefahren. Ich war mit mein Familie deshalb fühle Ich mich wohl. Bitte schreib mir so möglich wie schnell. Bis bald
+Herzliche Grüße
+Eva
+
+----------------
+
+Target hypothesis 1: 
+
+Stadt X 13.02.2012 Lieber Michael , ich danke dir , dass du mir diesen Brief geschrieben hast . Ich wünsche dir alles Gute zum neuen Jahr . Ich wollte mich mit dir in der Silvesternacht treffen , weil ich für dich ein Geschenk gekauft habe . Aber nach diesem Monat können wir uns auch treffen , weil ich eine neue Stelle in der Fabrik gefunden habe . Ich fange da als Chemistin an . Deshalb könnten wir uns jetzt nicht treffen . Entschuldigung , aber du weißt , dass dieser Beruf mein Traumjob ist . Du weißt , dass wir nicht Silvesterferien feiern . Deshalb wollten wir in dieser Zeit Urlaub machen . Alles war super . Wir sind nach Österreich , Polen , Stadt X gefahren . Ich war mit meiner Familie , deshalb fühlte ich mich wohl . Bitte schreib mir , so möglich , wie schnell . Bis bald Herzliche Grüße Eva
+
+----------------
+
+No target hypothesis 2 available.
+

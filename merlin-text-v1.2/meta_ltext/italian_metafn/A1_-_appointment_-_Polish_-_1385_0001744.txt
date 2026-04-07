@@ -1,0 +1,29 @@
+METADATA
+
+General:
+Author ID: 1385_0001744
+Test language: Italian
+CEFR level of test: A1
+Task : reschedule an appointment - ID: 1385_020100
+Mother tongue: Polish
+Age: 29
+Gender: male
+
+Rating:
+Overall CEFR rating: A1
+Grammatical accuracy: 0
+Orthography: A1
+Vocabulary range: A1
+Vocabulary control: 0
+Coherence/Cohesion: A1
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Ciao Daniele, 
+Daniele come stai? Ti scritto qualcosa ti me. Io non potete incontravi con lui giovedi pomeriggio. Perchè proporre incontrave sabato sera. Penso che di andiamo a cena in un ristorante tailandese. Io ho ascolto che cucinare è molta brava e economica. 
+Io aspetta la tua risposta. 
+Saluti per nostra capo! 
+               Cordiale Saluti 

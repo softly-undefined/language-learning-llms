@@ -1,0 +1,41 @@
+METADATA
+
+General:
+Author ID: 1385_0001742
+Test language: Italian
+CEFR level of test: A1
+Task : reschedule an appointment - ID: 1385_020100
+Mother tongue: Polish
+Age: 33
+Gender: female
+
+Rating:
+Overall CEFR rating: A1
+Grammatical accuracy: A1
+Orthography: A1
+Vocabulary range: A1
+Vocabulary control: 0
+Coherence/Cohesion: 0
+Sociolinguistic appropriateness: A1
+
+----------------
+
+Learner text: 
+
+CIAO DANIELE, 
+MI DISPIACE, MA IO C'È MOLTO LAVORO E GIOVEDI POMERIGGIO. APPUNTAMENTI SABATO SERA? 
+ANDIAMO A CENA IN UN RISTORANTE TAILANDESE. 
+SCRIVI PER QUESTO MAIL. 
+GRAZIE. 
+CIAO. Maria
+
+----------------
+
+Target hypothesis 1: 
+
+Ciao Daniele , mi dispiace , ma c' è molto lavoro giovedì pomeriggio . Appuntamento per sabato sera ? Andiamo a cena in un ristorante tailandese . Scrivi a questa mail . Grazie . Ciao , Maria
+
+----------------
+
+No target hypothesis 2 available.
+

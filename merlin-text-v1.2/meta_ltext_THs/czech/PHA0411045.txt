@@ -1,0 +1,37 @@
+METADATA
+
+General:
+Author ID: PHA0411045
+Test language: Czech
+CEFR level of test: B2
+Task : write an essay: A friend in need is a friend indeed - ID: B2PS0202_pritel
+Mother tongue: Polish
+Age: 2029
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B2
+Orthography: B1
+Vocabulary range: B2
+Vocabulary control: B1
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Tvrzeni „v nouzi poznáš přítele" je stáre jak svět a slyšime je velmi často. Je to oblibene přislovi moje babičky. Podle mého názoru je také pravdive a překonala jsem se o tom několikrat za život. Vzhledem k tomu, že hned po maturitě jsem se odstěhovala do jiného města, mam velmi často problem s bydlenim. Sice už jsem si zvykla na časte stěhovaní a ma to také svoje kladné stranky, je to velmi otravujici. Občas se také stavalo, že musela jsem se odstěhovat ze dne na den a pravě v takové situaci jsem poznala opravdového přitele. Pamatuji si takovou udalost, ktera měla misto před rokem v mém pronajatem bytě. Ráno přišel majitel a oznamil mi, že celem baraku je havarie a měla bych se odstěhovat, protože elektřina nebude funkční nejbližši 3 měsice. Pravě v tom okamžiku mi pomohla Káťa, kamaradka ze školy, ktera mi nabidla, že mužu u ni zůstat až si něco najdu. Mužu řict, že svoji nabidkou mi doslova zachranila život.
+Teď mam už kde bydlet a s Káťou jsme nejlepši kamaradky. Doufam, že jednou bud-ambiguous- moct ji za vše poděkovat.
+
+----------------
+
+Target hypothesis 1: 
+
+Tvrzení " V nouzi poznáš přítele . " je staré jak svět a slyšíme ho velmi často . Je to oblíbené přísloví mé babičky . Podle mého názoru je také pravdivé a překonala jsem se o tom několikrát za život . Vzhledem k tomu , že hned po maturitě jsem se odstěhovala do jiného města , mám velmi často problém s bydlením . Sice už jsem si zvykla na časté stěhování a má to také svoje kladné stránky , ale je to velmi otravující . Občas se také stávalo , že jsem se musela odstěhovat ze dne na den a právě v takové situaci jsem poznala opravdového přítele . Pamatuji si takovou událost , která měla místo před rokem v mém pronajatém bytě . Ráno přišel majitel a oznámil mi , že v celém baráku je havárie a měla bych se odstěhovat , protože elektřina nebude funkční nejbližší 3 měsíce . Právě v tom okamžiku mi pomohla Káťa , kamarádka ze školy , která mi nabídla , že u ní můžu zůstat než si něco najdu . Můžu říct , že mi svojí nabídkou doslova zachránila život . Teď mám už kde bydlet a s Káťou jsme nejlepší kamarádky . Doufám , že jí jednou budu moct za vše poděkovat .
+
+----------------
+
+No target hypothesis 2 available.
+

@@ -1,0 +1,40 @@
+METADATA
+
+General:
+Author ID: 1061_0120404
+Test language: German
+CEFR level of test: B1
+Task : write a letter to a friend (visit) - ID: 1061_130101
+Mother tongue: not reported
+Age: 26
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+                                     Stadt X 5./3/2012
+Liebe Dana
+viele donke für den Brief. Meine Liblingin Freundin Dona, Vi geht es dir. deine Elterin sind alle gud, wi ist das anbient in der Ausland, ich Finde du freu sich. Mit deine Ältarin, ich auch vollte ein mal in stanbull gehen, ober ven hobe ich Ferien vieleich. gehe ich dort. Danke schön För mir was hat deine tante gadacht, ich wil du uns deine Älterin sind alle gut. Ich wünche euch einen schönes zeit, und mir schönes Ferien. ich hofe wir bleiben sehr gut Freundin. Ich moche alles Für dich wos broch.sdu Fon mir
+viele grüße
+Maria
+
+----------------
+
+Target hypothesis 1: 
+
+Stadt X 5/3/2012 Liebe Dana , vielen Dank für den Brief . Meine Lieblingsfreundin Dana , wie geht es dir . Deine Eltern sind alle gut , wie ist das Ambiente im Ausland ? Ich finde , du freust dich . Mit deinen Eltern wollte ich auch einmal in Istanbul gehen , aber vielleicht gehe ich dorthin , wenn ich Ferien habe . Danke schön was deine Tante für mich gadacht hat , ich finde , du und deine Eltern sind alle gut . Ich wünsche euch eine schöne Zeit und mir schöne Ferien . Ich hoffe , wir bleiben sehr gute Freundinnen . Ich mache alles für dich , was du von mir brauchst . Viele Grüße Maria
+
+----------------
+
+No target hypothesis 2 available.
+

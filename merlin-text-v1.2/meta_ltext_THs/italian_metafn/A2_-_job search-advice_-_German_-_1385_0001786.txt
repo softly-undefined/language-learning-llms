@@ -1,0 +1,45 @@
+METADATA
+
+General:
+Author ID: 1385_0001786
+Test language: Italian
+CEFR level of test: A1
+Task : help a friend who is looking for work - ID: 1385_040101
+Mother tongue: German
+Age: 51
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Caro Andrea, 
+grazie per la tua email. Vorrei aiutarti, ma ho bisogno di qualche informazione in più. 
+ 
+Puoi dirmi dove hai lavorato adesso? Perchè hai finito? 
+Che tipo di lavoro cerchi? E dove vorrei lavorare? Puoi lavorare il fine settimane? 
+Quando puoi iniziare il lavoro nuovo? 
+ 
+ Puoi telefonarmi il domenica a mezzogiorno? 
+Ciao,
+Michele
+
+----------------
+
+Target hypothesis 1: 
+
+Caro Andrea , grazie per la tua email . Vorrei aiutarti , ma ho bisogno di qualche informazione in più . Puoi dirmi dove hai lavorato fino adesso ? Perché hai finito ? Che tipo di lavoro cerchi ? E dove vorrei lavorare ? Puoi lavorare il fine settimana ? Quando puoi iniziare il lavoro nuovo ? Puoi telefonarmi la domenica a mezzogiorno ? Ciao , Michele
+
+----------------
+
+No target hypothesis 2 available.
+

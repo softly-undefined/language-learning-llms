@@ -1,0 +1,30 @@
+METADATA
+
+General:
+Author ID: 1091_0000012
+Test language: German
+CEFR level of test: A2
+Task : offer a ticket not used to a friend - ID: 1091_0690403
+Mother tongue: Russian
+Age: 61
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Hallo Julia
+Ich habe am Wochenende nach Paris mit dem Bus eine Raise machen
+Ich habe eine fahrkarte für den Wochenendausflus gekauft, Ich kann nicht faren
+Ich habe keine gesung
+Mit freundlichen Grüßen
+Michael

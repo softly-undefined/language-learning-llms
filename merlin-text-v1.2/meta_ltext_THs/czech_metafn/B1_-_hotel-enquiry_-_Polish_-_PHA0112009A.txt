@@ -1,0 +1,42 @@
+METADATA
+
+General:
+Author ID: PHA0112009A
+Test language: Czech
+CEFR level of test: A2
+Task : write an email to a hotel - ID: A2PS0101_hotel
+Mother tongue: Polish
+Age: 3039
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Dobrý den.
+Obratím se na Vás z prosbou o zaslaní informace o vašim hotelu. Chtelá bych vedet jestli máte volný dvoulůžkový pokoj v termínu 13.-15.01.2012 a jaká je jeho cena. Chtelá bych také vedet jestli můžu si u Vas objednat jídlo. Máte u hotelu parkoviště, na kterém můžu nechat auto? Chtelá bych ještě vedet jestli je nekde v okolí lyžařska škola.
+Moc Vám děkuju za odpoved!
+S pozdravem
+
+Eva Nováková
+
+----------------
+
+Target hypothesis 1: 
+
+Dobrý den , obracím se na Vás s prosbou o zaslaní informace o vašem hotelu . Chtěla bych vědět , jestli máte volný dvoulůžkový pokoj v termínu 13.–15.01.2012 a jaká je jeho cena . Chtěla bych také vědět , jestli si můžu u Vás objednat jídlo . Máte u hotelu parkoviště , na kterém můžu nechat auto ? Chtěla bych ještě vědět , jestli je někde v okolí lyžařská škola . Moc Vám děkuju za odpověď . S pozdravem Eva Nováková
+
+----------------
+
+Target hypothesis 2: 
+
+Dobrý den , obracím se na Vás s prosbou o zaslání informace o vašem hotelu . Chtěla bych vědět , jestli máte volný dvoulůžkový pokoj v termínu 13.–15.01.2012 a jaká je jeho cena . Chtěla bych také vědět , jestli si můžu u Vás objednat jídlo . Máte u hotelu parkoviště , na kterém můžu nechat auto ? Chtěla bych ještě vědět , jestli je někde v okolí lyžařská škola . Moc Vám děkuju za odpověď . S pozdravem Eva Nováková

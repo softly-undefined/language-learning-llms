@@ -1,0 +1,43 @@
+METADATA
+
+General:
+Author ID: 1395_0000605
+Test language: Italian
+CEFR level of test: A2
+Task : inform friends about language course - ID: 1395_010300
+Mother tongue: French
+Age: 50
+Gender: male
+
+Rating:
+Overall CEFR rating: unrated
+Grammatical accuracy: 0
+Orthography: 0
+Vocabulary range: 0
+Vocabulary control: 0
+Coherence/Cohesion: 0
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+                                                 il Lunedi, 5 dicembre 2010 
+Caro amici, 
+Ho sieto in Città X, 
+Apprendo corso di italiano. 
+l'insegnante ho molto gentil e sympatico 
+ho visito la cittadel Città X, dopo bere al bar 
+                      Presto: 
+                                            Michele
+
+----------------
+
+Target hypothesis 1: 
+
+Lunedì , 5 dicembre 2010 Cari amici , sono a Città X , apprendo un corso di italiano . L' insegnante è molto gentile e simpatico . Ho visto la città del Città X , dopo sono andato a bere al bar . A presto , Michele
+
+----------------
+
+No target hypothesis 2 available.
+

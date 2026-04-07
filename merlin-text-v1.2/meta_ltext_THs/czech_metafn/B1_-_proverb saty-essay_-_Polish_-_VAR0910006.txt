@@ -1,0 +1,40 @@
+METADATA
+
+General:
+Author ID: VAR0910006
+Test language: Czech
+CEFR level of test: B2
+Task : write an essay: Clothes make the man - ID: B2PS0201_saty
+Mother tongue: Polish
+Age: 2029
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B2
+Orthography: B1
+Vocabulary range: B2
+Vocabulary control: B1
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Šaty dělají člověka
+Staré přisloví řeče, že šaty dělají člověka. V dnešní době každý chce byt modní, a mít co nejvíc známkového oblečení. Proto někteří řikají, že tohle rčení je pravdivé. 
+Podle mému názoru není tohle tak jednoduché. Myslím si, že dílem toto  přisloví může byt aktualní, ale dílem ne. Když myslime o krátkodobé perspektivě, tedy první ví-ambiguous- bude nejduležitější pro ostatné, a budeme moct souhlasit s polským přislovím: ,,jako té vídí, takhle té popsují".  
+Však když je analizována délší perspektiva, je třeba řici, že šaty nedělají člověka, a jsou jenom výsledkem, efektem jeho pozice. 
+Kromě těchto kategorií je i třeti, Lide, kteři pracují v armadě, v policie nebo jako hasíčí jsou vždycký oblečení v uniformy. V teto skupině mundur je symbolem zaměstnaní na konkretní pozici, a plní jínou funkci než zvyšovanípozice ve společenství. Jakékoliv bude naše minění, je jíste, že nášé oblečení ma - nebo může mít - základní vliv na náš život, a náši pozici. Neznámena to, že se musíme oblekat jenom ve známkové oblečení, však musíme byt vždycký elegantní, a čistí, a citit se v našém oblečení komfortní a zdravě. Když budou splněny teto  podmínky, naš život jísté bude lepší.
+
+----------------
+
+Target hypothesis 1: 
+
+Šaty dělají člověka Staré přísloví říká , že šaty dělají člověka . V dnešní době každý chce být módní a mít co nejvíc známkového oblečení . Proto někteří říkají , že tohle rčení je pravdivé . Podle mého názoru není tohle tak jednoduché . Myslím si , že dílem toto přísloví může být aktuální , ale dílem ne . Když myslíme v krátkodobé perspektivě , tedy první vid bude nejdůležitější pro ostatní a budeme moct souhlasit s polským příslovím : " jak tě vidí , tak tě popisují " . Avšak když je analyzována delší perspektiva , je třeba říci , že šaty nedělají člověka a jsou jenom výsledkem , efektem jeho pozice . Kromě těchto kategorií je i třetí . Lidé , kteří pracují v armádě , u policie nebo jako hasiči , jsou vždycky oblečení v uniformě . V této skupině je mundúr symbolem zaměstnání na konkrétní pozici a plní jinou funkci než zvyšování pozice ve společenství . Jakékoliv bude naše mínění , je jisté , že naše oblečení má - nebo může mít - základní vliv na náš život a naši pozici . Neznamená to , že se musíme oblékat jenom ve známkové oblečení , avšak musíme být vždycky elegantní a čistí a cítit se v našem oblečení komfortně a zdravě . Když budou splněny tyto podmínky , náš život jistě bude lepší .
+
+----------------
+
+No target hypothesis 2 available.
+

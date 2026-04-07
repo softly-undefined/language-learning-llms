@@ -1,0 +1,32 @@
+METADATA
+
+General:
+Author ID: 1071_0242022
+Test language: German
+CEFR level of test: A1
+Task : congratulate to birth of child - ID: 1071_030101
+Mother tongue: not reported
+Age: 57
+Gender: female
+
+Rating:
+Overall CEFR rating: A1
+Grammatical accuracy: A1
+Orthography: A2
+Vocabulary range: A1
+Vocabulary control: A2
+Coherence/Cohesion: A1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Lieber Jens,
+Wie geht es Dir? Mir geht es gut. 
+Dir ist Vater geworden. Dein Babys ist Name?
+Wie geht die Frau und Babys?
+Ich Wünsche Deiner Famili Gesundheit, Glückwünsch und Viel Spaß.
+Herzliche Grüße - Deine Freundin.
+Tschüss
+Maria

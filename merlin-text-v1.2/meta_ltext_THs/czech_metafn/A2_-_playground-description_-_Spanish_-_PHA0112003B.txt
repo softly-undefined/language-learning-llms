@@ -1,0 +1,38 @@
+METADATA
+
+General:
+Author ID: PHA0112003B
+Test language: Czech
+CEFR level of test: A2
+Task : describe a photo: playground - ID: A2PS0201_hriste
+Mother tongue: Spanish
+Age: 2029
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Martin a Eva se rozhodli strátit tenhle pěkné letný den v parku s dětma. Ale jen odpoledne, pak k obědu jdou za babičkou ktera bidlý bliš. Jště v šesta hodina mají jet k kamaradí na ohiňěk a proto děti zustanou u babičce
+Hlasili v radio že nebude pržet, ale bilo trošku zatašeno, tak Eva si vzala jen sandalie a Martin rači si dal k sobě i ponočkach. Mála Kateřinka ne mohla vylist ven bez její oblivenejší ružový botičký.
+Jsou šťastný a začinaji mit hlad, teď rozhodujou si vzit Kateřinčin kočarekou a Julinčin baťochu a jit k babičce.
+
+----------------
+
+Target hypothesis 1: 
+
+Martin a Eva se rozhodli strávit tenhle pěkný letní den v parku s dětmi . Ale jen odpoledne , pak k obědu jdou za babičkou , která bydlí blíž . Ještě v šest hodin mají jet ke kamarádům na ohýnek , a proto děti zůstanou u babičky . Hlásili v rádiu , že nebude pršet , ale bylo trošku zataženo , tak si Eva vzala jen sandály a Martin si radši dal k sobě i ponožky . Malá Kateřinka nemohla vylézt ven bez svých nejoblíbenějších růžových botiček . Jsou šťastní a začínají mít hlad , teď se rozhodli vzít si Kateřinčin kočárek a Julinčin batoh a jít k babičce .
+
+----------------
+
+No target hypothesis 2 available.
+

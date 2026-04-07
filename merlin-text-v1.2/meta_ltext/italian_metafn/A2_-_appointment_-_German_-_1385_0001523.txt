@@ -1,0 +1,30 @@
+METADATA
+
+General:
+Author ID: 1385_0001523
+Test language: Italian
+CEFR level of test: A1
+Task : reschedule an appointment - ID: 1385_020100
+Mother tongue: German
+Age: 24
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Ciao Daniele, 
+Come stai? Io non mi sento troppo bene, è una settimana orribile. In ufficio c'è molto lavoro e giovedì pomeriggio non posso mi incontrarmi con te. Mi dispiace, ma il mio capo ha organizzato una riunione questo pomeriggio e devo participare. 
+Ma che pensi, se ci incontriamo il sabato sera? Possiamo andare a cena in un ristorante tailandese? Ti piace questa idea? 
+ 
+Mi dispiace ancora una volta e spero che ci vediamo sabato sera. 
+bacio, Maria 

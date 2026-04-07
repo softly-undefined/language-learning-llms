@@ -1,0 +1,32 @@
+METADATA
+
+General:
+Author ID: 1091_0000123
+Test language: German
+CEFR level of test: A2
+Task : letter to housing office - ID: 1091_0610301
+Mother tongue: Spanish
+Age: not reported
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B2
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+                                              Stadt X, 19.01.2012
+Sehr geehrte Damen und Herren,
+ich suche eine neue Wohnung in Stadt X. Für mich ist wichtig die Wohnung an Zentrum, weil ich an der Staat arbeite.
+Ich möchte eine Große Wohnung mit 4 Zimmer. Die Wohnung muss neue Küche haben.
+ Ein groß Balkon suche ich für meine Wohnung auch, .weil ich Pflanzen habe.
+Wie viel kostet ist die Miete? Ist die Miete Kalt oder Warm? Wir viel Kostet ist der Abstand und NebenKosten?. Können Sie Bitte mir anrufen, wenn Sie eine Wohnung für mich finden.
+Mit freundlichen Grüßen
+Stefan

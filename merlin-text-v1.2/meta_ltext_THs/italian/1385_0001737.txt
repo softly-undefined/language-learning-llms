@@ -1,0 +1,40 @@
+METADATA
+
+General:
+Author ID: 1385_0001737
+Test language: Italian
+CEFR level of test: A1
+Task : help a friend who is looking for work - ID: 1385_040101
+Mother tongue: Polish
+Age: 44
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Ciao Michele!
+Grazie per la tua email. Vorrei aiutarti, ma ho bisogno di qualche informazione in più. Puoi scrivere dove lavori adesso? Puoi dirmi, che tipo di lavoro vuoi fare? Quando voresti iniziare il tuo nuovo lavoro? Vorrei sapere anche che cosa ti piace fare? Mi scrivi dove voresti lavorare; in città o in campagna? 
+Ti piace lavoro movimento o tranquillo? 
+Aspetto la tua risposta 
+           Maria
+
+----------------
+
+Target hypothesis 1: 
+
+Ciao Michele ! Grazie per la tua email . Vorrei aiutarti , ma ho bisogno di qualche informazione in più . Puoi scrivere dove lavori adesso ? Puoi dirmi che tipo di lavoro vuoi fare ? Quando vorresti iniziare il tuo nuovo lavoro ? Vorrei sapere anche che cosa ti piace fare . Scrivimi dove vorresti lavorare : in città o in campagna ? Ti piace il lavoro movimentato o tranquillo ? Aspetto la tua risposta Maria
+
+----------------
+
+No target hypothesis 2 available.
+

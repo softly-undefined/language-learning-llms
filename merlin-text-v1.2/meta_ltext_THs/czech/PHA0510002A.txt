@@ -1,0 +1,38 @@
+METADATA
+
+General:
+Author ID: PHA0510002A
+Test language: Czech
+CEFR level of test: A2
+Task : write an email to a hotel - ID: A2PS0101_hotel
+Mother tongue: Russian
+Age: 3039
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A1
+
+----------------
+
+Learner text: 
+
+Dobrý den!
+Chtěla bych se zeptat jaky mate volny dvolužkovy pokoj. Jaký je vyhled z okna a jeho cenu. Taky pro mně je moc duležite jidlo, co vy mužete mně nabidnout k večeži? Ještě duležite pro mne je parkoviště, protože přijedu autem a chcu byt spoj že mužu ho nechat vedle vašeho hotelu, a že mu nic a nikdo ne ubliži. 
+
+----------------
+
+Target hypothesis 1: 
+
+Dobrý den ! Chtěla bych se zeptat , jaký máte volný dvoulůžkový pokoj . Jaký je výhled z okna a jeho cena ? Taky pro mě je moc důležité jídlo , co vy mně můžete nabídnout k večeři ? Ještě pro mne je důležité parkoviště , protože přijedu autem a chci si být jistý , že ho můžu nechat vedle vašeho hotelu a že mu nic a nikdo neublíží .
+
+----------------
+
+Target hypothesis 2: 
+
+Dobrý den ! Chtěla bych se zeptat , jaký máte volný dvoulůžkový pokoj . Jaký je výhled z okna a jeho cena ? Taky pro mě je moc důležité jídlo , co mně můžete nabídnout k večeři ? Ještě pro mne je důležité parkoviště , protože přijedu autem a chci si být jistý , že ho můžu nechat vedle vašeho hotelu a že mu nic a nikdo neublíží .

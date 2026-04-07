@@ -1,0 +1,43 @@
+METADATA
+
+General:
+Author ID: 0820
+Test language: Czech
+CEFR level of test: B1
+Task : answer to the email of Alena - ID: 1_Alena
+Mother tongue: German
+Age: not reported
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+29.ledna2008
+Ahoj Aleno,
+děkuju pro tvoho  e-mail a jsem rád, že přijedeš do Drážďan. Kdybys  čhtěla uméš k mně domů jít odpoledne.Kdy , potom můžu pro tebe dojít na nádraží.
+Studium je O.K. V dovoleno čhu odjet v Alp. Potom jdu pracovat. Jaké byla lyžováný moc sníh  Kolik  stoji kurz češtiny a  kdy zací? Posláš mne  teto inzerát. Jak se máš vlastní? Mám se dobře. Studuje ješte v Drážďaněch informatika a bydlím dome v Pirně
+Mily pozdravů.
+
+Martin
+
+----------------
+
+Target hypothesis 1: 
+
+29.ledna2008 Ahoj Aleno , děkuju za tvůj e-mail a jsem rád , že přijedeš do Drážďan . Kdybys chtěla , umíš jít ke mně domů odpoledne . Kdy potom můžu pro tebe dojít na nádraží ? Studium je o. k. O dovolené chci odjet do Alp . Potom jdu pracovat . Jaké bylo lyžování ? Moc sněhu ? Kolik stojí kurz češtiny a kdy začíná ? Pošleš mi tento inzerát ? Jak se máš vlastně ? Mám se dobře . Studuju ještě v Drážďanech informatiku a bydlím doma v Pirně . Milé pozdravy . Martin
+
+----------------
+
+Target hypothesis 2: 
+
+29.ledna2008 Ahoj Aleno , děkuju za tvůj e-mail a jsem rád , že přijedeš do Drážďan . Kdybys chtěla , můžeš jít ke mně domů odpoledne . Kdy potom můžu pro tebe dojít na nádraží ? Studium je o. k. O dovolené chci odjet do Alp . Potom budu pracovat . Jaké bylo lyžování ? Moc sněhu ? Kolik stojí kurz češtiny a kdy začíná ? Pošleš mi tento inzerát ? Jak se máš vlastně ? Mám se dobře . Studuju ještě v Drážďanech informatiku a bydlím doma v Pirně . Milé pozdravy . Martin

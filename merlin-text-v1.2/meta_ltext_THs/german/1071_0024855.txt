@@ -1,0 +1,39 @@
+METADATA
+
+General:
+Author ID: 1071_0024855
+Test language: German
+CEFR level of test: A1
+Task : congratulate to birth of child - ID: 1071_030101
+Mother tongue: Polish
+Age: 22
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Hallo Jens!
+Wie geht´s? Ich Glückwünsche! Du bist Vater. Wie geht deine Frau? Sie ist gesuntcheit? Und wie Baby? Wie heißt Baby? Das ist mannlich oder weiblich? Wie hat viel cm und kg? Oh, ich bin so glücklich. Das ist heute sehr gut information. Ich mache Party für Baby - bin ich Tante.
+Tschuss Maria
+
+----------------
+
+Target hypothesis 1: 
+
+Hallo Jens ! Wie geht´s ? Glückwünsche ! Du bist Vater . Wie geht es deiner Frau ? Ist sie gesund ? Und wie dem Baby ? Wie heißt das Baby ? Ist es männlich oder weiblich ? Wie viel cm und kg hat es ? Oh , ich bin so glücklich . Das ist heute eine sehr gute Information . Ich mache eine Party für das Baby - Ich bin Tante . Tschüss Maria
+
+----------------
+
+Target hypothesis 2: 
+
+Hallo Jens ! Wie geht´s ? Glückwünsche ! Du bist Vater . Wie geht es deiner Frau ? Ist sie gesund ? Und wie geht's dem Baby ? Wie heißt das Baby ? Ist es ein Junge oder ein Mädchen ? Wie groß und schwer ist es ? Oh , ich bin so glücklich . Das ist heute eine sehr gute Neuigkeit . Ich mache eine Party für das Baby - Ich bin Tante . Tschüss Maria

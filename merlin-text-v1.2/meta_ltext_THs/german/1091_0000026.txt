@@ -1,0 +1,45 @@
+METADATA
+
+General:
+Author ID: 1091_0000026
+Test language: German
+CEFR level of test: A2
+Task : letter to housing office - ID: 1091_0610301
+Mother tongue: not reported
+Age: 44
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+                                            Stadt X, 04 01 2012
+Sehr geehrte Domen und Herren,
+Ich suchen eine neue Wohnung.
+Ich bin heiratet.
+Ich moschte meine wohnung zwei zimmer und ein kuche ein Bod ein Bolkon. 
+Können sie bitte mir, wie viel kosstet om monot und vie viel Heben koste.
+Ich möchte Won miete
+Mit freundliche Grüßen
+Evo Muller 
+
+----------------
+
+Target hypothesis 1: 
+
+Stadt X , 04 . 01 . 2012 Sehr geehrte Damen und Herren , ich suche eine neue Wohnung . Ich bin verheiratet . Ich möchte eine Wohnung mit zwei Zimmern und einer Küche , einem Bad und einem Balkon . Können sie mir bitte sagen , wie viel es im Monat kostet und wie viel die Nebenkosten sind ? Ich möchte zur Miete wohnen . Mit freundlichen Grüßen Eva Müller
+
+----------------
+
+Target hypothesis 2: 
+
+Stadt X , 04 . 01 . 2012 Sehr geehrte Damen und Herren , Ich suche eine neue Wohnung . Ich bin verheiratet . Ich möchte in meiner Wohnung zwei Zimmer und eine Küche , ein Bad und einen Balkon . Können Sie mir bitte sagen , wie viel es im  Monat kostet und wie hoch die Nebenkosten sind ? Ich möchte zur Miete wohnen . Mit freundlichen Grüßen Eva Müller

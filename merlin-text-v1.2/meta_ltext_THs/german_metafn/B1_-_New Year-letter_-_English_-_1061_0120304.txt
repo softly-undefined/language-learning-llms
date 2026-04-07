@@ -1,0 +1,44 @@
+METADATA
+
+General:
+Author ID: 1061_0120304
+Test language: German
+CEFR level of test: B1
+Task : write a letter for New Year to a friend - ID: 1061_110101
+Mother tongue: English
+Age: 30
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: A2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+                           Stadt X 22.02.2012
+Lieber Michael,
+ich wünsche desese neuen Jahr guten gesund und neuen Hause mit meine famile. aber desese neuen Jahr hoffe ich eine guten auto kaufen, weil ich zu arbeit Fahre.
+Konnte ich am sontag um 15 Uhr treffen, Bitte ruf mich an.
+im Silvester mache ich eine Silvester in meinen Haus am 20.03.2012. Hast du lust auf meine Silvester mit deiner Famile. Deshalb möchte ich dich mit deiner Familie einladen. ich mache Kartoffel Suppe, Salat und tomate Suppe koche, ich Freue mich auf Dich.
+(Herzliche Grüße)
+Michael
+Herzliche Grüße
+Stefan Winkelmann
+
+----------------
+
+Target hypothesis 1: 
+
+Stadt X 22.02.2012 Lieber Michael , ich wünsche mir dieses neue Jahr gute Gesundheit und ein neues Haus für meine Familie . Aber dieses neue Jahr hoffe ich , ein gutes Auto zu kaufen , weil ich zur Arbeit fahre . Konnte ich dich am Sonntag um 15 Uhr treffen ? Bitte ruf mich an ! Zu Silvester mache ich ein Silvester in meinem Haus am 20.03.2012 . Hast du Lust auf mein Silvester mit deiner Familie zu kommen ? Deshalb möchte ich dich mit deiner Familie einladen . Ich mache Kartoffelsuppe , Salat und Tomatensuppe , ich freue mich auf Dich , Michael . Herzliche Grüße Stefan Winkelmann
+
+----------------
+
+No target hypothesis 2 available.
+

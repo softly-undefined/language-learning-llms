@@ -1,0 +1,50 @@
+METADATA
+
+General:
+Author ID: 1365_0100027
+Test language: Italian
+CEFR level of test: B1
+Task : answer to an wedding invitation - ID: 1365_020300
+Mother tongue: French
+Age: 47
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: C1
+Vocabulary range: B1
+Vocabulary control: B2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Maria Rossi
+Strada Maggiore 2
+1234 Città X
+Città X, 15 maggio 2010
+Beatrice Russo
+Via osma, 2
+Napoli
+Cara Beatrice.
+Ho appena ricevuto il tuo invito e ti ringrazio. Che bella notizia! Mi accorgo di quando vi siete incontrato sulla panchina dell'universitá Sto soridendo pensendo in questo tempo.
+Afortunatamente, non potro venire al vostro matrimonio. Tu sai bene che ho un lavoro dificile e in questa periodo sono in Francia a Città X per presentare i miei nuovi vestiti estivi, sono sicura che potrai capire.
+Anche se non posso venire da voi, vorrei farvi un bel regalo.
+Potreste dirmi quello che vi piacerebbe -image- per vostra nuova vita.
+Spero téléfonarti presto, vi congratulo di nuovo.
+Tanti auguri e bacci a tutte due.
+Maria
+
+----------------
+
+Target hypothesis 1: 
+
+Maria Rossi Strada Maggiore 2 1234 Città X Città X , 15 maggio 2010 Beatrice Russo Via Osma , 2 Napoli Cara Beatrice , ho appena ricevuto il tuo invito e ti ringrazio . Che bella notizia ! Mi accorgo di quando vi siete incontrati sulla panchina dell' università , sto sorridendo pensando a questo tempo . Afortunatamente , non potrò venire al vostro matrimonio . Tu sai bene che ho un lavoro difficile e in questo periodo sono in Francia a Città X per presentare i miei nuovi vestiti estivi , sono sicura che potrai capire . Anche se non posso venire da voi , vorrei farvi un bel regalo . Potreste dirmi quello che vi piacerebbe -image- per la vostra nuova vita ? Spero di telefonarti presto , mi congratulo di nuovo . Tanti auguri e baci a tutti e due . Maria
+
+----------------
+
+No target hypothesis 2 available.
+

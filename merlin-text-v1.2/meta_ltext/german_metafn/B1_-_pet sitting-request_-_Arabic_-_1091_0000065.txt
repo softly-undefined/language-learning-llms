@@ -1,0 +1,30 @@
+METADATA
+
+General:
+Author ID: 1091_0000065
+Test language: German
+CEFR level of test: A2
+Task : ask friend to take care of pet - ID: 1091_0650102
+Mother tongue: Arabic
+Age: 31
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+                          Stadt X, 06.01.2012
+Liebe Maria,
+Wie geht´s dir. ich will Am Wochenend nach Luxemburg fahren, und mein Affe ist ganz allein zu Haus.
+Wenn du eine Zeit hast, kannst du bitte mich anrufen: weil möchte ich meine Affe kümmern.
+Vielen Dank im voraus für deine Hilfe. viele Grüße.
+Julia

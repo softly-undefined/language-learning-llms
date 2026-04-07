@@ -1,0 +1,37 @@
+METADATA
+
+General:
+Author ID: PHA0411012B
+Test language: Czech
+CEFR level of test: A2
+Task : describe a photo: swimming in the sea - ID: A2PS0202_more
+Mother tongue: Spanish
+Age: 2029
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Na fotografii je syn s tatinkem, jsou v plaže na dovolenou protože tatínek miluje moře, a počasi je jasno a horko. Na sobě mají jen pla-unreadable-ky, hrají spolu a cítí se dobře. Tatinek jmenuje se Jan a syn se jmenuje Petř, Jan rika že moře je nebepeční a Petř musí mít pozor. Jan rád cestuje a příští rok chce cestovat do Brazilie protože tam je nejkrasnější pláže na Země.
+
+----------------
+
+Target hypothesis 1: 
+
+Na fotografii je syn s tatínkem , jsou na pláži na dovolené , protože tatínek miluje moře , a počasí je jasné a horké . Na sobě mají jen pla-unreadable-ky , hrají si spolu a cítí se dobře . Tatínek se jmenuje Jan a syn se jmenuje Petr , Jan říká , že moře je nebezpečné a Petr musí mít pozor . Jan rád cestuje a příští rok chce cestovat do Brazílie , protože tam jsou nejkrásnější pláže na Zemi .
+
+----------------
+
+Target hypothesis 2: 
+
+Na fotografii je syn s tatínkem , jsou na pláži na dovolené , protože tatínek miluje moře , a počasí je jasné a horké . Na sobě mají jen plavky , hrají si spolu a cítí se dobře . Tatínek se jmenuje Jan a syn se jmenuje Petr , Jan říká , že moře je nebezpečné a Petr musí dávat pozor . Jan rád cestuje a příští rok chce cestovat do Brazílie , protože tam jsou nejkrásnější pláže na Zemi .

@@ -1,0 +1,44 @@
+METADATA
+
+General:
+Author ID: PHA1110016
+Test language: Czech
+CEFR level of test: B2
+Task : write an essay: More people know more - ID: B2PS0201_hlava
+Mother tongue: Other
+Age: 4049
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: B2
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+B. Vic hlav víc ví
+Když jsem byla malá mojé babička se vždycký snažila čist mě pohádky: v polštině, v chorvatštině, v ruštině a v beloruštíně.
+A vždycký mě řekla: "Když chceš neco dokázat ve svěm životě - museš si účit."
+Minúla létá. Zapamátovála jsem ta slova.
+První můj krok - to je zakládní škola. Uspešně si udělala maturítní zkoušky a jsem šla dál na texnický koledž. V těmto koledže dostala si profes-ambiguous-, obor strojenství.
+Začala jsem pracóvat jako technologíckí master, nadal, po vzdělaní kurzu, pracovala jsem jako inženiřka, pokračovála ve svěm vzdelání, seznamila se s novymí zajímavymí lídmí. A bylo pro mě, nadál, zajimavé právo. Napsála jsem žadost do Výsokou školy, a udělála jsem přijimací zkoušky, a už studovála jsem na pravníckou fakultě.
+Vě nynišneji době prácuju jako právnik. A taký mám možnost kontáktovat s různymí lídmí s celého světa.
+Každe moje vzdělaní dalo přo mě velkou pomoc v měm životě. Zlepšuju jsem, pokračuju jsem ve nynišnej době rovně a spokojlivě, můzu kontáktovat s lídmí a poznávat jiní zemí.
+A to všechno moc krat děkuju BaBičke, ktěra od malá pro mě
+
+----------------
+
+Target hypothesis 1: 
+
+B . Víc hlav víc ví . Když jsem byla malá , moje babička se vždycky snažila číst mně pohádky : v polštině , v chorvatštině , v ruštině a v běloruštině . A vždycky mně řekla : " Když chceš něco dokázat ve svém životě - můžeš se učit . " Minula léta . Zapamatovala jsem si ta slova . První můj krok - to je základní škola . Úspěšně jsem udělala maturitní zkoušky a šla jsem dál na technickou kolej . V této koleji jsem se dostala profes-ambiguous- , obor strojírenství . Začala jsem pracovat jako technologický mistr , nadále po vzdělávacím kurzu jsem pracovala jako inženýrka , pokračovala jsem ve svém vzdělání , seznámila jsem se s novými zajímavými lidmi . A bylo pro mě nadále zajímavé právo . Napsala jsem žádost na vysokou školu , a udělala jsem přijímací zkoušky , a už jsem studovala na právnické fakultě . V nynější době pracuju jako právník . A taky mám možnost být v kontaktu s různými lidmi z celého světa . Každé moje vzdělání dalo mně velkou pomoc v mém životě . Zlepšuju se , pokračuju v nynější době rovně a spokojeně , můžu být v kontaktu s lidmi a poznávat jiné země . A za to všechno mockrát děkuju babičce , která od mala pro mě
+
+----------------
+
+No target hypothesis 2 available.
+

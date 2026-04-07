@@ -1,0 +1,33 @@
+METADATA
+
+General:
+Author ID: 1395_0001019
+Test language: Italian
+CEFR level of test: A2
+Task : go see a friend - ID: 1395_040101
+Mother tongue: German
+Age: 15
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A1
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+              Cara Giulia,
+Come ti stai? Come fa il tempo? Com'è la tua città? E come sta la tua famiglia? Voglio andare a trovarti! 
+Quando hai tempo? 
+Quando posso venire alla tua casa? Demi che cosa fa il prossimo sabato? Ci incontriamo e andiamo al cinema e guardiamo un bel film?
+Poi scrivere una cartolina anche o puoi chiamiami a questo numero:
+0345-11111111!
+                     Ciao e a presto,
+                                      Maria
+

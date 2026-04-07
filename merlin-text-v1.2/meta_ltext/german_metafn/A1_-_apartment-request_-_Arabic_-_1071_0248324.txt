@@ -1,0 +1,30 @@
+METADATA
+
+General:
+Author ID: 1071_0248324
+Test language: German
+CEFR level of test: A1
+Task : ask friend for help for finding apartment - ID: 1071_020200
+Mother tongue: Arabic
+Age: 28
+Gender: male
+
+Rating:
+Overall CEFR rating: A1
+Grammatical accuracy: A1
+Orthography: A1
+Vocabulary range: A1
+Vocabulary control: A1
+Coherence/Cohesion: A1
+Sociolinguistic appropriateness: A1
+
+----------------
+
+Learner text: 
+
+Lieber Herr Michael,
+ich habe eine Arbeit in Neuburg gefunen
+ich brauche eine Wohnung Größe der Wohnung mit ein Zimmer und Küche und die Bad.
+Danke für dein Hilfe
+Viele Grüße
+Stefan

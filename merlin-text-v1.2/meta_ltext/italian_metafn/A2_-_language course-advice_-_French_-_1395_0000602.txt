@@ -1,0 +1,31 @@
+METADATA
+
+General:
+Author ID: 1395_0000602
+Test language: Italian
+CEFR level of test: A2
+Task : inform friends about language course - ID: 1395_010300
+Mother tongue: French
+Age: 53
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+                                                                        Martedì 12 Gennaio 2010 
+Cari Marco e Chiara, 
+Vi scrivo da Città X dove imparo italiano per il mio lavoro. 
+Quando ho tempo libero visito la città, el Monumento X, il Monumento Y, la Monumento Z et faccio shopping. 
+Il mia insegnante si chiama Carola, una italiana nata in Francia vicino de Città Y. È molta simpatica. 
+Cari saluti e a presto 
+          Maria

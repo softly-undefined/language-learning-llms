@@ -1,0 +1,38 @@
+METADATA
+
+General:
+Author ID: VAR0910005
+Test language: Czech
+CEFR level of test: B2
+Task : write an essay: Clothes make the man - ID: B2PS0201_saty
+Mother tongue: Polish
+Age: 1519
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B2
+Orthography: A2
+Vocabulary range: B2
+Vocabulary control: B2
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Šaty dělaji člověka , tak je doopravdy? nebo ne?
+V dnešni době mamy hodně velký výběr oblečeni. Den -unreadable- dnem je nějaka nóva móda, ani z časem člověk nevi co mu na sebe oblíct. Občas někteřý se boí oblic to, co im sluši neb to, co je nove, protože si mysli, že někdo bude se na něco špatně dívat; nebo bude to bylbě komentovat. Tak si vždycky nakonec rozhodne oblict staré oblečeni, které se -unreadable- né už zvikl. A ma 100% jístotu, že mu sluši, a cíti se v tom docela dobře. Myslim si, že šaty dělají člověka. proč? protože, když jdeme na nějakou skoušku, nebo snažime se o novou prací, a člověk si oblekne bílou košili do toho černe kalhoty, tak jíny se divaji na něho  jinak. Už mu jeden bod výž. Než jak by měl příjt v šipavých šatech. Nezapomeňte taky na barvu, to je taky duležita. Samozřejmně si neoblikneme pižamu, a  a vydeme někam ven. Všechno děla člověka, také make-up, učes, oblečeni a ho-unreadable-. 
+Myslím si, že všichni   samozřejmě vic ženske oblíkaji se pádesatkrát před zrcadlem, aby im to slušelo. Vždycky člověk musi výpadad pěkne, a slušně, protože všichni se líp citime v tomto oblečeni.
+
+----------------
+
+Target hypothesis 1: 
+
+Šaty dělají člověka , tak je to doopravdy ? Nebo ne ? V dnešní době máme hodně velký výběr oblečení . Den -unreadable- dnem je nějaká nová móda , ani časem člověk neví , co má na sebe obléct . Občas se někteří bojí obléct to , co jim sluší , nebo to , co je nové , protože si myslí , že se někdo bude na něco špatně dívat ; nebo to bude blbě komentovat . Tak se vždycky nakonec rozhodne obléct staré oblečení , na které si -unreadable- už zvykl . A má 100% jistotu , že mu sluší , a cítí se v tom docela dobře . Myslím si , že šaty dělají člověka . Proč ? Protože když jdeme na nějakou zkoušku nebo se snažíme o novou práci a člověk si oblékne bílou košili , do toho černé kalhoty , tak jiní se na něho dívají jinak . Už má jeden bod výš . Než kdyby měl přijít v špinavých šatech . Nezapomeňte taky na barvu , to je taky důležité . Samozřejmě si neoblékneme pyžamo , až vyjdeme někam ven . Všechno dělá člověka , také make-up , účes , oblečení a ho-unreadable- . Myslím si , že všichni , samozřejmě víc ženské , se oblékají pádesátkrát před zrcadlem , aby jim to slušelo . Vždycky člověk musí vypadat pěkně a slušně , protože všichni se líp cítíme v tomto oblečení .
+
+----------------
+
+No target hypothesis 2 available.
+

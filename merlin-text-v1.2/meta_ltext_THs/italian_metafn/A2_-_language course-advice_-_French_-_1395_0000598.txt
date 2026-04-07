@@ -1,0 +1,44 @@
+METADATA
+
+General:
+Author ID: 1395_0000598
+Test language: Italian
+CEFR level of test: A2
+Task : inform friends about language course - ID: 1395_010300
+Mother tongue: French
+Age: 36
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+                                                                                  Firenze, 12/01/10 
+                              Care Helena e Carla 
+ 
+Come state? Sono a Firenze per seguire un corso d'italiano. Apprendo la lingue perché mi piace molto. La professoressa e molto gentile. Apprendo molte cose, in classa ci chiamiamo di tutto, é un corso molto interessante. 
+Quando non c'è lezione, esco con i miei amici, mangiamo fuori, andiamo al cinema, a dei concerti depende. 
+Portroppo devo ritornare a casa mia per lavorare. Sono rimasta a Firenze un mese fa. 
+            Abbracci affetuosi. A presto. 
+ Maria
+
+----------------
+
+Target hypothesis 1: 
+
+Firenze , 12 / 01 / 10 Care Helena e Carla , come state ? Sono a Firenze per seguire un corso d' italiano . Apprendo la lingua perché mi piace molto . La professoressa è molto gentile . Apprendo molte cose e in classe chiamiamo di tutto ; è un corso molto interessante . Quando non c' è lezione , esco con i miei amici , mangiamo fuori , andiamo al cinema o a dei concerti , dipende . Purtroppo devo ritornare a casa mia per lavorare . Sono rimasta a Firenze un mese . Abbracci affettuosi . A presto . Maria
+
+----------------
+
+Target hypothesis 2: 
+
+Firenze , 12 / 01 / 10 Care Helena e Carla , come state ? Sono a Firenze per seguire un corso d' italiano . Apprendo la lingua perché mi piace molto . La professoressa è molto gentile . Apprendo molte cose e in classe parliamo di tutto ; è un corso molto interessante . Quando non c' è lezione , esco con i miei amici , mangiamo fuori , andiamo al cinema o a dei concerti , dipende . Purtroppo devo ritornare a casa mia per lavorare . Sono rimasta a Firenze un mese . Abbracci affettuosi . A presto . Maria

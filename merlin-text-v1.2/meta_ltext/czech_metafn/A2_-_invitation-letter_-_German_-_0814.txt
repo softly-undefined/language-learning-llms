@@ -1,0 +1,32 @@
+METADATA
+
+General:
+Author ID: 0814
+Test language: Czech
+CEFR level of test: B1
+Task : answer to the email of Alena - ID: 1_Alena
+Mother tongue: German
+Age: not reported
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Ahoj Aleno
+Děkuji Ti mnohokrát za Tvůj Email! 
+Studium je moc namáhavé, protože pracuju už na Diplomku. Ale Těším se na na naše setkání v Drážďanech. 
+Kdy  bude vlak přijíždět? Jedu pro tebe  na hlavní nádraží. Kurz češtiny je dobře!
+Kdy bude činat Kurz? A kdy končim? Když Kurz je v Srp, budu mít čas, protože končím studium prvního srpna! A kolik to stojí?  Nemám  moc peněz! Můžeš poslat mé inzerát? 
+ Tím končím, je už pozdě večer. Musím ráno brzo vstát! Pozdravuj a hlavně tvoje přítele Davida.
+Měj se dobře!
+Tvoje Julie

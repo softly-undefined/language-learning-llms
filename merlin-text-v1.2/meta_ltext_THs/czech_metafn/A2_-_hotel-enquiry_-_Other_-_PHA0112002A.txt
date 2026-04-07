@@ -1,0 +1,40 @@
+METADATA
+
+General:
+Author ID: PHA0112002A
+Test language: Czech
+CEFR level of test: A2
+Task : write an email to a hotel - ID: A2PS0101_hotel
+Mother tongue: Other
+Age: 2029
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Dobrý den!
+Jedeme s kamarádem na hory a libíl se nam váš hotel. Ale máme pro vás nekolik otazek. Tak chtěla bych zeptat, jestli máte volný pokoje? A také kolik pokoj stojí?
+Jake máte jídlo?
+Také je to pro nas důležíte, jestli máte parkoviště (protože jedem autem)? A také jestli máte při hotelu lyžarškou školu?
+S pozdravem, Eva Nováková
+
+----------------
+
+Target hypothesis 1: 
+
+Dobrý den ! Jedeme s kamarádem na hory a líbil se nám Váš hotel . Ale máme pro Vás několik otázek . Tak bych se chtěla zeptat , jestli máte volné pokoje . A také kolik pokoj stojí ? Jaké máte jídlo ? Také je pro nás důležité , jestli máte parkoviště ( protože jedeme autem ) . A také jestli máte při hotelu lyžařskou školu . S pozdravem Eva Nováková
+
+----------------
+
+No target hypothesis 2 available.
+

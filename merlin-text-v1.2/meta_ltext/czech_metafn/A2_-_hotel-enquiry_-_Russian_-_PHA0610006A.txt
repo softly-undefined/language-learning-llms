@@ -1,0 +1,27 @@
+METADATA
+
+General:
+Author ID: PHA0610006A
+Test language: Czech
+CEFR level of test: A2
+Task : write an email to a hotel - ID: A2PS0101_hotel
+Mother tongue: Russian
+Age: 2029
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A1
+
+----------------
+
+Learner text: 
+
+Dobrý dén
+Jmenují se Eva Černá, jsem z Ruska. Chtěla bych zarezervovát 2L pokoj pro sebě a svého kamaráda. Chtěla bych mít pokoj s vyhledem na hory.Mátétaký pokoj a jaká bude ho cenadénně? Máte nejakú slevu pro stůdentů? A ta cena je včetně snídaní? Je v Hotelu parkoviště pro naše auto? Je v Hotelu lyžařska škola? Proto že můj kamarád není lyžař. 
+S pozdravem, Eva Černá.

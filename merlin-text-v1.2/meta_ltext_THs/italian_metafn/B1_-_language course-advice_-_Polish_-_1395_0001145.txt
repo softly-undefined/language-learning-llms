@@ -1,0 +1,42 @@
+METADATA
+
+General:
+Author ID: 1395_0001145
+Test language: Italian
+CEFR level of test: A2
+Task : inform friends about language course - ID: 1395_010300
+Mother tongue: Polish
+Age: 32
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B2
+Vocabulary range: B1
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Ciao cari miei!
+come state? Io e il mio ragazzo Michele siamo in Italia a Città X. Questa città è bella e tranquilla. Abitiamo in albergo "La Stella", abbiamo una camera comoda (con bagno) per 4 persone ma abita con noi solo uno ragazza russa Maria. 
+In Polonia abbiamo cominciato a studiare la lingua italiana perciò qui abbiamo scelto il corso di italiano. Frequentiamo il corso ogni giorno, studiamo circa 5 - 7 ore dal lunedi al venerdi. Penso che ogni giorno parliamo di bene in meglio. 
+Quando abbiamo del tempo libero lo passiamo in modo attivo; preferiamo visitare le chiese, i monumenti, camminare lungo le piazze, guardare le fontane, le mostre nei musei. Ci piace andare a fare una passeggiata, andare in bicicletta ecc. 
+Avete tempo libero? Vorremmo incontrarci con voi! Aspetto alla vostra risposta. 
+Un baccione 
+Vi abbracciamo   Maria & Michele
+
+----------------
+
+Target hypothesis 1: 
+
+Ciao cari miei , come state ? Io e il mio ragazzo Michele siamo in Italia a Città X . Questa città è bella e tranquilla . Abitiamo nell' albergo " La Stella " , abbiamo una camera comoda ( con bagno ) per 4 persone ma abita con noi solo una ragazza russa , Maria . In Polonia abbiamo cominciato a studiare la lingua italiana perciò qui abbiamo scelto il corso di italiano . Frequentiamo il corso ogni giorno , studiamo circa 5 - 7 ore dal lunedì al venerdì . Penso che ogni giorno parliamo meglio . Quando abbiamo del tempo libero , lo passiamo in modo attivo ; preferiamo visitare le chiese , i monumenti ; camminare lungo le piazze , guardare le fontane , le mostre nei musei . Ci piace andare a fare una passeggiata , andare in bicicletta ecc . Avete tempo libero ? Vorremmo incontrarci con voi ! Aspetto la vostra risposta . Un bacione . Vi abbracciamo Maria & Michele
+
+----------------
+
+No target hypothesis 2 available.
+

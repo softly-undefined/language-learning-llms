@@ -1,0 +1,45 @@
+METADATA
+
+General:
+Author ID: 1325_9000750
+Test language: Italian
+CEFR level of test: B2
+Task : help someone who has problems with chats - ID: 1325_010300-2
+Mother tongue: Czech
+Age: 40
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B2
+Orthography: C1
+Vocabulary range: B2
+Vocabulary control: B2
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: B2
+
+----------------
+
+Learner text: 
+
+CARO GIORGIO,
+AVENDO LETTO LA TUA LETTERA SUL GIORNALE "SETTIMANA GIOVANI", NON RIESCO A NON RISPONDERTI, PER RACONTARE LA MIA ESPERIENZA, MOLTO SIMILE ALLA TUA. 
+QUALCHE TEMPO FA, HO AVUTO UN PERIODO NON MOLTO FELICE NELLA MIA VITA. SONO STATA LICENZIATA, HO DIVORZIATO E IN PIÙ SONO ARRIVATI DEI PROBLEMI CON LA SALUTE. NON AVEVO VOGLIA DI FREQUENTARE  NESSUNO E COSÌ HO COMINCIATO A CHATARE. CHE BELLA SCOPERTA!!! DA UN' AMICO NE SONO DIVENTATI DECINE. SONO DIVENTATA LO SCHIAVO DEL COMPUTER. DOPO AVER CAPITO, CHE MI STAVO DIRIGENDO VERSO LA DEPRESSIONE, MI SONO DETTA, BASTA. È SICURAMENTE CARINO DI POTER SCAMBIARE LE NOSTRE OPPINIONI CON QUALCUNO, SENZA DOVER LITIGARE, MA CI VOGLIONO ANCHE DELLE PERSONE IN CARNE E OSSA, PER NON CHIUDERSI TRA LE MURA E PER CONVIVERE LE VERE RAAZIONI  DELLA GENTE. 
+PERCIÒ, HO CHIUSO CON TANTISSIME AMICIZIE VIRTUALI E SONO RIMASTA IN CONTATTO SOLAMENTE CON LE PERSONE CON QUALI MI SENTIVO BENE, RILASSATA E TRANQUILLA. CREDO, CHE ANCHE TU DOVRESTI FARE LA STESSA COSA. SCEGLIERE SOLAMENTE ALCUNI AMICI VIRTUALI E STABILIRE QUANTO TEMPO VUOI E SOPRATUTTO PUOI PASSARE CON LORO. NEL MIO CASO FUNZIONA BENISSIMO. HO RICOMINCIATO A VEDERMI CON GLI AMICI DI PRIMA, FACCIO LO SPORT, ESCO DI SERA, VADO A BALLARE. INSOMMA, CERCO DI VIVERE LA VITA REALE. 
+PERCIÒ, DAI, FORZA, CHE CI RIUSCIRAI ANCHE TU. CON TANTI AUGURI LA TUA AMICA (NON VIRTUALE)                                                                                                  
+                                                                                                  Maria 
+P.S. SE TI ANDREBBE DI CONTATARMI, ECCO IL MIO INDIRIZZO E IL NUMERO DI TELEFONO:
+     
+                                                                                                 Ciao 
+
+----------------
+
+Target hypothesis 1: 
+
+Caro Giorgio , avendo letto la tua lettera sul giornale " Settimana Giovani " , non riesco a non risponderti per raccontare la mia esperienza molto simile alla tua . Qualche tempo fa , ho avuto un periodo non molto felice nella mia vita . Sono stata licenziata , ho divorziato e in più sono arrivati dei problemi con la salute . Non avevo voglia di frequentare nessuno e così ho cominciato a chattare . Che bella scoperta ! ! ! Da un amico ne sono diventati decine . Sono diventata la schiava del computer . Dopo aver capito che mi stavo dirigendo verso la depressione , mi sono detta : basta . È sicuramente carino poter scambiare le nostre opinioni con qualcuno senza dover litigare , ma ci vogliono anche delle persone in carne e ossa , per non chiudersi tra le mura e per convivere con le vere reazioni della gente . Perciò , ho chiuso con tantissime amicizie virtuali e sono rimasta in contatto solamente con le persone con le quali mi sentivo bene , rilassata e tranquilla . Credo che anche tu dovresti fare la stessa cosa . Scegliere solamente alcuni amici virtuali e stabilire quanto tempo vuoi e sopratutto puoi passare con loro . Nel mio caso funziona benissimo . Ho ricominciato a vedermi con gli amici di prima , faccio sport , esco di sera , vado a ballare . Insomma , cerco di vivere la vita reale . Perciò , dai , forza che ci riuscirai anche tu . Con tanti auguri la tua amica ( non virtuale ) Maria P . S . Se ti andasse di contattarmi , ecco il mio indirizzo e il numero di telefono : Ciao
+
+----------------
+
+Target hypothesis 2: 
+
+Caro Giorgio , avendo letto la tua lettera sul giornale " Settimana Giovani " , non riesco a non risponderti per raccontare la mia esperienza molto simile alla tua . Qualche tempo fa , ho avuto un periodo non molto felice nella mia vita . Sono stata licenziata , ho divorziato e in più sono arrivati dei problemi con la salute . Non avevo voglia di frequentare nessuno e così ho cominciato a chattare . Che bella scoperta ! ! ! Da un amico ne sono diventati decine . Sono diventata schiava del computer . Dopo aver capito che mi stavo dirigendo verso la depressione , mi sono detta : basta . È sicuramente carino poter scambiare le nostre opinioni con qualcuno senza dover litigare , ma ci vogliono anche delle persone in carne e ossa , per non chiudersi tra le mura e per convivere con le vere reazioni della gente . Perciò , ho chiuso con tantissime amicizie virtuali e sono rimasta in contatto solamente con le persone con le quali mi sentivo bene , rilassata e tranquilla . Credo che anche tu dovresti fare la stessa cosa . Scegliere solamente alcuni amici virtuali e stabilire quanto tempo vuoi e sopratutto puoi passare con loro . Nel mio caso funziona benissimo . Ho ricominciato a vedermi con gli amici di prima , faccio sport , esco di sera , vado a ballare . Insomma , cerco di vivere la vita reale . Perciò , dai , forza che ci riuscirai anche tu . Con tanti auguri la tua amica ( non virtuale ) Maria P . S . Se ti andasse di contattarmi , ecco il mio indirizzo e il numero di telefono : Ciao

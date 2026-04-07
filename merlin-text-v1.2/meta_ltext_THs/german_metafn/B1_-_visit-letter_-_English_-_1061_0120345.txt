@@ -1,0 +1,42 @@
+METADATA
+
+General:
+Author ID: 1061_0120345
+Test language: German
+CEFR level of test: B1
+Task : write a letter to a friend (visit) - ID: 1061_130101
+Mother tongue: English
+Age: not reported
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B2
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B2
+
+----------------
+
+Learner text: 
+
+                                                Stadt X, den 12.3.2012
+Liebe Dana,
+Es ist schön, zu auf dich hören. Herzlich Gluckwunsch für deine bestandenen Prüfung! Auf jeden Fall, man braucht ein Urlaub nach viel lernen!
+Ich verstehe was du meinst über Verwandte im Ausland leben. Es ist auch schön zu meine Großeltern in Irland besuchen. Istanbul Klingt wie eine sehr interessante Stadt. Veilleicht Kannst du für mir Donerbröt aus Istanbul mitbringen? Das ist echt schwer in Stadt X zu finden.
+Wo genau wohnt dein Onken und deine Tante? Ich auch wäre lust habe, auf dich  Rückkehr besuchen.
+Viele Grüße
+Michael
+
+----------------
+
+Target hypothesis 1: 
+
+Stadt X , den 12.3.2012 Liebe Dana , es ist schön , dich zu hören . Herzlichen Glückwunsch für deine bestandene Prüfung ! Auf jeden Fall braucht man einen Urlaub nach viel lernen ! Ich verstehe , was du meinst bezüglich Verwandten , die im Ausland leben . Es ist auch schön , meine Großeltern in Irland zu besuchen . Istanbul klingt wie eine sehr interessante Stadt . Vielleicht kannst du für mich Dönerbrot aus Istanbul mitbringen ? Das ist echt schwer in Stadt X zu finden . Wo genau wohnen dein Onkel und deine Tante ? Ich habe auch Lust , dich nach deiner Rückkehr zu besuchen . Viele Grüße Michael
+
+----------------
+
+No target hypothesis 2 available.
+

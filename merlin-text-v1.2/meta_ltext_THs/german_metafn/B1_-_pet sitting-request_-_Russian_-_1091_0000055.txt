@@ -1,0 +1,42 @@
+METADATA
+
+General:
+Author ID: 1091_0000055
+Test language: German
+CEFR level of test: A2
+Task : ask friend to take care of pet - ID: 1091_0650102
+Mother tongue: Russian
+Age: 62
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Liebe Maria,
+wie gehts dir? Mir geht gut, ich habe 7 Tage Uhlaub. Ich möchte meine Eltern besuchen in Hessen und dann fahren wir zusammen nach Stadt X zu meiner Tante.
+Mein Uhrlaub ist von 7 bis 13 Januar. Ich habe eine Bitte für dich. Kannst du um meine Katze kümmern?
+Die Katzenfutter und Milch habe ich gekauft. Du muss die Katze 3 Mal pro Tag futtern. Kannst du mir helfen?
+Schreib bitte diene Antwort so schnell wie möglich. Ich danke dir.
+Ein Kuß von mir. Deine Freundin Eva.
+                                                                             4.01.2012.
+
+----------------
+
+Target hypothesis 1: 
+
+Liebe Maria , wie geht's dir ? Mir geht es gut , ich habe 7 Tage Urlaub . Ich möchte meine Eltern in Hessen besuchen und dann fahren wir zusammen nach Stadt X zu meiner Tante . Mein Urlaub ist vom 7. bis 13. Januar . Ich habe eine Bitte an dich . Kannst du dich um meine Katze kümmern ? Katzenfutter und Milch habe ich gekauft . Du musst die Katze 3 Mal pro Tag füttern . Kannst du mir helfen ? Schreib bitte deine Antwort so schnell wie möglich . Ich danke dir . Ein Kuss von mir . Deine Freundin Eva 4.01.2012
+
+----------------
+
+No target hypothesis 2 available.
+

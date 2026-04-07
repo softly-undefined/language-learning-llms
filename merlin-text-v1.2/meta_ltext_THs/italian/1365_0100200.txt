@@ -1,0 +1,44 @@
+METADATA
+
+General:
+Author ID: 1365_0100200
+Test language: Italian
+CEFR level of test: B1
+Task : answer to an wedding invitation - ID: 1365_020300
+Mother tongue: German
+Age: 45
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B2
+Orthography: C2
+Vocabulary range: B2
+Vocabulary control: B2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Cara Beatrice, caro Stefano, 
+vi ringrazio di cuore del vostro invito alla ceremonia e alla cena. Participerò volentieri a tutti i due eventi e sono molto contento di essere invitato. 
+Comunque, in primo luogo, vorrei fare le mie congratulazioni per il vostro matrimonio. Vi auguro che tutto che pianificate per il futuro diventerà realtà. Sono sicuro che siete la coppia perfetta!
+Potreste farmi sapere per favore che cosa portrò regalarvi? Suppongo che ci sarà molto gente al vostro matrimonio e vorrei evitare che ci saranno tutte le cose due volte. 
+Forse c'è un elenco dei regali desiderati che può essere usato da tutti gli invitati?
+Vi ringrazio di nuovo del cortese invito e porgo i miei migliori saluti.
+Cordialmente,
+Firma   
+
+----------------
+
+Target hypothesis 1: 
+
+Cara Beatrice , caro Stefano , vi ringrazio di cuore del vostro invito alla cerimonia e alla cena . Parteciperò volentieri a tutti e due gli eventi e sono molto contento di essere invitato . Comunque , in primo luogo , vorrei fare le mie congratulazioni per il vostro matrimonio . Vi auguro che tutto ciò che pianificate per il futuro diventi realtà . Sono sicuro che siete la coppia perfetta ! Potreste farmi sapere per favore che cosa potrò regalarvi ? Suppongo che ci sarà molta gente al vostro matrimonio e vorrei evitare che ci siano tutte le cose due volte . Forse c' è un elenco dei regali desiderati che può essere usato da tutti gli invitati ? Vi ringrazio di nuovo del cortese invito e porgo i miei migliori saluti . Cordialmente , Firma
+
+----------------
+
+Target hypothesis 2: 
+
+Cara Beatrice , caro Stefano , vi ringrazio di cuore del vostro invito alla cerimonia e alla cena . Parteciperò volentieri a tutti e due gli eventi e sono molto contento di essere invitato . Comunque , in primo luogo , vorrei fare le mie congratulazioni per il vostro matrimonio . Vi auguro che tutto ciò che pianificate per il futuro diventi realtà . Sono sicuro che siete la coppia perfetta ! Potreste farmi sapere per favore che cosa potrò regalarvi ? Suppongo che ci sarà molta gente al vostro matrimonio e vorrei evitare che riceviate le stesse cose due volte . Forse c' è una lista nozze che può essere consultata da tutti gli invitati ? Vi ringrazio di nuovo del cortese invito e porgo i miei migliori saluti . Cordialmente , Firma

@@ -1,0 +1,44 @@
+METADATA
+
+General:
+Author ID: 1395_0000584
+Test language: Italian
+CEFR level of test: A2
+Task : inform friends about language course - ID: 1395_010300
+Mother tongue: French
+Age: 28
+Gender: female
+
+Rating:
+Overall CEFR rating: A1
+Grammatical accuracy: A1
+Orthography: A1
+Vocabulary range: A2
+Vocabulary control: A1
+Coherence/Cohesion: A1
+Sociolinguistic appropriateness: A1
+
+----------------
+
+Learner text: 
+
+cara Rosa                                                                            12-01-2010
+come stai?
+sono in italia a canto di Roma per due mese des corso di italiano per cominacata i clienti di l'albergo in francia. 
+la nostra insegnate e gentile e professionale.
+nel tempo libero vado fai una passediato a Roma
+per visitare la cita e magnifica ritorno alle 15-03-2010 
+tuto bene per te
+                    bacio a presto
+                                Maria 
+
+----------------
+
+Target hypothesis 1: 
+
+12-01-2010 Cara Rosa , come stai ? Sono in italia accanto a Roma per due mesi di corso di italiano per comunicare con i clienti di un albergo in Francia . La nostra insegnate è gentile e professionale . Nel tempo libero vado a fare una passeggiata a Roma per visitare la città : è magnifica . Ritorno il 15-03-2010 . Tutto bene da te ? Bacio . A presto Maria
+
+----------------
+
+No target hypothesis 2 available.
+

@@ -1,0 +1,37 @@
+METADATA
+
+General:
+Author ID: 1091_0000155
+Test language: German
+CEFR level of test: A2
+Task : ask friend to take care of pet - ID: 1091_0650102
+Mother tongue: Arabic
+Age: 34
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: A2
+Orthography: B2
+Vocabulary range: B1
+Vocabulary control: B2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Liebe Maria,
+hallo, wie gehts dir?
+Gestern konnte ich dich nicht  am 18.00 Uhr anrufen. Weil ich  und mein Hund beim Tierarrzt waren. Leider ist mein Hund krank. 
+Maria, weißt du, dass ich übermorgen am 10. Uhr nach Stadt X für 3 Tagen fahren soll.
+Ich kann nicht meinen Hund mitnehmen, weil ich meinen Onkel besuche und er die Hunde häßt. Du weißt schon, dass mein Hund dich liebt. 
+Jedes Mal sieht er dich, springt und kusst dich. Wenn du meinen Hund bei dir bleiben möchtest, ruf mich bitte sofort  auf meinem Handy an.
+
+Maria, du hast viele Erfahrung mit den Hunden, weil du einen Hund  hatest. Bevor er ist gestorben.
+ Für das Essen und Spazieren schreibe ich nicht, aber er soll seine Medikamenten 3 Mal im Tag nehmen, und nach 4 Tagen kannst du bitte zum Arzt auch ihm bringen.
+Ich bringe ihn zu dir morgen Abend am 17.00 Uhr mit seinen Medikamenten.
+Vielen Dank im Voraus für dein Verständniss.
+Viele Grüße und Küsse             
+Michael Friedrich Müller

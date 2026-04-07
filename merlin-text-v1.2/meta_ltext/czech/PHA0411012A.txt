@@ -1,0 +1,30 @@
+METADATA
+
+General:
+Author ID: PHA0411012A
+Test language: Czech
+CEFR level of test: A2
+Task : answering on a birthday invitation - ID: A2PS0102_oslava
+Mother tongue: Spanish
+Age: 2029
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Ahoj Davide,
+Jak se maš? Diky za posváni, Dlouho jsem o tobě neslyšel. 
+Teď jsem na dovolenou v Brazilii X ale příští týden budu v Praze. Kde bude oslavy? a kdy se sejdeme? Viš další hosty? Příští týden budu mít móc čás, potřebuješ nějaky pomoc? 
+Měj se hezky
+čau
+ David

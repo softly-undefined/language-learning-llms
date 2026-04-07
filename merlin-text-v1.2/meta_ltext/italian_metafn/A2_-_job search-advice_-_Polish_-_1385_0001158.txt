@@ -1,0 +1,30 @@
+METADATA
+
+General:
+Author ID: 1385_0001158
+Test language: Italian
+CEFR level of test: A1
+Task : help a friend who is looking for work - ID: 1385_040101
+Mother tongue: Polish
+Age: 24
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Ciao Michele!
+Come stai? Io bene. Grazie per la tua email.
+Vorrei aiutarti, ma ho bisogno di qualche informazione in piú. Puoi dirmi dove hai lavorato adesso? Che cosa fatto? Che tipo di lavoro tu preferisci? Ti piacce lavoro in ufficio? Quando vorrebbe iniziare un nuovo lavoro?
+Ricordati che ti aspetto!
+Saluti,
+Maria

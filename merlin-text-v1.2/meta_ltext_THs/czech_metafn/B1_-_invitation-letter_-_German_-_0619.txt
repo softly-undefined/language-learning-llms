@@ -1,0 +1,43 @@
+METADATA
+
+General:
+Author ID: 0619
+Test language: Czech
+CEFR level of test: B1
+Task : answer to the email of Alena - ID: 1_Alena
+Mother tongue: German
+Age: not reported
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: A2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Ahoj  Aleno,
+ děkuji za  Tvůj dopis.   mám hodně prací, protože pracuju na diplomce a  proto nemušu plánovat dovolenou. Chtěla bych mít dovolena  na Teneriffě nebo ve Rakousko - ale némám čas. Bohužel!
+Těší mě , zě budes navštěvovat brzo Drážďanech. Chci tě zvát  k  mému byt odpoledne ve 13.  dubna. Máš čas? Kdy přijedeš v Drážďanech ?  Chci  jít pro tebe na nádraží.
+Zajímám se o  kurs češtiny. Co stojí kurs? Kdy  budu byt kurs? Posílej mi inzerát prosím.
+Pozdravuj také Petra. Přeju  mu k svátku zdraví, štěstí, radost a láska.
+
+Srdečně tě zdravím,
+Tvoje Dana
+
+----------------
+
+Target hypothesis 1: 
+
+Ahoj Aleno , děkuji za tvůj dopis . Mám hodně prací , protože pracuju na diplomce , a proto nemůžu plánovat dovolenou . Chtěla bych mít dovolenou na Tenerife nebo v Rakousku - ale nemám čas . Bohužel ! Těší mě , že budeš brzo navštěvovat Drážďany . Chci tě zvát do mého bytu odpoledne 13. dubna . Máš čas ? Kdy přijedeš do Drážďan ? Chci jít pro tebe na nádraží . Zajímám se o kurs češtiny . Co stojí kurs ? Kdy budu mít kurs ? Posílej mi inzerát , prosím . Pozdravuj také Petra . Přeju mu k svátku zdraví , štěstí , radost a lásku . Srdečně tě zdravím , tvoje Dana
+
+----------------
+
+No target hypothesis 2 available.
+

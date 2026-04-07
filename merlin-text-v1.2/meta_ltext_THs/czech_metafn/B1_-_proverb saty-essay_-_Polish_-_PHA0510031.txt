@@ -1,0 +1,39 @@
+METADATA
+
+General:
+Author ID: PHA0510031
+Test language: Czech
+CEFR level of test: B2
+Task : write an essay: Clothes make the man - ID: B2PS0201_saty
+Mother tongue: Polish
+Age: 2029
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B2
+Vocabulary control: B2
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Šaty dělají člověka
+Většína lidí,když člověka pozorujou, hnet mají o něm určity nazor, aniž by ho poznalí hlouběj. Myslím sí, že hodně lidí oceňujé neznamích lidí podle tého jak vypádají, jaké mají šaty, oblečení a podobne.
+Proto take je duležite aby jsme o sebe dokazalí o sebe postarat, a oblec se podle vlastnícho stylu a finánčních možností. Neznámena to že mamy se všem lidém libít protože je to nereálna předstáva. dé vlastně o to at libímy se samí sobě. Znam hodně lidí, kteří podle mě nemaji hezké oblečení i kdy oní jsou přesvjedčení, že ano.
+Mímo to líde tí jsou upřímní, přatelsčí, a dokažu se z níma pobavít na vše temata. Proto mam na ně jiny nazor než na jejích styl. V podstate si myslím, že i když se tak řika, že „šaty dělaji člověka" je nutne abyIjsme toho člověka nejdřív hlouběj poznalí a pak vytvořilí o něm určit nazor.
+
+----------------
+
+Target hypothesis 1: 
+
+Šaty dělají člověka Většina lidí , když člověka pozoruje , hned má o něm určitý názor , aniž by ho poznali hlouběji . Myslím si , že hodně lidí oceňuje neznámé lidi podle toho , jak vypadají , jaké mají šaty , oblečení a podobně . Proto také je důležité , abychom se o sebe dokázali postarat , a obléci se podle vlastního stylu a finančních možností . Neznamená to , že se máme všem lidem líbit , protože je to nereálná představa . Jde vlastně o to , ať se líbíme sami sobě . Znám hodně lidí , kteří podle mě nemají hezké oblečení , i když oni jsou přesvědčení , že ano . Mimo to , ti lidé jsou upřímní , přátelští a dokážu se s nimi pobavit na všechna témata . Proto mám na ně jiný názor než na jejich styl . V podstatě si myslím , že i když se tak říká , že " šaty dělají člověka " je nutné abychom toho člověka nejdřív hlouběji poznali a pak si vytvořili o něm určitý názor .
+
+----------------
+
+No target hypothesis 2 available.
+

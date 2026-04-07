@@ -1,0 +1,41 @@
+METADATA
+
+General:
+Author ID: 1385_0001774
+Test language: Italian
+CEFR level of test: A1
+Task : reschedule an appointment - ID: 1385_020100
+Mother tongue: German
+Age: 32
+Gender: male
+
+Rating:
+Overall CEFR rating: A1
+Grammatical accuracy: A1
+Orthography: A2
+Vocabulary range: A1
+Vocabulary control: A1
+Coherence/Cohesion: A1
+Sociolinguistic appropriateness: A1
+
+----------------
+
+Learner text: 
+
+Ciao Michele, come stai? 
+In ufficio c'è molto lavoro ... Andiamo a cena mangare  in un ristorante tailandese? 
+Hai voglia di un altro giorno per il vostro incontro: sabato sera? 
+Bene giorno ... 
+ 
+            Molto saluto   Michele
+
+----------------
+
+Target hypothesis 1: 
+
+Ciao Michele , come stai ? In ufficio c' è molto lavoro ... Andiamo a cena in un ristorante tailandese ? Hai voglia di fissare un altro giorno per il vostro incontro : sabato sera ? Buon giorno ... Molti saluti Michele
+
+----------------
+
+No target hypothesis 2 available.
+

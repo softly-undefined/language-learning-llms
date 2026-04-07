@@ -1,0 +1,42 @@
+METADATA
+
+General:
+Author ID: 1091_0000046
+Test language: German
+CEFR level of test: A2
+Task : letter to housing office - ID: 1091_0610301
+Mother tongue: Portuguese
+Age: 57
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Seer geehrte Damen und Herr,
+Ich suche ein Wohnung und habe: schlafezimmer, Küche und Toilete, und Billig Miete.
+Ich brauche Kein Balkon, und Kein Garage.
+Diese Wohnung sind Bitte 2,3 km von Centrum, warum ich immer fahre mit meine fahrrad, und meine Beruf ist Kürche Hilfe, immer morgens, und Abend Arbeit.  Ich, habe kein Autor, und Balkon, ich habe kein Seite und hexo und TOIA. 
+Vielen Grüße 
+Danke     Maria Eva Winkelmann
+
+----------------
+
+Target hypothesis 1: 
+
+Sehr geehrte Damen und Herren , ich suche eine Wohnung mit und habe ein Schlafzimmer , eine Küche und Toilette und billige Miete . Ich brauche keinen Balkon und keine Garage . Diese Wohnung ist bitte 2,3 km vom Zentrum entfernt , da ich immer mit meinem Fahrrad fahre , und mein Beruf ist Küchenhilfe , immer morgens und am Abend arbeite ich . Ich habe kein Auto , und Balkon , ich habe keine Zeit -incomp- . Viele Grüße , Danke ! Maria Eva Winkelmann
+
+----------------
+
+Target hypothesis 2: 
+
+Sehr geehrte Damen und Herren , ich suche eine Wohnung und brauche ein Schlafzimmer , eine Küche , eine Toilette und eine günstige Miete . Ich brauche keinen Balkon und keine Garage . Diese Wohnung sollte bitte 2,3 km vom Zentrum entfernt sein , da ich immer mit meinem Fahrrad fahre und mein Beruf Küchenhilfe ist , weswegen ich immer morgens und abends arbeite . Ich habe kein Auto und für einen Balkon habe ich keine Zeit . Viele Grüße , Danke ! Maria Eva Winkelmann

@@ -1,0 +1,33 @@
+METADATA
+
+General:
+Author ID: 0825
+Test language: Czech
+CEFR level of test: B1
+Task : answer to the email of Alena - ID: 1_Alena
+Mother tongue: German
+Age: not reported
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Osmnácteho července 2008
+Ahoj Aleno, 
+jak se máš? Se mi líbí, že odpovídáš rychle. Je mi lito, že  jsem Ti teď teprve napsal, ale jsem měl velký stres.  Studium dělá mnohé práce. Nepracuju ještě na .  neplánuju dovolenou, protože budu muset dělat mnohó  zkouček v létě.
+Jsem moc rád, že setkáme -unreadable- v pátku a  mám čas. Kdy přijedu na nádraží? Chci jít pro tebe. V odpoledne   jít na procházku a -unreadable- večer bude  koncert v clubě club X.
+Od září můžu pojede do Čech. Víš, kdy začíná prázdninový kurz češtiny?  Kolik ji stojí? Snad bys mohla posílat inzerát? Nepotřebuju se ucházet o stipendium, protože můj tatínek zaplatí.
+Tím končím, je už pozdě večer. Musím ráno brzo vstát.
+Zatím ahoj,
+
+Tvůj Martin

@@ -1,0 +1,44 @@
+METADATA
+
+General:
+Author ID: 0642
+Test language: Czech
+CEFR level of test: B1
+Task : answer to the email of Alena - ID: 1_Alena
+Mother tongue: German
+Age: not reported
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: A2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Ahoj Mileno,
+děkuju Ti mockrát za Tvůj poslední dopis. Tvůj dopis jsem dostal již minulý týden. Je mi lito, že pišu tak pozdě, ale měl jsem hodně práci a malo času o minulých týdnech. 
+Dnes Tě pišu, protože jsem končil moje zkoušky včera. Mám se dobře, ale prší dneska. Od zaří budu mít čtyři diplomní zkoušky. 
+Teď jedu u moři, protože mám dovolenou. Proto nebudu mít čas.  Nepřijdu na grilovací party v Liberci. V 27.srpnu budu rád nás navštěvit. Kterí přání máte Petr a  já?
+Příští štreda budu mít čas. Těsím mě na setknání. Budeme setkat v 16 hodin v hlavní nádraži?
+Hledám po dobrou českou gramatiku. Znáš dobrou gramatiku a můžeš koupit pro mě? Přirozený budu platit za to. 
+Pro dnesek je všechno. Pozdravím Petra.
+ Měj se dobře. Michael
+
+----------------
+
+Target hypothesis 1: 
+
+Ahoj Mileno , děkuju Ti mockrát za Tvůj poslední dopis . Tvůj dopis jsem dostal již minulý týden . Je mi líto , že píšu tak pozdě , ale měl jsem hodně práce a málo času v minulých týdnech . Dnes Ti píšu , protože jsem včera dokončil své zkoušky . Mám se dobře , ale dneska prší . Od září budu mít čtyři diplomní zkoušky . Teď jedu k moři , protože mám dovolenou . Proto nebudu mít čas . Nepřijdu na grilovací party v Liberci . 27.srpna nás rád navštívím . Které přání máte , Petr a já ? Příští středu budu mít čas . Těším se na setkání . Setkáme se v 16 hodin na hlavním nádraží ? Hledám dobrou českou gramatiku . Znáš dobrou gramatiku a můžeš ji pro mě koupit ? Přirozeně Ti za to zaplatím . Pro dnešek je to všechno . Pozdravím Petra . Měj se dobře . Michael
+
+----------------
+
+Target hypothesis 2: 
+
+Ahoj Mileno , děkuju Ti mockrát za Tvůj poslední dopis . Tvůj dopis jsem dostal již minulý týden . Je mi líto , že píšu tak pozdě , ale měl jsem hodně práce a málo času v minulých týdnech . Dnes Ti píšu , protože jsem včera dokončil své zkoušky . Mám se dobře , ale dneska prší . Od září budu mít čtyři diplomové zkoušky . Teď jedu k moři , protože mám dovolenou . Proto nebudu mít čas . Nepřijdu na grilovací party v Liberci . 27.srpna vás rád navštívím . Které přání máte , Petr a Ty ? Příští středu budu mít čas . Těším se na setkání . Setkáme se v 16 hodin na hlavním nádraží ? Hledám dobrou českou gramatiku . Znáš dobrou gramatiku a můžeš ji pro mě koupit ? Přirozeně Ti za to zaplatím . Pro dnešek je to všechno . Pozdravuj Petra . Měj se dobře . Michael

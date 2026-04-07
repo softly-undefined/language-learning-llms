@@ -1,0 +1,29 @@
+METADATA
+
+General:
+Author ID: 1395_0001034
+Test language: Italian
+CEFR level of test: A2
+Task : inform friends about language course - ID: 1395_010300
+Mother tongue: German
+Age: 15
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Caro Paola e Marco, 
+siamo in Toscana a Firenze e facciamo un corso d'italiano. Nostra insegnante si chiama Signora Rossi. Nel corso sono ancora tre studentesse aggettivo di tedesche. Sono molto gentile!
+Allora, adesso non ho molto tempo per scrivere, ma domani sera ci possiamo incontrare al ristorante "La Stella" (a Firenze). 
+             Tanti saluti,
+                                  Maria, Eva e Giulia

@@ -1,0 +1,42 @@
+METADATA
+
+General:
+Author ID: 1061_0120433
+Test language: German
+CEFR level of test: B1
+Task : write a letter for New Year to a friend - ID: 1061_110101
+Mother tongue: Arabic
+Age: 48
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Lieber Michael,                                    Stadt X, 12.03.2012
+viele Danke für diene Breif,
+ch wünsche Dir Alles gutes neuen jahr und gehsundheit, bei mir an die Arbeit ich habe neu chf und ich habe ander Büro neu mobil mit frish geschtrichen. und hute ich treffen mit michael bei eine Kafftref in stadt um zwei Uhr mittag, wie warn in Silvester beim eine freunden privat party gamacht, und das wär sehr schön und da noch wir sind in stadt gegangen, zu Fuss zum feuerwerk ansehen, und war sehr schön.
+Ich warte auf deine Antwort Danke.
+Liebe Grüße
+Tobias
+
+----------------
+
+Target hypothesis 1: 
+
+Lieber Michael , Stadt X , 12.03.2012 vielen Dank für deinen Brief , ich wünsche Dir alles Gute im neuen Jahr und Gesundheit , bei mir in der Arbeit habe ich einen neuen Chef und ich habe ein anderes Büro , neu , mobil , frisch gestrichen . Und heute treffe ich mich mit Michael bei einem Kaffee in der Stadt um zwei Uhr mittags . Wir waren an Silvester bei Freunden , die privat eine Party gemacht haben , und das war sehr schön und da sind wir noch in die Stadt gegangen , zu Fuss zum Feuerwerk Ansehen , und das war sehr schön . Ich warte auf deine Antwort . Danke . Liebe Grüße Tobias
+
+----------------
+
+Target hypothesis 2: 
+
+Lieber Michael , Stadt X , 12.03.2012 vielen Dank für deinen Brief , ich wünsche Dir alles Gute im neuen Jahr und Gesundheit ! Bei mir auf der Arbeit habe ich einen neuen Chef und ein anderes Büro , frisch gestrichen mit neuen Möbeln . Und heute treffe ich mich um zwei Uhr mittags mit Michael zu einem Kaffee in der Stadt . Wir waren an Silvester bei Freunden , die privat eine Party organisiert haben , und das war sehr schön . Dann sind wir noch in die Stadt gegangen , zu Fuß , zum Feuerwerk ansehen , und das war auch sehr schön . Ich warte auf deine Antwort . Danke . Liebe Grüße Tobias

@@ -1,0 +1,29 @@
+METADATA
+
+General:
+Author ID: 1091_0000224
+Test language: German
+CEFR level of test: A2
+Task : ask friend to take care of pet - ID: 1091_0650102
+Mother tongue: Portuguese
+Age: 47
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: A2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+                                 Stadt X 12.03.2012
+Liebe Katharina
+Wie gehts es dir? Mir geht es gut. Ich möchte hinfahre am 23. April für Stadt Y. Ich mitbrigem ein Hund und mein Koleg Kann ich bleibe in deine Hause 2 tag?
+Viel Dank
+Anna Maria

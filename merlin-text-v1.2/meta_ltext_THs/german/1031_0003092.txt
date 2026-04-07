@@ -1,0 +1,39 @@
+METADATA
+
+General:
+Author ID: 1031_0003092
+Test language: German
+CEFR level of test: C1
+Task : write article about sticking to one's traditions and 'assimilation' in a new environment - ID: 1031_030301
+Mother tongue: Spanish
+Age: 50
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B2
+Vocabulary control: B2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Ist es sinnvoll, auch im Ausland die Traditionen seines Heimatlandes fortzusetzen, oder sollte man sich an der Kultur des Gastlandes orientieren? Es ist eine Normal Frage die jeder Ausland oder Migranten sich selber Fragen.
+Es ist wichtig nicht den Eigenen Kultur zu verlieren, nun unsere Wurzeln. Unsere Erlebnis zu beschreiben, alles was wir vom unsere Eltern gelernt haben, bedeutet eine Pflicht, die an den Nachsten Generationen ubergeben werden. Egal ob wir unsere Heimatland verlassen haben, werden wir an unsere Traditionen erineren. Leute kann Botschafter vom ihre Land sein ohne die Kultur des Gastlandes in Frage stellen. Die Einladung die eigene Kultur zu geniessen kann Türe offnen und ein unbekannte Welt entdecken. Auf diesem Grund werden wir nicht gegen der Kultur des Gastland in Frage setzen oder vergessen, aber wir sind Frei unsere entscheidungs sind auf Respekt und Interesse gegenseitig kennen zu lernen.
+Ohne zu vergesehen, wie Wichtig sei der Kultur des Gastlandes kennen lernen, und an unsere Kinder auch weiter zu geben.
+Wir haben die Gelegendheit Personen und Reaktionen besser zu verstehen. Wenn wir unser vergangenheit wissen.
+
+----------------
+
+Target hypothesis 1: 
+
+Ist es sinnvoll , auch im Ausland die Traditionen seines Heimatlandes fortzusetzen , oder sollte man sich an der Kultur des Gastlandes orientieren ? Es ist eine normale Frage , die sich jeder im Ausland oder Migranten selber fragen . Es ist wichtig , nicht die eigene Kultur zu verlieren , nun unsere Wurzeln . Unsere Erlebnisse zu beschreiben , alles was wir von unseren Eltern gelernt haben , bedeutet eine Pflicht , die an die nächsten Generationen übergeben wird . Egal ob wir unser Heimatland verlassen haben , wir werden uns an unsere Traditionen erinnern . Leute können Botschafter von ihrem Land sein , ohne die Kultur des Gastlandes in Frage zu stellen . Die Einladung , die eigene Kultur zu geniessen , kann Türen öffnen und ein unbekannte Welt entdecken . Aus diesem Grund werden wir nicht die Kultur des Gastland in Frage setzen oder vergessen , aber wir sind frei , unsere Entscheidung sind auf Respekt und Interesse gegenseitig kennen zu lernen . Ohne zu vergessen , wie wichtig es sei , die Kultur des Gastlandes kennen zu lernen und an unsere Kinder auch weiter zu geben . Wir haben die Gelegenheit , Personen und Reaktionen besser zu verstehen , wenn wir unsere Vergangenheit wissen .
+
+----------------
+
+No target hypothesis 2 available.
+

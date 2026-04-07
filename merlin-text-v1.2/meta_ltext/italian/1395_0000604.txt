@@ -1,0 +1,29 @@
+METADATA
+
+General:
+Author ID: 1395_0000604
+Test language: Italian
+CEFR level of test: A2
+Task : inform friends about language course - ID: 1395_010300
+Mother tongue: French
+Age: 26
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: A1
+Vocabulary control: A1
+Coherence/Cohesion: A1
+Sociolinguistic appropriateness: A1
+
+----------------
+
+Learner text: 
+
+                                                              Città X, il 8 Gennaio 
+Cari amici, 
+Vi scrivo da Città X, dove faccio un corso di italiano. La mia insegnante è Mme filipini, e siamo dieci in la clase. Quando non c'è lezione vado alla piazza Monumento X con i studenti per berre caffè. Spero di vedervi presto. 
+                                                        Michele
+                                                                  Grande Bacio

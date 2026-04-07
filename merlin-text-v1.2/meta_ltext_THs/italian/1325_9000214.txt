@@ -1,0 +1,53 @@
+METADATA
+
+General:
+Author ID: 1325_9000214
+Test language: Italian
+CEFR level of test: B2
+Task : complain against a hotel - ID: 1325_020400-2
+Mother tongue: German
+Age: 25
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: C1
+Vocabulary range: B2
+Vocabulary control: B2
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Maria Rossi
+Strada Maggiore 12
+12345 Città X 
+Paese X   
+
+Residence del Lago 
+Via S. Francesco 
+20348 Ticino 
+ITALIA 
+                                                                                                                          03/07/2010 
+Egregi signori, gentili signore, 
+ 
+Dal 10 al 17 giugno 2010 ho passato una settimana con mia famiglia al Vs. villaggio turistico "Residence del Lago". Ho prenotato questa vacanza perché ho letto l'annuncio nel giornale "La Reppublica" e mi sembrava un pel posto per trascorrere le nostre vacanze. In particolare la possibilità di fare molto sport mi è piaciuta tanto. Pero quando siamo arrivati ci siamo accorti subito che i campi da tennis sono in riparazioni e che andare al lago per nuotare è difficile perché è lontano dal residence e ci sono solo pochi collegamenti. C'era infatto una grande differenza tra la realtà e l'annuncio pubblicitario. 
+Anche l'aria condizionata non funzionava e il receptionist è stato molto scortese. 
+Per questo Vi prego di un parziale rimborso. Un quarto del prezzo totale mi sembra adeguato. 
+ 
+In attesa di una Vs. cortese risposta, 
+ Maria Rossi 
+
+----------------
+
+Target hypothesis 1: 
+
+Maria Rossi Strada Maggiore 12 12345 Città X Paese X Residence del Lago Via S. Francesco 20348 Ticino ITALIA 03 / 07 / 2010 Egregi signori , gentili signore , dal 10 al 17 giugno 2010 ho passato una settimana con la mia famiglia nel Vs. villaggio turistico " Residence del Lago " . Ho prenotato questa vacanza perché ho letto l' annuncio sul giornale " La Repubblica " e mi sembrava un bel posto per trascorrere le nostre vacanze . In particolare la possibilità di fare molto sport mi è piaciuta tanto . Però quando siamo arrivati ci siamo accorti subito che i campi da tennis erano in riparazione e che andare al lago per nuotare è difficile perché è lontano dal residence e ci sono solo pochi collegamenti . C' era infatti una grande differenza tra la realtà e l' annuncio pubblicitario . Anche l' aria condizionata non funzionava e il receptionist è stato molto scortese . Per questo Vi prego di darci un parziale rimborso . Un quarto del prezzo totale mi sembra adeguato . In attesa di una Vs. cortese risposta , Maria Rossi
+
+----------------
+
+No target hypothesis 2 available.
+

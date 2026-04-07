@@ -1,0 +1,41 @@
+METADATA
+
+General:
+Author ID: PHA0509020
+Test language: Czech
+CEFR level of test: B2
+Task : write an essay: The school is the basis of the life - ID: B2PS0200_skola
+Mother tongue: Other
+Age: 1519
+Gender: female
+
+Rating:
+Overall CEFR rating: B2
+Grammatical accuracy: B2
+Orthography: B2
+Vocabulary range: B2
+Vocabulary control: B2
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Škola - základ života
+Nemůžu si představit bytí v 21. století bez vzdělávání. Je to stejné jako říct, že nepotřebujeme elektřinu. I kdybychom chtěli někam utéct a obránit se proti informacím, nebyli bychom schopni najít nějakou divokou jeskýně...
+Nějaký spisovatel zmínil, že se člověk musí naučit, aby se stál člověkem. Poznátky jsou nejvyšší lidské hodnoty; je to právě to, co náš liší od ostátních zvířat. Od malinka se jedinec naučí číst, psát , naučí se sdělit své emoce, pocity, získat informace a uplatnit je ve zkúšenostím.
+Škola je vlastně to  místo, kde člověk začíná svou odyseu ve světě ználostí. Učí se tu první sociální styky, společenské normy, učí se dodržovat pravidla, kter-ambiguous- platí v daném sociokulturním prostředí. Setká se tady poprvé ve svém životě se sociálními zodpovědnostmi, dozví se o věcích jako jsou, například, sociální postoje, pozice, role. S určítou mírou licenci bych řekla, že škola dává nejen  inteligenci v pojetí ználostí , ale také zkúšeností. Ona vlastně vytvoří identitu v člověka, pomůže mu si hledat svou cestu v životě. Je to mylně, když se říká, že ve škole si zvyšuješ jenom svůj IQ...
+Současná škola se zaměřuje intenzivně na etické, zábludné otázky, jako jsou drogy, pohlavní problémy, hledání nových hodnot v aktuálním světe, který se stále změní. Škola je také první krok do života, do zaměstnání.
+
+----------------
+
+Target hypothesis 1: 
+
+Škola - základ života Nemůžu si představit bytí ve 21. století bez vzdělávání . Je to stejné jako říct , že nepotřebujeme elektřinu . I kdybychom chtěli někam utéct a obránit se proti informacím , nebyli bychom schopni najít nějakou divokou jeskyni ... Nějaký spisovatel zmínil , že se člověk musí naučit , aby se stal člověkem . Poznatky jsou nejvyšší lidské hodnoty ; je to právě to , co nás liší od ostatních zvířat . Odmalička se jedinec učí číst , psát , učí se sdělovat své emoce , pocity , získávat informace a uplatňovat je ve zkušenostech . Škola je vlastně to místo , kde člověk začíná svou odyseu ve světě znalostí . Učí se tu první sociální styky , společenské normy , učí se dodržovat pravidla , která platí v daném sociokulturním prostředí . Setká se tady poprvé ve svém životě se sociálními zodpovědnostmi , dozví se o věcech , jako jsou například sociální postoje , pozice , role . S určitou mírou licence bych řekla , že škola dává nejen inteligenci v pojetí znalostí , ale také zkušeností . Ona vlastně vytvoří identitu člověka , pomůže mu hledat si svou cestu v životě . Je to mylné , když se říká , že ve škole si zvyšuješ jenom své IQ ... Současná škola se zaměřuje intenzivně na etické , záludné otázky , jako jsou drogy , pohlavní problémy , hledání nových hodnot v aktuálním světě , který se stále mění . Škola je také první krok do života , do zaměstnání .
+
+----------------
+
+Target hypothesis 2: 
+
+Škola - základ života Nemůžu si představit život ve 21. století bez vzdělávání . Je to stejné jako říct , že nepotřebujeme elektřinu . I kdybychom chtěli někam utéct a bránit se proti informacím , nebyli bychom schopni najít nějakou divokou jeskyni ... Jeden spisovatel zmínil , že se člověk musí naučit , aby se stal člověkem . Poznatky jsou nejvyšší lidské hodnoty ; je to právě to , co nás liší od ostatních zvířat . Odmalička se jedinec učí číst , psát , učí se sdělovat své emoce , pocity , získávat informace a uplatňovat je ve zkušenostech . Škola je vlastně to místo , kde člověk začíná svou odyseu ve světě znalostí . Učí se tu první sociální styky , společenské normy , učí se dodržovat pravidla , která platí v daném sociokulturním prostředí . Setká se tady poprvé ve svém životě se sociální zodpovědností , dozví se o věcech , jako jsou například sociální postoje , pozice , role . S určitou mírou licence bych řekla , že škola dává nejen inteligenci v pojetí znalostí , ale také zkušeností . Ona vlastně vytvoří identitu člověka , pomůže mu hledat si svou cestu v životě . Je to mylné , když se říká ... , že ve škole si zvyšuješ jenom své IQ Současná škola se zaměřuje intenzivně na etické , záludné otázky , jako jsou drogy , pohlavní problémy , hledání nových hodnot v aktuálním světě , který se stále mění . Škola je také první krok do života , do zaměstnání .

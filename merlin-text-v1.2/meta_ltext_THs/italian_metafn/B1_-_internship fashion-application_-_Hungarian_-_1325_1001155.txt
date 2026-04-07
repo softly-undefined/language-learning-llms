@@ -1,0 +1,55 @@
+METADATA
+
+General:
+Author ID: 1325_1001155
+Test language: Italian
+CEFR level of test: B2
+Task : apply for internship in fashion sector - ID: 1325_020401-1
+Mother tongue: Hungarian
+Age: 20
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: C1
+Vocabulary range: B2
+Vocabulary control: B2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+                             ALI - Agenzia Lavoro Interinale 
+                              Via Dante Alighieri 40 
+                             I - 42010 Reggio Emilia 
+                             Italia  
+Spettabile Direttore, 
+Sono una donna da Paese X. Ho letto il vostro annuncio che cercate un'assistente per attività amministrative. Io sono neolaureata con un esame di ECDL, significa che conosco il computer, e anche il pacchetto Office. Ho già lavorato come un'assistente in un ufficio piccolo per un'estate, dunque una minima esperienza in questo settore. Li dovevo solo mettere cose nel Excel e qualche documenti e chiamare qualcuno che mi ha detto il mio capo. Era un piccolo ufficio e volevo già cambiare posto perché questi compiti sono molto semplici per me. Penso che non mi faccia difficoltà parlare con la gente sconosciuta, così non mi farebbe difficoltà tenere i contatti e assistere il personale in ufficio. Ho alcuni domandi: vivo in Reggio Emilia e vorrei sapere quando comincerebbe questo lavoro e anche quando dovrei lavorare. Insomma vorrei chiedere informazioni sul'orario di lavoro e sul retribuzione. Mi potete raggiungere qui: 
+Strada Maggiore 13
+1234 Città X Paese X 
+In attesa di un vostro gentile riscontro,
+Maria Rossi 
+0345-11111111 
+____
+Strada Maggiore 18, 1234 Città X
+Spettabile  Signor/a,
+sono una amanta di cuocere di Paese X. Ho letto il vostro annuncio sulla stampa.it  e ho deciso di scrivervi subito! Amo molto i cibi speciali e i cibi internazionali. Mi dispiacevo sempre quelli che hanno qualche allergia e sono vegetariani. 
+Vorrei imparare cibi orientali o italiani spero che io possa studiarli!
+Vorrei chiedere informazioni sui costo ma devo dire i soldi non mi fanno problema. Più importante è che quando sono questi incontri? 
+In attesa di un vostro gentile riscontro,
+Maria Rossi 
+0345-11111111 
+
+----------------
+
+Target hypothesis 1: 
+
+ALI - Agenzia Lavoro Interinale Via Dante Alighieri 40 I - 42010 Reggio Emilia Italia Spettabile Direttore , sono una donna da Paese X . Ho letto nel vostro annuncio che cercate un' assistente per le attività amministrative . Io sono neolaureata con un esame di ECDL , significa che conosco il computer e anche il pacchetto Office . Ho già lavorato come assistente in un ufficio piccolo per un' estate , dunque ho una minima esperienza in questo settore . Lì dovevo solo mettere cose in Excel e qualche documento e chiamare qualcuno che mi diceva il mio capo . Era un piccolo ufficio e volevo già cambiare posto perché questi compiti erano molto semplici per me . Penso che non mi faccia difficoltà parlare con la gente sconosciuta , così non mi farebbe difficoltà tenere i contatti e assistere il personale in ufficio . Ho alcune domande : vivo a Reggio Emilia e vorrei sapere quando comincerebbe questo lavoro e anche quando dovrei lavorare . Insomma vorrei chiedere informazioni sull' orario di lavoro e sulla retribuzione . Mi potete raggiungere qui : Strada Maggiore 13 1234 Città X Paese X . In attesa di un vostro gentile riscontro , Maria Rossi 0345-11111111 _ _ _ _ Strada Maggiore 18 , 1234 Città X Spettabile Signore / a , sono una amante della cucina di Paese X . Ho letto il vostro annuncio sulla stampa . it e ho deciso di scrivervi subito ! Amo molto i cibi speciali e i cibi internazionali . Mi dispiace sempre per quelli che hanno qualche allergia e sono vegetariani . Vorrei imparare cibi orientali o italiani , spero che io possa studiarli ! Vorrei chiedere informazioni sul costo , ma devo dire che i soldi non mi fanno problemi . Più importante è : quando sono questi incontri ? In attesa di un vostro gentile riscontro , Maria Rossi 0345-11111111
+
+----------------
+
+No target hypothesis 2 available.
+

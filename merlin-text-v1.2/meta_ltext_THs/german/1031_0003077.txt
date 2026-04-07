@@ -1,0 +1,37 @@
+METADATA
+
+General:
+Author ID: 1031_0003077
+Test language: German
+CEFR level of test: C1
+Task : reporting about the housing situation - ID: 1031_050300
+Mother tongue: French
+Age: 26
+Gender: male
+
+Rating:
+Overall CEFR rating: B2
+Grammatical accuracy: B2
+Orthography: B2
+Vocabulary range: C1
+Vocabulary control: B2
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: B2
+
+----------------
+
+Learner text: 
+
+In dem Stadt Stadt X ist der Wohnungsmarkt sehr unterschitlich: im Norden findet man meistens Villas und individuelle Gebäude. Also wenn man ein ruhiger und grünes Wohnungort sucht, dann ist diese Viertel merkwurdig. Die Offentlichenverkehrverbindungen sind aber nicht perfekt, deswegen ist das nötig ein Auto oder ein personnal Verkehrsmittel zu besessen. Als Nachteil gibt es auch die steigende Kriminalität. Der Burgermeister sagt, dass das aber kein Problem sei und dass sie sowieso reduziert im kommenden Jahren wird- Im Süden der Stadt siehst die Situation anders- Die Preise bleiben unter der regionalen Durchschnitt- Eine Familie mit zwei oder drei Kindern werden aber schwierigkeiten haben, um eine Wohnung zu mieten als meisten Einwohner Eigentümern sind- Die neue Straßenbahn vosichert Verbindungen mit dem Zentrum bis spät in der Nacht und die Einkaufsmöglichkeiten sind wirklig attraktiv - Fur Einzelner die in Zentrum wohnen möchten und sich eine Wohnung in der Nähe von Bars und Clubs wünschen, sollten Sie bei der Bahnhof suchen - Neue Gebäude wurden angebaut - Ein Musikfestival und die Theater und Kinos bringen Spaß und versicheren ganzes Jahr Tätigkeitmoglichkeit. 
+Generell ist es zwar einfach ein Wohnung zu finden aber man braucht man eine Weile um die Stadt zu kennen. Die drei verschiedene Zone die ich hier präsentiert habe sind natürlich nicht festgestellt und Sie werden wahrscheinlich eine andere Ordnung finden als Sie Ihre Wohnung suchen werden. Nichtsdestoweniger hoffe ich dass das Bid das ich gegeben habe wird nutzvoll sein. Ich warte ungeduldig die Zeit Ihrer Anfand mit uns -
+
+----------------
+
+Target hypothesis 1: 
+
+In der Stadt Stadt X ist der Wohnungsmarkt sehr unterschiedlich : Im Norden findet man meistens Villen und individuelle Gebäude . Also wenn man einen ruhigen und grünen Wohnungort sucht , dann ist dieses Viertel merkwürdig . Die öffentlichen Verkehrverbindungen sind aber nicht perfekt , deswegen ist es nötig , ein Auto oder ein persönliches Verkehrsmittel zu besitzen . Als Nachteil gibt es auch die steigende Kriminalität . Der Bürgermeister sagt , dass das aber kein Problem sei und dass sie sowieso reduziert wird in den  kommenden Jahren . Im Süden der Stadt sieht die Situation anders aus - Die Preise bleiben unter dem regionalen Durchschnitt . Eine Familie mit zwei oder drei Kindern wird aber Schwierigkeiten haben , eine Wohnung zu mieten , da die meisten Einwohner Eigentümern sind . Die neue Straßenbahn versichert Verbindungen mit dem Zentrum bis spät in die Nacht und die Einkaufsmöglichkeiten sind wirklich attraktiv . Einzelne , die im Zentrum wohnen möchten und sich eine Wohnung in der Nähe von Bars und Clubs wünschen , sollten bei dem Bahnhof suchen . Neue Gebäude wurden angebaut . Ein Musikfestival und die Theater und Kinos bringen Spaß und versichern das ganzes Jahr eine Tätigkeitmöglichkeit . Generell ist es zwar einfach , eine Wohnung zu finden , aber man braucht eine Weile , um die Stadt zu kennen . Die drei verschiedenen Zonen , die ich hier präsentiert habe , sind natürlich nicht festgestellt und Sie werden wahrscheinlich eine andere Ordnung finden , wenn Sie Ihre Wohnung suchen werden . Nichtsdestoweniger hoffe ich , dass das Bild , das ich gegeben habe , nutzvoll sein wird . Ich warte ungeduldig auf die Zeit Ihres Anfangs mit uns .
+
+----------------
+
+No target hypothesis 2 available.
+

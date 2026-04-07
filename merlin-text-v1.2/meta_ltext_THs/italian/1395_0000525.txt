@@ -1,0 +1,40 @@
+METADATA
+
+General:
+Author ID: 1395_0000525
+Test language: Italian
+CEFR level of test: A2
+Task : contact a friend after a long time - ID: 1395_020300
+Mother tongue: German
+Age: 34
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: C2
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Città X, 26 NOVEMBRE 2010
+CARO MARCELLO
+COME STAI? IO STO BENE. LAVORI SEMPRE ALL'UNIVERSITÀ DI CITTÀ Y? CHE COSA HAI FATTO NEGLI ULTIMI TEMPI? SONO ANDATO A CITTÀ Z CON L'AEREO PER DUE SETTIMANE. LAVORO SEMPRE PER IL Azienda X. ESPERO CHE LA TUA FAMIGLIA STA BENE! QUANDO POSSIAMO VEDERCI PER BERE UN BUON VINO ROSSO CONERC?
+CARI SALUTI E A PRESTO
+Michele
+
+----------------
+
+Target hypothesis 1: 
+
+Città X , 26 novembre 2010 Caro Marcello , come stai ? Io sto bene . Lavori sempre all' università di città Y ? Che cosa hai fatto negli ultimi tempi? ? Sono andato a città Z con l' aereo per due settimane . Lavoro sempre per l' azienda X . Spero che la tua famiglia stia bene ! Quando possiamo vederci per bere un buon vino rosso Conero ? Cari saluti e a presto Michele
+
+----------------
+
+No target hypothesis 2 available.
+

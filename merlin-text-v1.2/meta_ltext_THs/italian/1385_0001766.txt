@@ -1,0 +1,38 @@
+METADATA
+
+General:
+Author ID: 1385_0001766
+Test language: Italian
+CEFR level of test: A1
+Task : reschedule an appointment - ID: 1385_020100
+Mother tongue: German
+Age: 22
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Ciao Daniele,spero che stai bene? 
+In ufficio c'è molto lavoro e giovedì pomeriggio non posso incontrarti perché devo participare a una riunione del lavoro. Mi dispiace molto ma non posso cambiare quest'appuntamento. Se vuoi possiamo fare qualcosa sabato sera per esempio andare a cena in un nuovo ristorante tailandese a Città X? Che cosa ne pensi? Attendo la tua risposta e mi farei molto piacere di vederti presto.
+Ti auguro una buona giornata e ti invio tanti cari saluti Maria  
+
+----------------
+
+Target hypothesis 1: 
+
+Ciao Daniele , spero che tu stia bene ! In ufficio c' è molto lavoro e giovedì pomeriggio non posso incontrarti perché devo partecipare a una riunione di lavoro . Mi dispiace molto ma non posso cambiare quest' appuntamento . Se vuoi , possiamo fare qualcosa sabato sera , per esempio andare a cena in un nuovo ristorante tailandese a Città X . Che cosa ne pensi ? Attendo la tua risposta e mi farebbe molto piacere vederti presto . Ti auguro una buona giornata e ti invio tanti cari saluti Maria
+
+----------------
+
+No target hypothesis 2 available.
+

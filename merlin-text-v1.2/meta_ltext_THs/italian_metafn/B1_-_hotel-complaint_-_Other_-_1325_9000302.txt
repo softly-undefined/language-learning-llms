@@ -1,0 +1,43 @@
+METADATA
+
+General:
+Author ID: 1325_9000302
+Test language: Italian
+CEFR level of test: B2
+Task : complaining against a hotel - ID: 1325_030300-2
+Mother tongue: other
+Age: 30
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B2
+Vocabulary range: B2
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Maria Rossi                                                   Sport e relax al 
+Strada Maggiore                                               "Residence del Lago"  
+ 12345 Città X                                                                 
+                                                                             Città Y 27.05.2011
+Egregi signori, 
+un mese fa eravamo da voi in vacanza. Mi dispiace dirlo non siamo sodisfati con il vostro posto. Abbiamo trovato vostro annuncio sul' internet. Quando abbiamo visto le vostro foto subito eravamo inamorati nel posto. Devo dire che ci sono tante diferenze tra la realtà e l'annuncio pubblicatario. Sula foto la residenze é bello, nuovo, grande. Ma la realtà é vecchio, scuro, piccolo. Avete scrito, ci sono tanti posti per fare lo sport. É vero ci sono, ma non si possono usare, sono sporchi, non hanno tutto per giocare. Per due settimane non avete potuto organizzare nessuna la gita. Ci sono tanti posti da visitare. Non avete collegameni per uscire, da vedere i laghi, le montagne. Sul annuncio non avete scrito la realtà del vostro posto. Non c'era niente per rilassare, giocare. Dovete fare subito di cambiare la residence. Voi prendete i soldi e non avete niente per dare. Voi non siete occupati per i vostri ospiti. Sperò avete preso la mia lettera e avete capito bene i vostri errori. Ringrazialo per la vostra atenzione 
+Distinti saluti 
+
+
+----------------
+
+Target hypothesis 1: 
+
+Maria Rossi Sport e relax al Strada Maggiore " Residence del Lago " 12345 Città X Città Y 27.05.2011 Egregi signori , un mese fa siamo stati da voi in vacanza . Mi dispiace dirlo , non siamo soddisfatti del vostro posto . Abbiamo trovato il vostro annuncio su internet . Quando abbiamo visto le vostre foto subito siamo stati innamorati del posto . Devo dire che ci sono tante differenze tra la realtà e l' annuncio pubblicitario . Sulla foto il residence è bello , nuovo , grande . Ma in realtà è vecchio , scuro , piccolo . Avete scritto che ci sono tanti posti per fare lo sport . È vero ci sono , ma non si possono usare , sono sporchi , non hanno tutto per giocare . Per due settimane non avete potuto organizzare nessuna gita . Ci sono tanti posti da visitare . Non avete collegamenti per uscire , per vedere i laghi , le montagne . Nell' annuncio non avete scritto la realtà del vostro posto . Non c' era niente per rilassare , giocare . Dovete subito cambiare il residence . Voi prendete i soldi e non avete niente da dare . Voi non vi siete occupati dei vostri ospiti . Spero che avete preso la mia lettera e avete capito bene i vostri errori . Ringrazialo per la vostra attenzione Distinti saluti
+
+----------------
+
+No target hypothesis 2 available.
+

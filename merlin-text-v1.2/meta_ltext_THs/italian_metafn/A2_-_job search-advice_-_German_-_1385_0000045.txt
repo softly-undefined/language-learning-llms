@@ -1,0 +1,39 @@
+METADATA
+
+General:
+Author ID: 1385_0000045
+Test language: Italian
+CEFR level of test: A1
+Task : help a friend who is looking for work - ID: 1385_040101
+Mother tongue: German
+Age: 51
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Caro Carlo,
+grazie per la tua mail.Vorrei aiutarti, ma ho bisogno di qualche informazione in più. Puoi dirmi dove lavori adesso e che cosa fai? Che tipo di lavoro ti piacerebbe fare adesso? Vorrei anche sapere quando potresti cominciare il nuovo lavoro.
+Tanti cari saluti e tante belle cose,
+Maria
+
+----------------
+
+Target hypothesis 1: 
+
+Caro Carlo , grazie per la tua mail . Vorrei aiutarti , ma ho bisogno di qualche informazione in più . Puoi dirmi dove lavori adesso e che cosa fai ? Che tipo di lavoro ti piacerebbe fare adesso ? Vorrei anche sapere quando potresti cominciare il nuovo lavoro . Tanti cari saluti e tante belle cose , Maria
+
+----------------
+
+No target hypothesis 2 available.
+

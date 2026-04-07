@@ -1,0 +1,29 @@
+METADATA
+
+General:
+Author ID: 1091_0000028
+Test language: German
+CEFR level of test: A2
+Task : letter to housing office - ID: 1091_0610301
+Mother tongue: not reported
+Age: 62
+Gender: male
+
+Rating:
+Overall CEFR rating: A1
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+                         Stadt X, 04.01.2012
+Sehr geehrte Damen und Herren,
+Ich suche eine Wonung, funf Zimmer 130 m², mit dem Balkon, mit dem Garage, Bis 1000,- warm.
+Ich dante Ihnen im varaus
+mit freundlichen Grüßen

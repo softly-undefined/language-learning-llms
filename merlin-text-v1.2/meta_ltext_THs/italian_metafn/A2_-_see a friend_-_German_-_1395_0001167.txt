@@ -1,0 +1,38 @@
+METADATA
+
+General:
+Author ID: 1395_0001167
+Test language: Italian
+CEFR level of test: A2
+Task : go see a friend - ID: 1395_040101
+Mother tongue: German
+Age: 43
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Ciao Lucio!
+Sono molto contento di venire da te in Italia. Ci vengo sicuramente in treno perché la mia macchina è rotta. Dalla stazione in Città X prendo l'autobus No. 3 come l'anno scorso per venire a casa tua. La tua famiglia è in città questo tempo? Veramente vorrei vederla! Che cosa facciamo la sera? È possibile di andare ancor' una volta al bar 'Pino' per bere una birra con i ragazzi? Dopo possiamo andare al restaurante per mangiare una pizza. Penso que ritorno in Svizzera al 27 Novembre la mattina, va bene cosi? 
+Tanti saluti.  Michele
+
+----------------
+
+Target hypothesis 1: 
+
+Ciao Lucio , sono molto contento di venire da te in Italia . Ci vengo sicuramente in treno perché la mia macchina è rotta . Dalla stazione a Città X prendo l' autobus No. 3 come l' anno scorso per venire a casa tua . La tua famiglia è in città in questo tempo ? Vorrei veramente vederla ! Che cosa facciamo la sera ? È possibile andare ancora una volta al bar ' Pino ' per bere una birra con i ragazzi ? Dopo possiamo andare al ristorante per mangiare una pizza . Penso che ritorno in Svizzera il 27 novembre mattina , va bene così ? Tanti saluti . Michele
+
+----------------
+
+No target hypothesis 2 available.
+

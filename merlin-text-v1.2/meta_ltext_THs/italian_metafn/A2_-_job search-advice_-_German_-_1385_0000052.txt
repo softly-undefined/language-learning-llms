@@ -1,0 +1,38 @@
+METADATA
+
+General:
+Author ID: 1385_0000052
+Test language: Italian
+CEFR level of test: A1
+Task : help a friend who is looking for work - ID: 1385_040101
+Mother tongue: German
+Age: 52
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+CARO MICHELLE ,
+GRAZIE PER LA TUA EMAIL. VORREI AIUTARTI, MA HO BISOGNO DI QUALCHE IFORMATIONE IN PIU. PUOI SAI DOVE LAVORI ADESSO E PUI DIRMI CHE TIPO DI LAVORO VUOLE FARE? PREFERISCI LAVORARE IN UFFICIO O PREFERSCI LAVORARE FIORI. PUI DIRMI, QUANDO VORRESTI INIZIARE I NUOVO POSTO DI LAVORO. RISPONDA SUBITO, PER FAVORE.
+TANTI SALUTI Michele
+
+----------------
+
+Target hypothesis 1: 
+
+Caro MIchele , grazie per la tua email . Vorrei aiutarti , ma ho bisogno di qualche informazione in più . Puoi sapere dove lavori adesso e puoi dirmi che tipo di lavoro vuole fare ? Preferisci lavorare in ufficio o preferisci lavorare fuori ? Puoi dirmi quando vorresti iniziare il nuovo posto di lavoro ? Risponda subito , per favore . Tanti saluti Michele
+
+----------------
+
+No target hypothesis 2 available.
+

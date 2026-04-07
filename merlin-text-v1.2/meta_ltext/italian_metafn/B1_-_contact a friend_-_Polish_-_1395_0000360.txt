@@ -1,0 +1,31 @@
+METADATA
+
+General:
+Author ID: 1395_0000360
+Test language: Italian
+CEFR level of test: A2
+Task : contact a friend after a long time - ID: 1395_020300
+Mother tongue: Polish
+Age: 33
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B2
+Orthography: B2
+Vocabulary range: B2
+Vocabulary control: B2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Ciao Marco!
+É passato tanto tempo dal nostro l'ultimo incontro.
+Io sto bene. Ho cambiato il lavoro. Al momento sto lavorando nella Bance di Città X, sono una assistente. Sono veramente contenta. Lavoro va benissimo. 
+Vedendo che tu ariverai la prossima settimana a Città X, ti propongo un incontro. Ci possiamo vedere lunedi pomeriggio verso le 17 al bar "Grigio". Fammi sapere se ti sta bene. 
+Un abraccio forte.
+Ti saluto
+Maria

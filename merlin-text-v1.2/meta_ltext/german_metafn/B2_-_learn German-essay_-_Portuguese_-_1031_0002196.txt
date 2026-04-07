@@ -1,0 +1,26 @@
+METADATA
+
+General:
+Author ID: 1031_0002196
+Test language: German
+CEFR level of test: C1
+Task : essay about why it's of value to learn German - ID: 1031_010300
+Mother tongue: Portuguese
+Age: 39
+Gender: female
+
+Rating:
+Overall CEFR rating: B2
+Grammatical accuracy: C1
+Orthography: C1
+Vocabulary range: C1
+Vocabulary control: C1
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: B2
+
+----------------
+
+Learner text: 
+
+Seit lange ist es beruflich unmöglich keine fremsprache zu können. Im letzten Jahrhundert war es nicht mehr nur Englisch und Französisch Pflichtig, am Ende hatte die Spanischesprache eine wichtige Rolle gespielt. Heute kann jeder mindesten einer dieser Sprachen und wer sich differenzieren will, muss eine andere Möglichkeit finden, und Deutsch ist meiner Meinung nach die richtige Entscheidung, weil Deutschland genug Angeboten in viele gute Universitäten und in verschiedene Bereiche anbietet. Andere deutschsprachige Länder, wie Österreich, haben genauso wie Deutschland weltweit filialindustrie. Das wäre auch ein Argument, um Deutsch zu lernen.
+Maria Meier

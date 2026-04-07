@@ -1,0 +1,46 @@
+METADATA
+
+General:
+Author ID: 1325_9000675
+Test language: Italian
+CEFR level of test: B2
+Task : complaining against a hotel - ID: 1325_030300-2
+Mother tongue: Polish
+Age: 33
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B2
+Orthography: C1
+Vocabulary range: B2
+Vocabulary control: B2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Maria Rossi                                                           Città X, 14.05.2011 
+Strada Maggiore 4A
+12345 Città X   
+Paese X  
+                                                                                      "RESIDENCE DEL LAGO" 
+Egregi Signori,  
+Mi chiamo Maria Rossi e sono dalla Paese X. Due settimane fa sono stata al vostro "Residence del Lago" per passare una vacanza di sport e relax - come avete scritto sul vostro annuncio. Invece di passare il tempo gioccando a tennis oppure nuotando, dovevo rimanere al bar (l'unico posto che era aperto in villaggio). Il vostro annuncio parla bene (ovviamente!) del vostro Residence: 1) Avete campi da tennis a da palla a volo - tutti in riparazione. Però - questo non avete scritto su annuncio. 2) Il Residence si trova nelle vicinanze  di lago che si raggiunge comodamente con i mezzi pubblici - invece no! - il lago è lontano e quasi impossibile trovare i mezzi publici perché la più vicina ferrata dei pulman si trova quasi 5 km da residence e certamente bisogna andarci a piedi e poi il pulman passa solo due volte al giorno: la mattina presto e pomeriggio. 3) Gli appartamenti (che in ralta assomiliano le camerette molto strette) dovevano avere l'aria condizionata e l'aria non c'era.  
+Dopo tutto questo vi chiedo rimborso. Assolutamente!!!! E immediatamente!!!
+Cordiali saluti 
+Maria Rossi                   
+
+----------------
+
+Target hypothesis 1: 
+
+Maria Rossi Città X , 14.05.2011 Strada Maggiore 4A 12345 Città X Paese X " RESIDENCE DEL LAGO " Egregi Signori , mi chiamo Maria Rossi e sono dalla Paese X . Due settimane fa sono stata al vostro " Residence del Lago " per passare una vacanza di sport e relax , come avete scritto sul vostro annuncio . Invece di passare il tempo giocando a tennis oppure nuotando , dovevo rimanere al bar ( l' unico posto che era aperto nel villaggio ) . Il vostro annuncio parla bene ( ovviamente ! ) del vostro Residence : 1 ) Avete campi da tennis e da palla a volo , tutti in riparazione . Però , questo non l' avete scritto sull' annuncio . 2 ) Il Residence si trova nelle vicinanze del lago che si raggiunge comodamente con i mezzi pubblici , invece no ! Il lago è lontano ed è quasi impossibile trovare i mezzi pubblici perché la più vicina fermata dei pullman si trova quasi a 5 km dal residence e certamente bisogna andarci a piedi e poi il pullman passa solo due volte al giorno : la mattina presto e il pomeriggio . 3 ) Gli appartamenti ( che in realtà assomigliano a delle camerette molto strette ) dovevano avere l' aria condizionata e l' aria non c' era . Dopo tutto questo vi chiedo un rimborso . Assolutamente ! ! ! ! E immediatamente ! ! ! Cordiali saluti Maria Rossi
+
+----------------
+
+Target hypothesis 2: 
+
+Maria Rossi Città X , 14.05.2011 Strada Maggiore 4A 12345 Città X Paese X " RESIDENCE DEL LAGO " Egregi Signori , mi chiamo Maria Rossi e sono della Paese X . Due settimane fa sono stata al vostro " Residence del Lago " per passare una vacanza di sport e relax , come avete scritto sul vostro annuncio . Invece di passare il tempo giocando a tennis oppure nuotando , sono dovuta rimanere al bar ( l' unico posto che era aperto nel villaggio ) . Il vostro annuncio parla bene ( ovviamente ! ) del vostro Residence : 1 ) Avete campi da tennis e da pallavolo , tutti in riparazione . Però , questo non l' avete scritto sull' annuncio . 2 ) Il Residence si trova nelle vicinanze del lago che si raggiunge comodamente con i mezzi pubblici , invece no ! Il lago è lontano ed è quasi impossibile trovare i mezzi pubblici perché la più vicina fermata dei pullman si trova quasi a 5 km dal residence e certamente bisogna andarci a piedi e poi il pullman passa solo due volte al giorno : la mattina presto e il pomeriggio . 3 ) Gli appartamenti ( che in realtà assomigliano a delle camerette molto strette ) dovevano avere l' aria condizionata e l' aria non c' era . Dopo tutto questo vi chiedo un rimborso . Assolutamente ! ! ! ! E immediatamente ! ! ! Cordiali saluti Maria Rossi

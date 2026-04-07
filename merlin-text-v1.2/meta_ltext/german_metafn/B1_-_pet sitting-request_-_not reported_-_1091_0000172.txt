@@ -1,0 +1,27 @@
+METADATA
+
+General:
+Author ID: 1091_0000172
+Test language: German
+CEFR level of test: A2
+Task : ask friend to take care of pet - ID: 1091_0650102
+Mother tongue: not reported
+Age: 34
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Libe Maria,
+Ich habe eine paar Tag ParTy, und Ich müssTe nichT zu Hause faien. BiTTe Konnen Sie mir hilfe weil habe Ich eine Tier zu Hause. Ledier Ich Kann nichT  menem und miTnehmen. Habe ich einen Hund und  Am 20Ten Jonna gehen wir nach Stadt X. Sehen Sie BiTTe meinem Hund für zwei Tagen. Wir Kommen am 22Ten Jonua  zurich.
+Danke

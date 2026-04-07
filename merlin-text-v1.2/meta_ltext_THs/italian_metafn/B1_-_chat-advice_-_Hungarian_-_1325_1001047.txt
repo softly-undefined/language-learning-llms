@@ -1,0 +1,42 @@
+METADATA
+
+General:
+Author ID: 1325_1001047
+Test language: Italian
+CEFR level of test: B2
+Task : help someone who has problems with chats - ID: 1325_040300-2
+Mother tongue: Hungarian
+Age: 26
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: A2
+Orthography: C1
+Vocabulary range: B2
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Strada Maggiore 119, 80127 
+2011.10.01
+Cara Giorgia
+ Sono stato molto felice quando ho ricevuto tua lettera. Non ti ho visto tre mese! Mi dispiace che sentito. Intern e chat molto dificile cosa. Anchio ho avuto problemi con cui. Ma  ho risolvato mia problemi. Anchio ho cancellato dal cellulare tutti i numeri delle persone con cui "chatao", ma questo soluzione non bene. Ho comprato una nouvo cellulare e numero. -unreadable- Ho reinstalato il systema operazione  nel mio computer. Dopo questo terribile situazione, -unreadable-o computer sempre. Perchè internet e molto  importante parte la vita mia. Secondo me  molto importante parte molte gente.  ho fatta  eticha per usare del. Io soltanta uso web pages quel  che necessario per me
+Spero che io aiuto a te e Aspetto molto  tuo rispondo!
+Tuo amico:
+Michele 
+
+----------------
+
+Target hypothesis 1: 
+
+Strada Maggiore 119 , 80127 2011.10.01 Cara Giorgia , sono stato molto felice quando ho ricevuto la tua lettera . Non ti ho visto per tre mesi ! Mi dispiace che ho sentito . Internet e chat sono una cosa molto difficile . Anch' io ho avuto problemi con quelli . Ma ho risolto i miei problemi . Anch' io ho cancellato dal cellulare tutti i numeri delle persone con cui ho " chattato " , ma questa soluzione non è stata buona . Ho comprato un nuovo cellulare e numero . -unreadable- Ho reinstallato il sistema operativo nel mio computer . Dopo questa terribile situazione , uso sempre il computer perché internet è una parte molto importante della mia vita . Secondo me è una parte molto importante per molta gente . -incomp- -incomp- -incomp- -incomp- -incomp- -incomp- . Io uso soltanto quelle pagine web che sono necessarie per me . Spero che io aiuti te e aspetto molto la tua risposta ! Il tuo amico Michele
+
+----------------
+
+No target hypothesis 2 available.
+

@@ -1,0 +1,40 @@
+METADATA
+
+General:
+Author ID: PHA0411031
+Test language: Czech
+CEFR level of test: B2
+Task : write an essay: A friend in need is a friend indeed - ID: B2PS0202_pritel
+Mother tongue: French
+Age: 3039
+Gender: female
+
+Rating:
+Overall CEFR rating: B2
+Grammatical accuracy: B2
+Orthography: B2
+Vocabulary range: B2
+Vocabulary control: B2
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Jestli tohle přísloví je pravda nebo ne se zjístí, když člověka právě potká nepřijemná událost. Jak reagují kamárádi na Vaš smutek? Umí pří Vás stát nebo radši si Vás nějakou dobu nebudou všímat a ozvou se až po půl roce? Nedávno jsem prožila tragickou nehodu a měla jsem přiležítost sama zjístit, že ta lidská věta je bohužel skutečnost - Ano, v nouzi poznáš přítele.
+Je samozřejmně těžké utěšovat kamaráda. Těžko se řiká, že "to bude dobré", když je člověk na dně. Navíc vývolává v nás neštěstí ostatních nepohodu. Člověk se cítí nepřijemně, protože je sám konfrontovan se svými úzkostmi - kdo se nebojí smrti, ztráty práce nebo nemoci?
+Přesto opravdový přitel dokaže být v nejhorších situacích přitomen. Musí chvili přestat myslet na sebe, překonat svoje strachy a soustředit se na nešťastého přítele. Musí taky umět poznat, co potřebuje druhý a respektovat to - je to těžké hodinu sedět a nemluvit, ale nejlepší přítel se Vás musí snažit vyhovět a mlčí s Vámi, když potřebuje zrovna mlčet.
+Na závěr je důležité říct, že nesťastný člověk se ale nesmí na nikoho zlobit, protože káždý dělá, co může a podle svých možností. Proto si myslím, že "v nouzi poznáš přítele" je pravda ale opak toho přísloví nemusí být pravda - že v nouzi poznáš i svoje nepřítele. Lidé, kteří Vás v nouzi zklámali se jenom nezvládli dívat na svoje strachy "do očí".
+
+----------------
+
+Target hypothesis 1: 
+
+Jestli tohle přísloví je pravda nebo ne se zjistí , když člověka právě potká nepříjemná událost . Jak reagují kamarádi na Váš smutek ? Umí při Vás stát nebo si vás nějakou dobu nebudou všímat a ozvou se až po půl roce ? Nedávno jsem prožila tragickou nehodu a měla jsem příležitost sama zjistit , že ta lidská věta je bohužel skutečnost . Ano , v nouzi poznáš přítele . Je samozřejmě těžké utěšovat kamaráda . Těžko se říká , že " to bude dobré " , když je člověk na dně . Navíc vyvolává neštěstí ostatních nepohodu . Člověk se cítí nepříjemně , protože je sám konfrontován se svými úzkostmi - kdo se nebojí smrti , ztráty práce nebo nemoci ? Přesto opravdový přítel dokáže být v nejhorších situacích přítomen . Musí chvíli přestat myslet na sebe , překonat svoje strachy a soustředit se na nešťastného přítele . Musí taky umět poznat , co potřebuje druhý a respektovat to - je to těžké hodinu sedět a nemluvit , ale nejlepší přítel se vám musí snažit vyhovět a mlčí s Vámi , když potřebujete zrovna mlčet . Na závěr je důležité říct , že nešťastný člověk se ale nesmí na nikoho zlobit , protože každý dělá , co může a podle svých možností . Proto si myslím , že " v nouzi poznáš přítele " je pravda ale opak toho přísloví nemusí být pravda - že v nouzi poznáš i svoje nepřátele . Lidé , kteří Vás v nouzi zklamali se jenom nezvládli dívat svým strachům " do očí " .
+
+----------------
+
+Target hypothesis 2: 
+
+Jestli tohle přísloví je pravda nebo ne se zjistí , když člověka právě potká nepříjemná událost . Jak reagují kamarádi na Váš smutek ? Umí při Vás stát nebo si vás radši nějakou dobu nebudou všímat a ozvou se až po půl roce ? Nedávno jsem prožila tragickou nehodu a měla jsem příležitost sama zjistit , že ta lidská věta je bohužel skutečnost . Ano , v nouzi poznáš přítele . Je samozřejmě těžké utěšovat kamaráda . Těžko se říká , že " to bude dobré " , když je člověk na dně . Navíc v nás vyvolává neštěstí ostatních nepohodu . Člověk se cítí nepříjemně , protože je sám konfrontován se svými úzkostmi - kdo se nebojí smrti , ztráty práce nebo nemoci ? Přesto opravdový přítel dokáže být v nejhorších situacích přítomen . Musí chvíli přestat myslet na sebe , překonat svoje strachy a soustředit se na nešťastného přítele . Musí taky umět poznat , co potřebuje druhý a respektovat to - je to těžké hodinu sedět a nemluvit , ale nejlepší přítel se vám musí snažit vyhovět a mlčí s Vámi , když potřebujete zrovna mlčet . Na závěr je důležité říct , že nešťastný člověk se ale nesmí na nikoho zlobit , protože každý dělá , co může a podle svých možností . Proto si myslím , že " v nouzi poznáš přítele " je pravda , ale opak toho přísloví nemusí být pravda - že v nouzi poznáš i svoje nepřátele . Lidé , kteří Vás v nouzi zklamali se jenom nezvládli dívat svým strachům " do očí " .

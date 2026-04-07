@@ -1,0 +1,28 @@
+METADATA
+
+General:
+Author ID: 1091_0000045
+Test language: German
+CEFR level of test: A2
+Task : letter to housing office - ID: 1091_0610301
+Mother tongue: Russian
+Age: 50
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: A2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Sehr geehrte Damen und Herren!
+Für meine Familie, die besteht aus zwei Erwachsene und ein minderjahrige Kind, suche ich Drei_Zimmer Wohnung. Jede Zimmer muss ein separat Eingang haben. Auch wünschen wir ein Balkon, der befindet sich im Hof., die Zimmer auf verschiedenen Seiten des Hauses. Die Miete muss nicht 300 € ubersteigen . Die Toilette und Badezimmer brauchen wir getrennt mit separaten Eingängen.
+Mit freundlichen Grüßen
+Hr Winkelmann

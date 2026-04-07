@@ -1,0 +1,53 @@
+METADATA
+
+General:
+Author ID: 1023_0108958
+Test language: German
+CEFR level of test: B2
+Task : Au pair writes letter of complaint to Agency - ID: 1023_100303
+Mother tongue: French
+Age: 18
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B2
+Vocabulary range: B2
+Vocabulary control: B1
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: B2
+
+----------------
+
+Learner text: 
+
+Maria Meier
+Müllergasse 1A
+12345 Stadt X
+Au-pair-Agentur Schultz & Partner
+Regenstrasse 101
+90451 Nürnberg
+                                                 Stadt X den 18. August 2011
+Forderung einer Entschädigung
+Sehr geehrte Damen und Herren,
+als ich Ihre Anzeige gelesen habe, war ich sofort begeistert, weil ich immer über ein Job in einem anderen Land geträumt habe.
+Deshalb habe ich mich sofort bei Ihnen angemeldet.
+In Ihrer Anzeige stand dass Sie ein Job als Au-pair in günstige Konditionen anbieten.
+Leider entsprachen die Verspechung in Ihre Werbeanzeige nicht der Tatsätlichen Situation.
+Erstens war ich sehr enttäuscht über das essen, ich habe gesagt dass ich nicht fish mag und die familie hat mindestens drei mal pro woche fish gekocht, deshalb bin ich oft ins Bett ohne etwas zum essen gegangen. Zweitens die Familie war gar nicht sympatisch und wollte nicht mit mir sprechen, deswegen habe ich nicht viel Deutsch gelernt.
+Drittens musste ich nicht Freunde treffen nach 20 uhr, deshalb bin ich immer zu Hause geblieben und habe keine Freizeitaktivität dort gehabt.
+Aus den oben genannten Gründe bitte ich Sie, mir einer Forderschung von 200 € zu kommen zu lassen.
+Mit freundliche Grüsse
+Maria Meier
+
+----------------
+
+Target hypothesis 1: 
+
+Maria Meier Müllergasse 1A 12345 Stadt X Au-pair-Agentur Schultz & Partner Regenstrasse 101 90451 Nürnberg Stadt X , den 18 . August 2011 Forderung einer Entschädigung Sehr geehrte Damen und Herren , als ich Ihre Anzeige gelesen habe , war ich sofort begeistert , weil ich immer von einem Job in einem anderen Land geträumt habe . Deshalb habe ich mich sofort bei Ihnen angemeldet . In Ihrer Anzeige stand , dass Sie einen Job als Au-pair zu günstigen Konditionen anbieten . Leider entsprachen die Versprechungen in Ihrer Werbeanzeige nicht der tatsächlichen Situation . Erstens war ich sehr enttäuscht von dem Essen . Ich habe gesagt , dass ich keinen Fisch mag und die Familie hat mindestens dreimal pro Woche Fisch gekocht , deshalb bin ich oft ins Bett gegangen , ohne etwas zu essen . Zweitens war die Familie gar nicht sympathisch und wollte nicht mit mir sprechen , deswegen habe ich nicht viel Deutsch gelernt . Drittens musste ich nach 20 Uhr keine Freunde treffen , deshalb bin ich immer zu Hause geblieben und habe dort keine Freizeitaktivität gehabt . Aus den oben genannten Gründen bitte ich Sie , mir eine Forderung von 200 € zukommen zu lassen . Mit freundlichen Grüssen Maria Meier
+
+----------------
+
+No target hypothesis 2 available.
+

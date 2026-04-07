@@ -1,0 +1,43 @@
+METADATA
+
+General:
+Author ID: PHA1110003A
+Test language: Czech
+CEFR level of test: A2
+Task : write an email to a hotel - ID: A2PS0101_hotel
+Mother tongue: Other
+Age: 2029
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Dobrý den
+Příští pátek máte volný pokoj pro dva osoby?
+
+Pojedeme s kamaradkou na hory, na které je váš hotel. Mám tam krátký kurs ve lyžařské škole, kde je blízko hotelu. Musíme travit od patku do neděle.
+Můžu tam rezervovat dvoulůžkový pokoj? Chtěly bychom bydlet tam na dva dny se snídaní. Máte parkovíšti? Pojedeme do hotelu autem. Doufám, že dostanu vašemu odpověď za chvílí. 
+Mějte se hezky a na shledanou
+Tomáš Svoboda
+
+
+----------------
+
+Target hypothesis 1: 
+
+Dobrý den . Máte příští pátek volný pokoj pro dvě osoby ? Pojedeme s kamarádkou na hory , u kterých je váš hotel . Mám tam krátký kurs v lyžařské škole , která je blízko hotelu . Musíme tam trávit čas od pátku do neděle . Můžu tam rezervovat dvoulůžkový pokoj ? Chtěli bychom tam bydlet dva dny se snídaní . Máte parkoviště ? Pojedeme do hotelu autem . Doufám , že dostanu vaši odpověď za chvíli . Mějte se hezky a na shledanou , Tomáš Svoboda
+
+----------------
+
+No target hypothesis 2 available.
+

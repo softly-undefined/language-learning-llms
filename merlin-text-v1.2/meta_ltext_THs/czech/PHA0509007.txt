@@ -1,0 +1,37 @@
+METADATA
+
+General:
+Author ID: PHA0509007
+Test language: Czech
+CEFR level of test: A2
+Task : describe a photo: woman sitting at the window - ID: A2PS0200_zena
+Mother tongue: German
+Age: 2029
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Ta žena na obrázku se jmenuje Eva Svobodová. Je profesorka z Německa a učí něměčtínu na Karlové Univerzitě v Praze. je jí třicet - šest let. Vystudovala v Berlině, kde taky bydlela. Teď žije v České Republice se svém manželem, ale nemají děté. Dneska sedí už dvě hodiny v knihovně univerzity a myslí o své rodině v Německu. Ve volném času ráda čte romantické romány a jde na procházku po starém městě se svém psem. Pes jmenuje se Rex. 
+
+----------------
+
+Target hypothesis 1: 
+
+Ta žena na obrázku se jmenuje Eva Svobodová . Je profesorka z Německa a učí němečtinu na Karlově univerzitě v Praze . Je jí třicet šest let . Vystudovala v Berlíně , kde taky bydlela . Teď žije v České republice se svým manželem , ale nemají děti . Dneska sedí už dvě hodiny v knihovně univerzity a myslí na svou rodinu v Německu . Ve volném času ráda čte romantické romány a chodí na procházku po starém městě se svým psem . Pes se jmenuje Rex .
+
+----------------
+
+Target hypothesis 2: 
+
+Ta žena na obrázku se jmenuje Eva Svobodová . Je profesorka z Německa a učí němčinu na Karlově univerzitě v Praze . Je jí třicet šest let . Vystudovala v Berlíně , kde taky bydlela . Teď žije v České republice se svým manželem , ale nemají děti . Dneska sedí už dvě hodiny v knihovně univerzity a myslí na svou rodinu v Německu . Ve volném času ráda čte romantické romány a chodí na procházku po starém městě se svým psem . Pes se jmenuje Rex .

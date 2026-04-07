@@ -1,0 +1,44 @@
+METADATA
+
+General:
+Author ID: 1061_0120499
+Test language: German
+CEFR level of test: B1
+Task : write a letter for New Year to a friend - ID: 1061_110101
+Mother tongue: Spanish
+Age: 22
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: C1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Lieber Michael,
+Danke für deinen Brief, nächste Jahr möchte ich mit dir feiern, das wird super sein!
+Meine Silvesternacht war sehr gut auch. Meine Eltern und meine Schwester haben mir besucht, und wir hatten eine guten Abend. Später habe ich mit meiner Freunden ein Party gemacht.
+Ich kann dir meine Wünsche für das neue Jahr nicht gesagt, aber ich glaube du das sicher gefallen würdest!
+ Es gibt nichts neues bei meiner Arbeit, aber ich muss Deutsch lernen, weil mein Firma mit andere Deutsche arbeit. Dann habe ich keine Zeit mit dir mehr zu sprechen.
+Aber wen du  wir besuchen würdest, würde ich kein Problem haben.
+Ich habe Lust mit dir treffen, und danke noch einmal für deinen Brief. Ich werde dir  hier warten.
+Viele Grüße
+Friedrich
+
+----------------
+
+Target hypothesis 1: 
+
+Lieber Michael , danke für deinen Brief , nächstes Jahr möchte ich mit dir feiern , das wird super sein ! Meine Silvesternacht war auch sehr gut . Meine Eltern und meine Schwester haben mich besucht , und wir hatten einen guten Abend . Später habe ich mit meinen Freunden eine Party gemacht . Ich kann dir meine Wünsche für das neue Jahr nicht sagen , aber ich glaube , dass dir das sicher gefallen würde ! Es gibt nichts Neues bei meiner Arbeit , aber ich muss Deutsch lernen , weil meine Firma mit anderen Deutschen arbeitet . Dann habe ich keine Zeit mehr , mit dir zu sprechen . Aber wenn du uns besuchen würdest , würde ich kein Problem haben . Ich habe Lust , mich mit dir zu treffen , und danke noch einmal für deinen Brief . Ich werde hier auf dich warten . Viele Grüße Friedrich
+
+----------------
+
+No target hypothesis 2 available.
+

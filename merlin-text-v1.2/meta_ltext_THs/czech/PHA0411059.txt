@@ -1,0 +1,39 @@
+METADATA
+
+General:
+Author ID: PHA0411059
+Test language: Czech
+CEFR level of test: B2
+Task : write an essay: A friend in need is a friend indeed - ID: B2PS0202_pritel
+Mother tongue: Russian
+Age: 2029
+Gender: female
+
+Rating:
+Overall CEFR rating: B2
+Grammatical accuracy: B2
+Orthography: B2
+Vocabulary range: B2
+Vocabulary control: B1
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+V nouzi poznáš přítele - toto přísloví každý člověk zná velmi dobře. Ale jak často lidé analyzují svých známých?
+Každý psycholog vám dokaže vysvětlit, že člověk má několik skupin lidí, se kterými komunikuje různými způsoby a v různých situacích. Obvykle člověk dělí lidí na tří skupiny V nejbližší skupině jsou rodiče a dobří kamarádi, s kterými přátelství trvá už několik let. Ve střední skupině jsou přátelé a známi, s kterými člověk má něco společného (například studium, práce, koníčky) a s kterými člověk baví o některých vlastních problémech. Ke třetí skupině patří známí, s kterými člověk nechci bavit o svém životu. Často se tak stává, že člověk dovolí známým vstoupit do své nejbližší skupiny. Hned brzy začinají problémy, protože člověk věří tomu novému známému a mluví s ním o svém vlastním životu. Tuto novou informaci nový známý může použit ve svých cílech, které nejsou vždy dobré. A když člověk bude mít nějaký problém, ten nový známý mu vůbec nepomůze. A proto je velmi důležité hodnotit dobré přátelství. Vždycky se člověk musí stárat o své nejblížší kamarády, aby mu pomohli při neštěsti, protože jak se říká v Rusku, starý přítel je lepší, než dva noví.
+Problém je v tom, aby poznat dobrého přítele do té doby, když se něco stáne.
+
+----------------
+
+Target hypothesis 1: 
+
+V nouzi poznáš přítele - toto přísloví každý člověk zná velmi dobře . Ale jak často lidé analyzují své známé ? Každý psycholog Vám dokáže vysvětlit , že člověk má několik skupin lidí , se kterými komunikuje různými způsoby a v různých situacích . Obvykle člověk dělí lidi na tři skupiny V nejbližší skupině jsou rodiče a dobří kamarádi , s kterými přátelství trvá už několik let . Ve střední skupině jsou přátelé a známí , s kterými člověk má něco společného ( například studium , práci , koníčky ) a s kterými člověk baví o některých vlastních problémech . Ke třetí skupině patří známí , s kterými člověk nechce bavit o svém životě . Často se tak stává , že člověk dovolí známým vstoupit do své nejbližší skupiny . Hned brzy začínají problémy , protože člověk věří tomu novému známému a mluví s ním o svém vlastním životě . Tuto novou informaci nový známý může použít pro své cíle , které nejsou vždy dobré . A když člověk bude mít nějaký problém , ten nový známý mu vůbec nepomůže . A proto je velmi důležité hodnotit dobré přátelství . Vždycky se člověk musí starat o své nejbližší kamarády , aby mu pomohli v neštěstí , protože jak se říká v Rusku , starý přítel je lepší než dva noví . Problém je v tom , jak poznat dobrého přítele do té doby , než se něco stane .
+
+----------------
+
+Target hypothesis 2: 
+
+V nouzi poznáš přítele - toto přísloví zná každý člověk velmi dobře . Ale jak často lidé analyzují své známé ? Každý psycholog Vám dokáže vysvětlit , že člověk má několik skupin lidí , se kterými komunikuje různými způsoby a v různých situacích . Obvykle člověk dělí lidi na tři skupiny . V nejbližší skupině jsou rodiče a dobří kamarádi , s kterými přátelství trvá už několik let . Ve střední skupině jsou přátelé a známí , s kterými člověk má něco společného ( například studium , práci , koníčky ) a s kterými se člověk baví o některých vlastních problémech . Ke třetí skupině patří známí , s kterými se člověk nechce bavit o svém životě . Často se tak stává , že člověk dovolí známým vstoupit do své nejbližší skupiny . Hned začínají problémy , protože člověk věří tomu novému známému a mluví s ním o svém vlastním životě . Tuto novou informaci nový známý může použít pro své cíle , které nejsou vždy dobré . A když člověk bude mít nějaký problém , ten nový známý mu vůbec nepomůže . A proto je velmi důležité ocenit dobré přátelství . Vždycky se člověk musí starat o své nejbližší kamarády , aby mu pomohli v neštěstí , protože jak se říká v Rusku , starý přítel je lepší než dva noví . Problém je v tom , jak poznat dobrého přítele do té doby , než se něco stane .

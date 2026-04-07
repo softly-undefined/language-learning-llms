@@ -1,0 +1,28 @@
+METADATA
+
+General:
+Author ID: 1071_0024702
+Test language: German
+CEFR level of test: A1
+Task : ask friend for help for finding apartment - ID: 1071_020200
+Mother tongue: English
+Age: 26
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Lieber Ingo
+wie geht es dir? Ich habe neue Arbeit in Neuburg gefunden. Jetzt ich suche für eine Wohnung in Neuburg. Meine Arbeit fängt am 11 Juli an und ich brauche eine Wohnung bevor dann. Kannst du mir mit meine Wohnungsuchen hilfen? Ich brauche eine Wohnung dass  ist mindestens 120 m², weil ich eine Größe Familien haben.
+Schön Gruß,
+Michael

@@ -1,0 +1,39 @@
+METADATA
+
+General:
+Author ID: 1061_0120337
+Test language: German
+CEFR level of test: B1
+Task : write a letter to a friend (birthday) - ID: 1061_170900
+Mother tongue: Arabic
+Age: 21
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B2
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B2
+
+----------------
+
+Learner text: 
+
+Sehr geehrte Frau Silke                          Stadt X(27/02/2012)
+Ich bedanke bei Ihnen Für den Brief. Ich habe an Ihren Gedanke gedacht und ich finde es schön. vielleicht komme ich für ein Paar Tage zu Ihnen zu besuchen, Für mich mag ich die Tiere nich. ich habe probleme mit sie besonders die Katzen. auf Jedenfall danke ich Ihnen Für Ihren vorschlag. Ich wünsche mir viele im meinem lebem: aber für meinen Geburtstag nichts viel. Für mich reicht aus wenn ich viele Erinnerungen indiesem besondern Tag habe Die mit Freunden und Familie sind. Ich habe kein interesse an Geschenken und sowas. deswegen sollen sie kein interesse  am Geschenkt Für mich Also. Mit und meiner familie geht es gut außer Meinem Vater hat ein Problem mit der Gesundheit aber sie wissen wie immer. Es ist vorbei Er ist zurzeit wieder Gesund und  passen sie auf Ihre Familie auf
+Mit Freundlichen Grüßen
+Michael
+
+----------------
+
+Target hypothesis 1: 
+
+Sehr geehrte Frau Silke , Stadt X ( 27 / 02 / 2012 ) ich bedanke mich bei Ihnen für den Brief . Ich habe an Ihren Gedanken gedacht und ich finde es schön . Vielleicht komme ich für ein paar Tage zu Ihnen zu Besuch . Ich mag die Tiere nicht , ich habe Probleme mit ihnen , besonders mit den Katzen . Jedenfalls danke ich Ihnen für Ihren Vorschlag . Ich wünsche mir viel in meinem Leben , aber für meinen Geburtstag nicht viel . Für mich reicht es aus , wenn ich viele Erinnerungen an diesen  besonderen Tag habe , an Freunde und Familie . Ich habe kein Interesse an Geschenken und so  was . Deswegen sollen sie also  kein Interesse am Geschenk für mich haben . Mir und meiner Familie geht es gut , nur mein Vater hat ein Problem mit der Gesundheit , aber sie wissen wie immer , es ist vorbei . Er ist zurzeit wieder gesund und sie passt auf Ihre Familie auf . Mit freundlichen Grüßen Michael
+
+----------------
+
+No target hypothesis 2 available.
+

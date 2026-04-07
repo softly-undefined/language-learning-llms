@@ -1,0 +1,41 @@
+METADATA
+
+General:
+Author ID: 0623
+Test language: Czech
+CEFR level of test: B1
+Task : answer to the email of Alena - ID: 1_Alena
+Mother tongue: German
+Age: not reported
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: A2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: A1
+
+----------------
+
+Learner text: 
+
+13. unora 2007
+Míla Aleno,
+Děkuju za dopis. Mám se dobře Jsem moc ráda, že ses ozvala také! Teď, studuju zeměpis! Studium je vyborně, je moc zajímavé. Ne už pracuju na diplomoce ale planuju dovolenou s přitelem v České republice brzo.  Budeme jít do Prahy a potom budeme wandrovat v Krkonoších od chaty k chatě. Ano, mám čas! Jsem velmi ráda, že pojdeš na návštěvou do Drážďany.  Chci ti pozvat v odpoledně domů. Kdy přijdeš do Drážďany. Ctela bych dojít na nádraží. Je to dobře?
+Děkuju , to je dobrá zpráva. Tento prázdninového kurzu je moc důležitý! Kdy je kurzu? Kolik to stojí?
+Mám prosbu: Muzeš mi posílat ten zajímavý inzerat? Bohužel nemám čas, teď. Musím pracovat. Na shledanou a mej se hezky! Odepiš mi prosím brzo a pozdravuj Milenku! Ahoj, David
+
+----------------
+
+Target hypothesis 1: 
+
+13. února 2007 Milá Aleno , děkuju za dopis . Mám se dobře Jsem moc ráda , že ses ozvala také ! Teď studuju zeměpis ! Studium je výborné , je moc zajímavé . Nepracuju na diplomce ale plánuju dovolenou s přítelem v České republice . Půjdeme do Prahy a potom budeme vandrovat v Krkonoších od chaty k chatě . Ano , mám čas ! Jsem velmi ráda , že pojedeš na návštěvu do Drážďan . Chci Tě pozvat odpoledne domů . Kdy přijdeš do Drážďan . Chtěla bych dojít na nádraží . Je to dobře ? Děkuju , to je dobrá zpráva . Tento prázdninový kurz je moc důležitý ! Kdy je kurz ? Kolik to stojí ? Mám prosbu : můžeš mi poslat ten zajímavý inzerát ? Bohužel nemám čas . Musím pracovat . Na shledanou a měj se hezky ! Odepiš mi prosím brzo a pozdravuj Milenku ! Ahoj , David
+
+----------------
+
+Target hypothesis 2: 
+
+13. února 2007 Milá Aleno , děkuju za dopis . Mám se dobře . Jsem moc ráda , že ses ozvala také ! Teď studuju zeměpis ! Studium je výborné , je moc zajímavé . Nepracuju na diplomce ale plánuju brzo dovolenou s přítelem v České republice . Pojedeme do Prahy a potom budeme vandrovat v Krkonoších od chaty k chatě . Ano , mám čas ! Jsem velmi ráda , že pojedeš na návštěvu do Drážďan . Chci Tě pozvat odpoledne domů . Kdy přijedeš do Drážďan . Chtěla bych pro tebe dojít na nádraží . Je to dobře ? Děkuju , to je dobrá zpráva . Tento prázdninový kurz je moc důležitý ! Kdy je kurz ? Kolik to stojí ? Mám prosbu : můžeš mi poslat ten zajímavý inzerát ? Bohužel teď nemám čas . Musím pracovat . Na shledanou a měj se hezky ! Odepiš mi prosím brzo a pozdravuj Milenku ! Ahoj , David

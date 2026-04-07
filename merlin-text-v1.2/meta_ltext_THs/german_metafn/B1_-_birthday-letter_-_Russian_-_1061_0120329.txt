@@ -1,0 +1,41 @@
+METADATA
+
+General:
+Author ID: 1061_0120329
+Test language: German
+CEFR level of test: B1
+Task : write a letter to a friend (birthday) - ID: 1061_170900
+Mother tongue: Russian
+Age: 53
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Liebe Silke,
+habe ich dein Brief bekommen. Viele Dank fur Einladung, aber leider wir können nicht euch bechuchen. Mein Mann eden Tag muß arbeiten. Kindern mußen in der Schule lernen. Ich muss beim Hausausgabe meinen Sohn und meine Tochter helfen. Mein Mann kommt immer spät nach Hause, deshalb muss ich zu Hause alles sebst machen. Vieleicht, wir besuchen euch am Sommer. Bald habe ich Geburstag. Ich lade euch 7 März zum Geburstagsparty ein. Ich freue mir, wenn sie alle kommen könnte. Meine Wünsche zum Geschenk, dass ein schones Buch. Meine Tochter Eva hat von den Tieren Allergie, daswegen können wir nicht zu Hause die Katze oder Hund haben. Aber wir lieben Tieren und oft lesen Bucher über Tieren oder sehen Filmen. Wenn haben Sie Lust, können Sie uns besuchen. Das würde uns jedenfalls sehr freuen. Wenn fahren Sie mit dem Zug, ich hole gern euch von dem Bahnhof ab.
+Hoffentlich bis bald.
+Mit freundlichen Grüßen
+Maria.
+Stadt X 28.02.2012
+
+----------------
+
+Target hypothesis 1: 
+
+Liebe Silke , ich habe deinen Brief bekommen . Vielen Dank für die Einladung , aber leider können wir euch nicht besuchen . Mein Mann muss jeden Tag arbeiten . Kinder müssen in der Schule lernen . Ich muss bei der Hausaufgabe meinem Sohn und meiner Tochter helfen . Mein Mann kommt immer spät nach Hause , deshalb muss ich zu Hause alles selbst machen . Vielleicht besuchen wir euch im Sommer . Bald habe ich Geburtstag . Ich lade euch am 7 . März zur Geburstagsparty ein . Ich freue mich , wenn sie alle kommen könnten . Meine Wünsche zum Geschenk : ein schönes Buch . Meine Tochter Eva hat gegen die Tiere eine Allergie , deswegen können wir zu Hause keine Katze und keinen Hund haben . Aber wir lieben Tiere und lesen oft Bücher über Tiere oder sehen Filme . Wenn Sie Lust haben , können Sie uns besuchen . Das würde uns jedenfalls sehr freuen . Wann fahren Sie mit dem Zug ? Ich hole euch gern von dem Bahnhof ab . Hoffentlich bis bald . Mit freundlichen Grüßen Maria . Stadt X 28.02.2012
+
+----------------
+
+No target hypothesis 2 available.
+

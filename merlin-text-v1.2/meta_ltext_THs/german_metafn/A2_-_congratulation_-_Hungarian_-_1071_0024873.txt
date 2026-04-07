@@ -1,0 +1,44 @@
+METADATA
+
+General:
+Author ID: 1071_0024873
+Test language: German
+CEFR level of test: A1
+Task : congratulate to birth of child - ID: 1071_030101
+Mother tongue: Hungarian
+Age: 41
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A1
+Orthography: B1
+Vocabulary range: A1
+Vocabulary control: A1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+                        Stadt X, 08.03.2012
+Lieber Jens,
+ich Glückwünsche für das Baby und euch. 
+Was sein Name das Baby?
+Ich höffe, das Baby und die Mutter gut sind. 
+Nechsten Monat möchte ich euch gehen.
+Ich glücke gut Gesundheit
+Friedrich
+
+----------------
+
+Target hypothesis 1: 
+
+Stadt X , 08.03.2012 Lieber Jens , ich sende Glückwünsche für das Baby und euch . Was ist sein Name ? Ich hoffe , das Baby und die Mutter sind gut . Nächsten Monat möchte ich zu euch gehen . Ich glücke gute Gesundheit Friedrich
+
+----------------
+
+Target hypothesis 2: 
+
+Stadt X , 08.03.2012 Lieber Jens , ich sende Glückwünsche für das Baby und euch . Wie ist der Name des Babys ? Ich hoffe , das Baby und die Mutter sind gut auf . Nächsten Monat möchte ich zu euch kommen . Ich wünsche euch gute Gesundheit Friedrich

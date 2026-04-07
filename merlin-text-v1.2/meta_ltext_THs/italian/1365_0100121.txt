@@ -1,0 +1,43 @@
+METADATA
+
+General:
+Author ID: 1365_0100121
+Test language: Italian
+CEFR level of test: B1
+Task : help a friend who is looking for work after school-leaving exam - ID: 1365_040501
+Mother tongue: English
+Age: 49
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B2
+Orthography: C1
+Vocabulary range: B1
+Vocabulary control: B2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Città X, 10.12.2010
+Caro Francesco,
+⁄Grazie per la tua lettera e auguri per il tuo successo nell'esame. È un'onore che hai ricevuto il massimo dei voti!
+Nonostante la vacanza in Svezia due mesi fa, ero anch'io molto impegnato nell'ultimo periodo. Nel lavoro stanno arrivando continualmente nuovi progetti. E per il corso d'italiano dovevo studiare moltissimo. Farò proprio oggi l'esame. Sono un po nervoso, ma penso andrà bene.
+Se cercassi un lavoro in Città Y, ti consigliarei cominciare presto per trovare un posto per l'estate. Da maggio arrivano i turisti e gli alberghi cercano adesso personale. Ma, mi dispiace, non conosco un albergo particolare.
+Speriamo che trovarà un lavoro a Città Y e potremo vederci nell'estate!
+Tanti saluti,
+Michele
+
+----------------
+
+Target hypothesis 1: 
+
+Città X , 10.12.2010 Caro Francesco , grazie per la tua lettera e auguri per il tuo successo nell' esame . È un onore che hai ricevuto il massimo dei voti ! Nonostante la vacanza in Svezia due mesi fa , sono stato anch' io molto impegnato nell' ultimo periodo . A lavoro stanno arrivando continuamente nuovi progetti . E per il corso d' italiano ho dovuto studiare moltissimo . Farò proprio oggi l' esame . Sono un po' nervoso , ma penso andrà bene . Se cercassi un lavoro in Città Y , ti consiglierei di cominciare presto per trovare un posto per l' estate . Da maggio arrivano i turisti e gli alberghi cercano adesso personale . Ma , mi dispiace , non conosco un albergo in particolare . Speriamo che troverà un lavoro a Città Y e potremo vederci in estate ! Tanti saluti , Michele
+
+----------------
+
+No target hypothesis 2 available.
+

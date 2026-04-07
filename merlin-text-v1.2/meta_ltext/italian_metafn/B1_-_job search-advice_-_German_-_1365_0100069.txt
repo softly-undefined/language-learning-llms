@@ -1,0 +1,31 @@
+METADATA
+
+General:
+Author ID: 1365_0100069
+Test language: Italian
+CEFR level of test: B1
+Task : help a friend who is looking for work after school-leaving exam - ID: 1365_040501
+Mother tongue: German
+Age: 23
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: A2
+Orthography: C1
+Vocabulary range: B1
+Vocabulary control: B2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Città X, 18.01.10
+Caro Francesco
+Ti ringrazio per la tua lettera que ho ricevuto ieri. Sono molto felice da sentire da te.
+Bravissimo! Sei molto bravo!
+Nell'ultimo periodo io ho lavorato molto. Non ho fatto qualche cosa interessante... Ho fatto solo l'esame per l'Inglese è l'ho superato anche con il massimo dei voti! Sì, à Calabria ho conosco un albergo molto bello. Tu può mandarne il tuo curriculum è per chiedere l'indirizzo giusto tu può telefonare sul numero: 0345-11111111. Si tu bisogni altri informazioni tu può scriverme anche un SMS. Sono molto contento con te! Ti auguri un splendido periodo.
+Tanti bacci e tanti saluti.
+Il tuo padre

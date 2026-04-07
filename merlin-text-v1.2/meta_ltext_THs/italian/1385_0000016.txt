@@ -1,0 +1,39 @@
+METADATA
+
+General:
+Author ID: 1385_0000016
+Test language: Italian
+CEFR level of test: A1
+Task : help a friend who is looking for work - ID: 1385_040101
+Mother tongue: German
+Age: 34
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: B1
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Ciao Michele
+grazie per la tua ..... . Puoi dirme che cosa hai lavorato fine adesso? Vorrei sapere si vuoi lavorare la stessa professione o qual que altro lavoro?!? E anche mi puoi dirmi quando vorei  chomincare a lavorare?
+Cari saluti
+Michele
+
+----------------
+
+Target hypothesis 1: 
+
+Ciao Michele , grazie per la tua ..... . Puoi dirmi che cosa hai lavorato fino adesso ? Vorrei sapere se vuoi lavorare la stessa professione o qualche altro lavoro . E mi puoi dire anche quando vorresti cominciare a lavorare ? Cari saluti Michele
+
+----------------
+
+No target hypothesis 2 available.
+

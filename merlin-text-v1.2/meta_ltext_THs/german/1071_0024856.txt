@@ -1,0 +1,40 @@
+METADATA
+
+General:
+Author ID: 1071_0024856
+Test language: German
+CEFR level of test: A1
+Task : congratulate to birth of child - ID: 1071_030101
+Mother tongue: Polish
+Age: 22
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Liebe Jens!
+Wie geht es die? Ich Glückwünsche mi meine Mann, bist du Vater :) Ich Vroümlich :) Wie ist Vorname die kleine Babys? Ist das Menchen oder Jung? Wie es deine Frau und die Mutter des Babys geht? Das ist schne information wirdklich! Antworten Sie Bitte und Noch mall Froümlich.
+Viel Glück :)
+Tschus! 
+
+----------------
+
+Target hypothesis 1: 
+
+Lieber Jens ! Wie geht es dir ? Ich und mein Mann senden Glückwünsche , du bist Vater : ) Ich freue mich : ) Wie ist der Vorname des kleinen Babys ? Ist es ein Mädchen oder ein Junge ? Wie geht es deiner Frau und der Mutter des Babys ? Das ist eine schöne Information , wirklich ! Antworten Sie bitte und nochmal , ich freue mich . Viel Glück : ) Tschüss !
+
+----------------
+
+Target hypothesis 2: 
+
+Lieber Jens ! Wie geht es dir ? Ich und mein Mann senden Glückwünsche , du bist Vater : ) Ich freue mich : ) Wie ist der Name des kleinen Babys ? Ist es ein Mädchen oder ein Junge ? Wie geht es deiner Frau , der Mutter des Babys ? Das ist eine schöne Neugikeit , wirklich ! Antworte bitte und nochmal , ich freue mich . Viel Glück : ) Tschüss !

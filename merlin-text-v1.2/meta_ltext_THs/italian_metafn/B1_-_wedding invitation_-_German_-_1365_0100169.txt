@@ -1,0 +1,46 @@
+METADATA
+
+General:
+Author ID: 1365_0100169
+Test language: Italian
+CEFR level of test: B1
+Task : answer to an wedding invitation - ID: 1365_020300
+Mother tongue: German
+Age: 19
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: C2
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Beatrice Russo 
+Via San Marco, 56
+20138 Milano 
+
+Città X, 14.5.11
+Cara Beatrice, 
+Come stai? 
+Ho ricevuto il vostro invito - mille grazie! Mi piacerebbe molto andare al ristorante von voi e i vostri parenti ed amici. Ma io non posso andare perché non vuole lasciare  mia bambina a casa e la baby-sitter non ha tempo per occuparla. Scusami, per favore! Ma certo visiterò la cerimonia! Sarò nella chiesa alle 17.00. Forse avrei bisgona di aiuto. Dimmi, cosa posso regalare? Hai una idea? Perché non vorrei realarti qualcosa che di non hai bisogno. 
+Beatrice, tanti auguri per voi!
+A presto, un grande abbraccio, 
+La tua amica Maria
+
+----------------
+
+Target hypothesis 1: 
+
+Beatrice Russo Via San Marco , 56 20138 Milano Città X , 14.5.11 Cara Beatrice , come stai ? Ho ricevuto il vostro invito - mille grazie ! Mi piacerebbe molto andare al ristorante con voi e i vostri parenti e amici . Ma io non posso andare perché non voglio lasciare la mia bambina a casa e la baby-sitter non ha tempo per occuparsene . Scusami , per favore ! Ma certo visiterò la cerimonia ! Sarò nella chiesa alle 17.00 . Forse avrei bisgono di aiuto . Dimmi , cosa posso regalarti ? Hai un' idea ? Perché non vorrei regalarti qualcosa di cui non hai bisogno . Beatrice , tanti auguri a voi ! A presto , un grande abbraccio , La tua amica Maria
+
+----------------
+
+No target hypothesis 2 available.
+

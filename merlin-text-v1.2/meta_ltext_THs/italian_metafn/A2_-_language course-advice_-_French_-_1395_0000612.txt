@@ -1,0 +1,40 @@
+METADATA
+
+General:
+Author ID: 1395_0000612
+Test language: Italian
+CEFR level of test: A2
+Task : inform friends about language course - ID: 1395_010300
+Mother tongue: French
+Age: 53
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A1
+Vocabulary range: A1
+Vocabulary control: A1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+                                      Città X, Martedi 12 gennaio 2010 
+Cari Amici, 
+Stiamo facendo un corso d'Italiano a la scuola di Firenze: la nostra insegnante è molta agradable. Come lo savete stiamo partiti in Italia per imparare meglio la lingua perque queste estate vogliamo a pasare qualque giorno a Città X. Clara, la nostra insegnante, è contenta perqué le studiente lavorano bene. Stiamo diece studiente: otto donne e due signore. 
+Loggiamo in un collegio dove si mangia e si dorme bene. La sera visitamo un po' la citta. 
+Vi lo dirò. Bacio a tutti. Maria
+
+----------------
+
+Target hypothesis 1: 
+
+Città X , martedì 12 gennaio 2010 Cari amici , stiamo facendo un corso d' italiano alla scuola di Firenze e la nostra insegnante è molto piacevole . Come sapete siamo partiti in Italia per imparare meglio la lingua perché quest' estate vogliamo passare qualche giorno a Città X . Clara , la nostra insegnante , è contenta perché gli studenti lavorano bene . Siamo dieci studenti : otto donne e due signore . Alloggiamo in un collegio dove si mangia e si dorme bene . La sera visitiamo un po' la città . Ve lo dirò . Un bacio a tutti . Maria
+
+----------------
+
+No target hypothesis 2 available.
+

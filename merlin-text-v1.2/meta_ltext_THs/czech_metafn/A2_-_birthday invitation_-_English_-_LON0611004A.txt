@@ -1,0 +1,40 @@
+METADATA
+
+General:
+Author ID: LON0611004A
+Test language: Czech
+CEFR level of test: A2
+Task : answering on a birthday invitation - ID: A2PS0102_oslava
+Mother tongue: English
+Age: 4049
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Mila Evo, 
+dekuji moc za tvuj heske dopis a tvoje pozvat. Určítě pujdu na tvoje narozeniny. Mam jenom dvě nebo tři otazky. Prosim napišu mně coje kde bude tvuj oslavy a kolik hodin bude zeptat? Neznam tvoje město a proto prosim napíšu me budou neco lidé je znám? bude jenom tvuje rodiny nebo tvoje kamaradý taki? Koho budu znat? Čekam na tvoje dopis 
+mejse hezky 
+Tomáš 
+
+----------------
+
+Target hypothesis 1: 
+
+Milá Evo , děkuji moc za tvůj hezký dopis a tvoje pozvání . Určitě půjdu na tvoje narozeniny . Mám jenom dvě nebo tři otázky . Prosím napiš mně , kde bude tvoje oslava a v kolik hodin bude ? Neznám tvoje město , a proto mi prosím napiš , zda tam budou nějací lidé , které znám . Bude tam jenom tvoje rodina , nebo taky tvoji kamarádi ? Koho budu znát ? Čekám na tvůj dopis , měj se hezky , Tomáš
+
+----------------
+
+Target hypothesis 2: 
+
+Milá Evo , děkuji moc za tvůj hezký dopis a tvoje pozvání . Určitě půjdu na tvoje narozeniny . Mám jenom dvě nebo tři otázky . Prosím napiš mně , kde bude tvoje oslava a v kolik hodin bude ? Neznám tvoje město , a proto mi prosím napiš , zda tam budou nějací lidé , které znám . Bude tam jenom tvoje rodina , nebo taky tvoji kamarádi ? Koho budu znát ? Čekám na tvůj dopis , měj se hezky , Tomáš

@@ -1,0 +1,29 @@
+METADATA
+
+General:
+Author ID: 1395_0001090
+Test language: Italian
+CEFR level of test: A2
+Task : inform friends about language course - ID: 1395_010300
+Mother tongue: French
+Age: 46
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Cara Pia,
+come stai? Da me tutto va bene. Come tu lo sai, mi trova per un mese a Città X. Seguo un corso intensivo per imparare l'italiano. L'orario per le lezione è molto interessante, i corsi hanno luogo dalle nove all'una. Così ho molto tempo libero. Nel pomeriggio faccio i compiti sulla terrazza di un caffé, dopo faccio passegiatte in questa bella città, vado anché in musei. 
+Allora ci vediamo in settembre a Città X, così posso racontarti la mia esperienza. 
+Saluti e baci.
+Maria 

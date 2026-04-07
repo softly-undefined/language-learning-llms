@@ -1,0 +1,30 @@
+METADATA
+
+General:
+Author ID: 1071_0248336
+Test language: German
+CEFR level of test: A1
+Task : arrange appointment with friend to go swimming together - ID: 1071_120302
+Mother tongue: Spanish
+Age: 27
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A1
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Hallo Dani, wie geh´s dir?
+was machst du Morgen? Ich möchte zum Schwimmbad gehen, 
+kommst du mit mir? Wir können erste mittagessen haben bei mir. Um 13:oo uhr ist OK?
+Bring ein Handtuch, Sonnebrille und diene kleine Bikini.
+Bis Morgen meeine Liebe
+Maria

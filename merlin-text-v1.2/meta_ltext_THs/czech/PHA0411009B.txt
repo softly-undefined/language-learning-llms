@@ -1,0 +1,37 @@
+METADATA
+
+General:
+Author ID: PHA0411009B
+Test language: Czech
+CEFR level of test: A2
+Task : describe a photo: swimming in the sea - ID: A2PS0202_more
+Mother tongue: Russian
+Age: 4049
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Na fotográfii jsou jeden můž a jeho dítě, hrajou v moři. Myslím, že rodina má dovolenou. Kazdy den plavají, opalovají se a hrajou na slnce. Mají na sobě jen plavky, protože je teplo. Je jim dobře, protože je leto, je dovolená. Matka nejspíš na pláži čte nějakou knihu. Otec je sportověc, učí dítě plavat. Má na sobě slunečné brily. Může být hned budou mluvit kam půjdou obědvat nebo kam půjdou na procházku dneska večer. A nebo už zítra musí jed domu?
+
+----------------
+
+Target hypothesis 1: 
+
+Na fotografii jsou jeden muž a jeho dítě , hrajou si v moři . Myslím , že rodina má dovolenou . Každý den plavou , opalují se a hrajou si na slunci . Mají na sobě jen plavky , protože je teplo . Je jim dobře , protože je léto , je dovolená . Matka nejspíš na pláži čte nějakou knihu . Otec je sportovec , učí dítě plavat . Má na sobě slunečné brýle . Může být , že hned budou mluvit o tom , kam půjdou obědvat nebo kam půjdou na procházku dneska večer . A nebo už zítra musí jet domů ?
+
+----------------
+
+Target hypothesis 2: 
+
+Na fotografii jsou jeden muž a jeho dítě , hrajou si v moři . Myslím , že rodina má dovolenou . Každý den plavou , opalují se a hrajou si na slunci . Mají na sobě jen plavky , protože je teplo . Je jim dobře , protože je léto , je dovolená . Matka nejspíš na pláži čte nějakou knihu . Otec je sportovec , učí dítě plavat . Má na sobě sluneční brýle . Může být , že teď budou mluvit o tom , kam půjdou obědvat nebo kam půjdou na procházku dneska večer . A nebo už zítra musí jet domů ?

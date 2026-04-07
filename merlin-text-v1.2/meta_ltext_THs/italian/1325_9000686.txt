@@ -1,0 +1,45 @@
+METADATA
+
+General:
+Author ID: 1325_9000686
+Test language: Italian
+CEFR level of test: B2
+Task : inform oneself about an aid project - ID: 1325_010300-1
+Mother tongue: Spanish
+Age: 74
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B2
+Orthography: B2
+Vocabulary range: B2
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Solidarietà Viva                                         Città X
+Viale Bruzzi 117
+21203 Milano
+Michele Rossi 
+Strada Maggiore 24
+12345 Città X
+Egregi Signori,
+Una settimana fa durante il viaggio da Madrid a Città X, ho potuto leggere nel giornale "Corriere della Sera" il Vostro annuncio sul posto di lavoro durante alcuni giorni dei campi estivi. Penso che queste tipo di lavoro potrebbe essere interessante per me, poiché io sono pensionata. Ho tempo tutti sufficiente  da fare questo lavoro.
+Vi voglio dare alcune informationi sulla mia persona. Sono pensionato come ho detto, sono laureato in cienza ambientale ed anche in economia. Ho sperenzie in lavori simile. Penso che una cosa sarebbe importante in questo tipo di lavoro, cioè avere conoscimenti nella materia, come è nell mio caso. Poiché sono pensionato, sto sempre a dispositione. L'estate potrebbe essere una buona occassione per queste tipo di lavoro. Vi vorrei informare anche che non bisogero d'avere soldi, solamente mi piacerebbe de poter avere un'albergo senza costi. Per finire questo scritto, vi voglio informare che parlo bene Spagnolo Tedesco, Anglese, Portoghese e italiano. Alla attesa di Vostra risposta, vogliate gradiri i miei distinti saluti.
+Michele Rossi 
+
+----------------
+
+Target hypothesis 1: 
+
+Solidarietà Viva Città X Viale Bruzzi 117 21203 Milano Michele Rossi Strada Maggiore 24 12345 Città X Egregi Signori , una settimana fa , durante il viaggio da Madrid a Città X , ho potuto leggere nel giornale "Corriere della Sera" il Vostro annuncio per il posto di lavoro per alcuni giorni durante i campi estivi . Penso che questo tipo di lavoro potrebbe essere interessante per me , poiché io sono pensionato . Ho tempo sufficiente per fare questo lavoro . Vi voglio dare alcune informationi sulla mia persona . Sono pensionato come ho detto , sono laureato in scienza ambientale e anche in economia . Ho esperienza in lavori simili . Penso che una cosa sarebbe importante in questo tipo di lavoro , cioè avere conoscimenti in materia , come è nel mio caso . Poiché sono pensionato , sto sempre a disposizione . L' estate potrebbe essere una buona occasione per questo tipo di lavoro . Vi vorrei informare anche che non ho bisogno di avere soldi , solamente mi piacerebbe poter avere un albergo senza costi . Per finire questo scritto , Vi voglio informare che parlo bene spagnolo , tedesco , inglese , portoghese e italiano . In attesa di una Vostra risposta , vogliate gradire i miei distinti saluti . Michele Rossi
+
+----------------
+
+No target hypothesis 2 available.
+

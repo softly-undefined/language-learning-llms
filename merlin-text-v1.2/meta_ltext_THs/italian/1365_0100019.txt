@@ -1,0 +1,47 @@
+METADATA
+
+General:
+Author ID: 1365_0100019
+Test language: Italian
+CEFR level of test: B1
+Task : answer to an wedding invitation - ID: 1365_020300
+Mother tongue: Arabic
+Age: 44
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: C1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Maria Rossi
+Strada Maggiore
+France
+15 Marzo, 2010
+Cari Beatrice e Stefano
+Prima voglio dirsi Tanti Auguri per vostre matrimoniale
+Sono contenti per sentito questa notizia, e con piacere vengero per la ceremonia e la ristorante.
+Voleva sapere se avete una lista di nocce ma a la fino ho decidato e meillore con i soldi, cosi comprete che volete
+Ancora Tanti Auguri e sono molto content per voi.
+Ne se vedere in 3 mesi
+molti baci e abbracci per le due.
+Maria
+
+----------------
+
+Target hypothesis 1: 
+
+Maria Rossi Strada Maggiore Francia 15 marzo 2010 Cari Beatrice e Stefano , prima voglio dirvi tanti auguri per il vostro matrimonio . Sono contenti di aver sentito questa notizia e con piacere verrò per la cerimonia e al ristorante . Voleva sapere se avete una lista di nozze ma alla fine ho deciso che è meglio con i soldi , così comprate quello che volete . Ancora tanti auguri , sono molto contenta per voi . Ci si vede fra 3 mesi . Molti baci e abbracci per voi due . Maria
+
+----------------
+
+No target hypothesis 2 available.
+

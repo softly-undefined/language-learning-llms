@@ -1,0 +1,37 @@
+METADATA
+
+General:
+Author ID: 0828
+Test language: Czech
+CEFR level of test: B1
+Task : answer to the email of Alena - ID: 1_Alena
+Mother tongue: German
+Age: not reported
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+18.07.2008
+Ahoj Aleno,
+
+radoval jsem se moc z tveho emailu, který jsa dos-ambiguous-al minulý týden.
+Teď nemám moc čas, protože musím psát diplomku. Je to moc práce. Ale v dubnu budu mít čas.
+Těším se na tvou návštěvu v městě X.  Rád pozvam Tě do mého doma.  V kolik hodin  na nádraží? Můžu jít pro tebe tam!
+Kdy je prázdniný kurz, a kolik to stojí? To je zajímavý, ale ještě nevím, zda budu mít čas. poslat tento inzerát, prosím?  Doufám, že můzu jet do České republiky.
+Teď musím ukončit email, protože mám moc práce, kterou musím dokončit dneska.
+
+Měj se hezky, a zatím ahoj.
+
+
+Tvůj Martin

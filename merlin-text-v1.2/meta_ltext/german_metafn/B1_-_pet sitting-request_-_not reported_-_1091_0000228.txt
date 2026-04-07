@@ -1,0 +1,28 @@
+METADATA
+
+General:
+Author ID: 1091_0000228
+Test language: German
+CEFR level of test: A2
+Task : ask friend to take care of pet - ID: 1091_0650102
+Mother tongue: not reported
+Age: 27
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Liebe Katharina,
+3. April ist Geburtstag von meiner Mutter, dass ich nach Stadt X fahren muss, aber ich habe einen Hund. Sein Name ist Waldi, könnste du Waldi mitnehmen? Keine Panik, er ist Nett und ordenlich, nur um 17 Uhr spazierst du mit Waldi, am Abend 2. April gibst du meinen Schlüssel von meinem Haus, ich hoffe ihr habt eine schöne Zeit.
+deiner Stefan
+Stefan

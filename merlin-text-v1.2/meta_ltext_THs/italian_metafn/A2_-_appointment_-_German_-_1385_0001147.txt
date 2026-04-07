@@ -1,0 +1,40 @@
+METADATA
+
+General:
+Author ID: 1385_0001147
+Test language: Italian
+CEFR level of test: A1
+Task : reschedule an appointment - ID: 1385_020100
+Mother tongue: German
+Age: 38
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Salve Daniele,
+Come stai?
+Oggi, è una settimana orribile. In ufficio c'é molto lavoro e giovedì pomeriggio non posso bevere un café con te. Mi dispiace. Ma hai tempo il prossimo sabato sera? Ho un buon idea. Andiamo a cena in un ristorante tailandese. Ti aspetto alle 8 hora di sera avanti il tabacco di Giovanni Va bene cosí?
+Grazia per la tua compressione.
+Michele
+
+----------------
+
+Target hypothesis 1: 
+
+Salve Daniele , come stai ? Oggi è una settimana orribile . In ufficio c' è molto lavoro e giovedì pomeriggio non posso bere un caffè con te . Mi dispiace . Ma hai tempo il prossimo sabato sera ? Ho una buona idea . Andiamo a cena in un ristorante tailandese . Ti aspetto alle ore 8 di sera davanti al tabacco di Giovanni . Va bene così ? Grazie per la tua comprensione . Michele
+
+----------------
+
+No target hypothesis 2 available.
+

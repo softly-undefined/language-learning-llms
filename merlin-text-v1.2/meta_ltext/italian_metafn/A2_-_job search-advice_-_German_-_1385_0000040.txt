@@ -1,0 +1,29 @@
+METADATA
+
+General:
+Author ID: 1385_0000040
+Test language: Italian
+CEFR level of test: A1
+Task : help a friend who is looking for work - ID: 1385_040101
+Mother tongue: German
+Age: 55
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Caro Francesco,
+In quale compania lavoro adesso? Quanto tempo ha lavorato fai in questa compania?
+ti piace lavorare da solo o in gruppo? Che lavoro ti piace di piú a casa o fuori? Dimmi è possibile per te lavorare prossimo settimana giá?
+Tanti saluti 
+Michele

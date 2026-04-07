@@ -1,0 +1,36 @@
+METADATA
+
+General:
+Author ID: 1385_0000013
+Test language: Italian
+CEFR level of test: A1
+Task : help a friend who is looking for work - ID: 1385_040101
+Mother tongue: German
+Age: 52
+Gender: male
+
+Rating:
+Overall CEFR rating: A1
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A1
+
+----------------
+
+Learner text: 
+
+Puoi dirmi dove lavori adesso e che tipo di lavoro ti piaccerebbe? Anche  quando tu vorresti cominciare?
+
+----------------
+
+Target hypothesis 1: 
+
+Puoi dirmi dove lavori adesso e che tipo di lavoro ti piacerebbe ? Anche quando tu vorresti cominciare .
+
+----------------
+
+No target hypothesis 2 available.
+

@@ -1,0 +1,39 @@
+METADATA
+
+General:
+Author ID: 1385_0000053
+Test language: Italian
+CEFR level of test: A1
+Task : help a friend who is looking for work - ID: 1385_040101
+Mother tongue: German
+Age: 50
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: B1
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Ciao amico
+grazie per la tua email. Vorrei aiutarti, ma bisogno di qualche informazione in più Puoi dirmi a questa dita hai lavorato in tempo scorso e che chosa hai fatto? Anche vorrei sapere che tipo di lavoro ti piace, preferici lavoro tecnico o lavoro i ufficio? Sai lingue diverse?
+Potresti cominciare subito o hai un lavoro fisso ancora
+apresto Michele
+
+----------------
+
+Target hypothesis 1: 
+
+Ciao amico , grazie per la tua email . Vorrei aiutarti , ma ho bisogno di qualche informazione in più . Puoi dirmi per quale ditta hai lavorato nel tempo scorso e che cosa hai fatto ? Vorrei sapere anche che tipo di lavoro ti piace . Preferisci il lavoro tecnico o il lavoro in ufficio ? Sai lingue diverse ? Potresti cominciare subito o hai ancora un lavoro fisso ? a presto Michele
+
+----------------
+
+No target hypothesis 2 available.
+

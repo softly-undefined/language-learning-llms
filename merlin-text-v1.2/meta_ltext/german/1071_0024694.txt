@@ -1,0 +1,31 @@
+METADATA
+
+General:
+Author ID: 1071_0024694
+Test language: German
+CEFR level of test: A1
+Task : ask friend for help for finding apartment - ID: 1071_020200
+Mother tongue: Arabic
+Age: 68
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: A2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+                                                        8.3.2012
+Lieber Ingo,
+weißt du, dass ich habe eine neue Arbeit im Neuburg gefunden.
+Leider ich habe keine Zeit. Ich kann nicht eine Wohnung suchen. Auch meine Frau hat keine Zeit. Sie hat viele Arbeit. Jeder Tag holt sie Kinder zur Schule ab, dann geht sie von Arbeit. Am nachmittag muss sie einkaufen.
+Könntst du mir bitte helfen, und eine gruße Wohnung finden. Wenn du suchst bitte ruf mich an schnell, weil ich den. 1.7.2012 anfangen muss
+liebe Grüeße
+Friedrich

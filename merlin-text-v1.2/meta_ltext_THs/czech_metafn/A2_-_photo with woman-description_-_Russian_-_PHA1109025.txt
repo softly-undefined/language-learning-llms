@@ -1,0 +1,37 @@
+METADATA
+
+General:
+Author ID: PHA1109025
+Test language: Czech
+CEFR level of test: A2
+Task : describe a photo: woman sitting at the window - ID: A2PS0200_zena
+Mother tongue: Russian
+Age: 2029
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: B1
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Na obrázku vidím ženu. Je to profesorka paní Svobodová. Je na univerzite v knihovne. Paní Svobodová bydly v Praze v ulici Pražská. Paní Svobodová je moc chitra a prácuje na univerzite na ekonomicke fakulte. Je jí 50 let. Vystudovala postgradualný studium v Americe. Je vdaná, má syna a dceru. Planue na vylet s deti a manželem v přištý vikend. Moc ráda chte ekonomickou literaturu. Na procházku chodi do nabřeži Vltavy. Ma psa a kočku. Její pes se jmenuje Rex a kočka se jmenuje Ela.  
+
+----------------
+
+Target hypothesis 1: 
+
+Na obrázku vidím ženu . Je to profesorka paní Svobodová . Je na univerzitě v knihovně . Paní Svobodová bydlí v Praze v ulici Pražská . Paní Svobodová je moc chytrá a pracuje na univerzitě na ekonomické fakultě . Je jí 50 let . Vystudovala postgraduální studium v Americe . Je vdaná , má syna a dceru . Plánuje výlet s dětmi a manželem příští víkend . Moc ráda čte ekonomickou literaturu . Na procházku chodí na nábřeží Vltavy . Má psa a kočku . Její pes se jmenuje Rex a kočka se jmenuje Ela .
+
+----------------
+
+Target hypothesis 2: 
+
+Na obrázku vidím ženu . Je to profesorka paní Svobodová . Je na univerzitě v knihovně . Paní Svobodová bydlí v Praze v ulici Pražská . Paní Svobodová je moc chytrá a pracuje na univerzitě na ekonomické fakultě . Je jí 50 let . Vystudovala postgraduální studium v Americe . Je vdaná , má syna a dceru . Plánuje výlet s dětmi a manželem příští víkend . Moc ráda čte ekonomickou literaturu . Na procházku chodí na nábřeží Vltavy . Má psa a kočku . Její pes se jmenuje Rex a kočka se jmenuje Ela .

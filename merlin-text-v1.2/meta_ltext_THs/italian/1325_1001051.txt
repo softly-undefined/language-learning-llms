@@ -1,0 +1,52 @@
+METADATA
+
+General:
+Author ID: 1325_1001051
+Test language: Italian
+CEFR level of test: B2
+Task : describe experiences with language learning - ID: 1325_040300-1
+Mother tongue: Hungarian
+Age: 26
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: C1
+Vocabulary range: B2
+Vocabulary control: B2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Maria Rossi
+Strada Maggiore, 12345
+Città X, 12345
+UNGARIA
+GABRIELLA FAVATI
+UNIVERSITÀ DEGLI STUDI DI PAVIA
+CORSO STRADA NUOVA, 65
+27100 PAVIA
+ITALIA
+Cara Gabriella Favati,
+Vorrei dispiegare la mia esperienza di lingue straniere per ricerca.
+Io ho cominciato studiare italiano al liceo, ma solo due lezioni per settimana. Mi è piaciuta lingua, ma non ho  saputo parlare.
+Dopo circa tre anni, sono andata a Firenze per lavorare. Ho lavorato una casa di riposo come volontaria a pomeriggio e la sera ho lavorato un bar. Ho dovuto parlare italiano, e lo dovuto capire questa lingue, perchè se non ho capito, come ho fatto il caffe per italiani?
+Dopo un anno sono andata a Camerino. Ho studiato all'università di Camerino anche una scuola di lingua italiana per stranieri. Allora ho studiato lingua anche pomeriggio e anche la sera. Quando sono uscito io ho parlato italiano. Mi è piaciuta tanto.
+Secondo me questo studio bene, se qualcosa vuole studiare lingue straniera!
+I professori, ché aiutano per studenti, sono sempre buoni in Italia.
+Buona giornata, Maria Rossi
+
+----------------
+
+Target hypothesis 1: 
+
+Maria Rossi Strada Maggiore , 12345 Città X , 12345 UNGARIA GABRIELLA FAVATI UNIVERSITÀ DEGLI STUDI DI PAVIA CORSO STRADA NUOVA , 65 27100 PAVIA ITALIA Cara Gabriella Favati , vorrei dispiegare la mia esperienza con le lingue straniere per la ricerca . Io ho cominciato a studiare italiano al liceo , ma solo due lezioni per settimana . Mi è piaciuta la lingua , ma non sapevo parlare . Dopo circa tre anni , sono andata a Firenze per lavorare . Ho lavorato in una casa di riposo come volontaria nel pomeriggio e la sera ho lavorato in un bar . Dovevo parlare italiano e dovevo capire questa lingua , perché se non capivo , come facevo il caffè per gli italiani ? Dopo un anno sono andata a Camerino . Ho studiato all' università di Camerino e anche in una scuola di lingua italiana per stranieri . Allora ho studiato la lingua anche il pomeriggio e la sera . Quando sono uscito io ho parlato italiano . Mi è piaciuta tanto . Secondo me questo studio va bene se qualcosa vuole studiare le lingue straniere ! I professori che aiutano gli studenti , sono sempre buoni in Italia . Buona giornata , Maria Rossi
+
+----------------
+
+No target hypothesis 2 available.
+

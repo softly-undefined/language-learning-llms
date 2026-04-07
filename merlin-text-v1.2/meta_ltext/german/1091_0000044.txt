@@ -1,0 +1,30 @@
+METADATA
+
+General:
+Author ID: 1091_0000044
+Test language: German
+CEFR level of test: A2
+Task : letter to housing office - ID: 1091_0610301
+Mother tongue: Russian
+Age: 62
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A1
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A1
+Coherence/Cohesion: A1
+Sociolinguistic appropriateness: A1
+
+----------------
+
+Learner text: 
+
+Sehr geerte Damen und Herren,
+ich heiße Frau Winkelmann, ich suche andere Wohnung für mich, weil meine Wohnung zu groß ist.
+Ich suche 2 Zimmer Wohnung, ungefähr 55 ca., mit Balkon oder Terrasse und Garage.
+Die Miete muss nicht höhe. als 450 Euro warm sein. und in fern von Stadtzentrum z.B. in Stadtteil X oder am Stadtgraben.
+Mit freundlichen Grüßen
+Maria Winkelmann

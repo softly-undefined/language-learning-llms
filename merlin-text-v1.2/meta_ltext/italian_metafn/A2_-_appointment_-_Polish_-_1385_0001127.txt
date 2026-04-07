@@ -1,0 +1,27 @@
+METADATA
+
+General:
+Author ID: 1385_0001127
+Test language: Italian
+CEFR level of test: A1
+Task : reschedule an appointment - ID: 1385_020100
+Mother tongue: Polish
+Age: 60
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Caro Daniele è una settimana orribile. In ufficio c'è molto lavoro e giovedi pomeriggio non posso venire da te, perche il mio capo ha organizzato una riunione giovedi pomeriggio. Forse ci vediamo sabato sera che ne dici? Io sono libera tutta la giornata. Possiamo andare a cena in un ristorante tailandese. Li si mangia bene.
+Forse vengono anche i miei coleghi, facciamo una bella serale insieme. Prego di telefonarmi domani sera, sarò a casa.
+Tua amica Maria

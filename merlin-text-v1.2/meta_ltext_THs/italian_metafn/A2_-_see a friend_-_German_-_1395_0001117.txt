@@ -1,0 +1,42 @@
+METADATA
+
+General:
+Author ID: 1395_0001117
+Test language: Italian
+CEFR level of test: A2
+Task : go see a friend - ID: 1395_040101
+Mother tongue: German
+Age: 26
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+                                                                          18.10.2011 
+Cara Cristiana
+Come stai? E come sta tua famiglia? Spero che tutti stiano bene?!  Voglio di andare da te in Italia. Ho una settimana di vacanze (dal 10 al 17.11.11)   in novembre, puoi prendere anche due o tre giorni di vacanze? E hai voglia di vedermi tua città? Com'è tua città? C'è una discoteca per uscire la sera? O che cosa possimo fare la sera? Posso dormire e rimanere da te per sei notte? 
+Grazie molto e aspetto tua risposta 
+Baci
+   Maria
+
+----------------
+
+Target hypothesis 1: 
+
+18.10.2011 Cara Cristiana , come stai ? E come sta la tua famiglia ? Spero che tutti stiano bene ? ! Voglio andare da te in Italia . Ho una settimana di vacanze ( dal 10 al 17.11.11 ) in novembre , puoi prendere anche tu due o tre giorni di vacanze ? E hai voglia di vedermi la tua città ? Com' è la tua città ? C' è una discoteca per uscire la sera ? O che cosa possiamo fare la sera ? Posso dormire e rimanere da te per sei notti ? Grazie molte e aspetto la tua risposta . Baci Maria
+
+----------------
+
+Target hypothesis 2: 
+
+18.10.2011 Cara Cristiana , come stai ? E come sta la tua famiglia ? Spero che tutti stiano bene ? ! Voglio venire da te in Italia . Ho una settimana di vacanze ( dal 10 al 17.11.11 ) in novembre , puoi prendere anche tu due o tre giorni di vacanze ? E hai voglia di mostrarmi la tua città ? Com' è la tua città ? C' è una discoteca per uscire la sera ? O che cosa possiamo fare la sera ? Posso dormire e rimanere da te per sei notti ? Grazie molte e aspetto la tua risposta . Baci Maria

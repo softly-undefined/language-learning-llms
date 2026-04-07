@@ -1,0 +1,41 @@
+METADATA
+
+General:
+Author ID: 1395_0000583
+Test language: Italian
+CEFR level of test: A2
+Task : inform friends about language course - ID: 1395_010300
+Mother tongue: French
+Age: 34
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Cari Paolo e Marco, 
+                                                                               Città X, le 12 Gennaio 
+Sono a Città X per seguire un corso d'italiano al fino 16 Marzo. I miei insegnanti Daniela e Nicoletta, sono molto gentille. I miei orari sono buoni perché commincio alle otto e mezzo a Mezzogiorno. Faccio una pausa  fino la due meno un quarto -symbol- e dopo finisco alle quatro un quarto . Seguo con mia amica Maria, la ragazza che lavoro con me all'albergo "Myosotis". Tutte le sere usciamo in il contro della cittá per la visitare. Città X é una cittá molto grande e magnifica. C'é sempre qualcosa a fare. Mi sono fatto molti amici. Spero che stanno bene.
+Tanti cari saluti
+                                                                 Eva
+
+----------------
+
+Target hypothesis 1: 
+
+della Città X , 12 Gennaio Cari Paolo e Marco , sono a Città X per seguire un corso d' italiano fino al 16 marzo . Le mie insegnanti Daniela e Nicoletta sono molto gentili . I miei orari sono buoni perché comincio dalle otto e mezzo a mezzogiorno . Faccio una pausa fino alle due meno un quarto -symbol- e dopo finisco alle quattro e un quarto . Seguo con la mia amica Maria , la ragazza che lavora con me all' albergo " Myosotis " . Tutte le sere usciamo nel centro città per visitarla . Città X è una città molto grande e magnifica . C' è sempre qualcosa da fare . Mi sono fatto molti amici . Spero che stiano bene . Tanti cari saluti Eva
+
+----------------
+
+Target hypothesis 2: 
+
+Città X , 12 Gennaio Cari Paolo e Marco , sono a Città X per seguire un corso d' italiano fino al 16 marzo . Le mie insegnanti Daniela e Nicoletta sono molto gentili . I miei orari sono buoni perché lavoro dalle otto e mezzo a mezzogiorno . Faccio una pausa fino alle due meno un quarto -symbol- e dopo finisco alle quattro e un quarto . Seguo con la mia amica Maria , la ragazza che lavora con me all' albergo " Myosotis " . Tutte le sere usciamo nel centro della città per visitarla . Città X è una città molto grande e magnifica . C' è sempre qualcosa da fare . Mi sono fatto molti amici . Spero che stiano bene . Tanti cari saluti Eva

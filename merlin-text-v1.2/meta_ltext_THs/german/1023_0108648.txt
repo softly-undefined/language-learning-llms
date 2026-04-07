@@ -1,0 +1,53 @@
+METADATA
+
+General:
+Author ID: 1023_0108648
+Test language: German
+CEFR level of test: B2
+Task : Au pair writes letter of complaint to Agency - ID: 1023_100303
+Mother tongue: other
+Age: 31
+Gender: female
+
+Rating:
+Overall CEFR rating: B2
+Grammatical accuracy: B2
+Orthography: C1
+Vocabulary range: B2
+Vocabulary control: B1
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: B2
+
+----------------
+
+Learner text: 
+
+Maria Meier
+Bahnhofsstraße 12
+12345 Stadt X
+ 
+Au-pair-Agentur Schhultz & Partner
+Regenstr. 101
+90451 Nürnberg
+ 
+Stadt X, 18. Juli 1011
+ 
+Rückerstattung von den Servicegebühr 
+
+Sehr geehrte Damen und Herren,
+ich habe etwa ein Vierteljahr bei einer Gastfamilie in Deutschland durch Ihren Au-pair-Agentur verbracht. Ich habe Ihre Werbeanzeige in der Zeitung gelesen welcher meine große Interresse geweckt hat. Ich möchte durch ein Au-pair Programm in Deutschland meine Sprachkenntnisse in Deutsch erweitert und neue Lebenserfahrung zu sammeln. Ich muss erwähnen, dass bin ich in Deutschland von 15. April bis 30. Juni gebliebt. Doch leider wurde ich zu Beginn sehr enttäuscht. Mein Unterkunft war in eine italienische Familie, welchen sprechen nur Italienisch zu Hause. In dieser Situation war unmöglich Deutsch zu lernen und verbessern. Wegen diesen Grund war ich mit meiner Situation sehr unzufrieden. Auch Ihre Betreuung durch die Agentur entspricht in keiner Weise den Vertragsbedingungen. Meine Erwartung von dieser Au pair Program und Ihrer Hilfe war sehr hoch, aber in der Wirklichkeit haben fast alles von versprochenen Angaben nicht gestimmt.
+Aus den angegebenen Gründen fordere ich eine Entschädigung. Bitte zahlen mir mindestens 50 % des Geldes zurück, was ich für ihren Service bezählt habe. Da ich ansonsten gerichtlichen gegen Sie vorgehen werde.
+Mit freundlichen Grüssen
+Maria Meier
+
+----------------
+
+Target hypothesis 1: 
+
+Maria Meier Bahnhofsstraße 12 12345 Stadt X Au-pair-Agentur Schultz & Partner Regenstr . 101 90451 Nürnberg Stadt X , 18 . Juli 2011 Rückerstattung von der Servicegebühr Sehr geehrte Damen und Herren , ich habe etwa ein Vierteljahr bei einer Gastfamilie in Deutschland durch Ihre Au-pair-Agentur verbracht . Ich habe Ihre Werbeanzeige in der Zeitung gelesen , welche mein großes Interresse geweckt hat . Ich möchte durch ein Au-pair-Programm in Deutschland meine Sprachkenntnisse in Deutsch erweitern und neue Lebenserfahrung sammeln . Ich muss erwähnen , dass ich in Deutschland von 15 . April bis 30 . Juni geblieben bin . Doch leider wurde ich zu Beginn sehr enttäuscht . Meine Unterkunft war in einer italienischen Familie , welche zu Hause nur Italienisch sprechen . In dieser Situation war es unmöglich , Deutsch zu lernen und es zu verbessern . Wegen dieses Grundes war ich mit meiner Situation sehr unzufrieden . Auch Ihre Betreuung durch die Agentur entspricht in keiner Weise den Vertragsbedingungen . Meine Erwartung von dieser Aupair-Programm und Ihrer Hilfe war sehr hoch , aber in der Wirklichkeit haben fast alle von den versprochenen Angaben nicht gestimmt . Aus den angegebenen Gründen fordere ich eine Entschädigung . Bitte zahlen Sie mir mindestens 50 % des Geldes zurück , was ich für ihren Service bezahlt habe . Da ich ansonsten gerichtlich gegen Sie vorgehen werde . Mit freundlichen Grüssen Maria Meier
+
+----------------
+
+Target hypothesis 2: 
+
+Maria Meier Bahnhofsstraße 12 12345 Stadt X Au-pair-Agentur Schultz & Partner Regenstr . 101 90451 Nürnberg Stadt X , 18 . Juli 2011 Rückerstattung von der Servicegebühr Sehr geehrte Damen und Herren , ich habe durch Ihre Au-pair-Agentur etwa ein Vierteljahr bei einer Gastfamilie in Deutschland verbracht . Ich habe Ihre Werbeanzeige in der Zeitung gelesen , welche mein großes Interresse geweckt hat . Ich mochte durch ein Au-pair-Programm in Deutschland meine Sprachkenntnisse in Deutsch erweitern und neue Lebenserfahrung sammeln . Ich muss erwähnen , dass ich von 15 . April bis 30 . Juni in Deutschland geblieben bin . Doch leider wurde ich zu Beginn sehr enttäuscht . Meine Unterkunft war in einer italienischen Familie , welche zu Hause nur Italienisch spricht . In dieser Situation war es unmöglich Deutsch zu lernen und es zu verbessern . Wegen dieses Grundes war ich mit meiner Situation sehr unzufrieden . Auch Ihre Betreuung durch die Agentur entspricht in keiner Weise den Vertragsbedingungen . Meine Erwartung bezüglich dieses Aupair-Programms und Ihrer Hilfe war sehr hoch , aber in Wirklichkeit haben fast alle von den versprochenen Angaben nicht gestimmt . Aus den angegebenen Gründen fordere ich eine Entschädigung . Bitte zahlen Sie mir mindestens 50 % des Geldes zurück , das ich für ihren Service bezahlt habe . Da ich ansonsten gerichtlich gegen Sie vorgehen werde . Mit freundlichen Grüssen Maria Meier

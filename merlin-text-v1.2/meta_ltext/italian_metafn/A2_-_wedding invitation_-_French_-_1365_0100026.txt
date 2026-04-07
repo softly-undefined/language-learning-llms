@@ -1,0 +1,34 @@
+METADATA
+
+General:
+Author ID: 1365_0100026
+Test language: Italian
+CEFR level of test: B1
+Task : answer to an wedding invitation - ID: 1365_020300
+Mother tongue: French
+Age: 28
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+2 Strada Maggiore
+Città X
+15-03-10
+cari STEFANO e BEATRICE
+Io e la mia famiglia vi congratulazioni per la vostra matrimonio Siamo contenti di participare alla vostri bella giorno.
+Vorrei sapere che volete come Regalo?
+intento de la vostri noticia per il regalo prima la cerimonia.
+vi saluto. 
+baci
+Michele

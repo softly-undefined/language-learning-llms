@@ -1,0 +1,48 @@
+METADATA
+
+General:
+Author ID: 1325_9000674
+Test language: Italian
+CEFR level of test: B2
+Task : complaining against a hotel - ID: 1325_030300-2
+Mother tongue: Polish
+Age: 26
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: C1
+Vocabulary range: B2
+Vocabulary control: B2
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: B2
+
+----------------
+
+Learner text: 
+
+Maria Rossi                                                        Città X, 14.05.2011 
+Strada  Maggiore 23/24
+12345 Città X 
+                                                                                  Canton Ticino
+Oggetto: Richiesta di un rimborso
+Egregio Signore, 
+dopo aver letto il Vostro annuncio su "La Repubblica", ho deciso di passare le vacanze nel "Residence del Lago" con la Vostra agenzia. 
+Per il mio discontento il residence era un vecchio albergo e non un palazzo "di ricente costruzione"   come avete scritto. Per quanto riguarda l'aria condizionata, quella nella nostra camera è stata rotta e non è stato possibile accenderla. Anche, la lontanazza tra l'albergo e il lago lasciava molto a desiderare. C'erano pochi collegamenti con questo posto e non è stato possibile giungierlo senza la macchina. Non è stato vero che avete scritto nel Vostro annuncio. 
+Dovevo vincere tante difficoltà per quanto riguarda fare lo sport. In piscina c'era sempre un sacco della gente, affollata tutti i giorni. Anche i campi da tennis non sono stati mantenuti bene, sono stati proprio chiusi per tutto il tempo. 
+Per tutti i questi motivi richiedo gentilmente di ricevere un parziale rimborso. A mio parere 30% del prezzo pagato all'inizio sarebbe sufficiente per me. Spero pertanto che vorrete considerare la mia richiesta. 
+Ringrazio per l'attenzione dedicatami. Aspettando la Vostra risposta, porgo i miei distinti saluti.
+Maria Rossi    
+
+----------------
+
+Target hypothesis 1: 
+
+Maria Rossi Città X , 14.05.2011 Strada Maggiore 23 / 24 12345 Città X Canton Ticino Oggetto : Richiesta di rimborso Egregio Signore , dopo aver letto il Vostro annuncio su " La Repubblica " , ho deciso di passare le vacanze nel " Residence del Lago " con la Vostra agenzia . Per il mio discontento il residence era un vecchio albergo e non un palazzo " di recente costruzione " come avete scritto . Per quanto riguarda l' aria condizionata , quella nella nostra camera era rotta e non è stato possibile accenderla . Anche la lontananza tra l' albergo e il lago lasciava molto a desiderare . C' erano pochi collegamenti con questo posto e non è stato possibile raggiungerlo senza la macchina . Non è vero ciò che avete scritto nel Vostro annuncio . Dovevo vincere tante difficoltà per quanto riguarda fare lo sport . In piscina c' era sempre un sacco di gente , affollata tutti i giorni . Anche i campi da tennis non sono stati mantenuti bene , sono stati proprio chiusi per tutto il tempo . Per tutti questi motivi richiedo gentilmente di ricevere un parziale rimborso . A mio parere il 30 % del prezzo pagato all' inizio sarebbe sufficiente per me . Spero pertanto che vorrete considerare la mia richiesta . Ringrazio per l' attenzione dedicatami . Aspettando la Vostra risposta , porgo i miei distinti saluti . Maria Rossi
+
+----------------
+
+Target hypothesis 2: 
+
+Maria Rossi Città X , 14.05.2011 Strada Maggiore 23 / 24 12345 Città X Canton Ticino Oggetto : Richiesta di rimborso Gentile Signore , dopo aver letto il Vostro annuncio su " La Repubblica " , ho deciso di passare le vacanze nel " Residence del Lago " con la Vostra agenzia . Per il mio scontento il residence era un vecchio albergo e non un palazzo " di recente costruzione " come avete scritto . Per quanto riguarda l' aria condizionata , quella nella nostra camera era rotta e non è stato possibile accenderla . Anche la lontananza tra l' albergo e il lago lasciava molto a desiderare . C' erano pochi collegamenti con questo posto e non è stato possibile raggiungerlo senza la macchina . Non è vero ciò che avete scritto nel Vostro annuncio . Dovevo vincere tante difficoltà per quanto riguarda lo sport . In piscina c' era sempre un sacco di gente , era affollata tutti i giorni . Anche i campi da tennis non sono stati mantenuti bene , sono stati proprio chiusi per tutto il tempo . Per tutti questi motivi richiedo gentilmente di ricevere un parziale rimborso . A mio parere il 30 % del prezzo pagato all' inizio sarebbe sufficiente per me . Spero pertanto che vorrete considerare la mia richiesta . Ringrazio per l' attenzione dedicatami . Aspettando la Vostra risposta , porgo i miei distinti saluti . Maria Rossi

@@ -1,0 +1,54 @@
+METADATA
+
+General:
+Author ID: 1325_1001086
+Test language: Italian
+CEFR level of test: B2
+Task : apply for internship in fashion sector - ID: 1325_020401-1
+Mother tongue: Hungarian
+Age: 23
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: C1
+Vocabulary range: B2
+Vocabulary control: B2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+ALI - Agenzia Lavoro Interinale 
+Via Dante Alighieri 40 
+I - 42010 Reggio Emilia 
+Italia 
+                  Reggio Calabria, 19.11.2011 
+Spettabile Agenzia Lavoro Interinale, 
+Alla attanzione cortese del direttore 
+In risposta all'annuncio che si trova sul giornale. Ecco la mia candidattura e come vedrà la mia curriculum vitae. Vorrei presentarmi. 
+Sono Maria, ho 23 anni una neolaureata in cerca di lavoro. Ho già una minima esperienza nel settore, fino ad oggi lavoravo in un grande negozio di abbigliamento come assistente, cosi conosco il mondo della moda, e naturalmente ho conoscenza del pacchetto Office. Secondo me sono un ottimo candidata, perché sono responsabile, carine e gentile, amo lavorare fra genti. 
+Ho alcune domande: 
+- Da quanto fino a quanto devo lavorare? 
+- Da mattina al pomerrigio?
+- Da prossima mese posso lavorare? O da quale mese? 
+In attesa del sua cortese risposta, resto alla sua disposizione di una eventuale colloquio. 
+Vorrei questo lavoro molto, ho bisogno di molte esperienza, perché nel futuro trovò un lavoro fisso. 
+ 
+Distinti saluti,
+   Maria Rossi
+
+----------------
+
+Target hypothesis 1: 
+
+ALI - Agenzia Lavoro Interinale Via Dante Alighieri 40 I - 42010 Reggio Emilia Italia Reggio Calabria , 19.11.2011 Spettabile Agenzia Lavoro Interinale , Alla attenzione cortese del direttore in risposta all' annuncio che si trova sul giornale . Ecco la mia candidatura e come vedrà il mio curriculum vitae . Vorrei presentarmi . Sono Maria , ho 23 anni e sono una neolaureata in cerca di lavoro . Ho già una minima esperienza nel settore , fino ad oggi ho lavorato in un grande negozio di abbigliamento come assistente , così conosco il mondo della moda e naturalmente ho conoscenza del pacchetto Office . Secondo me sono un' ottima candidata , perché sono responsabile , carina e gentile , amo lavorare fra le genti . Ho alcune domande : - Da quando fino a quando devo lavorare ? - Dalla mattina al pomeriggio ? - Posso lavorare dal prossimo mese ? O da quale mese ? In attesa della sua cortese risposta , resto a sua disposizione per un eventuale colloquio . Vorrei molto questo lavoro , ho bisogno di molta esperienza , perché in futuro io trovi un lavoro fisso . Distinti saluti , Maria Rossi
+
+----------------
+
+Target hypothesis 2: 
+
+ALI - Agenzia Lavoro Interinale Via Dante Alighieri 40 I - 42010 Reggio Emilia Italia Reggio Calabria , 19.11.2011 Spettabile Agenzia Lavoro Interinale , Alla cortese attenzione del direttore in risposta all' annuncio che si trova sul giornale . Ecco la mia candidatura e come vedrà il mio curriculum vitae . Vorrei presentarmi : sono Maria , ho 23 anni , sono una neolaureata in cerca di lavoro . Ho già una minima esperienza nel settore , fino ad oggi ho lavorato in un grande negozio di abbigliamento come assistente , così conosco il mondo della moda e naturalmente ho conoscenza del pacchetto Office . Secondo me sono un' ottima candidata perché sono responsabile , carina e gentile e amo lavorare fra la gente . Ho alcune domande : - da quando fino a quando devo lavorare ? - Dalla mattina al pomeriggio ? - Posso lavorare dal prossimo mese ? O da quale mese ? In attesa della sua cortese risposta , resto a sua disposizione per un eventuale colloquio . Vorrei molto questo lavoro , ho bisogno di molta esperienza perché in futuro io trovi un lavoro fisso . Distinti saluti , Maria Rossi

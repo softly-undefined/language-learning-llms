@@ -1,0 +1,50 @@
+METADATA
+
+General:
+Author ID: 1023_0109247
+Test language: German
+CEFR level of test: B2
+Task : Au pair writes letter of complaint to Agency - ID: 1023_100303
+Mother tongue: Spanish
+Age: 20
+Gender: female
+
+Rating:
+Overall CEFR rating: B2
+Grammatical accuracy: B2
+Orthography: C1
+Vocabulary range: B2
+Vocabulary control: B2
+Coherence/Cohesion: C1
+Sociolinguistic appropriateness: C1
+
+----------------
+
+Learner text: 
+
+Julia Winkelmann
+Müllergasse 12
+12345 Stadt X
+Au-pair-Agentur Schultz
+& Partner
+Regenstr. 101
+90451 Nürnberg                                      08.09.2011 Stadt X
+Fehler in Vertragsbedingungen
+Sehr geehrte Damen und Herren,
+vor zwei Monate habe ich als Au-pair in Deutschland durch Ihrer Agentur gearbeitet.
+Als ich den Anzeige gesehen habe, dachte ich das Ihrer Firma eine gute Entscheidung war. Aber wie war meiner Enttäuschung als ich in Deutschland ankam. Ich könnte das Haus von meiner Gastfamilie nicht finden weil Sie mir der Adresse falsch gegeben haben. Deswegen musste ich in den ersten nacht in ein Hotel schlaffen, denn ich hatte auch den falschen Telefonnummer von der Gastfamilie.
+In dem Vertrag stand das ich mit einer deutschen Familie leben würde, aber sie was aus Russland. Ich wollte mein Deutsch verbessern und wir könnten uns nicht gut verstehen weil ich kein Russich spreche und die könnten nicht so viel Deutsch sprechen. Ich wollte wieder in meiner Heimatland gehen aber es war nicht möglich, weil ich nicht genug Geld hatte, alles war zu teuer.
+Aus allen diesen Grunde fordere ich von Ihnen eine Erstattung von 40% Gebuhr. Wenn ich das Geld innerhalb zwei Woche nicht zuruck kriege, werde ich leider meinen Anwalt einschalten.
+Mit freundlichen Grüßen
+Julia Winkelmann
+
+----------------
+
+Target hypothesis 1: 
+
+Julia Winkelmann Müllergasse 12 12345 Stadt X Au-pair-Agentur Schultz & Partner Regenstr . 101 90451 Nürnberg 08.09.2011 Stadt X Fehler in denn Vertragsbedingungen Sehr geehrte Damen und Herren , vor zwei Monaten habe ich durch Ihrer Agentur als Au-pair in Deutschland gearbeitet . Als ich die Anzeige gesehen habe , dachte ich , dass Ihre Firma eine gute Entscheidung ist . Aber wie war meine Enttäuschung , als ich in Deutschland ankam . Ich konnte das Haus von meiner Gastfamilie nicht finden , weil Sie mir die Adresse falsch gegeben haben . Deswegen musste ich in der ersten Nacht in einem Hotel schlafen , denn ich hatte auch die falsche Telefonnummer von der Gastfamilie . In dem Vertrag stand , dass ich bei einer deutschen Familie leben würde , aber sie war aus Russland . Ich wollte mein Deutsch verbessern und wir konnten uns nicht gut verstehen , weil ich kein Russisch spreche und die konnten nicht so viel Deutsch sprechen . Ich wollte wieder in mein Heimatland gehen , aber es war nicht möglich , weil ich nicht genug Geld hatte , alles war zu teuer . Aus allen diesen Gründen fordere ich von Ihnen eine Erstattung von 40 % der Gebühr . Wenn ich das Geld innerhalb von zwei Wochen nicht zurückkriege , werde ich leider meinen Anwalt einschalten . Mit freundlichen Grüßen Julia Winkelmann
+
+----------------
+
+No target hypothesis 2 available.
+

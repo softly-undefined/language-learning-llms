@@ -1,0 +1,31 @@
+METADATA
+
+General:
+Author ID: 1395_0000341
+Test language: Italian
+CEFR level of test: A2
+Task : contact a friend after a long time - ID: 1395_020300
+Mother tongue: French
+Age: 27
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+3 Luglio 2010
+A Città X
+Cara Laura,
+Vado bene, mia figlia e mio marito anche. Siamo andati, durante ultime vacanze alla mare, a Città X, la città è magnifica. Lavoro sempre alla pasticeria, tutto va bene, Penso di venire in Italia te vedere in Agosto con mia famiglia, è possibile? 
+Mi chiami per dirmi.
+Baci, A presto
+Maria

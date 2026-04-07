@@ -1,0 +1,26 @@
+METADATA
+
+General:
+Author ID: LIB0611001A
+Test language: Czech
+CEFR level of test: A2
+Task : answering on a birthday invitation - ID: A2PS0102_oslava
+Mother tongue: Russian
+Age: 1519
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A1
+
+----------------
+
+Learner text: 
+
+Dobrý den, Julie. Dekuju moc za pozvaní. Jsem moc rad, že ty nás pozvala oslavovat tvoji naroženiny.  Přijdu s přýtelkyní Je to fajn? Chtěl zadat otazky. Budemé hrát na kitarý? Budemé hrát fotbal nebo ping-po Kdy a kde budeme oslavovat tvojí narozeniny? Znám velmi dobře cafe v centru města, kde bychom oslavili tvojí narozeniny. A kdo ještě budé na narozeninach? Tvoji kamaradkí Eva a Kateřina?
+Děkuju mockrat. Martin. 

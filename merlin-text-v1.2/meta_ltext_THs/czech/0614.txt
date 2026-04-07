@@ -1,0 +1,43 @@
+METADATA
+
+General:
+Author ID: 0614
+Test language: Czech
+CEFR level of test: B1
+Task : answer to the email of Alena - ID: 1_Alena
+Mother tongue: German
+Age: not reported
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Milá Aleno,
+děkuju Ti mockrát za Tvůj Email. Těsím mě, že bylo krásné v Rakousku a v Slovinsku. Hlavně novinka z mého života, jěště studuju. Nepracuju na diplomce. Myslím, že budu začínat diplomovou práci příští rok. Ale spravě plánuju dovolenou. Neměl jsem žádný nápad. Jsem nadšen s tvůj napadem. Mohl bych těšit, kdybys mi poslal ten zajímavý inzerát. Potřebuju taky informaci kolík to bude stát a jak dlouho prázdníný kurz češtiny bude trvat, kdy začí a skončí. 
+Doufám, že budes mít výsledek u firmy v Pírne. Nemusíš být nervozní. Těším mě, že budeš mít čas v pátek odpoledne a přijedes do Dražďan. To se mi hodí, protože dopoledne budu mít zkoušku. Odpoledne budu mít čas. Mužeme se setkat v můj bytě. Protože předpokládám, že nevíš kde teď bydlím, dojdu tě na nádraží. Prosím, napíš mi kdy přijedes v pátek odpoledne.
+
+Odpověz brzy! Těším mě na tvoji návštěvu. Tím končím, je už pozdě a musím rano brzo vstát.
+Pozdravuj vsechny a hlavně Petře.
+Zatím ahoj. Klára
+
+
+----------------
+
+Target hypothesis 1: 
+
+Milá Aleno , děkuju Ti mockrát za Tvůj e-mail . Těší mě , že bylo krásně v Rakousku a ve Slovinsku . Hlavní novinka z mého života : ještě studuju . Nepracuju na diplomce . Myslím , že budu začínat diplomovou práci příští rok . Ale právě plánuju dovolenou . Neměl jsem žádný nápad . Jsem nadšen Tvým nápadem . Mohl bych se těšit , kdybys mi poslal ten zajímavý inzerát . Potřebuju taky informaci , kolik to bude stát a jak dlouho prázdninový kurz češtiny bude trvat , kdy začíná a končí . Doufám , že budeš mít výsledek u firmy v Pirně . Nemusíš být nervózní . Těším se , že budeš mít čas v pátek odpoledne a přijedeš do Drážďan . To se mi hodí , protože dopoledne budu mít zkoušku . Odpoledne budu mít čas . Mužeme se setkat v mém bytě . Protože předpokládám , že nevíš kde teď bydlím , dojdu pro Tebe na nádraží . Prosím , napíš mi , kdy přijedeš v pátek odpoledne . Odpověz brzy ! Těším se na Tvoji návštěvu . Tím končím , je už pozdě a musím ráno brzo vstát . Pozdravuj všechny a hlavně Petra . Zatím ahoj . Klára
+
+----------------
+
+No target hypothesis 2 available.
+

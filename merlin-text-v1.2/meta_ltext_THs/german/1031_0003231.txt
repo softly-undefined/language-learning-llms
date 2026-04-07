@@ -1,0 +1,39 @@
+METADATA
+
+General:
+Author ID: 1031_0003231
+Test language: German
+CEFR level of test: C1
+Task : write article about sticking to one's traditions and 'assimilation' in a new environment - ID: 1031_030301
+Mother tongue: Hungarian
+Age: 23
+Gender: not reported
+
+Rating:
+Overall CEFR rating: B2
+Grammatical accuracy: B2
+Orthography: B2
+Vocabulary range: C1
+Vocabulary control: C1
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: B2
+
+----------------
+
+Learner text: 
+
+Meiner Meinung nach es ist sehr wichtig, dass mann im Ausland die Traditionen seines Heimatlandes forzusetzen. Aber man muß auch an der Kultur des Gastlandes kennenzulernen. Wenn man nach Ausland fährt, es, ist nützlich die Sprache sprechen und lesen, auf der Kultur des Gastlandes.
+Ich möchte später nach Italien fahren und ich sehe Dokumentarfilme über die Sehenswürdigkeiten zum Beispiel in Rome. Ich denke, das man soll auch die Speisen des Gastlandes probieren. Ich finde es ganz toll, dass andere Kulture miteinander treffen. An der Uni treffe ich viele Leute aus verschiedenen Landes. Ich probiere ihre Speisen und plaudern wir in Englisch über ihre Kulturen. Sie erzählen ach über ihre Traditionen und wir beobachten auch unsere. Ich denke man muß ihre Traditionen achter aber es es ist auch interesant andere Kulture kennenlernen. Es ist gut und nützlich, wenn mann die Feiertagen des Gastlandes wisst und achtet auf diese Feiertraditionen.
+Wenn ich Ausland leben werde, ich zeige unsere Traditionen, unsere Kultur und auch unsere Speisen für die Bürgern des Gastlandes.
+Ich war im Ausland nicht Eins und ich empfehle für Alle, man kann andere Leuten treffen und Kontakt nehmen mit ihr.
+
+----------------
+
+Target hypothesis 1: 
+
+Meiner Meinung nach es ist sehr wichtig , dass man im Ausland die Traditionen seines Heimatlandes fortsetzt . Aber man muss auch die Kultur des Gastlandes kennenlernen . Wenn man ins Ausland fährt , ist es nützlich , die Sprache zu sprechen und über die Kultur des Gastlandes zu lesen . Ich möchte später nach Italien fahren und ich sehe Dokumentarfilme über die Sehenswürdigkeiten , zum Beispiel in Rom . Ich denke , dass man auch die Speisen des Gastlandes probieren soll . Ich finde es ganz toll , dass andere Kulturen einander treffen . An der Uni treffe ich viele Leute aus verschiedenen Ländern . Ich probiere ihre Speisen und wir plaudern in Englisch über ihre Kulturen . Sie erzählen auch über ihre Traditionen und wir beobachten auch unsere . Ich denke , man muss ihre Traditionen achten , aber es ist auch interessant , andere Kulturen kennenzulernen . Es ist gut und nützlich , wenn man die Feiertage des Gastlandes weiß und auf diese Feiertraditionen achtet . Wenn ich im Ausland leben werde , zeige ich unsere Traditionen , unsere Kultur und auch unsere Speisen den Bürgern des Gastlandes . Ich war im Ausland nicht eins und ich empfehle allen , man kann andere Leute treffen und Kontakt mit ihr nehmen .
+
+----------------
+
+No target hypothesis 2 available.
+

@@ -1,0 +1,39 @@
+METADATA
+
+General:
+Author ID: 1395_0000402
+Test language: Italian
+CEFR level of test: A2
+Task : inform friends about language course - ID: 1395_010300
+Mother tongue: German
+Age: 44
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Carissimi
+Adesso sono da tre giorni a Città X. Fa sembre bel tempo et la scuola é molto moderna. La mia insegnante é giovane viene da Città Y e parla veloce come voi. In corso siamo in quinque uno spagnolo, tre svizzere et una bella ragazza di Città Z. Farò l'esame B2 alla fine de lo corso. Doppo le lezione usciamo insieme e la settimana prossima partiremmo per il mare.
+Ci vediamo.
+Cari saluti Maria
+
+----------------
+
+Target hypothesis 1: 
+
+Carissimi , adesso sono da tre giorni a Città X . Fa sempre bel tempo e la scuola è molto moderna . La mia insegnante è giovane , viene da Città Y e parla veloce come voi . In corso siamo in cinque : uno spagnolo , tre svizzere e una bella ragazza di Città Z . Farò l' esame B2 alla fine del corso . Dopo le lezioni usciamo insieme e la settimana prossima partiremo per il mare . Ci vediamo . Cari saluti Maria
+
+----------------
+
+No target hypothesis 2 available.
+

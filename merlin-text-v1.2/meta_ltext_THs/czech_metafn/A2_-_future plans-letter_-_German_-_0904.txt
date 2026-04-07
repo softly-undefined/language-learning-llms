@@ -1,0 +1,44 @@
+METADATA
+
+General:
+Author ID: 0904
+Test language: Czech
+CEFR level of test: B1
+Task : answer to the email of Jana - ID: 2_Jana
+Mother tongue: German
+Age: not reported
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+ Ahoi Jano, 
+Mám se dobře. Jsem ráda za Tvůj pozvání a chtěla bych přijíždět do Prahy. Studium je fajn, ale teď nemám čas, protože mám hodně zkoušek. Bohužel nemůžu jit do party. -unreadable- Ale v březnu mám cas. Chtěla bych zůstávat celý víkend. Chci vidět místa. Jaká je tvuj adressa? Jáka metra musim brát? Kolik stojí jízdenka? Doufam, že tam je automat. 
+Co si přejete k narozeniny? Chceš něco jíného že mám přínášet? Můžeš mě telefonovat, když myslíš, že potřebješ ještě něco. 
+Konečně přeju Ti krásnou dovolenou  Italíe. Doufám, že počasí  bude  dobře. 
+Pro dnesek koncím. 
+Pozdravuj Davida a hlavne Martina. 
+Měj se hezký Sabine
+
+
+----------------
+
+Target hypothesis 1: 
+
+Ahoj Jano , mám se dobře . Jsem ráda za Tvoje pozvání a chtěla bych přijet do Prahy . Studium je fajn , ale teď nemám čas , protože mám hodně zkoušek . Bohužel nemůžu jít na party . Ale v březnu mám čas . Chtěla bych zůstat celý víkend . Chci vidět místa . Jaká je Tvoje adresa ? Jaká metra musím brát ? Kolik stojí jízdenka ? Doufám , že tam je automat . Co si přeješ k narozeninám ? Chceš něco jiného , co mám přinést ? Můžeš mi telefonovat , když myslíš , že potřebuješ ještě něco . Konečně Ti přeju krásnou dovolenou v Itálii . Doufám , že počasí bude dobré . Pro dnešek končím . Pozdravuj Davida a hlavně Martina . Měj se hezky . Sabine
+
+----------------
+
+Target hypothesis 2: 
+
+Ahoj Jano , mám se dobře . Jsem ráda za Tvoje pozvání a chtěla bych přijet do Prahy . Studium je fajn , ale teď nemám čas , protože mám hodně zkoušek . Bohužel nemůžu jít na party . Ale v březnu mám čas . Chtěla bych zůstat celý víkend . Chci vidět místa . Jaká je Tvoje adresa ? Jaká metra musím brát ? Kolik stojí jízdenka ? Doufám , že tam je automat . Co si přeješ k narozeninám ? Chceš něco jiného , co mám přinést ? Můžeš mi zatelefonovat , když myslíš , že potřebuješ ještě něco . Konečně Ti přeju krásnou dovolenou v Itálii . Doufám , že počasí bude dobré . Pro dnešek končím . Pozdravuj Davida a hlavně Martina . Měj se hezky . Sabine

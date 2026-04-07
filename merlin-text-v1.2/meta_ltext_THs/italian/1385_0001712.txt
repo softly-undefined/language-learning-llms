@@ -1,0 +1,41 @@
+METADATA
+
+General:
+Author ID: 1385_0001712
+Test language: Italian
+CEFR level of test: A1
+Task : help a friend who is looking for work - ID: 1385_040101
+Mother tongue: German
+Age: 46
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Ciao, Francesco!
+Grazie per la tua email. Vorrei aiutarti, ma ho bisogno di qualque informazione in più. 
+Che lavoro tu fai adesso? Secondo me tu hai lavorato a BMW a Monaco, è giusto? Che cosa di preciso tu vuoi fare? 
+Come un operaio specialista qui a Città X? Vorrei sapere se tu sei flessibile rispetto alle ore di lavoro, per esempio. Qui a Città X ci sono qualche ditte dove tu devi lavorare in giro. Puoi dirmi da quando tempo tu poui iniziare il nouvo posto di lavori. 
+Quante domande ... Aspetto la tua risposta 
+Ciao, Maria
+
+----------------
+
+Target hypothesis 1: 
+
+Ciao Francesco ! Grazie per la tua email . Vorrei aiutarti , ma ho bisogno di qualche informazione in più . Che lavoro fai adesso ? Secondo me tu hai lavorato alla BMW a Monaco , è giusto ? Che cosa vuoi fare di preciso ? L' operaio specialista qui a Città X ? Vorrei sapere se tu sei flessibile rispetto alle ore di lavoro , per esempio . Qui a Città X ci sono qualche ditte dove tu devi lavorare in giro . Puoi dirmi da quando tu puoi iniziare il nuovo posto di lavoro ? Quante domande ! Aspetto la tua risposta . Ciao , Maria
+
+----------------
+
+No target hypothesis 2 available.
+

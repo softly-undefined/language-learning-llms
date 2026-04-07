@@ -1,0 +1,46 @@
+METADATA
+
+General:
+Author ID: 1091_0000195
+Test language: German
+CEFR level of test: A2
+Task : letter to housing office - ID: 1091_0610301
+Mother tongue: Portuguese
+Age: 47
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+                                          Stadt X 10.03.2012
+Katharina Winkelmann
+Zentralplatz 12
+12345 Stadt X
+ 
+Wohnungsamt.
+Sehr geehrter Herre
+Ich  suche ein wohnung mit ein Zimmer und mit band, und mit Balkon. vilechte 70 miete mit Garage. Aber ich bin estudiere und ich keine viele Geld. Ich Möchte Wisse Wie Viele kostete?
+Mit freundliche Grüße
+K. Winkelmann
+
+----------------
+
+Target hypothesis 1: 
+
+Stadt X 10.03.2012 Katharina Winkelmann Zentralplatz 12 12345 Stadt X Wohnungsamt . Sehr geehrte Herren ! Ich suche eine Wohnung mit einem Zimmer und mit Bad und mit Balkon . Vielleicht 70 Miete mit Garage . Aber ich bin Studierende und ich habe nicht viel Geld . Ich möchte wissen , wieviel es kostete ? Mit freundlichen Grüßen K . Winkelmann
+
+----------------
+
+Target hypothesis 2: 
+
+Stadt X 10.03.2012 Katharina Winkelmann Zentralplatz 12 12345 Stadt X Wohnungsamt . Sehr geehrter Herr , ich suche eine Wohnung mit einem Zimmer , einem Bad und einem Balkon . Vielleicht 70 m² mit Garage . Ich bin Studierende und ich habe nicht viel Geld . Ich möchte wissen , wie viel die Wohnung kostet . Mit freundlichen Grüßen K . Winkelmann

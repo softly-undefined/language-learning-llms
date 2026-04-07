@@ -1,0 +1,43 @@
+METADATA
+
+General:
+Author ID: 1031_0003233
+Test language: German
+CEFR level of test: C1
+Task : write article about sticking to one's traditions and 'assimilation' in a new environment - ID: 1031_030301
+Mother tongue: Hungarian
+Age: 32
+Gender: not reported
+
+Rating:
+Overall CEFR rating: B2
+Grammatical accuracy: B1
+Orthography: B2
+Vocabulary range: B2
+Vocabulary control: B2
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: B2
+
+----------------
+
+Learner text: 
+
+                                                       Stadt X den, 01.10.2011.
+Sehr gehrten Dammen und Herren,
+ich bin eine zuleserinnen aus Ungarn. Ich möchte auch etwas zum Thema sagen. Ich wohne in ein kleines Land in Ungarn. Erstmal möchte ich mein Land in ein paar Wörter vorstellen. Ungarn liegt in mittel Europa. In mei Heimaitland wohnen cirka 10. millionen Leute. Wir sprechen Ungarisch. Natürlich es, gibt bei uns auch viele Tradizionen und eigenes Kultur. Meine Meinung zum Thema, dass die Ländern seine eigenes Kultur und Traditionen behalten soll. Ich glaube sollt man sich nicht an der Kultur des Gastlandes orientieren.  Zum Beispiel, ich gehe sehr gern in Ausland. Ich mache jedes Jahr eine Ausflug nach Ausland, in eine unbekannte Stadt was ich noch nicht kenne, weil dort kann ich dem Kultur der Stadtes und der Traditionen den Stadts kennelernen. Es mach mir immer sehr viel spaß. Ich glaube jedes Land hat eigene Kultur und Traditionen und es gehört dazu nich in einem amderen Land.
+Zum Beispiel wir haben ungarischen Kultur und Traditionen und es gibt nur bei uns, dann ich möchte unsere Traditionen z.b. in Öesterreich anschauen.
+Na ja, das war meine Meinung, ich glaube viele Leute hat andere Meinung und das möcht ich auch gern lesen wie sie denken.
+Ich wünsche für jede Leserinnen und Leser schöne Zeit zum diesem Thema verbringen.
+Mit freundlichen Grüßen
+Maria aus Ungarn.
+
+----------------
+
+Target hypothesis 1: 
+
+Stadt X den , 01.10.2011 Sehr geehrte Damen und Herren , ich bin eine Zuleserin aus Ungarn . Ich möchte auch etwas zum Thema sagen . Ich wohne in einem kleinen Land , in Ungarn . Erstmal möchte ich mein Land in ein paar Wörtern vorstellen . Ungarn liegt in Mitteleuropa . In meinem Heimatland wohnen circa 10 Millionen Leute . Wir sprechen Ungarisch . Natürlich , es gibt bei uns auch viele Traditionen und eine eigene Kultur . Meine Meinung zum Thema , dass die Länder seine eigene Kultur und Traditionen behalten sollen : Ich glaube , man sollte sich nicht an der Kultur des Gastlandes orientieren . Zum Beispiel gehe ich sehr gern ins Ausland . Ich mache jedes Jahr einen Ausflug ins Ausland , in eine unbekannte Stadt , die ich noch nicht kenne , weil dort kann ich die Kultur der Stadt und die Traditionen der Stadt kennenlernen . Es macht mir immer sehr viel Spaß . Ich glaube , jedes Land hat eine eigene Kultur und Traditionen und es gehört in einem anderen Land nicht dazu . Zum Beispiel haben wir eine ungarische Kultur und Traditionen und die gibt es nur bei uns , dann möchte ich unsere Traditionen z.B. in Österreich anschauen . Na ja , das war meine Meinung , ich glaube , viele Leute haben eine andere Meinung und das möchte ich auch gern lesen , wie sie denken . Ich wünsche allen Leserinnen und Lesern , eine schöne Zeit zu diesem Thema zu verbringen . Mit freundlichen Grüßen Maria aus Ungarn .
+
+----------------
+
+No target hypothesis 2 available.
+

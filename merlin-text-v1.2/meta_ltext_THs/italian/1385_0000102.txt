@@ -1,0 +1,38 @@
+METADATA
+
+General:
+Author ID: 1385_0000102
+Test language: Italian
+CEFR level of test: A1
+Task : reschedule an appointment - ID: 1385_020100
+Mother tongue: Italian
+Age: 29
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Ciao Daniele!
+Come stai?
+è una settimana orribile. In ufficio c'è molto lavoro e giovedì pomeriggio non posso incontrare con te. Possiamo incontrarci in altro giorno. Che fai sabato sera? Possiamo uscire mangiare qualcosa, mi piace un ristorante tailandese. Se vuoi fammi sapere. Ancora volta mi dispiace, ma non è mia colpa, Mio capo ha organizzato una runione giovedi pomeriggio e per questo dobbiamo cambiare nostro appuntamento.
+
+----------------
+
+Target hypothesis 1: 
+
+Ciao Daniele ! Come stai ? È una settimana orribile . In ufficio c' è molto lavoro e giovedì pomeriggio non posso incontrarmi con te . Possiamo incontrarci in un altro giorno . Che fai sabato sera ? Possiamo uscire a mangiare qualcosa , mi piace un ristorante tailandese . Se vuoi , fammi sapere . Ancora una volta mi dispiace , ma non è colpa mia : il mio capo ha organizzato una riunione giovedì pomeriggio e per questo dobbiamo cambiare il nostro appuntamento .
+
+----------------
+
+No target hypothesis 2 available.
+

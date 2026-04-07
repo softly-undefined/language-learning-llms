@@ -1,0 +1,40 @@
+METADATA
+
+General:
+Author ID: 1061_0120430
+Test language: German
+CEFR level of test: B1
+Task : write a letter for New Year to a friend - ID: 1061_110101
+Mother tongue: Hungarian
+Age: 32
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+                                                                      Stadt X 13.03.2012
+Liebe Michael
+ich habe Gesundheit und Glück für mich und meine familie ge wünscht, auch Spass an der Arbeit. Ich bin seit drei Monate bei Firma XY. Die Kollege sind sehr nett und freundlich, aber der Sicht Arbeit ist noch bischen ungewönt. Am Silvester wahren wir bei meinem Muter. Wir haben gemeinsam gekocht und gegesen, nach mitag sind wir viel gespielt und getanzt. Am abend wir nor Schöne Feuerwerk geschossen, Es war sehr schön. Wen habt ihr Zeit und Lust am nechsten monat kann ich Euch besuchen.
+Herzliche Grüße
+Stefan
+
+----------------
+
+Target hypothesis 1: 
+
+Stadt X 13.03.2012 Lieber Michael , ich habe mir Gesundheit und Glück für mich und meine Familie gewünscht , auch Spass an der Arbeit . Ich bin seit drei Monaten bei Firma XY . Die Kollegen sind sehr nett und freundlich , aber Die Schichtarbeit ist noch ein bisschen ungewohnt . An Silvester waren wir bei meiner Mutter . Wir haben gemeinsam gekocht und gegessen , nach Mittag haben wir viel gespielt und getanzt . Am Abend haben wir nur ein schönes Feuerwerk geschossen . Es war sehr schön . Wenn ihr Zeit und Lust habt , kann ich Euch im nächsten Monat besuchen . Herzliche Grüße Stefan
+
+----------------
+
+No target hypothesis 2 available.
+

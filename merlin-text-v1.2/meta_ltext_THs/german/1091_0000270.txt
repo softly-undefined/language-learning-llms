@@ -1,0 +1,41 @@
+METADATA
+
+General:
+Author ID: 1091_0000270
+Test language: German
+CEFR level of test: A2
+Task : offer a ticket not used to a friend - ID: 1091_0690403
+Mother tongue: not reported
+Age: 48
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B2
+
+----------------
+
+Learner text: 
+
+                                            Stadt X 13.03.12
+Liebe Julia
+           Wie geht es dir. Ich hat eine plan in die nächsten monat in Dubai Fahren. Aber habe ich ein problem. Ich habe nicht Farkarte. Ich mochte Farkarte haben. Können Sie mir helfen verkaufen? Ich mochte in Dubai Fahren von 4 bis 15 April. Ich mochte in Dubai mit Flueg Air Qatar fahren. Mein Interesse in Dubai ist besistigung weil Dubai ist sehr Interessante.
+Mit freundlichen Gruß 
+Eva
+
+----------------
+
+Target hypothesis 1: 
+
+Stadt X 13.03.12 Liebe Julia , wie geht es dir ? Ich habe den Plan , im nächsten Monat nach Dubai zu fahren . Aber ich habe ein Problem . Ich habe keine Fahrkarte . Ich möchte eine Fahrkarte haben . Können Sie mir helfen ? Ich möchte nach Dubai fahren , vom 4 . bis 15 . April . Ich möchte mit dem Flug Air Qatar nach Dubai fahren . Mein Interesse in Dubai ist die Besichtigung , weil Dubai sehr interessant ist . Mit freundlichem Gruß Eva
+
+----------------
+
+Target hypothesis 2: 
+
+Stadt X 13.03.12 Liebe Julia Wie geht es dir ? Ich habe den Plan , im nächsten Monat nach Dubai zu reisen . Aber ich habe ein Problem . Ich habe kein Ticket . Ich möchte eins haben . Kannst du mir helfen , eins zu kaufen ? Ich möchte vom 4 . bis 15 . April nach Dubai fliegen . Ich möchte mit den Qatar Airways nach Dubai fliegen . Mein Interesse gilt Dubais Besichtigung , weil es sehr interessant ist . Mit freundlichem Gruß Eva

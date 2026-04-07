@@ -1,0 +1,48 @@
+METADATA
+
+General:
+Author ID: 0617
+Test language: Czech
+CEFR level of test: B1
+Task : answer to the email of Alena - ID: 1_Alena
+Mother tongue: German
+Age: not reported
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: A1
+
+----------------
+
+Learner text: 
+
+8.2.'07
+Ahoj Aleno!
+Děkuju za tvůj  email. Mám se dobře. Už nepracujem na diplomce, pretože mám moc čas, ale plánujem dovolena na  slovensku v lét-unreadable-.
+
+Těšim se, že přijdeš do Ďražďan. Chceš navštevovát mě doma odpolodne? Kdy přijdeš?  Budu dojdu ty na nadráží.
+
+Kdy je prázdninový kurz češtiný a jak dlouho potrva se? Nevim že můžu se dokonce ucházet o stipendium, ale samostatne bylo by výborne, kdybychom se  videme často v létě. Kolik stojí tento kurz? Mužeš poslat tento inzerát ku mě?
+
+Teď, nevím, že budu navštevovát těbe v létě, pretože chcem pojet do Prievidzi s letadlem na letiště a tam chcem letát od Vysokou do Vysokou tatra a nazpět. Snad budu  k tě. :-)
+
+Srdečně tě zdravím.
+David
+
+----------------
+
+Target hypothesis 1: 
+
+8.2. '07 Ahoj Aleno ! Děkuju za tvůj e-mail . Mám se dobře . Už nepracuju na diplomce , proto mám moc času , ale plánuju dovolenou na Slovensku v létě . Těším se , že přijdeš do Drážďan . Chceš mě navštívit doma odpoledne ? Kdy přijdeš ? Dojdu pro tebe na nádraží . Kdy je prázdninový kurz češtiny a jak dlouho potrvá ? Nevím , jestli se můžu dokonce ucházet o stipendium , ale samostatně by bylo výborné , kdybychom se viděli často v létě . Kolik stojí tento kurz ? Můžeš poslat tento inzerát ke mně ? Teď nevím , jestli tě navštívím v létě , protože chci pojet do Prievidzi letadlem na letiště a tam chci létat z Vysokých do Vysokých Tater a nazpět . Snad budu u tebe . :-) Srdečně tě zdravím . David
+
+----------------
+
+Target hypothesis 2: 
+
+8. 2. '07 Ahoj Aleno ! Děkuju za tvůj e-mail . Mám se dobře . Už nepracuju na diplomce , proto mám hodně času , ale plánuju dovolenou na Slovensku v létě . Těším se , že přijedeš do Drážďan . Chceš mě navštívit doma odpoledne ? Kdy přijedeš ? Dojdu pro tebe na nádraží . Kdy je prázdninový kurz češtiny a jak dlouho potrvá ? Nevím , jestli se můžu dokonce ucházet o stipendium , ale samozřejmě by bylo výborné , kdybychom se viděli často v létě . Kolik stojí tento kurz ? Můžeš poslat tento inzerát ke mně ? Teď nevím , jestli tě navštívím v létě , protože chci letět do Prievidzi letadlem na letiště a tam chci letět z Vysokých do Vysokých Tater a nazpět . Snad budu u tebe . :-) Srdečně tě zdravím . David

@@ -1,0 +1,43 @@
+METADATA
+
+General:
+Author ID: 1395_0000396
+Test language: Italian
+CEFR level of test: A2
+Task : contact a friend after a long time - ID: 1395_020300
+Mother tongue: German
+Age: 17
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Città X, 29.05.2010
+Ciao Flaviano,
+È già tanto tempo che non abbiamo più sentito. Come stai? Spero bene!
+Io sto benissimo, l'ultimo mezzo anno sono stata nel ticino. Ho lavorato come ragazza alla pare per imperare l'italiano.
+Se hai voglia ci possiamo incontrare a Città X in due settimane? Andrò a Città X per tre giorni con gli amici.
+Fammi saperlo! Spero a presto.
+Tanti saluti,
+Maria
+
+----------------
+
+Target hypothesis 1: 
+
+Città X , 29.05.2010 Ciao Flaviano , è già da tanto tempo che non ci sentiamo più . Come stai ? Spero bene ! Io sto benissimo , l' ultimo mezzo anno sono stata nel Ticino . Ho lavorato come ragazza alla pari per imperare l' italiano . Se hai voglia ci possiamo incontrare a Città X fra due settimane . Andrò a Città X per tre giorni con gli amici . Fammi sapere ! Spero a presto . Tanti saluti , Maria
+
+----------------
+
+No target hypothesis 2 available.
+

@@ -1,0 +1,37 @@
+METADATA
+
+General:
+Author ID: PHA1111004B
+Test language: Czech
+CEFR level of test: A2
+Task : describe a photo: swimming in the sea - ID: A2PS0202_more
+Mother tongue: Russian
+Age: 2029
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+To je fotografie mého kamaráda Davida a jeho dcery Evy. David a Eva byli vloni v letě v Rusko na Černem moři David byl na dovolene. Vzdy chtěl navštěvovat svého kamaráda Martina z Ruska v Soči. Protože odpočival tam.
+David řekl mi, že maji rady Soči se Evou. Cítíli se velmi dobše, pořad se koupali, protože na fotografii jsou v koupalnem obleku.
+
+----------------
+
+Target hypothesis 1: 
+
+To je fotografie mého kamaráda Davida a jeho dcery Evy . David a Eva byli vloni v létě v Rusku u Černého moře . David byl na dovolené . Vždy chtěl navštívit svého kamaráda Martina z Ruska v Soči . Odpočíval tam . David řekl , že s Evou mají rádi Soči . Cítili se velmi dobře , pořád se koupali , protože na fotografii jsou v koupacím obleku .
+
+----------------
+
+No target hypothesis 2 available.
+

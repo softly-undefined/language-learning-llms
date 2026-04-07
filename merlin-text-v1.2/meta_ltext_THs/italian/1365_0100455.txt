@@ -1,0 +1,46 @@
+METADATA
+
+General:
+Author ID: 1365_0100455
+Test language: Italian
+CEFR level of test: B1
+Task : help a friend who is looking for work after school-leaving exam - ID: 1365_040501
+Mother tongue: German
+Age: 48
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+                                                                            Città X, 10.03.2012 
+Caro Francesco, 
+ 
+Ti ringrazio per la tua lettera. Ho letto le tue segne con piacere. Sono di ritorno dalla Francia, dove sono stata per un mese. Sono andata in una scuola di lingua e ho migliorato il mio francese. La scuola si trovava a Parigi e ho visitato molti musei e tutti i monumenti interessanti della città come "La tour Eiffel", "sacré coeur" e "Notre Dame". Era una esperienza molto interessante. 
+Per il tuo lavoro penso che tu possa trovare un posto in un Albergo o anche come guida turistica. Chiederò al Albergo in fronte della mia casa, se abbiano posti liberi. Io andrò anche al ufficio turistico per domandare se cerca una guida. 
+Lunedi prossimo riprenderò il lavoro. Sono molto contenta perchè sarà meno difficile di rispondere al telefono in francese o anche di scrivere le lettere. 
+Sono anche molto felice che abbia riuscito l'esame. Tutti i miei auguri. Non avevo mai un dubbio che tu non riuscissi. A desso ti puoi risposare  un momento in attesa di un lavoro. Ti darò notizie al più presto. Spero che ti riveda presto, e penso che abbiamo molto da racontare. 
+ 
+Tanti saluti e a presto 
+ 
+ Maria
+
+----------------
+
+Target hypothesis 1: 
+
+Città X , 10.03.2012 Caro Francesco , ti ringrazio per la tua lettera . Ho letto i tuoi segni con piacere . Sono di ritorno dalla Francia , dove sono stata per un mese . Sono andata in una scuola di lingua e ho migliorato il mio francese . La scuola si trovava a Parigi e ho visitato molti musei e tutti i monumenti interessanti della città come " La tour Eiffel " , " sacré coeur " e " Notre Dame " . Era una esperienza molto interessante . Per il tuo lavoro penso che tu possa trovare un posto in un albergo o anche come guida turistica . Chiederò all' albergo di fronte a casa mia se hanno posti liberi . Io andrò anche all' ufficio turistico per domandare se cerca una guida . Lunedì prossimo riprenderò il lavoro . Sono molto contenta perché sarà meno difficile rispondere al telefono in francese o anche scrivere le lettere . Sono anche molto felice che ti sia riuscito l' esame . Tutti i miei auguri . Non ho mai avuto il dubbio che tu non riuscissi . Adesso ti puoi risposare un momento in attesa di un lavoro . Ti darò notizie al più presto . Spero che ti riveda presto e penso che abbiamo molto da raccontare . Tanti saluti e a presto Maria
+
+----------------
+
+No target hypothesis 2 available.
+

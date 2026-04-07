@@ -1,0 +1,41 @@
+METADATA
+
+General:
+Author ID: PHA0509042
+Test language: Czech
+CEFR level of test: B2
+Task : write an essay: The school is the basis of the life - ID: B2PS0200_skola
+Mother tongue: Other
+Age: 1519
+Gender: female
+
+Rating:
+Overall CEFR rating: B2
+Grammatical accuracy: B2
+Orthography: B2
+Vocabulary range: B2
+Vocabulary control: B2
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Škola - základ života
+V středověku nekaždý mohl si dovolit studovat a ziskat vzdělání. Teď ale, v době informační revoluce, se situace změnila. Přístup ke studiu je mnohem snadnější, ale lidé už nemají takový velký zájem mu se věnovat. 
+Italo Dřevo kdysi řekl, že nedostatek vzdělání může být i pramenem sily a klidu. Nesouhlasím s tím. Myslím si, že škola je důležitá část našiho života. Ve škole neziskáme jen základní znalosti o světě, ve kterém žijeme; ale také si nacházíme přátele. Dostaváme zkušenosti jako začinající členové společnosti. Učíme se být chytřejšími, tolerantnějšími a respektovat lidi kolem sebe. Rozhodně intelektualní rozvoj je také významný. 
+V mém případě, studium opravdu za to stál. Otevřel mi cestu k sebepoznání a k poznání světa. Měla jsem příležitost se dozvědět o kulturách různých národů a seznámit se s zajímavými lidmi, kteří mi inspirovali. Vím, že díky studiu můžu změnit svůj život a udělat něco pro ostatní. Doufám, že mi nadšení vydrží. 
+Žijeme ve světě, který nás pořád překvapuje. Musíme ho poznat a cenit. V 21. století člověk žije útulně, díky práci vědců z minulosti. Proto musí studovat a udělat svět lepší pro následující generace. Je to náš společný dlůh.
+
+----------------
+
+Target hypothesis 1: 
+
+Škola - základ života Ve středověku si ne každý mohl dovolit studovat a získat vzdělání . Teď ale , v době informační revoluce , se situace změnila . Přístup ke studiu je mnohem snadnější , ale lidé už nemají takový velký zájem se mu věnovat . Ital Dřevo kdysi řekl , že nedostatek vzdělání může být i pramenem síly a klidu . Nesouhlasím s tím . Myslím si , že škola je důležitá část našeho života . Ve škole nezískáme jen základní znalosti o světě , ve kterém žijeme , ale také si nacházíme přátele . Dostáváme zkušenosti jako začínající členové společnosti . Učíme se být chytřejšími , tolerantnějšími a respektovat lidi kolem sebe . Rozhodně intelektuální rozvoj je také významný . V mém případě studium opravdu za to stálo . Otevřelo mi cestu k sebepoznání a k poznání světa . Měla jsem příležitost se dozvědět o kulturách různých národů a seznámit se se zajímavými lidmi , kteří mě inspirovali . Vím , že díky studiu můžu změnit svůj život a udělat něco pro ostatní . Doufám , že mi nadšení vydrží . Žijeme ve světě , který nás pořád překvapuje . Musíme ho poznat a cenit si ho . V 21. století člověk žije útulně , díky práci vědců z minulosti . Proto musíme studovat a udělat svět lepší pro následující generace . Je to náš společný dluh .
+
+----------------
+
+Target hypothesis 2: 
+
+Škola - základ života Ve středověku si ne každý mohl dovolit studovat a získat vzdělání . Teď ale , v době informační revoluce , se situace změnila . Přístup ke studiu je mnohem snadnější , ale lidé už nemají takový velký zájem se mu věnovat . Ital Dřevo kdysi řekl , že nedostatek vzdělání může být i pramenem síly a klidu . Nesouhlasím s tím . Myslím si , že škola je důležitá část našeho života . Ve škole nezískáme jen základní znalosti o světě , ve kterém žijeme , ale také si nacházíme přátele . Dostáváme zkušenosti jako začínající členové společnosti . Učíme se být chytřejšími , tolerantnějšími a respektovat lidi kolem sebe . Rozhodně intelektuální rozvoj je také významný . V mém případě studium opravdu za to stálo . Otevřelo mi cestu k sebepoznání a k poznání světa . Měla jsem příležitost se dozvědět o kulturách různých národů a seznámit se se zajímavými lidmi , kteří mě inspirovali . Vím , že díky studiu můžu změnit svůj život a udělat něco pro ostatní . Doufám , že mi nadšení vydrží . Žijeme ve světě , který nás pořád překvapuje . Musíme ho poznat a cenit si ho . V 21. století člověk žije útulně , díky práci vědců z minulosti . Proto musíme studovat a udělat svět lepší pro následující generace . Je to náš společný dluh .

@@ -1,0 +1,43 @@
+METADATA
+
+General:
+Author ID: 1114
+Test language: Czech
+CEFR level of test: B1
+Task : answer to the email of a Tandem agency - ID: 4_Katerina
+Mother tongue: German
+Age: not reported
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Ahoj Kateřino,
+Děkuju Ti za tvůj email a leták s informacemi. Moc rád se účastním  na kurzu. Bohužel ne mám čas v září, protože tam mám staž v Rusku. Ale termín v červenci se mi hodí dobře.
+Teď já učím česky tři semestry, to je mám uroveň B1. Chtěl bych se procvičovat zvlaště ústní rozhovor, protože v Německu nemám příležitost mluvit česky. Já očekávám, že já  budu mluvit mnoho ve vašem kurzu. Učím češtinu proto že už dobře znám ruštinu, studuju slavistiku a myslím, že to je dobře učit druhý slovanský jazyk.
+Chtěl bych poznávat mladẏ českẏ lidé, dělat sport a podívat přirodu v Perninku.
+Potřebujem ubytování - mohla bys mi, prosím, organizovat ubytování? Která učebnice potřebujem?  Víš ty, je-li stipendium pro německy studenty?
+Těšším mi za tvůj odpověď!
+S podravem,
+ David 
+
+----------------
+
+Target hypothesis 1: 
+
+Ahoj Kateřino , děkuju Ti za Tvůj e-mail a leták s informacemi . Moc rád se zúčastním kurzu . Bohužel nemám čas v září , protože mám stáž v Rusku . Ale termín v červenci se mi hodí dobře . Teď se učím česky tři semestry , mám úroveň B1 . Chtěl bych si procvičovat zvláště ústní rozhovor , protože v Německu nemám příležitost mluvit česky . Já očekávám , že budu mluvit mnoho ve vašem kurzu . Učím se češtinu proto , že už dobře znám ruštinu , studuju slavistiku a myslím , že to je dobře , učit se druhý slovanský jazyk . Chtěl bych poznávat mladé české lidi , dělat sport a podívat se na přírodu v Perninku . Potřebuju ubytování - mohla bys mi , prosím , zorganizovat ubytování ? Kterou učebnici potřebuji ? Víš , je-li stipendium pro německé studenty ? Těším se na tvou odpověď ! S podravem David
+
+----------------
+
+No target hypothesis 2 available.
+

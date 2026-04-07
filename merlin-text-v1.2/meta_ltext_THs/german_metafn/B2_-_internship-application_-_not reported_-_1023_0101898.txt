@@ -1,0 +1,47 @@
+METADATA
+
+General:
+Author ID: 1023_0101898
+Test language: German
+CEFR level of test: B2
+Task : apply for internship in sales department - ID: 1023_120301
+Mother tongue: not reported
+Age: 32
+Gender: female
+
+Rating:
+Overall CEFR rating: B2
+Grammatical accuracy: C1
+Orthography: B2
+Vocabulary range: C1
+Vocabulary control: C1
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: B2
+
+----------------
+
+Learner text: 
+
+                                 20 Merz
+                                 Computer Spezialist
+                                 Obenwaldstrasse
+Sehr geehrte Damen und Herren
+Laut inserat in Anzeige bewerbe ich mich um die freie Arbeistelle als Vertriebspraktikantin. Ich habe in Serbien die, Schule gelernt, und daher ist dieses Praktikum genau das Richtige für mich. Die Zusammenarbeit mit verschiedenen Leute und die Tätigkeiten einer Systemkauffrau bereitet mir grosse Freude Ich bin alten, kommunikativ und eine motivierte Person. Ich leibe es im Team zusammenarbeiten und schätze selbständige und abwechlungsreiche Arbeit.
+Ich halte mich für eine zeilstrebige, vertrauenswürdige und belastbare Person. Zuverlässigkeit und Pünktlichkeit sind für mich absoluten Selbstverständlichkeiten 
+Ich bin überzeugt, dass sowohl meine Kentnise und Erfarungen ihren Anforderungen etsprechen wü-unreadable-
+Von diesem Praktikum erwarte ich eine fest stelle und dass ich später eine Ausbildung als ITSistemkauffrau machen kann.
+Ich möchte wissen wann soll ich beginnen wie ist Arbeitszeit und wie fiel ist -unreadable- der Stunde.
+Solter die Stelle noch zu besetzen ist, bin ich Ihnen dankbar für eine wohlwellende Überprüfung meiner Bewerbung.
+Mit freundlichen Grüssen
+Frau Maria Schmidt
+
+----------------
+
+Target hypothesis 1: 
+
+20 . März Computer-Spezialist Odenwaldstrasse Sehr geehrte Damen und Herren , laut Inserat in der Anzeige bewerbe ich mich um die freie Arbeitstelle als Vertriebspraktikantin . Ich habe in Serbien die Schule gelernt , und daher ist dieses Praktikum genau das Richtige für mich . Die Zusammenarbeit mit verschiedenen Leuten und die Tätigkeiten einer Systemkauffrau bereiten mir grosse Freude . Ich bin alt , kommunikativ und eine motivierte Person . Ich liebe es , im Team zusammenzuarbeiten und schätze selbständige und abwechslungsreiche Arbeit . Ich halte mich für eine zielstrebige , vertrauenswürdige und belastbare Person . Zuverlässigkeit und Pünktlichkeit sind für mich absolute Selbstverständlichkeiten . Ich bin überzeugt , dass sowohl meine Kenntnisse und Erfahrungen ihren Anforderungen entsprechen wü-unreadable- . Von diesem Praktikum erwarte ich eine feste Stelle und dass ich später eine Ausbildung als IT-Systemkauffrau machen kann . Ich möchte wissen , wann ich beginnen soll , wie die Arbeitszeit ist und wie viel -unreadable- der Stundenlohn  ist der Stundenlohn . Sollte die Stelle noch zu besetzen sein , bin ich Ihnen dankbar für eine wohlwollende Überprüfung meiner Bewerbung . Mit freundlichen Grüssen Frau Maria Schmidt
+
+----------------
+
+No target hypothesis 2 available.
+

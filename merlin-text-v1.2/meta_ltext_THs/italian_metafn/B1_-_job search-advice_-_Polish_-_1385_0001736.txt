@@ -1,0 +1,40 @@
+METADATA
+
+General:
+Author ID: 1385_0001736
+Test language: Italian
+CEFR level of test: A1
+Task : help a friend who is looking for work - ID: 1385_040101
+Mother tongue: Polish
+Age: 27
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+CIAO MICHELE!
+GRAZIE PER LA TUA RISPOSTA E SONO MOLTO CONTENTA CHE TUTTO VADA BENE! ADESSO IO SO CHE TU CHERCHI UN NUOVO POSTO DI LAVORO. IO VOGLIO AIUTARTI, MA HO BISOGNO DI QUALCHE INFORMAZIONE IN PIÙ -symbol-. SOPRATUTTO: DOVE LAVORI ADESSO? QUESTA DITTA È GRANDE O PICOLLA? IN CHE COSA CONSISTE IL TUO LAVORO? IO SOLO SO CHE TU SEI IMPIEGATO. INVECE CHE TIPO DI LAVORO VUOI FARE? TU VUOI RESTARE L'IMPIEGATO O VUOI CAMBIARE QUESTO TIPO DI LAVORO - AD ESEMPIO PER L'OPERAIO? 
+E MOLTO IMPORTANTE COSA VORREI SAPERE  QUANDO VORRESTI INIZIARE IL NUOVO LAVORO? 
+IO ASPETTO LA TUA EMAIL E SPERO CHE RIVEDERTI PRESTO :) 
+BACI ED ABBRACCI! TUA Maria
+
+----------------
+
+Target hypothesis 1: 
+
+Ciao Michele ! Grazie per la tua risposta , sono molto contenta che tutto vada bene ! Adesso io so che tu cerchi un nuovo posto di lavoro . Io voglio aiutarti , ma ho bisogno di qualche informazione in più -symbol- . Sopratutto : dove lavori adesso ? Questa ditta è grande o piccola ? In che cosa consiste il tuo lavoro ? Io so solo che tu sei impiegato . Invece che tipo di lavoro vuoi fare ? Tu vuoi restare null impiegato o vuoi cambiare questo tipo di lavoro - ad esempio per l' operaio ? È molto importante cosa vorrei sapere - quando vorresti iniziare il nuovo lavoro ? Io aspetto la tua email e spero di rivederti presto :) . Baci ed abbracci ! Tua Maria
+
+----------------
+
+No target hypothesis 2 available.
+

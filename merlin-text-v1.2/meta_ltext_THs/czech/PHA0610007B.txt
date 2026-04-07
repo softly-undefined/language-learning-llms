@@ -1,0 +1,36 @@
+METADATA
+
+General:
+Author ID: PHA0610007B
+Test language: Czech
+CEFR level of test: A2
+Task : describe a photo: playground - ID: A2PS0201_hriste
+Mother tongue: Russian
+Age: 3039
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Na fotografii jsou muž, žena a dvá děti. Jsou na hriště, mají Solný čas. Muž má na sobě černou tričku a žena má na sobě bílou tričku. Jsou spokojené a myslí, že jsou velmí dobrá rodina. Manžel a manželka mluví, že dnes je pekné počasi a svetí slunce, ale děti ještě neumí mluvit. Je léto, je lepší roční období, kdy celá rodina chodi na prochazku.
+
+----------------
+
+Target hypothesis 1: 
+
+Na fotografii jsou muž , žena a dvě děti . Jsou na hřišti , mají volný čas . Muž má na sobě černé tričko a žena má na sobě bílé tričko . Jsou spokojení a myslí , že jsou velmi dobrá rodina . Manžel a manželka mluví o tom , že dnes je pěkné počasí a svítí slunce , ale děti ještě neumí mluvit . Je léto , je lepší roční období , kdy celá rodina chodí na procházku .
+
+----------------
+
+No target hypothesis 2 available.
+

@@ -1,0 +1,45 @@
+METADATA
+
+General:
+Author ID: 0601
+Test language: Czech
+CEFR level of test: B1
+Task : answer to the email of Alena - ID: 1_Alena
+Mother tongue: German
+Age: not reported
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: A2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Ahoj Aleno,
+děkuju Ti mockrat za Tvůj email. Mám hodné práce na studium. Musím skončit diplomce přiští týden.  Je brzo. Potom budu dělat výlet do Norsku. Těším  se na tebe v 13. dubna. Pozvám Ti na kávu na privatě. Kdy  přijedeš? Chtěla bych dostat pro tebe na nadráží.
+Doufám, že dostáš stáž.
+Mám zájem na kurz češtiny. Viš co kurz stojí a kdy  začí? Bylo by krásné, kdybych v Čechach pro kurz. Mohla bys  mi poslat inzerát?
+Jak se má tého bratra?  Ještě je ve škole? Viděla ho minulý rok. Můj bratr začinal studium minulý měsíc. Studuje ekonomii v Berlině. Má velké radost. Ale, jak dlouho?
+Pro  dnešek končim.
+POzdravuj rodinu.
+Zatim ahoj
+Marie
+
+----------------
+
+Target hypothesis 1: 
+
+Ahoj Aleno , děkuju Ti mockrát za Tvůj e-mail . Mám hodně práce se studiem . Musím skončit diplomku příští týden . Je brzo . Potom budu dělat výlet do Norska . Těším se na Tebe 13. dubna . Pozvu Tě na kávu na privátě . Kdy přijedeš ? Chtěla bych se dostat pro Tebe na nádraží . Doufám , že dostaneš stáž . Mám zájem o kurz češtiny . Víš , kolik kurz stojí a kdy začíná ? Bylo by krásné , kdybych chodila v Čechách na kurz . Mohla bys mi poslat inzerát ? Jak se má Tvůj bratr ? Ještě je ve škole ? Viděla jsem ho minulý rok . Můj bratr začal studium minulý měsíc . Studuje ekonomii v Berlíně . Má velkou radost . Ale jak dlouho ? Pro dnešek končím . Pozdravuj rodinu . Zatím ahoj Marie
+
+----------------
+
+Target hypothesis 2: 
+
+Ahoj Aleno , děkuju Ti mockrát za Tvůj e-mail . Mám hodně práce se studiem . Musím dokončit diplomku příští týden . Je brzo . Potom pojedu na výlet do Norska . Těším se na Tebe 13. dubna . Pozvu Tě na kávu na privátě . Kdy přijedeš ? Chtěla bych se dostat pro Tebe na nádraží . Doufám , že dostaneš stáž . Mám zájem o kurz češtiny . Víš , kolik kurz stojí a kdy začíná ? Bylo by krásné , kdybych chodila v Čechách na kurz . Mohla bys mi poslat inzerát ? Jak se má Tvůj bratr ? Ještě je ve škole ? Viděla jsem ho minulý rok . Můj bratr začal studium minulý měsíc . Studuje ekonomii v Berlíně . Má velkou radost . Ale jak dlouho ? Pro dnešek končím . Pozdravuj rodinu . Zatím ahoj Marie

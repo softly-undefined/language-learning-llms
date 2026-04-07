@@ -1,0 +1,39 @@
+METADATA
+
+General:
+Author ID: PHA0111014
+Test language: Czech
+CEFR level of test: B2
+Task : write an essay: A friend in need is a friend indeed - ID: B2PS0202_pritel
+Mother tongue: Russian
+Age: 2029
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: B1
+Vocabulary control: A2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Mnohý lidí mluví, že v nouzi poznás přítele. Kdy máš mnóho peníz, kdy všehno delají nějlepším spusobém netažko byt přítelém. Mnohy lidí mohou s tebou mluvít, setkat se, navštevít tobě. Ale, tolík začínají neco špatně, kdy nemáš peníz, nemáš prácí, ale neco jine mužeš poznat sve přítele.
+Chtěla bych napsat o jedném příklade, ktery byl se mnou prěd několík měsiců. Byla to tažká doba, bolíla jsem, ne mohla pracovat, ale můsila jsem mít penízy, abych mohla jsem platít za byt. Myslíla jsem, že mám mnoho přítele, ktery mohly mě pomoct. Ale uznala jsem, že pomoct mohut tolik nekolík človék Ktery pečili obo mě kdy bolíla, přinesli potraviny a našli dobreho lekařa. Nektery dalí peníz, abyh mohla jsem zaplatit za byt.
+Uznala jsom na osobném primeru, ze v nouzi poznála prítele. S tou doby mám dobré pratele, a ony mají ve mne dobrou pritylkene. Vzdy mohou znat že budu pomohat jim jaka by doba ne byla tažka, ale ne.
+
+----------------
+
+Target hypothesis 1: 
+
+Mnozí lidé mluví o tom , že v nouzi poznáš přítele . Když máš mnoho peněz , když všechno dělají nejlepším způsobem , není těžké být přítelem . Mnozí lidé mohou s tebou mluvit , setkat se , navštívit tě . Ale tolik začíná něco špatně , když nemáš peníze , nemáš práci , ale z něčeho jiného můžeš poznat svého přítele . Chtěla bych napsat o jednom příkladě , který byl se mnou před několika měsíci . Byla to těžká doba , bolelo mě , nemohla jsem pracovat , ale musela jsem mít peníze , abych mohla platit za byt . Myslela jsem , že mám mnoho přátel , kteří by mi mohli pomoct . Ale uznala jsem , že pomoct může tolik několik lidí , kteří o mě pečovali , když mě bolelo , přinesli potraviny a našli dobrého lékaře . Někteří mi dali peníze , abych mohla zaplatit za byt . Uznala jsem na osobním příměru , že v nouzi poznáš přítele . Od té doby mám dobré přátele a oni mají ve mně dobrou přítelkyni . Vždy mohou poznat , že jim budu pomáhat , jako by doba nebyla těžká , ale ne .
+
+----------------
+
+Target hypothesis 2: 
+
+Mnozí lidé mluví o tom , že v nouzi poznáš přítele . Když máš mnoho peněz , když všechno dělají nejlepším způsobem , není těžké být přítelem . Mnozí lidé mohou s tebou mluvit , setkat se , navštívit tě . Ale tolikrát začíná něco špatného , když nemáš peníze , nemáš práci , ale z něčeho jiného můžeš poznat svého přítele . Chtěla bych napsat o jednom příkladě , který se mi stal před několika měsíci . Byla to těžká doba , bolelo mě , nemohla jsem pracovat , ale musela jsem mít peníze , abych mohla platit za byt . Myslela jsem , že mám mnoho přátel , kteří by mi mohli pomoct . Ale poznala jsem , že pomoct může jen několik lidí , kteří o mě pečovali , když mě bolelo , přinesli potraviny a našli dobrého lékaře . Někteří mi dali peníze , abych mohla zaplatit za byt . Poznala jsem na osobním příměru , že v nouzi poznáš přítele . Od té doby mám dobré přátele a oni mají ve mně dobrou přítelkyni . Vždy mohou poznat , že jim budu pomáhat , jako by doba nebyla těžká , ale ne .

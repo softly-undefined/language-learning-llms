@@ -1,0 +1,41 @@
+METADATA
+
+General:
+Author ID: 1385_0001153
+Test language: Italian
+CEFR level of test: A1
+Task : help a friend who is looking for work - ID: 1385_040101
+Mother tongue: Polish
+Age: 50
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+CIAO CARO MICHELE
+GRAZIE PER LA TUA EMAIL. VORREI AIUTARTI, MA HO BISOGNO DI QUALCHE INFORMAZIONE IN PIÙ. PUOI DIRMI, DOVE LAVORI ADESSO, QUANDO VORRESTI INIZIARE LAVORO.
+E (QUESTO È IMPORTANTE!) CHE TIPO DI LAVORO TI INTERESSA? VORREI SAPERE ANCHE, DOVE VORRESTI LAVORARE. A Città X, A Città Y? SPERO, CHE POTRÒ AIUTARTI E SPERO VEDERTI PRESTO.
+SE CERCHERÒ QUALCOSA, TI CHIAMERÒ.
+CIAO, BACCIONI
+TUA AMICA Maria
+
+----------------
+
+Target hypothesis 1: 
+
+Ciao caro Michele , grazie per la tua email . Vorrei aiutarti , ma ho bisogno di qualche informazione in più . Puoi dirmi dove lavori adesso e quando vorresti iniziare il lavoro ? E ( questo è importante ) che tipo di lavoro ti interessa ? Vorrei sapere anche dove vorresti lavorare . A Città X o a Città Y ? Spero che potrò aiutarti e spero di vederti presto . Se cercherò qualcosa , ti chiamerò . Ciao , bacioni . La tua amica Maria
+
+----------------
+
+No target hypothesis 2 available.
+

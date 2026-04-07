@@ -1,0 +1,45 @@
+METADATA
+
+General:
+Author ID: 1365_0100175
+Test language: Italian
+CEFR level of test: B1
+Task : answer to an wedding invitation - ID: 1365_020300
+Mother tongue: other
+Age: 19
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: C1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Cara Beatrice e caro Stefano, 
+Congratulazioni per il vostro matrimonio e mille grazie per l'invito! Mi piace molto che avete deciso di sposare!
+Ho tempo per andare e sono molto contenta che posso participare! 
+Beatrice, hai già trovato una bella vestita? 
+Ho anche una altra domanda: che cosa posso regolarvi? 
+Avete un desiderio speciale? 
+Forze avete bisogno di qualcosa per la vostra nuova cucina? 
+
+Spero di ricevere presto una risposta! 
+Tanti saluti, Maria Rossi
+
+----------------
+
+Target hypothesis 1: 
+
+Cara Beatrice e caro Stefano , congratulazioni per il vostro matrimonio e mille grazie per l' invito ! Mi piace molto che abbiate deciso di sposarvi ! Ho tempo per andare e sono molto contenta che posso partecipare ! Beatrice , hai già trovato un bel vestito ? Ho anche un' altra domanda : che cosa posso regolarvi ? Avete un desiderio speciale ? Forse avete bisogno di qualcosa per la vostra nuova cucina ? Spero di ricevere presto una risposta ! Tanti saluti , Maria Rossi
+
+----------------
+
+No target hypothesis 2 available.
+

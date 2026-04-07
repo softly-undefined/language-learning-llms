@@ -1,0 +1,29 @@
+METADATA
+
+General:
+Author ID: 1385_0001718
+Test language: Italian
+CEFR level of test: A1
+Task : reschedule an appointment - ID: 1385_020100
+Mother tongue: German
+Age: 71
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A1
+Orthography: A2
+Vocabulary range: A1
+Vocabulary control: A1
+Coherence/Cohesion: A1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Caro Daniele
+Oggi e un settimana orribile. In un  ufficio c'è molto lavoro e giovedì pommeriggio non possono incontravi con te giovedì pommeriggio. Hai voglia di incontriamo un altro giorno. 
+Andiamo a cena in un ristaurante tailandese. 
+Ciao e a presto 
+ Michele 

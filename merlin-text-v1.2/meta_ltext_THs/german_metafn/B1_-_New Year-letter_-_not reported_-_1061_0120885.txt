@@ -1,0 +1,44 @@
+METADATA
+
+General:
+Author ID: 1061_0120885
+Test language: German
+CEFR level of test: B1
+Task : write a letter for New Year to a friend - ID: 1061_110101
+Mother tongue: not reported
+Age: 38
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B2
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B2
+
+----------------
+
+Learner text: 
+
+                                       Stadt X 26.03.12
+Hallo Lieber Michael.
+Ich habe mich sehr gefreut für deinen Brief. Ich wünsche dir auch alles Gute in das neues Jahr.
+Bei mir beruflich läuft  wie immer, ohne änderung.
+Ich war am Silvesternacht mit meine Familie und ein paar Freunde bei mir zuhause, wir haben auch gemeinsam gekocht und später alles gegessen, danach sind wir zum Kenedybrücke gegangen um das Feuerwerk zu sehn. Danach sind wir in Disko gegangen bis zum morgen früh.
+Wenn du mit deine Ausbildung fertig bist, müssen wir schon uns treffen, vieleicht machen wir am Sommer Urlaub zusamen. Hast du Zeit und Lust?
+Schreibe mir bald, ich bin schon sehr gespannt auf Deine Antwort.
+Viele Grüße
+Dein Friedrich
+
+----------------
+
+Target hypothesis 1: 
+
+Stadt X , 26.03.12 Hallo lieber Michael ! Ich habe mich sehr gefreut über deinen Brief . Ich wünsche dir auch alles Gute in dem neuen Jahr . Bei mir läuft es beruflich wie immer , ohne Änderung . Ich war in der Silvesternacht mit meiner Familie und ein paar Freunden bei mir zu Hause , wir haben auch gemeinsam gekocht und später alles gegessen , danach sind wir zur Kennedybrücke gegangen , um das Feuerwerk zu sehen . Danach sind wir bis früh zum Morgen in die Disko gegangen . Wenn du mit deiner Ausbildung fertig bist , müssen wir uns schon treffen , vielleicht machen wir im Sommer Urlaub zusammen . Hast du Zeit und Lust ? Schreibe mir bald , ich bin schon sehr gespannt auf Deine Antwort . Viele Grüße Dein Friedrich
+
+----------------
+
+No target hypothesis 2 available.
+

@@ -1,0 +1,30 @@
+METADATA
+
+General:
+Author ID: 1071_0024820
+Test language: German
+CEFR level of test: A1
+Task : arrange appointment with friend to go swimming together - ID: 1071_120302
+Mother tongue: English
+Age: 62
+Gender: male
+
+Rating:
+Overall CEFR rating: A1
+Grammatical accuracy: A1
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A1
+
+----------------
+
+Learner text: 
+
+Wo möchst du schwimmen gehen?
+Wann möchst du wir Treffen?
+Bringen Sie deine schwimmen Kleidung.
+Ich hofe sie können kommen.
+Mit freundlichen Grüße,
+Michael Meier

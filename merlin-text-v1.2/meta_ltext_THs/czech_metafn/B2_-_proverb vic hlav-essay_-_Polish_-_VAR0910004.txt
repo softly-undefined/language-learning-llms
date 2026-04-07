@@ -1,0 +1,40 @@
+METADATA
+
+General:
+Author ID: VAR0910004
+Test language: Czech
+CEFR level of test: B2
+Task : write an essay: More people know more - ID: B2PS0201_hlava
+Mother tongue: Polish
+Age: 2029
+Gender: female
+
+Rating:
+Overall CEFR rating: B2
+Grammatical accuracy: B2
+Orthography: B1
+Vocabulary range: B2
+Vocabulary control: B2
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Víc hlav víc ví - je to pravidlo, které platí vždy. Každy mělby to vědět aspoň proto, aby se nam všem žílo lepé. 
+Ze svých zkušeností vím, že kdykoliv člověk má nějaký problém, je dobře se s někým poradít. A jde tady o řešení jak pracovních tak í soukromých problemů. Když nas něco trapí mělibychom se o tom pobavít s přatelem nebo s rodinou. Možna i nedodržíme hotový recept jak problém vyřešit, ale určitě uslyšíme: "Neboj, to není tak hrozné, spolu to zvladneme. Nějak to bude, uvidiš, že za půl roku budeme se s toho smát." A pří tom od každého uslyšíme spousta různych možností na vyběr. 
+Stejně to vypada kdy například dostaneme v praci úkol, kterého nejsme schopní sami udělat. I v tom připadě je nejlepší obratít se na své kolegy. Myslím si, že jístě Vám pomužou. Dáte hlavy dohromady a určitě něco společně vymyslite. 
+Víc lidi víc nápadů a v skutečnosti víc možností pro řešení problemů. Částo v praci společně řešíme problemy a proto vím, že víc hlav víc ví a souhlasím s tím stoprocentně. 
+
+----------------
+
+Target hypothesis 1: 
+
+Víc hlav víc ví - je to pravidlo , které platí vždy . Každý by to měl vědět aspoň proto , aby se nám všem žilo lépe . Ze svých zkušeností vím , že kdykoliv člověk má nějaký problém , je dobře se s někým poradit . A jde tady o řešení jak pracovních , tak i soukromých problémů . Když nás něco trápí , měli bychom se o tom pobavit s přítelem nebo s rodinou . Možná i nedodržíme hotový recept , jak problém vyřešit , ale určitě uslyšíme : " Neboj , to není tak hrozné , spolu to zvládneme . Nějak to bude , uvidíš , že za půl roku se tomu budeme smát . " A přitom od každého uslyšíme spoustu různých možností na výběr . Stejně to vypadá , když například dostaneme v práci úkol , který nejsme schopní sami udělat . I v tom případě je nejlepší obrátit se na své kolegy . Myslím si , že Vám jistě pomůžou . Dáte hlavy dohromady a určitě něco společně vymyslíte . Víc lidí , víc nápadů , a ve skutečnosti víc možností pro řešení problémů . Často v práci společně řešíme problémy , a proto vím , že víc hlav víc ví , a souhlasím s tím stoprocentně .
+
+----------------
+
+Target hypothesis 2: 
+
+Víc hlav víc ví - je to pravidlo , které platí vždy . Každý by to měl vědět aspoň proto , aby se nám všem žilo lépe . Ze svých zkušeností vím , že kdykoliv člověk má nějaký problém , je dobře se s někým poradit . A jde tady o řešení jak pracovních , tak i soukromých problémů . Když nás něco trápí , měli bychom se o tom pobavit s přítelem nebo s rodinou . Možná i nedostaneme hotový recept , jak problém vyřešit , ale určitě uslyšíme : " Neboj , to není tak hrozné , spolu to zvládneme . Nějak to bude , uvidíš , že za půl roku se tomu budeme smát . " A přitom od každého uslyšíme spoustu různých možností na výběr . Stejně to vypadá , když například dostaneme v práci úkol , který nejsme schopní sami udělat . I v tom případě je nejlepší obrátit se na své kolegy . Myslím si , že Vám jistě pomůžou . Dáte hlavy dohromady a určitě něco společně vymyslíte . Víc lidí , víc nápadů , a ve skutečnosti víc možností pro řešení problémů . Často v práci společně řešíme problémy , a proto vím , že víc hlav víc ví , a souhlasím s tím stoprocentně .

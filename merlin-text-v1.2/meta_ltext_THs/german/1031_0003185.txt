@@ -1,0 +1,40 @@
+METADATA
+
+General:
+Author ID: 1031_0003185
+Test language: German
+CEFR level of test: C1
+Task : essay about why it's of value to learn German - ID: 1031_010300
+Mother tongue: other
+Age: 37
+Gender: female
+
+Rating:
+Overall CEFR rating: B2
+Grammatical accuracy: B2
+Orthography: B2
+Vocabulary range: B2
+Vocabulary control: B2
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: B2
+
+----------------
+
+Learner text: 
+
+Sehr geehrte Damen und Herrn,
+auf Ihre auftrag im Internet über „Deutslernen ist sinnvoll" möchte ich Ihnen meine meinung mit teilen.
+Ich war sehr erstaunt, wenn ich einmal gelesen, wie viel Länder in der Univers, Deutsch reden können. und sehr enteüsched zu wissen, dass viele Menschen halten davon das Deutschesprache ist unnützlich. Deutsch ist ein Alte Sprache die man muss unterstützen und behärschen muss. Die Länder die Industriel stark sind wurden in der Zukunft der Welt kontrolieren, und Deutschland ist einer dieser Länder. Die Meist  verkaufte Autos in dem Welt sind Deutschesautos, Die Bekannteste Firmen überall sind auch Deutsche z.B Siemens, Bosch. Das wegen in der Industriegebiet weiter mit Deutschland zu kommen, muss Deutschkenntnisse können. Dass würde die Kommunikation zwischen andere Ländern und Deutschland leichter machen.
+Mit Freundlichen Grüßen
+Katharina Winkelmann
+
+----------------
+
+Target hypothesis 1: 
+
+Sehr geehrte Damen und Herren , auf Ihren Auftrag im Internet über " Deutslernen ist sinnvoll " möchte ich Ihnen meine Meinung mitteilen . Ich war sehr erstaunt , wenn ich einmal gelesen habe , wieviele Länder im Universum , Deutsch reden können . und sehr enttäuscht zu wissen , dass viele Menschen davon die deutsche Sprache für unnützlich halten . Deutsch ist ein alte Sprache , die man unterstützen und beherrschen muss . Die Länder , die industriell stark sind , werden in der Zukunft die Welt kontrollieren , und Deutschland ist eines dieser Länder . Die meisten verkauften Autos in der Welt sind deutsche Autos , die bekanntesten Firmen überall sind auch Deutsche , z.B. Siemens , Bosch . Deswegen im Industriegebiet weiter mit Deutschland zu kommen , muss man Deutschkenntnisse können . Das würde die Kommunikation zwischen anderen Ländern und Deutschland leichter machen . Mit freundlichen Grüßen Katharina Winkelmann
+
+----------------
+
+No target hypothesis 2 available.
+

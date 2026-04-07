@@ -1,0 +1,30 @@
+METADATA
+
+General:
+Author ID: 1071_0248315
+Test language: German
+CEFR level of test: A1
+Task : congratulate to birth of child - ID: 1071_030101
+Mother tongue: not reported
+Age: 37
+Gender: male
+
+Rating:
+Overall CEFR rating: A1
+Grammatical accuracy: A1
+Orthography: A1
+Vocabulary range: A1
+Vocabulary control: A1
+Coherence/Cohesion: A1
+Sociolinguistic appropriateness: A1
+
+----------------
+
+Learner text: 
+
+Lieber Jens                                     31.05.2012 Stadt X
+herzlich Glückwünsche
+haben jetes eine Name für Inen Kind
+und wigsset jetes Ihre Frau jtez alls ok alls ardnom
+Mit Frenndlichen Grüßen
+Stefan

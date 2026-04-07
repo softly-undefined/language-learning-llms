@@ -1,0 +1,40 @@
+METADATA
+
+General:
+Author ID: 1061_0120357
+Test language: German
+CEFR level of test: B1
+Task : write a letter to a friend (birthday) - ID: 1061_170900
+Mother tongue: not reported
+Age: 37
+Gender: female
+
+Rating:
+Overall CEFR rating: B2
+Grammatical accuracy: B2
+Orthography: B2
+Vocabulary range: B2
+Vocabulary control: B2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B2
+
+----------------
+
+Learner text: 
+
+Liebe Silke,
+ich habe mich sehr gefreut, dass du mir wieder geschrieben hast. Mirgeht es gut und Got sei Dank sind alle zu Hause auch gesund. Ich besuche zur Zeit einen Deutschkurs beim VHS. Mein Mann arbeitet auch viel (wie immer) und Maria ist schon seit einenhalbes Jahr im Kindergarten. Es wäre richtig schön wir uns wieder zu sehen. Danke für diene Einladung. Was du meinst für den Osternferien? Haben sie frei Zeit oder ist etwas schon geplant? Auf jeden Fall werden wir nocheinmal darüber sprechen. Ich war ganz überascht von euer Geburtstagsgeschenk für Max. Ich dachte - du würdest nie einen Tier zu Hause nehmen. Ich finde aber diese Schritt wichtig, weil deine Kinder sind ganz tierliebesvoll. Ja, für meinen Geburtstag, wünsche ich mir auch, von ganzen Herz so eine Überaschung! Ich wünsche euch alle Gesundheit und viel Liebe. Ich hoffe, dass wir uns bald wieder sehen können. Bleib bitte mit mir in Kontakt, das ist mir wichtig.
+Mit freundlichen Grüßen
+deine Eva
+
+----------------
+
+Target hypothesis 1: 
+
+Liebe Silke , ich habe mich sehr gefreut , dass du mir wieder geschrieben hast . Mir geht es gut und Gott sei Dank sind alle zu Hause auch gesund . Ich besuche zurzeit einen Deutschkurs bei der VHS . Mein Mann arbeitet auch viel ( wie immer ) und Maria ist schon seit eineinhalb Jahren im Kindergarten . Es wäre richtig schön , uns wieder zu sehen . Danke für deine Einladung . Was meinst du für die Osternferien ? Haben sie Freiueit oder ist schon etwas geplant ? Auf jeden Fall werden wir noch einmal darüber sprechen . Ich war ganz überrascht von eurem Geburtstagsgeschenk für Max . Ich dachte , du würdest nie ein Tier zu Hause nehmen . Ich finde aber diesen Schritt wichtig , weil deine Kinder sind ganz tierliebesvoll . Ja , für meinen Geburtstag wünsche ich mir auch , von ganzen Herzen , so eine Überaschung ! Ich wünsche euch allen Gesundheit und viel Liebe . Ich hoffe , dass wir uns bald wieder sehen können . Bleib bitte mit mir in Kontakt , das ist mir wichtig . Mit freundlichen Grüßen deine Eva
+
+----------------
+
+Target hypothesis 2: 
+
+Liebe Silke , ich habe mich sehr gefreut , dass du mir wieder geschrieben hast . Mir geht es gut und Gott sei Dank sind alle zu Hause auch gesund . Ich besuche zurzeit einen Deutschkurs bei der VHS . Mein Mann arbeitet auch viel ( wie immer ) und Maria ist schon seit eineinhalb Jahren im Kindergarten . Es wäre richtig schön , uns wieder zu sehen . Danke für deine Einladung . Was machst du in den Osterferien ? Hast du frei oder ist schon etwas geplant ? Auf jeden Fall werden wir noch einmal darüber sprechen . Ich war ganz überrascht von eurem Geburtstagsgeschenk für Max . Ich dachte , du würdest nie ein Tier zu Hause zulassen . Ich finde diesen Schritt aber wichtig , weil deine Kinder ganz tierlieb sind . Ja , für meinen Geburtstag wünsche ich mir auch , von ganzen Herzen , so eine Überraschung ! Ich wünsche euch allen Gesundheit und viel Liebe . Ich hoffe , dass wir uns bald wieder sehen können . Bleib bitte mit mir in Kontakt , das ist mir wichtig . Mit freundlichen Grüßen deine Eva

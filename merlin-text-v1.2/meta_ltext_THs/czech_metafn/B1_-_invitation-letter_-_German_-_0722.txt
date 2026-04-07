@@ -1,0 +1,43 @@
+METADATA
+
+General:
+Author ID: 0722
+Test language: Czech
+CEFR level of test: B1
+Task : answer to the email of Alena - ID: 1_Alena
+Mother tongue: German
+Age: not reported
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Ahoj Aleno,
+dekuju Ti mockrát za tvůj dopis. Měla jsem moc černé svědom, že jsem Ti dlouhou nepsala. Ale  měla jsem moc práce v poslední době. Včera odevsdala jsem seminarní práci.
+Přišti semestru budu psát diplomovou práce. O dovolenou nebudu mít čas, protože budu prácovat v kancelaři. Byla bych ráda, kdybychom se setkáli v Drážďanech. Kdy budeš přijíždět na nádraži? Půjdu na nádraži. Potom můžeme chodit  na mně domů.
+Ale mám jen čas v patek dopoledne.  Mohla bych ti něco zeptat: Kdy bude začínat  prázdninove kurzy češtiny? Viš, kolik stoji?
+Prosím, mohla bys posilat zajímavý inzerát?  Dekuju Ti mockrát.
+Pro dněšek koncím. Už je pozdě a jsem unavená. Pozdravuj Evu. Mej  se moc hezky.
+Zatím ahoj!
+Kateřina
+
+----------------
+
+Target hypothesis 1: 
+
+Ahoj Aleno , děkuju Ti mockrát za Tvůj dopis . Měla jsem moc černé svědomí , že jsem Ti dlouho nepsala . Ale měla jsem moc práce v poslední době . Včera jsem odevzdala seminární práci . Příští semestr budu psát diplomovou práci . Na dovolenou nebudu mít čas , protože budu pracovat v kanceláři . Byla bych ráda , kdybychom se setkaly v Drážďanech . Kdy budeš přijíždět na nádraží ? Půjdu na nádraží . Potom můžeme jít ke mně domů . Ale mám čas jen v pátek dopoledne . Mohla bych se Tě na něco zeptat ? Kdy budou začínat prázdninové kurzy češtiny ? Víš , kolik stojí ? Prosím , mohla bys mi poslat zajímavý inzerát ? Děkuju Ti mockrát . Pro dnešek končím . Už je pozdě a jsem unavená . Pozdravuj Evu . Měj se moc hezky . Zatím ahoj ! Kateřina
+
+----------------
+
+No target hypothesis 2 available.
+

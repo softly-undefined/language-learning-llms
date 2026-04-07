@@ -1,0 +1,43 @@
+METADATA
+
+General:
+Author ID: 1385_0001717
+Test language: Italian
+CEFR level of test: A1
+Task : reschedule an appointment - ID: 1385_020100
+Mother tongue: German
+Age: 44
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Caro Daniele, 
+devo dirti che non posso incontrarti a giovedi pomeriggio. Mi dispiace molto, ma in ufficio c'è molto lavoro e il mio capo ha organizzato una riunione per giovedi pomeriggio. Purtroppo devo andarci. :-)
+Ma che cosa fai a sabato? Sei libero la sera?
+Avrei tempo per incontrarti senza disturbo del mio capo. 
+:-) Che ne dici? Potremmo andare a cena in centro. Conosco un ristorante tailandese che è molto buono. 
+Scrivimi presto
+Ti abbraccio 
+ Maria
+
+----------------
+
+Target hypothesis 1: 
+
+Caro Daniele , devo dirti che non posso incontrarti giovedì pomeriggio . Mi dispiace molto , ma in ufficio c' è molto lavoro e il mio capo ha organizzato una riunione per giovedì pomeriggio . Purtroppo devo andarci . :-) Ma che cosa fai sabato ? Sei libero la sera ? Avrei tempo per incontrarti senza disturbo dal mio capo . :-) Che ne dici ? Potremmo andare a cena in centro . Conosco un ristorante tailandese che è molto buono . Scrivimi presto ! Ti abbraccio Maria
+
+----------------
+
+No target hypothesis 2 available.
+

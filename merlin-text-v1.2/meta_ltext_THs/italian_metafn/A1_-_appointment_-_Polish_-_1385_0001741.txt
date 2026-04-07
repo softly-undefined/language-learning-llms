@@ -1,0 +1,39 @@
+METADATA
+
+General:
+Author ID: 1385_0001741
+Test language: Italian
+CEFR level of test: A1
+Task : reschedule an appointment - ID: 1385_020100
+Mother tongue: Polish
+Age: 31
+Gender: female
+
+Rating:
+Overall CEFR rating: A1
+Grammatical accuracy: A1
+Orthography: A2
+Vocabulary range: A1
+Vocabulary control: A1
+Coherence/Cohesion: A1
+Sociolinguistic appropriateness: A1
+
+----------------
+
+Learner text: 
+
+Ciao Daniele 
+Come stai? 
+È una settimana orribile. In ufficio c'è molto lavoro e giovedi pomeriggio non posso incontrare. Possiamo incontrare in sabato sera. Andiamo a cena in un ristorante tailandese. Scrivi me. 
+Un abbraccio 
+
+----------------
+
+Target hypothesis 1: 
+
+Ciao Daniele , come stai ? È una settimana orribile . In ufficio c' è molto lavoro e giovedì pomeriggio non posso incontrarti . Possiamo incontrarci sabato sera . Andiamo a cena in un ristorante tailandese . Scrivimi . Un abbraccio
+
+----------------
+
+No target hypothesis 2 available.
+

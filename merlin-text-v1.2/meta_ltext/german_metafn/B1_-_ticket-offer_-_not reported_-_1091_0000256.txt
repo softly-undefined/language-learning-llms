@@ -1,0 +1,30 @@
+METADATA
+
+General:
+Author ID: 1091_0000256
+Test language: German
+CEFR level of test: A2
+Task : offer a ticket not used to a friend - ID: 1091_0690403
+Mother tongue: not reported
+Age: 15
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A1
+
+----------------
+
+Learner text: 
+
+                                  Stadt X, 13.03-12
+Liebe Julia,
+Wie geht´s es dir? Ich habe früher Plan für einen Wochenendausflug nach Stadt Y zu machen. Leider kann ich nicht fahren. Ich bin KranK. Ich müss einen Paar Tagen ins Bett bleiben.
+   Ich habe schon einen U-Bahn Fahrkarte gekauft Möchtest du die Fahrkarte haben? Es gibt viele Sehenwundigkeit in Stadt Y. Ich liebe Dich!
+Bis bald! 
+dein Tobias

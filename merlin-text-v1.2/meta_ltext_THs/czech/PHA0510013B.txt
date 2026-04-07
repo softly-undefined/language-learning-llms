@@ -1,0 +1,41 @@
+METADATA
+
+General:
+Author ID: PHA0510013B
+Test language: Czech
+CEFR level of test: A2
+Task : describe a photo: playground - ID: A2PS0201_hriste
+Mother tongue: Russian
+Age: 3039
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Na fotografii zobrázena rodina. Muž, žena a dvě děti.
+Rodina je na hříště.
+Myslím si, že mají víkend, a proto šli ven na procházku. Tatínek rozhopují jednu dceru, a maminka druhu dceru na hopalkách. Muž má na sobě černou, s dlouhém rukavem košili a černé, krátké kalhoty. Na nohách má letné boty. Žena má na sobě bílé, s kratkém rukavem tričko a černé, kratké kalhoty.
+Holky jsou oblečeny v bílé šaty.
+Myslím si, že celá rodina je velmí spokojína. Mezi sobou povidaji o hezkém počasi a chtěji příští víkend jet do ZOO.
+Podle fotohrafie, venku je leto.
+
+----------------
+
+Target hypothesis 1: 
+
+Na fotografii je zobrazena rodina . Muž , žena a dvě děti . Rodina je na hřišti . Myslím si , že mají víkend , a proto šli ven na procházku . Tatínek rozhoupává jednu dceru a maminka druhou dceru na houpačkách . Muž má na sobě černou košili s dlouhým rukávem a černé , krátké kalhoty . Na nohách má letní boty . Žena má na sobě bílé tričko s krátkým rukávem a černé , krátké kalhoty . Holky jsou oblečeny v bílé šaty . Myslím si , že celá rodina je velmi spokojena . Mezi sebou si povídají o hezkém počasí a chtějí příští víkend jet do ZOO . Podle fotografie je venku léto .
+
+----------------
+
+No target hypothesis 2 available.
+

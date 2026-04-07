@@ -1,0 +1,30 @@
+METADATA
+
+General:
+Author ID: 1385_0001526
+Test language: Italian
+CEFR level of test: A1
+Task : reschedule an appointment - ID: 1385_020100
+Mother tongue: German
+Age: 27
+Gender: male
+
+Rating:
+Overall CEFR rating: A1
+Grammatical accuracy: 0
+Orthography: A1
+Vocabulary range: A1
+Vocabulary control: 0
+Coherence/Cohesion: A1
+Sociolinguistic appropriateness: A1
+
+----------------
+
+Learner text: 
+
+Ciao Daniele
+ 
+Come stai? Una orribile settimana! Molto di lavoro in ufficio. Molto di passati tutte le giorni. Per andare giovedi, ce bene andate in un ristorante tailandese?
+Prererisco un altro giorno? 
+ Quando andalo a domenica sera? 
+A presto Michele

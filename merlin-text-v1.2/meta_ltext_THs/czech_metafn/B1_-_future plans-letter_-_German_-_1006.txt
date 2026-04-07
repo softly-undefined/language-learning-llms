@@ -1,0 +1,37 @@
+METADATA
+
+General:
+Author ID: 1006
+Test language: Czech
+CEFR level of test: B1
+Task :  - ID: 3_Jana
+Mother tongue: German
+Age: not reported
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Ahoj Jano, děkuju moc za Tvůj mail. To je ale zajímavé, že chceš studovat dál. Už víš,  který obor chceš studovat v Praze? Po ukončení studia si chci hledat nějaké místo. Studium bylo moc drahé, tak musím vydělávat peníze. A potom v létě chci příjet do Brna,  Mohly bychom se tam setkat častěji. Jak se h  líbilo ten kurz angličtiny? Víš, jestli tak-ambiguous- mají kurzy češtiny? Mohla bys mně posílat odkaz na webovou stránku té školy? Je mi taky smutno že jsme se už dlouho neviděly. Naštěstí existuje internet! Posílam tě fotky,  které   a já udělalí na posledním  výletu. 
+Zdravím tě a Pavla! Mějte se fajn! Petra
+
+----------------
+
+Target hypothesis 1: 
+
+Ahoj Jano , děkuju moc za Tvůj mail . To je ale zajímavé , že chceš studovat dál . Už víš , který obor chceš studovat v Praze ? Po ukončení studia si chci hledat nějaké místo . Studium bylo moc drahé , tak musím vydělávat peníze . A potom v létě chci přijet do Brna . Mohly bychom se tam setkat častěji . Jak se Ti líbil ten kurz angličtiny ? Víš , jestli tak-ambiguous- mají kurzy češtiny ? Mohla bys mně posílat odkaz na webovou stránku té školy ? Je mi taky smutno , že jsme se už dlouho neviděly . Naštěstí existuje internet ! Posílám Ti fotky , které jsme udělali na posledním výletu . Zdravím Tě a Pavla ! Mějte se fajn ! Petra
+
+----------------
+
+No target hypothesis 2 available.
+

@@ -1,0 +1,41 @@
+METADATA
+
+General:
+Author ID: 1385_0001134
+Test language: Italian
+CEFR level of test: A1
+Task : reschedule an appointment - ID: 1385_020100
+Mother tongue: German
+Age: 17
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Ciao Daniele,
+Come stai?
+Scusi, ma il è una settimana orribile. In ufficio c'è molto lavoro e giovedì pomeriggio non posso incontrarvi con  te.
+Ma vorrei andiamo a sabato ser in un ristorante tailandese. Tu andi  in centro a cena e noi mangiamo.
+Bono Giornata
+Michele
+
+----------------
+
+Target hypothesis 1: 
+
+Ciao Daniele , come stai ? Scusi , ma è una settimana orribile . In ufficio c' è molto lavoro e giovedì pomeriggio non posso incontrarmi con te . Ma vorrei andare sabato sera in un ristorante tailandese . Tu vai in centro a cena e noi mangiamo . Buona giornata Michele
+
+----------------
+
+No target hypothesis 2 available.
+

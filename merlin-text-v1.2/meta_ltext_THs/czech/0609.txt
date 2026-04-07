@@ -1,0 +1,42 @@
+METADATA
+
+General:
+Author ID: 0609
+Test language: Czech
+CEFR level of test: B1
+Task : answer to the email of Alena - ID: 1_Alena
+Mother tongue: German
+Age: not reported
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Milá Aleno!
+Děkuju Ti mnohokrát za Tvůj email Studium je ještě hezké, protože mám hodně čas až do té doby, když diplom musit být dodělané. V dovolene navstívim moje přátele v Berlině. Asi podiváme se na muzeum nebo galeie.
+ Těšim se na Tvůj návštěvu. Zvu Tě na mě doma. Co říkaš, měla bys čas odpoledné? Kdy přijdeš? Chtěla bych jít pro Tě. Kdy musim být na nádraží? Mám ještě otázky: Kdy jsou prázdninové kurzy češtiny?
+Co stoj kurz? Asi můžeš poslat mně inzerát. To by hodně milé! Včera byl starý koncert v kostele Frauenkirche. Poslouchala jsem a dneska mám každá melodie v uchu. Ráda hrála bych tam také, ale myslim, že jsem moc špatné. Můj přišti koncert je 14. dubna v kostele Dreikönigskirche v Drážďanech. Asi Ty jsi už zde? Těšila bych hodně! To je všechno, protože musim dělat ještě praci pro diplom.
+Zatim ahoj, zdravím Tě srdečně!
+Tvoje Dana
+
+----------------
+
+Target hypothesis 1: 
+
+Milá Aleno ! Děkuju Ti mnohokrát za Tvůj e-mail . Studium je ještě hezké , protože mám hodně času až do té doby , kdy diplom musí být dodělaný . O dovolené navštívím moje přátele v Berlíně . Asi se podíváme do muzea nebo galerie . Těším se na Tvou návštěvu . Zvu Tě ke mně domů . Co říkáš , měla bys čas odpoledne ? Kdy přijdeš ? Chtěla bych pro Tebe dojít . Kdy musím být na nádraží ? Mám ještě otázky : Kdy jsou prázdninové kurzy češtiny ? Co stojí kurz ? Asi mi můžeš poslat inzerát . To by bylo hodně milé ! Včera byl starý koncert v kostele Frauenkirche . Poslouchala jsem a dneska mám každou melodii v uchu . Ráda bych tam hrála také , ale myslím , že jsem moc špatná . Můj příští koncert je 14. dubna v kostele Dreikönigskirche v Drážďanech . Ty asi budeš už zde ? Těšila bych se hodně ! To je všechno , protože musím dělat ještě práci pro diplom . Zatím ahoj , zdravím Tě srdečně ! Tvoje Dana
+
+----------------
+
+Target hypothesis 2: 
+
+Milá Aleno ! Děkuju Ti mnohokrát za Tvůj e-mail . Studium je ještě hezké , protože mám hodně času až do té doby , kdy diplomka musí být dodělaná . O dovolené navštívím moje přátele v Berlíně . Asi se podíváme do muzea nebo galerie . Těším se na Tvou návštěvu . Zvu Tě ke mně domů . Co říkáš , měla bys čas odpoledne ? Kdy přijdeš ? Chtěla bych pro Tebe dojít . Kdy musím být na nádraží ? Mám ještě otázky : Kdy jsou prázdninové kurzy češtiny ? Kolik stojí kurz ? Asi mi můžeš poslat inzerát . To by bylo hodně milé ! Včera byl starý koncert v kostele Frauenkirche . Poslouchala jsem a dneska mám všechny melodie v uchu . Ráda bych tam hrála také , ale myslím , že jsem moc špatná . Můj příští koncert je 14. dubna v kostele Dreikönigskirche v Drážďanech . Ty asi budeš už zde ? Měla bych velkou radost ! To je všechno , protože musím dělat ještě práci pro diplomku . Zatím ahoj , zdravím Tě srdečně ! Tvoje Dana

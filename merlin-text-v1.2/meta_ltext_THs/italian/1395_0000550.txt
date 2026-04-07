@@ -1,0 +1,40 @@
+METADATA
+
+General:
+Author ID: 1395_0000550
+Test language: Italian
+CEFR level of test: A2
+Task : contact a friend after a long time - ID: 1395_020300
+Mother tongue: German
+Age: 22
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Cara Giulia,
+come stai? C'è un tempo che non ci sentiamo! Te scrivo per raccontarti un po' di mia vita nuova. Sto fantastica perchè ho incontrato un uomo molto caloroso! Si chiama Michele, viene di Città Y, e lavoriamo insieme nel albergo a Città X. Il lavoro va veramente bene. Tutti i colleghi sono molto gentile ed extraversi. Mi piace moltissimo lavorare qui nella bella città.
+E tu? Come va l'univeristà? Come sta il tuo ragazzo Francesco? Che pensi: Dobbiamo incontrarci pronto! Sei libera la domenica? Ti invito a prendere un café nel café "Romanica". È bueno e possiamo anche mangiare i panini!
+Cari saluti, Maria
+
+----------------
+
+Target hypothesis 1: 
+
+Cara Giulia , come stai ? È da tempo che non ci sentiamo ! Ti scrivo per raccontarti un po' della mia vita nuova . Sto fantasticamente perché ho incontrato un uomo molto caloroso ! Si chiama Michele , viene da Città Y e lavoriamo insieme nell' albergo a Città X . Il lavoro va veramente bene . Tutti i colleghi sono molto gentili ed estroversi . Mi piace moltissimo lavorare qui nella bella città . E tu ? Come va l' università ? Come sta il tuo ragazzo Francesco ? Che pensi ? Dobbiamo incontrarci presto ! Sei libera la domenica ? Ti invito a prendere un caffè al café " Romanica " . È buono e possiamo anche mangiare i panini ! Cari saluti , Maria
+
+----------------
+
+Target hypothesis 2: 
+
+Cara Giulia , come stai ? È da tempo che non ci sentiamo ! Ti scrivo per raccontarti un po' della mia vita nuova . Sto fantasticamente perché ho incontrato un uomo molto caloroso ! Si chiama Michele , viene da Città Y e lavoriamo insieme nell' albergo a Città X . Il lavoro va veramente bene . Tutti i colleghi sono molto gentili ed estroversi . Mi piace moltissimo lavorare qui nella bella città . E tu ? Come va l' università ? Come sta il tuo ragazzo Francesco ? Dobbiamo incontrarci presto ! Che ne pensi ? Sei libera la domenica ? Ti invito a prendere un caffè al café " Romanica " . È buono e possiamo anche mangiare i panini ! Cari saluti , Maria

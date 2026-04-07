@@ -1,0 +1,29 @@
+METADATA
+
+General:
+Author ID: 1385_0000099
+Test language: Italian
+CEFR level of test: A1
+Task : reschedule an appointment - ID: 1385_020100
+Mother tongue: Italian
+Age: 26
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A1
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Ciao,
+come stai? è una settimana orribile. In ufficio c'è molto lavoro e giovedi non posso.
+ Andiamo, perché un altro giorno per il nostro incostro sabato sera
+Ho proprio voglia di andare a cena in un ristorante tailandese.
+scrivi presto! Ciao

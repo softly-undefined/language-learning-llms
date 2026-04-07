@@ -1,0 +1,40 @@
+METADATA
+
+General:
+Author ID: PAR1011016
+Test language: Czech
+CEFR level of test: B2
+Task : write an essay: No pain no gain - ID: B2PS0202_kolace
+Mother tongue: French
+Age: 2029
+Gender: male
+
+Rating:
+Overall CEFR rating: B2
+Grammatical accuracy: B2
+Orthography: B2
+Vocabulary range: B2
+Vocabulary control: B1
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Toto přísloví vyjadřuje myšlenku, že život je těžký, a že musí člověk pracovat aby si ho využil. Koláče představují všechno, co je jemné a příjemné v životě. Například, chce-li člověk žít v hezkém domu s bazénem, bude muset pracovat aby vydělal docela peníze na to.
+Já s tím přísloví naprosto souhlasím, protože myslím, že snahy jsou velmí důležíté v životě. Ale to se netýká jen hezkého domu či bazénu. V tomto případu by někdo řekl, že je to často naopak, protože bohaté lidé mají výhodu, už mají peníze a lepší vzdělávání díky rodině.
+Myslím spíše, že bez práce nemůžeme žít život, co opravdu chceme. V každodenním životě musíme dělat snahy, abychom dosahali čeho, po čem toužíme. Například, jestli něco nám zajímá, jako umění nebo líteratura, tak musíme se na to soustředit, studovat to nebo číst o tom Musíme taky dělat snahy, abychom viděli často ty, které považujeme za blízké, třeba kamarady nebo rodina, a trvali s nimi čas. Je to důležité nikdy nezapomenout na to, co vlastně chceme a pořád dělat snahy, aby to nám neutekl.
+Proto si myslím, že bez práce nic dobrého nedosahneme.
+
+----------------
+
+Target hypothesis 1: 
+
+Toto přísloví vyjadřuje myšlenku , že život je těžký a že musí člověk pracovat , aby ho využil . Koláče představují všechno , co je jemné a příjemné v životě . Například , chce-li člověk žít v hezkém domu s bazénem , bude muset pracovat , aby vydělal docela peníze na to . Já s tím příslovím naprosto souhlasím , protože myslím , že snahy jsou velmi důležité v životě . Ale to se netýká jen hezkého domu či bazénu . V tomto případě by někdo řekl , že je to často naopak , protože bohatí lidé mají výhodu , už mají peníze a lepší vzdělávání díky rodině . Myslím spíše , že bez práce nemůžeme žít život , jaký opravdu chceme . V každodenním životě musíme dělat snahy , abychom dosáhli čeho , po čem toužíme . Například , jestli nás něco zajímá , jako umění nebo literatura , tak se musíme na to soustředit , studovat to nebo číst o tom . Musíme taky dělat snahy , abychom viděli často ty , které považujeme za blízké , třeba kamarády nebo rodinu , a trvali s nimi čas . Je důležité nikdy nezapomenout na to , co vlastně chceme , a pořád dělat snahy , aby nám to neuteklo . Proto si myslím , že bez práce ničeho dobrého nedosáhneme .
+
+----------------
+
+Target hypothesis 2: 
+
+Toto přísloví vyjadřuje myšlenku , že život je těžký a že musí člověk pracovat , aby ho využil . Koláče představují všechno , co je dobré a příjemné v životě . Například , chce-li člověk žít v hezkém domu s bazénem , bude muset pracovat , aby vydělal dost peněz na to . Já s tím příslovím naprosto souhlasím , protože myslím , že snahy jsou velmi důležité v životě . Ale to se netýká jen hezkého domu či bazénu . V tomto případě by někdo řekl , že je to často naopak , protože bohatí lidé mají výhodu , už mají peníze a lepší vzdělání díky rodině . Myslím spíše , že bez práce nemůžeme žít život , jaký opravdu chceme . V každodenním životě se musíme snažit  , abychom dosáhli toho , po čem toužíme . Například , jestli nás něco zajímá , jako umění nebo literatura , tak se musíme na to soustředit , studovat to nebo číst o tom . Musíme se taky snažit  , abychom viděli často ty , které považujeme za blízké , třeba kamarády nebo rodinu , a trávili s nimi čas . Je důležité nikdy nezapomenout na to , co vlastně chceme , a se pořád snažit  , aby nám to neuteklo . Proto si myslím , že bez práce ničeho dobrého nedosáhneme .

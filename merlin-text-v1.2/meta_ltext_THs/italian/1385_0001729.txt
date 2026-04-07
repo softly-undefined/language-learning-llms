@@ -1,0 +1,40 @@
+METADATA
+
+General:
+Author ID: 1385_0001729
+Test language: Italian
+CEFR level of test: A1
+Task : reschedule an appointment - ID: 1385_020100
+Mother tongue: German
+Age: 46
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Città X, 9 giuglio 2011 
+Caro Daniele, 
+è una settimana orribile! In ufficio c'è molto lavoro e giovedì pomeriggio purtroppo non posso andare al nostro appuntamento. Mi dispiace molto, ma il mio capo ha già  organizzato una riunione giovedì pomeriggio e ci devo andare. Forse possiamo anzichè incontrare il sabato sera? Avrei tempo, e tu? Dimmi che hai volgia. 
+Spero a presto e tanti saluti. 
+Michele
+
+----------------
+
+Target hypothesis 1: 
+
+Città X , 9 luglio 2011 Caro Daniele , è una settimana orribile ! In ufficio c' è molto lavoro e giovedì pomeriggio purtroppo non posso andare al nostro appuntamento . Mi dispiace molto , ma il mio capo ha già organizzato una riunione giovedì pomeriggio e ci devo andare . Forse possiamo invece incontrarci il sabato sera ? Avrei tempo , e tu ? Dimmi che hai voglia . Spero a presto e tanti saluti . Michele
+
+----------------
+
+No target hypothesis 2 available.
+

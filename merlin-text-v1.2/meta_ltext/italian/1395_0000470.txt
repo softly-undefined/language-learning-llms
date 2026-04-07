@@ -1,0 +1,27 @@
+METADATA
+
+General:
+Author ID: 1395_0000470
+Test language: Italian
+CEFR level of test: A2
+Task : inform friends about language course - ID: 1395_010300
+Mother tongue: German
+Age: 40
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Ciao ragazzi!
+Ecco Michele. Sono a Città X per fare un corso di italiano. Ho imparato tante cose. La mia insegnante é Maria. Mi piace perche C'é sempre molto gentile. Nel corso con me altre ragazzi di Città Y. Dopo scuola facciamo sempre qualcosa insieme. Per esempio, andiamo in ristorante, in cinema, al bar etc. ... . Allora, alla prossima settimana
+Tanti saluti Michele

@@ -1,0 +1,40 @@
+METADATA
+
+General:
+Author ID: 1395_0001024
+Test language: Italian
+CEFR level of test: A2
+Task : go see a friend - ID: 1395_040101
+Mother tongue: German
+Age: 50
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: B1
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A1
+
+----------------
+
+Learner text: 
+
+Caro Tino,
+come stai? E che fanno i tiei? Grazie che posso venire a visitarti! Quando posso venire? A te conviene il marzo, quando ho già preso le vacanze? Non vedo l'ora di rivederti e finalmente conoscere la tua bella città! Spero che ci sono anche qualche discoteche a Città X, dove possiamo andare a ballare la sera? Sai bene quanto mi piace ballare!
+Con cordiali saluti di Città X e moltissimi sogni di Città X 
+                                 Maria
+
+----------------
+
+Target hypothesis 1: 
+
+Caro Tino , come stai ? E che fanno i tuoi ? Grazie che posso venire a visitarti ! Quando posso venire ? A te conviene in marzo quando ho già preso le vacanze ? Non vedo l' ora di rivederti e finalmente conoscere la tua bella città ! Spero che ci siano anche qualche discoteche a Città X , dove possiamo andare a ballare la sera ? Sai bene quanto mi piace ballare ! Con cordiali saluti da Città X e moltissimi sogni di Città X Maria
+
+----------------
+
+Target hypothesis 2: 
+
+Caro Tino , come stai ? E che fanno i tuoi ? Grazie che posso venire a visitarti ! Quando posso venire ? A te va bene in marzo quando ho già preso le vacanze ? Non vedo l' ora di rivederti e finalmente conoscere la tua bella città ! Spero che ci siano anche qualche discoteche a Città X , dove possiamo andare a ballare la sera ! Sai bene quanto mi piace ballare ! Cari saluti da Città X sognando Città X Maria

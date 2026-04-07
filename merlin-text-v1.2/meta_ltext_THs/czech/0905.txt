@@ -1,0 +1,45 @@
+METADATA
+
+General:
+Author ID: 0905
+Test language: Czech
+CEFR level of test: B1
+Task : answer to the email of Jana - ID: 2_Jana
+Mother tongue: German
+Age: not reported
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+10. února 2009 
+Milá Jano,
+děkuju za email! Mám se dobře a studium se mi líbi. Ale mám -symbol- , protože mám  zkoušky. Tak teď se učím hodně ale v březnu budu mít čas. Děkuju moc za pozvání, těšila jsem se! Ráda 
+        pajedudo Prahy. Nejradši bych  -symbol- celý víkend, protože Praha je  hezká a ještě vůbec (ji) neznám. Můžeš mi ukázat město? 
+Ale nejdřív mi vysvětluj  cestu a dej mi, prosím, adresu. Které metro jezdí u vas a kolik stojí jízdenku? Přijedu na hlavní nádraží. 
+ -symbol-. A mám přinést ještě něco jiného třeba koláč? 
+Já ti věřím, že se těšíš na cestu do Italie a také se těším na pohled! 
+Musím teď končit ale sejdeme se brzo v Praze! 
+Přeju ti hezkou dovolenu
+Tvoje  Sabine
+
+----------------
+
+Target hypothesis 1: 
+
+10. února 2009 Milá Jano , děkuju za e-mail ! Mám se dobře a studium se mi líbí . Ale mám -symbol- , protože mám zkoušky . Tak teď se učím hodně , ale v březnu budu mít čas . Děkuju moc za pozvání , těšila jsem se ! Ráda pojedu do Prahy . Nejradši bych -symbol- celý víkend , protože Praha je hezká a ještě vůbec ji neznám . Můžeš mi ukázat město ? Ale nejdřív mi vysvětli cestu a dej mi , prosím , adresu . Které metro u vás jezdí a kolik stojí jízdenka ? Přijedu na Hlavní nádraží . -symbol- . A mám přinést ještě něco jiného , třeba koláč ? Já ti věřím , že se těšíš na cestu do Itálie , a také se těším na pohled ! Musím teď končit , ale sejdeme se brzo v Praze ! Přeju ti hezkou dovolenou . Tvoje Sabine
+
+----------------
+
+No target hypothesis 2 available.
+

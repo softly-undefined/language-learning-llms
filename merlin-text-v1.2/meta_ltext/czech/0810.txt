@@ -1,0 +1,31 @@
+METADATA
+
+General:
+Author ID: 0810
+Test language: Czech
+CEFR level of test: B1
+Task : answer to the email of Alena - ID: 1_Alena
+Mother tongue: German
+Age: not reported
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: A2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Ahoj milá Aleno!
+
+Děkuji Ti mnohokrát za tvůj mail. Těším se, že o Tebe slyším, že se máš dobře. Mám se taky dobře.  
+Je mi líto, že jsem nepsala dříve ... Ale  nyní nám moc moc práci, protože musím dělat pět zkoušek, dokončit jednu seminární práci a psát na diplomce. Proto se musím moc učít :-(. Přirozeně mám čas pro setkání. Těším se už teď. bude určity krasny. Odpoledne 13. 13. dubna pozvám tě ke mně. Setkáme na nádraží? Kdy jsi tam? Prázdniny Kurz  češtiny je skutečny zajímavý. Kdy je termín a kolik stojí? Prosím, můžeš posílat inzerát? Teď se musím učit a protože dokončím dopis.
+Mej se dobře a pozdrav Tomáše ode mne.
+Zatím ahoj! Dana
+. 

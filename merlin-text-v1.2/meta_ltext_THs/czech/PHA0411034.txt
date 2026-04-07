@@ -1,0 +1,38 @@
+METADATA
+
+General:
+Author ID: PHA0411034
+Test language: Czech
+CEFR level of test: B2
+Task : write an essay: A friend in need is a friend indeed - ID: B2PS0202_pritel
+Mother tongue: Russian
+Age: 2029
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+V nouzi poznáš přítele, to pravda. Protoze tén kamarad s kterým ty prošel všechní nouzi budet s tebou všechí tvý dni. A ty ho můžeš naževat přítelem. Z tákovým přítelem můžeš mlůvit na různí tematy a táně řekat mů nejaky soukromé vecí o kterich níkdo kromě jeho nemůsí vedet a slíšet. V měm živote je velmy doří přitel, jmenují ho Lukáš. My přítelý už hodne let. Seznamílis s nim gdíz bílí dětmí. Dnes časteje mluvime po telefonu protože on zijí v Rusku V mem rodnem měste. Dnes hodne lidí mýsly co oní mame hodne „pratelej" No to je nespravne. Přatelej z nich musí byt jenom 2-3. Ostatni kamaradý s vamy jnom radý chodít na pivo do zadnich barú a taky tradít vaší penízi. Tak techle kamarady vam není prateli protože jestlí z vamí neco stanét nebo vy utratite sve penize oní půjdu k druchemu člověkú, a budút ho nazev přátel. Te lidí s kterýmy přežíl nouzí a ktery zustalis s tebou gdiž tebe bylo nemočne to lidí budou tvimí přatelamí všechní tvy dní.
+V závěře chce řeknut. lídí svích nejlepších přítele a budete sčastny.
+
+----------------
+
+Target hypothesis 1: 
+
+V nouzi poznáš přítele , to pravda . Protože ten kamarád s kterým jsi prošel všechny nouze bude s tebou všechy tvé dny . A ty ho můžeš nazývat přítelem . S takovým přítelem můžeš mluvit na různá temata a také říkat nějaké soukromé věci o kterých nikdo kromě něho nemusí vědět a slyšet . V mém životě je velmi dobrý přítel , jmenuje se Lukáš . My přáteli už hodně let . Seznámil s ním když byli dětmi . Dnes častěji mluvíme po telefonu protože on žije v Rusku V mém rodném městě . Dnes hodně lidí myslí že oni mají hodně " přátel " Ale to je nesprávné . Přátelé z nich musí být jenom 2-3 . Ostatní kamarádi s vámi jenom rádi chodí na pivo do zadních barů a taky utrácí vaše peníze . Tak tihle kamarádi vám nejsou přáteli protože jestli s vámi něco stane nebo vy utratíte své peníze oni půjdou k druhému člověku a budou ho nazývat přítelem . Ti lidi s kterými přežil nouzi a kteří zůstali s tebou když tobě bylo nemocně ti lidi budou tvými přáteli všechny tvé dny . V závěru chci říct : lidi své nejlepší přátele a budete šťastní .
+
+----------------
+
+Target hypothesis 2: 
+
+V nouzi poznáš přítele , to je pravda . Protože ten kamarád , s kterým jsi prošel všechny nouze , bude s tebou všechy tvé dny . A ty ho můžeš nazývat přítelem . S takovým přítelem můžeš mluvit na různá temata a také mu říkat nějaké soukromé věci , o kterých nikdo kromě něho nemusí vědět a slyšet . V mém životě je velmi dobrý přítel , jmenuje se Lukáš . Jsme přáteli už hodně let . Seznámil jsem se s ním , když jsme byli dětmi . Dnes častěji mluvíme po telefonu , protože on žije v Rusku . V mém rodném městě . Dnes hodně lidí myslí , že mají hodně " přátel " . Ale to je nesprávné . Přátelé z nich musí být jenom 2-3 . Ostatní kamarádi s vámi jenom rádi chodí na pivo do zadních barů a taky utrácí vaše peníze . Tak tihle kamarádi vám nejsou přáteli , protože jestli se s vámi něco stane nebo utratíte své peníze , oni půjdou k druhému člověku a budou ho nazývat přítelem . Ti lidi , s kterými jsi přežil nouzi a kteří zůstali s tebou , když ti bylo špatně , ti lidi budou tvými přáteli všechny tvé dny . V závěru chci říct : lidi své nejlepší přátele a budete šťastní .

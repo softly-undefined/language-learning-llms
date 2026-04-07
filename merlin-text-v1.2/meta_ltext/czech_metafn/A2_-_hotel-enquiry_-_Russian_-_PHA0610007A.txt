@@ -1,0 +1,27 @@
+METADATA
+
+General:
+Author ID: PHA0610007A
+Test language: Czech
+CEFR level of test: A2
+Task : write an email to a hotel - ID: A2PS0101_hotel
+Mother tongue: Russian
+Age: 3039
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: B2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A1
+
+----------------
+
+Learner text: 
+
+Dobrý den!
+Máte volný pokoj pro dvá? Kolik stoji? Cestueme autem, je parkoviště vedle hotelu? Máte v hotelu snidaní nebo snidanía veceř? To je naša pirvní cesta na hory. Máte vedle hotelu lyžařskou školu?
+ Děkuju.Na schledanou.

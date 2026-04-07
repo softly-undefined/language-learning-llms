@@ -1,0 +1,39 @@
+METADATA
+
+General:
+Author ID: 1005
+Test language: Czech
+CEFR level of test: B1
+Task :  - ID: 3_Jana
+Mother tongue: German
+Age: not reported
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: A2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Ahoj Jano, mockrát děkuju za email. Teší mně, že budeš studovat dál. Jsi chytrá holka! :) A co budeš studovat v Praze? Muj studium nekončí teď. Musím studuju ještě jeden rok, protože jsem dělala praxe. A potom? Nevím ... To nevadí, jako studentka můžu jet vlakem levne. :) 
+Co ti libi kurz angličtiny? Chtěla bych přijet do Brna v letě, a mohla bych chodít na kurz češtiny tam. Neviš, jestli nějaky kurz češtiny bude byt? A tam v Brně, bychom  mohli se setkán vic. To mi libí! Můžeme dělat vyleti. 
+Prosím, napišeš odkaz na webstránku školy pro mně. Děkuju mockrát. Ale, v dodatce mám nějaké fotky, které jsem udělala na minuly vylet s Tomášem. Mej se hezky. Zdravím tě a Pavla, Petra.
+
+----------------
+
+Target hypothesis 1: 
+
+Ahoj Jano , mockrát děkuju za e-mail . Teší mě , že budeš studovat dál . Jsi chytrá holka ! :) A co budeš studovat v Praze ? Moje studium teď nekončí . Musím studovat ještě jeden rok , protože jsem dělala praxi . A potom ? Nevím ... To nevadí , jako studentka můžu jet vlakem levně . :) Líbí se ti kurz angličtiny ? Chtěla bych přijet do Brna v létě a mohla bych chodit na kurz češtiny tam . Nevíš , jestli bude nějaký kurz češtiny ? A v Brně bychom se mohli setkávat víc . To se mi líbí ! Můžeme dělat výlety . Prosím , napíšeš mi odkaz na webovou stránku školy . Děkuju mockrát . V dodatku mám nějaké fotky , které jsem udělala na minulém výletu s Tomášem . Měj se hezky . Zdravím tě a Pavla , Petra .
+
+----------------
+
+Target hypothesis 2: 
+
+Ahoj Jano , mockrát děkuju za e-mail . Teší mě , že budeš studovat dál . Jsi chytrá holka ! :) A co budeš studovat v Praze ? Moje studium teď nekončí . Musím studovat ještě jeden rok , protože jsem dělala praxi . A potom ? Nevím ... To nevadí , jako studentka můžu jet vlakem levně . :) Líbí se Ti kurz angličtiny ? Chtěla bych přijet do Brna v létě a mohla bych chodit na kurz češtiny tam . Nevíš , jestli bude nějaký kurz češtiny ? A v Brně bychom se mohli setkávat víc . To se mi líbí ! Můžeme dělat výlety . Prosím , napíšeš mi odkaz na webovou stránku školy . Děkuju mockrát . V dodatku mám nějaké fotky , které jsem udělala na minulém výletu s Tomášem . Měj se hezky . Zdravím Tě a Pavla , Petra .

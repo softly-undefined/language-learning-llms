@@ -1,0 +1,31 @@
+METADATA
+
+General:
+Author ID: 1071_0024825
+Test language: German
+CEFR level of test: A1
+Task : arrange appointment with friend to go swimming together - ID: 1071_120302
+Mother tongue: not reported
+Age: 33
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A1
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A1
+Sociolinguistic appropriateness: A1
+
+----------------
+
+Learner text: 
+
+Liebe, Daniela.
+Wie geht´s? Ich bin gut.
+Möchts du schwimmen geganen?
+Ich suche ein Freudin für schiwmmen. Gehen wir am Donnerstag im 17:30 schwimmbad in Bahnhofs straße 123?
+Bitte, bringen dein bikini!
+Tschuss Katharina
+Kannst du antworter mir, heute Abend?

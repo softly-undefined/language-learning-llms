@@ -1,0 +1,28 @@
+METADATA
+
+General:
+Author ID: 1061_0120283
+Test language: German
+CEFR level of test: B1
+Task : write a letter to a friend (visit) - ID: 1061_130101
+Mother tongue: English
+Age: 49
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A1
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Liebe Dana
+Danke sehr für diene Email. Glückwunsch für deine bestandenen Prüfung gemacht! Es freut mich ich komme sie besucht. Ich gerne etwas aus Istanbul, vielleicht traditionale Essen? Sie kann mitbringen. Miene verwandten liebt aus den USA.
+Viele Gruße
+Eva

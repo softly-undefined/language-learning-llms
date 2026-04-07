@@ -1,0 +1,38 @@
+METADATA
+
+General:
+Author ID: LON0610002A
+Test language: Czech
+CEFR level of test: A2
+Task : write an email to a hotel - ID: A2PS0101_hotel
+Mother tongue: English
+Age: 3039
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Važený pane Nováku,
+Pojedu v prosinci na Tatry s kamarádkou a slyšel jsem o Vašem hotelu. Chtěl bych zjistit jestli máte volný pokoj s koupelnou a kolík to stojí za noci? Můžu v hotelu snídat a večeřit? Pojedu autem, i proto potřebuju parkoviště, máte jí? Chtěl bych se učit lyžovat. Máte lyžařskou školu blízko hotelu?
+Váš, Tomáš Svoboda
+
+----------------
+
+Target hypothesis 1: 
+
+Vážený pane Nováku , pojedu v prosinci do Tater s kamarádkou a slyšel jsem o Vašem hotelu . Chtěl bych zjistit , jestli máte volný pokoj s koupelnou a kolik to stojí za noc ? Můžu v hotelu snídat a večeřet ? Pojedu autem , i proto potřebuju parkoviště , máte ho ? Chtěl bych se učit lyžovat . Máte lyžařskou školu blízko hotelu ? Váš Tomáš Svoboda
+
+----------------
+
+No target hypothesis 2 available.
+

@@ -1,0 +1,42 @@
+METADATA
+
+General:
+Author ID: 1091_0000200
+Test language: German
+CEFR level of test: A2
+Task : letter to housing office - ID: 1091_0610301
+Mother tongue: not reported
+Age: 31
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B2
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+123, Zentralplatz, Stadt X.                                Den , Stadt X 09. März. 2012
+Sehr geehret Damen und Herren,
+mit Interessant ihre Wohnung die Anziege. Ich habe die Wesel Zeitung´ Ihre Wohnung gelesen. Es ist mich viele Interessant So habe ich Fragen schreiben.
+Ich heiße Stefan Schmidt und bin Student. Dieses Semester will ich an der Stadt X Universität studieren. So suche ich eine schöne Wohnung. Ich bin Doktorand Student und meine Frau will beim Akademie Klausenhof arbeiten und habe Zwei Kinder.
+Aber Ich habe keine Information. So möchte ich ihre Wohnung zum Nebenkosten und zur Lage. Wie viele Zimmer hat ihre Wohnung? Wich hoch sind die Wohnungsmieten? Und ich habe einen Auto. Haben Sie einem Garage? Haben Sie einen Balkon?
+Ich warte auf ihre baldige Antwort. Wie viele zinner hat ihre Wohnung?
+Mit freundliche Grüßen.                                          Stefan Schmidt
+
+----------------
+
+Target hypothesis 1: 
+
+123 , Zentralplatz , Stadt X . Stadt X , den 09 . März . 2012 Sehr geehrte Damen und Herren , mich interessiert Ihre Wohnungsanzeige . Ich habe in der Weseler Zeitung Ihre Wohnung gelesen . Es ist für mich sehr interessant , sodass ich Fragen schreibe . Ich heiße Stefan Schmidt und bin Student . Dieses Semester will ich an der Stadt X Universität studieren . Also suche ich eine schöne Wohnung . Ich bin Doktorand und meine Frau will bei der Akademie Klausenhof arbeiten und ich habe zwei Kinder . Aber ich habe keine Information . Also möchte ich Informationen zu Ihrer Wohnung zu den Nebenkosten und zur Lage . Wie viele Zimmer hat ihre Wohnung ? Wie hoch sind die Wohnungsmieten ? Und ich habe ein Auto . Haben Sie eine Garage ? Haben Sie einen Balkon ? Ich warte auf Ihre baldige Antwort . Wie viele Zimmer hat Ihre Wohnung ? Mit freundlichen Grüßen , Stefan Schmidt
+
+----------------
+
+No target hypothesis 2 available.
+

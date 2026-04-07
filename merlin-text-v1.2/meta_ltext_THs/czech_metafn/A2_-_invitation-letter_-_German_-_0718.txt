@@ -1,0 +1,49 @@
+METADATA
+
+General:
+Author ID: 0718
+Test language: Czech
+CEFR level of test: B1
+Task : answer to the email of Alena - ID: 1_Alena
+Mother tongue: German
+Age: not reported
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+16.07.2007
+Milá Aleno
+Dekuju Ti mockrát za tvůj email. Dostal jsem tvůj email v včera večer.
+
+V letě skončím studium. Poslední zkoušky z češtiny mám teď.
+Bohužel nepracuju, ale hledám prace a planuju dovolenou.
+Pojedu s kameradem do Mecklembursko. Tam chodíme na ryby. V posledním dopise jsi mi psala, že jsi četla zajímavý inzerát o kurzy češtiny na universitě v Brně. Řekla byš mi kolik to stoji kurze? Kdy bude začinat kurz? Posila byš mi ten inzerát?
+Jsi mi psala, že budeš zajet do Drážďan v 13.04.. To je ale překvapení.  Samozřejmě setkali bychom v Drážďanech. Chcete pozvat Ti  na kafe doma.
+
+Kdy přijedeš do Drážďan? Budu  čekat na  Ti na nádraží.
+Těším se na setkání v Drážďanech.
+Měj se hezký.
+Tvůj David
+
+----------------
+
+Target hypothesis 1: 
+
+16.07.2007 Milá Aleno ! Děkuju Ti mockrát za Tvůj e-mail . Dostal jsem Tvůj e-mail včera večer . V létě skončím studium . Poslední zkoušky z češtiny mám teď . Bohužel nepracuju , ale hledám práci a plánuju dovolenou . Pojedu s kamarádem do Meklenburska . Tam chodíme na ryby . V posledním dopise jsi mi psala , že jsi četla zajímavý inzerát o kurzech češtiny na univerzitě v Brně . Řekla bys mi , kolik to stojí ? Kdy bude začínat kurz ? Poslala bys mi ten inzerát ? Psala jsi mi , že zajedeš do Drážďan 13.04. ... To je ale překvapení . Samozřejmě bychom se setkali v Drážďanech . Chci Tě pozvat domů na kafe . Kdy přijedeš do Drážďan ? Budu čekat na Tebe na nádraží . Těším se na setkání v Drážďanech . Měj se hezky . Tvůj David
+
+----------------
+
+Target hypothesis 2: 
+
+16.07.2007 Milá Aleno ! Děkuju Ti mockrát za Tvůj e-mail . Dostal jsem Tvůj e-mail včera večer . V létě skončím studium . Poslední zkoušky z češtiny mám teď . Bohužel nepracuju , ale hledám práci a plánuju dovolenou . Pojedu s kamarádem do Meklenburska . Tam chodíme na ryby . V posledním dopise jsi mi psala , že jsi četla zajímavý inzerát o kurzech češtiny na univerzitě v Brně . Řekla bys mi , kolik to stojí ? Kdy bude začínat kurz ? Poslala bys mi ten inzerát ? Psala jsi mi , že pojedeš do Drážďan 13.04. ... To je ale překvapení . Samozřejmě bychom se setkali v Drážďanech . Chci Tě pozvat domů na kafe . Kdy přijedeš do Drážďan ? Budu čekat na Tebe na nádraží . Těším se na setkání v Drážďanech . Měj se hezky . Tvůj David

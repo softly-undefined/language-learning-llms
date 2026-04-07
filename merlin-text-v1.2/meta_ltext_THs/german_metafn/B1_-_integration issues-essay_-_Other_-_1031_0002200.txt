@@ -1,0 +1,44 @@
+METADATA
+
+General:
+Author ID: 1031_0002200
+Test language: German
+CEFR level of test: C1
+Task : write article about sticking to one's traditions and 'assimilation' in a new environment - ID: 1031_030301
+Mother tongue: other
+Age: 47
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B2
+Vocabulary range: B2
+Vocabulary control: B2
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Was für Ausländer wichtig ist?
+"Eigene tradition" oder "Kultur des Ausland"?
+Wie kann mann beantworten?
+wozu brauchen wir "Kultur" und "tradition"?
+Naturlich, brauchen wir für beßeres Leben! Also, Jede Person hat eigene Idee und eigene Kultur. Das gehört unsere Karachter und unsere Personlichkeit. An diese Ansicht, muss man eigene Kultur behalten.
+Aber jedes Land hat eigene Geselschaft, eigene wetter, eigene Tradition, eigene Sprache, eigene Geschichte, und eigene Politik. Man muss sich orientieren Am wichtigsten ist das Sprache des Gastlandes lernnen. Damit kann man effeketive und erfolgreiche Kontakt haben. Außerdem, kann man nicht ohne gute Sprache,  von neue Kultur und lebensmoglichkeiten, genießen. Leben läuft weiter. 
+Man muss in neue leben sich entwickeln. Neue Leben hat neue weg!
+Daswegen, ist es sinnvoll, im Ausland die Traditionen seines Heimatlandes fortsetzen.
+Man muss sich an der Kultur des Gaslandes orientieren.
+
+----------------
+
+Target hypothesis 1: 
+
+Was für Ausländer wichtig ist ? " Eigene Tradition " oder " Kultur des Auslands " ? Wie kann man antworten ? Wozu brauchen wir " Kultur " und " Tradition " ? Natürlich brauchen wir sie für ein besseres Leben ! Also , jede Person hat eine eigene Idee und eine eigene Kultur . Das gehört zu unserem Charakter und unserer Perönlichkeit . Bei dieser Ansicht muss man seine eigene Kultur behalten . Aber jedes Land hat eine eigene Gesellschaft , ein eigenes Wetter , eine eigene Tradition , eine eigene Sprache , eine eigene Geschichte und eine eigene Politik . Man muss sich orientieren . Am wichtigsten ist es , die Sprache des Gastlandes zu lernen . Damit kann man effektiven und erfolgreichen Kontakt haben . Außerdem kann man ohne gute Sprache die neue Kultur und die Lebensmöglichkeiten nicht genießen . Das Leben läuft weiter . Man muss sich in einem neuen Leben entwickeln . Ein neues Leben hat einen neuen Weg ! Deswegen ist es sinnvoll , im Ausland die Traditionen seines Heimatlandes fortzusetzen . Man muss sich an der Kultur des Gaslandes orientieren .
+
+----------------
+
+No target hypothesis 2 available.
+

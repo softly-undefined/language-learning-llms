@@ -1,0 +1,38 @@
+METADATA
+
+General:
+Author ID: 1031_0003330
+Test language: German
+CEFR level of test: C1
+Task : write article about sticking to one's traditions and 'assimilation' in a new environment - ID: 1031_030301
+Mother tongue: Spanish
+Age: 50
+Gender: female
+
+Rating:
+Overall CEFR rating: B2
+Grammatical accuracy: B2
+Orthography: B2
+Vocabulary range: C1
+Vocabulary control: C1
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: B2
+
+----------------
+
+Learner text: 
+
+Das Thema „Ist es sinnvoll, auch im Ausland die Traditionen des einiges Heimatlandes forzusetzen, oder sollte man sich an der Kultur des Gastlandes orientieren?“Ich finde das Thema sehr interessant, wie alle Thema hat Argumenten dafür und dagegen. Ich bin seit 15 Jahren in der Schweiz und habe ich die Kultur und die Traditionen von Stadt X sehr geschätzt. Es ist eine Vorteil die Traditionen von dem Gastland zu kennen, eine gute Mittel um die Kulturkreis zu erweitern. Aus eigener Erfahrung kann ich sagen, dass es ist ein schönes Erlebnis in Stadt X die Traditionen wie zum Beispiel Fasnacht zu geniessen und wissen, warum unbedingt um 5 Uhr Morgens das Fasnacht anfangen sollte. Am Anfang habe ich nicht begreifen so eine Wahnsinnige Veranstaltung, nachher war ich komplet überzeugt. Die Nachteile die eigene Traditionen im neuen Heimatland zu forsetzen ist das die neue generation, werden weniger von seines ursprüngliches Land wissen und und Traditionen werden irgendwie verloren. Hierzu kann ich wieder ein gutes Beispiel aus eigener Erfahrung anführen:
+Die Kinder von einer Kolleginne, die hier geboren sind und noch nicht nach Mexiko gegangen sind, wiessen weniger über mexikanische Traditionen wie Alle Heiligen, ein Fest um die gestorbene zu erinneren, dann man, nennt ein Brot, welches nur an dieser Tag gebacken wird Totes Brot, das Brot ist ein ganz besonderes aber ganz normales Brot, also die Kinder haben das Brot nicht einmal probieren, weil sie dachten Toten-Zutaten wurden genützt und das zu backen.
+Meiner Meinung nach, ist es gut die eigene Taditionen zu forsetzen, damit die neue Generation wissen um was geht und identifizieren können und in der andere Seite es ist sehr wichtig an der Kultur des Heimatlandes orientieren und Integrieren sein.
+
+----------------
+
+Target hypothesis 1: 
+
+Das Thema : " Ist es sinnvoll , auch im Ausland die Traditionen des einigen Heimatlandes fortzusetzen , oder sollte man sich an der Kultur des Gastlandes orientieren ? " Ich finde das Thema sehr interessant , wie jedes Thema hat es Argumente dafür und dagegen . Ich bin seit 15 Jahren in der Schweiz und ich habe die Kultur und die Traditionen von Stadt X sehr geschätzt . Es ist ein Vorteil , die Traditionen von dem Gastland zu kennen , ein gutes Mittel , um den Kulturkreis zu erweitern . Aus eigener Erfahrung kann ich sagen , dass es ein schönes Erlebnis ist , in Stadt X die Traditionen wie zum Beispiel die Fastnacht zu geniessen und zu wissen , warum unbedingt um 5 Uhr morgens die Fastnacht anfangen sollte . Am Anfang habe ich so eine wahnsinnige Veranstaltung nicht begriffen , nachher war ich komplett überzeugt . Die Nachteile davon , die eigenen Traditionen im neuen Heimatland fortzusetzen , sind , dass die neue Generation , weniger von seinem ursprünglichen Land wissen wird und die Traditionen irgendwie verlieren wird . Hierzu kann ich wieder ein gutes Beispiel aus eigener Erfahrung anführen : Die Kinder von einer Kollegin , die hier geboren sind und noch nicht nach Mexiko gegangen sind , wissen weniger über mexikanische Traditionen wie Alle Heiligen , ein Fest um an die Gestorbenen zu erinnern , dass man ein Brot , welches nur an diesem Tag gebacken wird , Totes Brot nennt . Das Brot ist ein ganz besonderes aber ganz normales Brot , also die Kinder haben das Brot nicht einmal probiert , weil sie dachten , Toten-Zutaten wurden genutzt , um das zu backen . Meiner Meinung nach ist es gut , die eigenen Traditionen fortzusetzen , damit die neue Generation weiß , um was es geht und sich identifizieren kann und auf der anderen Seite ist es sehr wichtig , sich an der Kultur des Heimatlandes zu orientieren und integriert zu sein .
+
+----------------
+
+No target hypothesis 2 available.
+

@@ -1,0 +1,40 @@
+METADATA
+
+General:
+Author ID: 1395_0001022
+Test language: Italian
+CEFR level of test: A2
+Task : go see a friend - ID: 1395_040101
+Mother tongue: German
+Age: 15
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Ciao Stefano! 
+Ti voglio andare a trovare nella prossima vacanza d'estate. Può prendere l'aereo. Forse la sera possiamo andare al cinema oppure al teatro. Che pensi? Ci divertiamo molto e può stare per due settimane. Città X è una città molto vicino al mare. Forse lo andiamo?
+La mia zia abito vicino a Città X. È la tua città che si chiama Città Y lontano da Città X? Voglio venire a trovare la mia zia perché non la vedo spesso. 
+Tanti saluti e ti amo
+ Maria
+
+----------------
+
+Target hypothesis 1: 
+
+Ciao Stefano ! Ti voglio andare a trovare nella prossima vacanza d' estate . Può prendere l' aereo . Forse la sera possiamo andare al cinema oppure al teatro . Che pensi ? Ci divertiamo molto e può stare per due settimane . Città X è una città molto vicina al mare . Forse ci andiamo ? Mia zia abita vicino a Città X . La tua città , che si chiama Città Y , è lontana da Città X ? Voglio venire a trovare la mia zia perché non la vedo spesso . Tanti saluti e ti amo Maria
+
+----------------
+
+No target hypothesis 2 available.
+

@@ -1,0 +1,37 @@
+METADATA
+
+General:
+Author ID: PHA0111011
+Test language: Czech
+CEFR level of test: B2
+Task : write an essay: A friend in need is a friend indeed - ID: B2PS0202_pritel
+Mother tongue: Other
+Age: 3039
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B2
+Vocabulary control: B2
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Mně se líbí přísloví "v nouzi poznáš přítele". Já souhlasím. Znamená to, že jen v krizových okamžikech člověk vídí jestli jeho kamarád je opravdu skutečný přítel, nebo ne. Měla jsem vlastní zkušenost, která mi pomohla odhalit právdu.
+To o čem chci ríct se stálo v první rok, jak jsem se odstěhovala do Čech. Měla jsem kamarády, byl to manželský pár. Podle mých představ to byli bohaté líde . měli moderní dům a krasné auto a já jsem byla chudá studentka. Jednou jsem chtěla vybrat peníze z bankomatu, ale bohužel jsem přesně nepomatovala PIN-kod. Trikrát jsem zkousila zadat nespravný kod, a pak bankomat nechtěl mně už karticky vrátit. Zustala jsem se bez peníz, vůbec jsem nic neměla a ni korunky. Bylo mi tak strašně - sobota, do pondělí mám nějak zít. Co jsem hned udělala! Poprosila jsem o tisic korun. Ale moje nejlepší kamarádka mně říkla, že může mne pozvat na večeri. a zavesila. Cítila jsem šok, bolelo to. Vzdycky byli na mne míli. Věděli, že jsem slušný a zadpovedný člověk a nepomohli mi. Od te doby se snážím sedívat na lidi racionalně a soudit je podle jejich skutků. Proto souhlasím s příslovím "v nouzi poznáš přítele".
+
+----------------
+
+Target hypothesis 1: 
+
+Mně se líbí přísloví " v nouzi poznáš přítele " . Já souhlasím . Znamená to , že jen v krizových okamžicích člověk vidí , jestli je jeho kamarád opravdu skutečný přítel , nebo ne . Měla jsem vlastní zkušenost , která mi pomohla odhalit pravdu . To , o čem chci říct , se stalo v prvním roce , jak jsem se odstěhovala do Čech . Měla jsem kamarády , byl to manželský pár . Podle mých představ to byli bohatí lidé , měli moderní dům a krásné auto a já jsem byla chudá studentka . Jednou jsem chtěla vybrat peníze z bankomatu , ale bohužel jsem si přesně nepamatovala PIN-kód . Třikrát jsem zkoušela zadat nesprávný kód a pak mi bankomat nechtěl už kartičku vrátit . Zůstala jsem bez peněz , vůbec jsem nic neměla , ani korunky . Bylo mi tak strašně - sobota , do pondělí mám nějak žít . Co jsem hned udělala ? Poprosila jsem o tisíc korun . Ale moje nejlepší kamarádka mně řekla , že mne může pozvat na večeři , a zavěsila . Cítila jsem šok , bolelo to . Vždycky byli na mne milí . Věděli , že jsem slušný a zodpovědný člověk , a nepomohli mi . Od té doby se snažím dívat na lidi racionálně a soudit je podle jejich skutků . Proto souhlasím s příslovím " v nouzi poznáš přítele " .
+
+----------------
+
+No target hypothesis 2 available.
+

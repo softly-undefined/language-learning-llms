@@ -1,0 +1,42 @@
+METADATA
+
+General:
+Author ID: 1116
+Test language: Czech
+CEFR level of test: B1
+Task : answer to the email of a Tandem agency - ID: 4_Katerina
+Mother tongue: German
+Age: not reported
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Milá Kateřina,
+děkuju Ti za Tvůj email s letákem. Byla hodně novinky! Nevěděla jsem  cena za kurz doposud, ale byla jsem moc ráda, že kurz není drahý.  Hodí se mi termín v červenci (když je něco volno), protože budu stěhovat v září. A nechce být ve stresu! Ano, během kurzu budu potřebovat ubytování. Můžeš mi napsat některé adresy?
+Vlastně jsem začinala učit česky, protože bavi mě to. Ale teď chci udělat praxe v česká vinařství. A proto  chtěla bych cvičit komunikace. Učila jsem se česky  od tři semestrů na univerzitě. Můj problém je, že rozumím jenom trochu česky a špatně a potřebujeme čas přemyslet. Chtěla bych se zlepšovat. Které učebnice potřebuju? A kolik lidí jsou ve kurze?
+Vyborý, odpolední program se Vas! Fajn. Ráda jít do kavarny, na film, ... Je jedno
+Těšime se na  tvém odpověd!
+Měj se hezký, Eva 
+
+----------------
+
+Target hypothesis 1: 
+
+Milá Kateřino , děkuju Ti za Tvůj e-mail s letákem . Bylo to hodně novinek ! Nevěděla jsem doposud cenu kurzu , ale byla jsem moc ráda , že kurz není drahý . Hodí se mi termín v červenci ( když je něco volné ) , protože se budu stěhovat v září . A nechce být ve stresu ! Ano , během kurzu budu potřebovat ubytování . Můžeš mi napsat některé adresy ? Vlastně jsem se začala učit česky , protože mě to baví . Ale teď si chci udělat praxi v českém vinařství . A proto bych chtěla cvičit komunikaci . Učila jsem se česky tři semestry na univerzitě . Můj problém je , že rozumím jenom trochu česky a špatně a potřebuju čas přemýšlet . Chtěla bych se zlepšovat . Které učebnice potřebuju ? A kolik lidí je v kurze ? Výborně , odpolední program s Vámi ! Fajn . Ráda chodím do kavárny , na film ... Je to jedno . Těšíme se na tvou odpověď ! Měj se hezky , Eva
+
+----------------
+
+Target hypothesis 2: 
+
+Milá Kateřino , děkuju Ti za Tvůj e-mail s letákem . Bylo to hodně novinek ! Nevěděla jsem doposud cenu kurzu , ale byla jsem moc ráda , že kurz není drahý . Hodí se mi termín v červenci ( jestli je něco volné ) , protože se budu stěhovat v září . A nechci být ve stresu ! Ano , během kurzu budu potřebovat ubytování . Můžeš mi napsat nějaké adresy ? Vlastně jsem se začala učit česky , protože mě to baví . Ale teď si chci udělat praxi v českém vinařství . A proto bych chtěla cvičit komunikaci . Učila jsem se česky tři semestry na univerzitě . Můj problém je , že rozumím jenom trochu česky a špatně a potřebuju čas přemýšlet . Chtěla bych se zlepšovat . Které učebnice potřebuju ? A kolik lidí je v kurze ? Výborně , odpolední program s Vámi ! Fajn . Ráda chodím do kavárny , na film ... Je to jedno . Těším se na tvou odpověď ! Měj se hezky , Eva

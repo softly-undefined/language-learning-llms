@@ -1,0 +1,41 @@
+METADATA
+
+General:
+Author ID: 1385_0001113
+Test language: Italian
+CEFR level of test: A1
+Task : reschedule an appointment - ID: 1385_020100
+Mother tongue: other
+Age: 17
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Ciao Maria,
+Io sto bene e tu? Peccato perché non ti posso incontrare giovedì, ma non c'é problema.
+È un buon idea di andare un ristorante tailandese. Mi piace ristorante tailandese. Sabato sera è perfettamente. Vedo sabato sera.
+Un braccio
+
+Michele
+
+----------------
+
+Target hypothesis 1: 
+
+Ciao Maria , io sto bene e tu ? Peccato che non ti posso incontrare giovedì , ma non c' è problema . È una buona idea andare in un ristorante tailandese . Mi piace il ristorante tailandese . Sabato sera è perfetto . Ci vediamo sabato sera . Un braccio Michele
+
+----------------
+
+No target hypothesis 2 available.
+

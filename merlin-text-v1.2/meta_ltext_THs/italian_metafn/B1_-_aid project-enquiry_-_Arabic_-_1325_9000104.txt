@@ -1,0 +1,46 @@
+METADATA
+
+General:
+Author ID: 1325_9000104
+Test language: Italian
+CEFR level of test: B2
+Task : inform oneself about an aid project - ID: 1325_010300-1
+Mother tongue: Arabic
+Age: 41
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B2
+Vocabulary range: B2
+Vocabulary control: B2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Rossi Michele
+1234 Città X CH
+Solidarietà Viva
+Viale Bruzzi 117
+20023 Milano
+Città X il 20.01.2010
+Gentille Signore,
+Ho letto il vostro annuncio sul gironale "il Corriere" dal Lunedì scorso. Ho trovato che il campo previsto nel state risponde totalmente alle mie aspettative, sono una personne che provienne dell'africa e molto attivo nel campo di progetti e attivita a scopo di promovere il svilluppo in certe paese dell'africa. Per questo motivo desidero adderirme nel vostro campo, portando il mio aiuto nei diversi attività svolti durante il campo. Dando che sono un informatico posso participare a recuperare dei pezzi ancora valide dei computere, questi vengono venduti dopo. Per quello che concerne il periodo la mia disponibilità e lemitatt-unreadable- a una settimana per altri impenie, a questo punto propongo la data seguente: dal 3 al 10 luglio.
+Vi ringrazio  molto per l'accetazione della mia participazione. Vi laccio anche il mio indirizzio email e numero del telefono (....) per ulteriore informazione
+Vi auguro un buon successo, Vi mando i mei sinceri saluti.
+Michele
+
+----------------
+
+Target hypothesis 1: 
+
+Rossi Michele 1234 Città X CH Solidarietà Viva Viale Bruzzi 117 20023 Milano Città X il 20.01.2010 Gentille Signore , ho letto il vostro annuncio sul giornale " il Corriere " di lunedì scorso . Ho trovato che il campo previsto in estate risponde totalmente alle mie aspettative ; sono una persona che proviene dall' Africa e molto attivo nel campo di progetti e attività a scopo di promuovere lo svilluppo in certi paesi dell' Africa . Per questo motivo desidero aderire al vostro campo , portando il mio aiuto nelle diverse attività svolte durante il campo . Dato che sono un informatico posso partecipare a recuperare dei pezzi ancora validi dei computer ; questi vengono venduti dopo . Per quello che concerne il periodo la mia disponibilità è limitata a una settimana per altri impegni ; a questo punto propongo la data seguente : dal 3 al 10 luglio . Vi ringrazio molto per l' accettazione della mia partecipazione . Vi lascio anche il mio indirizzio email e il numero di telefono ( .... ) per ulteriori informazioni . Vi auguro un buon successo , Vi mando i miei sinceri saluti . Michele
+
+----------------
+
+No target hypothesis 2 available.
+

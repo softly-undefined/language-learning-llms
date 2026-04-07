@@ -1,0 +1,29 @@
+METADATA
+
+General:
+Author ID: 1091_0000144
+Test language: German
+CEFR level of test: A2
+Task : letter to housing office - ID: 1091_0610301
+Mother tongue: Arabic
+Age: not reported
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: A2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Ich schuche eine Wohnung
+Ich schuche 3-4 zimm und eine Balkon und eine Garage. und in Dreter Stück. Ich kann nicht in höhr Haus wohnen. und die Miete bie 300€ Bitte
+Mit schone
+Grus
+ 1.3.11.

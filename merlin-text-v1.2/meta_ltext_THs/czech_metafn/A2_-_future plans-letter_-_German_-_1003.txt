@@ -1,0 +1,42 @@
+METADATA
+
+General:
+Author ID: 1003
+Test language: Czech
+CEFR level of test: B1
+Task :  - ID: 3_Jana
+Mother tongue: German
+Age: not reported
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: B1
+Vocabulary control: A2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Ahoj Jano. Mám velkou radost, že jsi napsala tato dopis. Myslím to je fajn, že chodíš na Kurz angličtiny. Ale v Praze, jaký obor chceš studovat? 
+Ráda chodíš na Kurz?  Jaká je tvoje učitelka? Jsou Kurzy češtiny v Praze v létě? Chtěla bych přijét do Brna v létě. Mohl bysme se setkat častěji. 
+Prosím, mohl bys  dávat odkaz na stranu školy? Taky, posílam fota z minulého vyleta. Tomáš taky byl tam. Po ukončení studia planuju dělat cestu na zeměX. 
+
+Na léto nemám nějaké plány. Možna, že jsem doma a mám svatbu. Ale nevím. 
+Těším se na příští dopis. Mej se hezky. Brzy napíš! Pozdravuj Petra.     
+
+----------------
+
+Target hypothesis 1: 
+
+Ahoj Jano . Mám velkou radost , že jsi napsala tento dopis . Myslím , že to je fajn , že chodíš na kurz angličtiny . Ale jaký obor chceš studovat v Praze ? Ráda chodíš na kurz ? Jaká je tvoje učitelka ? Jsou kurzy češtiny v Praze v létě ? Chtěla bych přijet do Brna v létě . Mohli bychom se setkat častěji . Prosím , mohla bys mi dávat odkaz na stranu školy ? Taky posílám fota z minulého výletu . Tomáš tam taky byl . Po ukončení studia plánuju cestu do Německa . Na léto nemám žádné plány . Možná , že budu doma a mám svatbu . Ale nevím . Těším se na příští dopis . Měj se hezky . Brzy napiš ! Pozdravuj Petra .
+
+----------------
+
+Target hypothesis 2: 
+
+Ahoj Jano . Mám velkou radost , že jsi napsala tento dopis . Myslím , že to je fajn , že chodíš na kurz angličtiny . Ale jaký obor chceš studovat v Praze ? Ráda chodíš na kurz ? Jaká je tvoje učitelka ? Jsou kurzy češtiny v Praze v létě ? Chtěla bych přijet do Brna v létě . Mohli bychom se setkávat častěji . Prosím , mohla bys mi dát odkaz na stránky školy ? Taky posílám fota z minulého výletu . Tomáš tam taky byl . Po ukončení studia plánuju cestu do Německa . Na léto nemám žádné plány . Možná , že budu doma a mám svatbu . Ale nevím . Těším se na příští dopis . Měj se hezky . Brzy napiš ! Pozdravuj Petra .

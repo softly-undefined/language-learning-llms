@@ -1,0 +1,42 @@
+METADATA
+
+General:
+Author ID: 1395_0000533
+Test language: Italian
+CEFR level of test: A2
+Task : go see a friend - ID: 1395_040101
+Mother tongue: French
+Age: 33
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B2
+Orthography: C1
+Vocabulary range: B1
+Vocabulary control: B2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+il 25 novembre 2010
+Caro Federico,
+spero che tutto è a posto per te e la tua famiglia. Ti scrivo una piccola lettera per dirti che sono libera la prossima settimana. Ho sei giorni liberi. Non hai dimenticato? Abbiamo parlato della mia visita, l'ultima volta che ci siamo visti.
+Allora, per organizzare il mio viaggio, ho bisogno di sapere come posso arrivare a casa tua. Potresti mandarmi una carta della tua città, per favore?
+Ho veramente fretta di uscire con te, di discoprire la tua città! Dimmi, che cosa potremmo fare la sera?!! Aspetto la tua risponsa.
+Tanti bacci. a presto.
+Maria
+
+----------------
+
+Target hypothesis 1: 
+
+25 novembre 2010 Caro Federico , spero che tutto sia a posto per te e la tua famiglia . Ti scrivo una piccola lettera per dirti che sono libera la prossima settimana . Ho sei giorni liberi . Non l' hai dimenticato ? Abbiamo parlato della mia visita l' ultima volta che ci siamo visti . Allora , per organizzare il mio viaggio , ho bisogno di sapere come posso arrivare a casa tua . Potresti mandarmi una carta della tua città , per favore ? Ho veramente fretta di uscire con te e di scoprire la tua città ! Dimmi , che cosa potremmo fare la sera ? Aspetto la tua risposta . Tanti baci . A presto . Maria
+
+----------------
+
+No target hypothesis 2 available.
+

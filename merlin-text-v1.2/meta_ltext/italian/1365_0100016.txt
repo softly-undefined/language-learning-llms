@@ -1,0 +1,30 @@
+METADATA
+
+General:
+Author ID: 1365_0100016
+Test language: Italian
+CEFR level of test: B1
+Task : answer to an wedding invitation - ID: 1365_020300
+Mother tongue: French
+Age: 29
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: C1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Città X, 2 Maggio 2010
+Cari Amici,
+Ho avuto la gioia di imparare che avete deciso di sposarvi. 
+Certo, accepto di venire con molto piacere. Avevo un appuntamento, ma niente è più importante per me di vedervi contenti. Vorrei anche dirvi che la vostra lettra è la migliore cosa che ho ricevuto dell'anno. Trovo che la cena in questo ristorante è una buona idea perché è molto conosciuto e reputato. Inoltre, un piacerebbe conoscere la lista che avete preparato a proposito degli regali.
+Infine, RINgraziandovi in anticipo della vostra invitazione, vi abbraccio molto affettuosamente.
+Maria

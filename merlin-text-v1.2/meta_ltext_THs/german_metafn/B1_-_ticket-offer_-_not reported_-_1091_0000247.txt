@@ -1,0 +1,40 @@
+METADATA
+
+General:
+Author ID: 1091_0000247
+Test language: German
+CEFR level of test: A2
+Task : offer a ticket not used to a friend - ID: 1091_0690403
+Mother tongue: not reported
+Age: 24
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: A2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+                           13.03.12
+Liebe Julia,
+Ich möchte eine hilfe von dich frgen. Ich habe eine Fahrkarte für einen Wochenendausflug gekauft. aber leider ich kann. nicht fahren, weil ich andere termin mit meinen Artz habe. So möchtest du mein Fahrkarte haben. Du kannst mit dem Zug fahren. weil ich Zug fahrkarte habe. Ich denke du hast frei am Wockenende. Wenn möchtest du haben, du kannst mich anrufen. Ich warte auf deine antwort.
+Vielen Dank.
+Sr. Maria
+
+----------------
+
+Target hypothesis 1: 
+
+13.03.12 Liebe Julia , ich möchte nach einer Hilfe von dir fragen . Ich habe eine Fahrkarte für einen Wochenendausflug gekauft . Aber leider kann ich nicht fahren , weil ich einen anderen Termin mit meinem Arzt habe . Also möchtest du meine Fahrkarte haben ? Du kannst mit dem Zug fahren , weil ich eine Zugfahrkarte habe . Ich denke , du hast frei am Wochenende . Wenn du sie haben möchtest , kannst du mich anrufen . Ich warte auf deine Antwort . Vielen Dank . Sr . Maria
+
+----------------
+
+No target hypothesis 2 available.
+

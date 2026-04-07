@@ -1,0 +1,46 @@
+METADATA
+
+General:
+Author ID: 1365_0100099
+Test language: Italian
+CEFR level of test: B1
+Task : help a friend who is looking for work after school-leaving exam - ID: 1365_040501
+Mother tongue: French
+Age: 20
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: B1
+Orthography: B2
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Città X, il 6 novembre 10
+Caro Francesco,
+Spero che stai bene!
+Nell'ultimo periodo,  sono andata due mesi in New York per imparare l'inglese. Ho visitato tanti monumenti e ho incontrato sympatiche gente. Era veramente una buona sperienza!
+Ho un lavoro per te, ho visto in una annunzia che hanno bisogno di una cameriera in un bar vicino dove abito. Però spero che tu ti iscrivi per andare all'Università perchè sei un bravo studente.
+Io invence lavoro sempre alla Posta e non voglio cambiare il lavoro perchè mi piace tantissimo.
+Sono contentissma per tuo esame orale, hai fatto bene!
+Quando sei libero? Voglio ti regalare qualcosa per la riuscita del tuo esame.
+A presto
+Tanti saluti
+Maria
+
+----------------
+
+Target hypothesis 1: 
+
+Città X , 6 novembre 10 Caro Francesco , spero che stai bene ! Nell' ultimo periodo sono andata due mesi a New York per imparare l' inglese . Ho visitato tanti monumenti e ho incontrato gente simpatica . È stata veramente una buona esperienza ! Ho un lavoro per te , ho visto in un annuncio che hanno bisogno di una cameriera in un bar vicino a dove abito . Però spero che tu ti iscriva per andare all' università perché sei un bravo studente . Io invece lavoro sempre alla posta e non voglio cambiare il lavoro perché mi piace tantissimo . Sono contentissima per il tuo esame orale , l' hai fatto bene ! Quando sei libero ? Voglio regalarti qualcosa per la riuscita del tuo esame . A presto . Tanti saluti Maria
+
+----------------
+
+No target hypothesis 2 available.
+

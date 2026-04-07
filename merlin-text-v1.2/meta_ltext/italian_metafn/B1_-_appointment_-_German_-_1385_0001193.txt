@@ -1,0 +1,29 @@
+METADATA
+
+General:
+Author ID: 1385_0001193
+Test language: Italian
+CEFR level of test: A1
+Task : reschedule an appointment - ID: 1385_020100
+Mother tongue: German
+Age: 46
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Caro Daniele,
+Mi dispiace cosi molto ma non ho tempo giovedì pomeriggio perchè il mio capo ha organizzato una riunione e devo lavorare. Hai tempo a sabato sera? Potremmo andare a mangiare in un ristorante tailandese insieme. Hai voglia? Spero! 
+Se non hai tempo mi fai un altro proposto! Mi scrivi subito per favore. 
+Tanti saluti e spero che ci vediamo!
+Maria

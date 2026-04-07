@@ -1,0 +1,41 @@
+METADATA
+
+General:
+Author ID: 1365_0100092
+Test language: Italian
+CEFR level of test: B1
+Task : answer to an wedding invitation - ID: 1365_020300
+Mother tongue: German
+Age: 40
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: C1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Città X, 13 ottobre 2010
+Cara Beatrice, Caro Stefano
+Vorrei esprimere miei cordiali congratulazioni per vostro matrimonio. Sono molto contento che avete preso questa decisione. Grazzie mille del vostro invito. Sono molto triste che devo andare a un congresso del 19 novembre al 22 novembre. Sarei molto contento se porrei annulare la mia participazion a questo congresso. Ma devo presentare nostro pr-unreadable-etti di rich-unreadable-sta, così non lo posso. Avrei un proposto concreto: Vorreste venire nel mio parte il 19 dicembre e faremo una piccola festa a l'occasione del vostro matrimonio nel mia casa. Sarebbe ottimo. Un vantaggio per voi sarebbe anche: Potete dirmi doppo vostro matrimonio cosa posso regalarvi. Sa-unreadable-ete essatamente che voi non avete ancora.
+Allora a piu tardi
+Cordialmente
+Michele
+
+----------------
+
+Target hypothesis 1: 
+
+Città X , 13 ottobre 2010 Cara Beatrice , Caro Stefano , vorrei esprimere le mie cordiali congratulazioni per il vostro matrimonio . Sono molto contento che avete preso questa decisione . Grazie mille del vostro invito . Sono molto triste perché devo andare a un congresso dal 19 novembre al 22 novembre . Sarei molto contento se potessi annullare la mia partecipazione a questo congresso . Ma devo presentare il nostro unreadable di unreadable , così non posso . Avrei una proposta concreta : vorreste venire dalle mie parti il 19 dicembre così facciamo una piccola festa in occasione del vostro matrimonio nella mia casa ? Sarebbe ottimo . Sarebbe un vantaggio anche per voi . Potete dirmi dopo il vostro matrimonio cosa posso regalarvi . unreadable esattamente quello che voi non avete ancora . Allora a più tardi Cordialmente Michele
+
+----------------
+
+No target hypothesis 2 available.
+

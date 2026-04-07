@@ -1,0 +1,28 @@
+METADATA
+
+General:
+Author ID: 1395_0000383
+Test language: Italian
+CEFR level of test: A2
+Task : inform friends about language course - ID: 1395_010300
+Mother tongue: German
+Age: 54
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: B1
+Orthography: C2
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Cari amici,
+Sono qui in Città X per fare un corso di italiano. Vivo in una camera molto carina. Non è grande. Ma e molto comodo. La nostra insegnante si chiama Maddalena e ha trenta anni. Ieri abbiamo visitato la Monumento X Poi siamo andati in una pizzeria. Il tempo era bello, cosicché ci siamo messi fuori. Già ho trovato qualche amico italiano. Tornerò a Città X il 4 luglio.
+Tanti cari saluti
+Maria

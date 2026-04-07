@@ -1,0 +1,40 @@
+METADATA
+
+General:
+Author ID: PHA0710016
+Test language: Czech
+CEFR level of test: B2
+Task : write an essay: Clothes make the man - ID: B2PS0201_saty
+Mother tongue: Polish
+Age: 2029
+Gender: female
+
+Rating:
+Overall CEFR rating: B2
+Grammatical accuracy: B2
+Orthography: B2
+Vocabulary range: B2
+Vocabulary control: B2
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+V Polsku se stale opakuje názor, že ne šaty dělají člověka. Je o pravda? Co nám mluví o člověku jeho oblečení? Podle mě to jak výpadáme, je moc důležite pro společensky život. 
+Za prve, když někoho potkáme, nejdřiv uvídíme jeho oblečení, učes atd. Podle toho děláme svůj první názor o tom člověku. Muž v obleku a s počitačem? Možna byznesman. Kluk v volných kraťasech to asi skejťak. Černe vlasy a dlouhe černe šaty - ta holka prý posloucha nějakou těžkou rockovou hudbu. Možna i budeme potom velmi překvapení, když naš "skejťak" bude manažerem na dovoleně nebo pán v obleku IT specialistou bežoucím na svatbu kámaráda. Ale většinou první mýslenka je ta správná. 
+Druha důležita věc je aby vědet jak měly bysme se obleknout podle situaci. Skoro všechní vědí, že do divadla nepůjdeme v žabkach a kratkých šatech, a naopak na plaž v elegantní sukni a košili. Bohužel nekaždy, nejčasteji mladi lídé, ví jak by měli vypadat na interview. I když je to pohovor o prace servírki, lépé příjdeme v elegantních šatach než v džinach. Zaměstnavatel tehdy uvídí, že bereme to vážně. 
+Pro společenský život je tedy naše oblečení moc důležite. Mluví kým jsme, kolik máme peněz, občas i co nas zajíma. A taky o tom jestli jsme inteligentní a umíme se chovat a oblec podle situaci, poněvaď chýtrý člověk níkdy v kraťasech na operu nepřijde. I když je hrozně vedro.
+
+----------------
+
+Target hypothesis 1: 
+
+V Polsku se stále opakuje názor , že ne šaty dělají člověka . Je to pravda ? Co k nám mluví o člověku jeho oblečení ? Podle mě to , jak vypadáme , je moc důležité pro společenský život . Za prvé , když někoho potkáme , nejdřív uvidíme jeho oblečení , účes atd . Podle toho si děláme svůj první názor o tom člověku . Muž v obleku a s počítačem ? Možná byznysmen . Kluk ve volných kraťasech , to je asi skejťák . Černé vlasy a dlouhé černé šaty - ta holka prý poslouchá nějakou těžkou rockovou hudbu . Možná i budeme potom velmi překvapení , když náš " skejťák " bude manažerem na dovolené nebo pán v obleku IT specialistou bežícím na svatbu kamaráda . Ale většinou první myšlenka je ta správná . Druhá důležitá věc je , abychom věděli , jak bychom se měli obléknout podle situace . Skoro všichni vědí , že do divadla nepůjdeme v žabkách a krátkých šatech a naopak na pláž v elegantní sukni a košili . Bohužel ne každý , nejčastěji mladí lidé , ví , jak by měl vypadat na interview . I když je to pohovor o práci servírky , lépe přijdeme v elegantních šatech než v džínách . Zaměstnavatel tehdy uvidí , že to bereme vážně . Pro společenský život je tedy naše oblečení moc důležité . Mluví o tom , kým jsme , kolik máme peněz , občas i o tom , co nás zajímá . A taky o tom , jestli jsme inteligentní a umíme se chovat a obléct podle situace , poněvadž chytrý člověk nikdy v kraťasech na operu nepřijde . I když je hrozně vedro .
+
+----------------
+
+Target hypothesis 2: 
+
+V Polsku se stále opakuje názor , že ne šaty dělají člověka . Je to pravda ? Co nám říká o člověku jeho oblečení ? Podle mě to , jak vypadáme , je moc důležité pro společenský život . Za prvé , když někoho potkáme , nejdřív uvidíme jeho oblečení , účes atd . Podle toho si děláme svůj první názor o tom člověku . Muž v obleku a s počítačem ? Možná byznysmen . Kluk ve volných kraťasech , to je asi skejťák . Černé vlasy a dlouhé černé šaty - ta holka prý poslouchá nějakou tvrdou rockovou hudbu . Možná i budeme potom velmi překvapení , když náš " skejťák " bude manažerem na dovolené nebo pán v obleku IT specialistou bežícím na svatbu kamaráda . Ale většinou první myšlenka je ta správná . Druhá důležitá věc je , abychom věděli , jak bychom se měli obléknout podle situace . Skoro všichni vědí , že do divadla nepůjdeme v žabkách a krátkých šatech a naopak na pláž v elegantní sukni a košili . Bohužel ne každý , nejčastěji mladí lidé , ví , jak by měl vypadat na interview . I když je to pohovor o práci servírky , raději přijdeme v elegantních šatech než v džínách . Zaměstnavatel tehdy uvidí , že to bereme vážně . Pro společenský život je tedy naše oblečení moc důležité . Vypovídá o tom , kým jsme , kolik máme peněz , občas i o tom , co nás zajímá . A taky o tom , jestli jsme inteligentní a umíme se chovat a obléct podle situace , poněvadž chytrý člověk nikdy v kraťasech na operu nepřijde . I když je hrozně vedro .

@@ -1,0 +1,42 @@
+METADATA
+
+General:
+Author ID: PHA0509032
+Test language: Czech
+CEFR level of test: B2
+Task : write an essay: The school is the basis of the life - ID: B2PS0200_skola
+Mother tongue: Russian
+Age: 2029
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B2
+Vocabulary range: B2
+Vocabulary control: B1
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+1) Škola - základ života.
+Když jsem zamyslím nad významem vzdělání,  pro život člověka v současné dobé, tak můžu říct, že hraje nejvyznamnější rolí v živote káždého.
+Za prve všichni jsme chceme mít dobrou a zajimavou práci, vydělavat slušné penize,  žit ve vlastním bytě nebo domě, jezdit na vlastním aute a odpočivat aspoň jednou za rok u moře. Bohužel ne všichni lidě to mužou  zdědit. A proto hodně z náš snaži se vystudovat Vysokou školu a najít své zaměstnání. Ale bohužel nevždycky jeto jednoduché: dostat se na školu a uspěšně jí absolvovát. Taky k tomu potřebujeme abych nás podporovalí v tom rodiče nebo další příbuzné. Není jednoduche pro studenta platit za byt a studovát. Na brigadech se moc nevydeláš a proto potřebuješ mít podporu ze strany rodičů. 
+Je složitě v tomto připadě cizincům, ktere opuští své hnizdo, podporu rodiny a jedou za znalostmi a životnimi zkošenostmi do světa. Mužou tím spolehnout jenom na sebe a porádit při studiu taky můsí ze sebou. 
+Ale přesto,  že  na začatku cesty je vždycky složitě, člověk se snaží a bojuje za to, abych to vzdělání přece dostal. Má k tomu touhu a vélkou potřebu, zlepšovat své znalostí a dovědností a předavat jích dál. 
+Za sebe můžu říct, že jsme se učíme cely život, a nejde jen o vzdělaní ktere dostavame ve škole, ale i celkove; jak dostavame životní zkošenost ze samotného života. Učime se komunikovat z lidmi, učime se byt slušnymi a zodpovědnymí za to co děláme, učime se být vstřicnymí k ostatním lidem.  
+Učime se  mít rádi sovu Země abych jsme bylí užitečni.
+
+----------------
+
+Target hypothesis 1: 
+
+1 ) Škola - základ života . Když se zamyslím nad významem vzdělání pro život člověka v současné době , tak můžu říct , že hraje nejvýznamnější roli v životě každého . Za prvé všichni chceme mít dobrou a zajímavou práci , vydělávat slušné peníze , žít ve vlastním bytě nebo domě , jezdit ve vlastním autě a odpočívat aspoň jednou za rok u moře . Bohužel ne všichni lidé to můžou zdědit . A proto hodně z nás se snaží vystudovat vysokou školu a najít své zaměstnání . Ale bohužel ne vždycky je to jednoduché : dostat se na školu a úspěšně ji absolvovat . Taky k tomu potřebujeme , aby nás v tom podporovali rodiče nebo další příbuzní . Není jednoduché pro studenta platit za byt a studovat . Na brigádách si moc nevyděláš , a proto potřebuješ mít podporu ze strany rodičů . Je to složité v tomto případě u cizinců , kteří opustí své hnízdo , podporu rodiny a jedou za znalostmi a životními zkušenostmi do světa . Můžou se spolehnout jenom na sebe a poradit se při studiu taky musí se sebou . Ale přesto , že na začátku cesty je to vždycky složité , člověk se snaží a bojuje za to , aby to vzdělání přece dostal . Má k tomu touhu a velkou potřebu zlepšovat své znalosti a dovednosti a předávat je dál . Za sebe můžu říct , že se učíme celý život , a nejde jen o vzdělání , které dostáváme ve škole , ale i celkové - jak dostáváme životní zkušenost ze samotného života . Učíme se komunikovat s lidmi , učíme se být slušnými a zodpovědnými za to , co děláme , učíme se být vstřícnými k ostatním lidem . Učíme se mít rádi svou zemi , abychom byli užiteční .
+
+----------------
+
+No target hypothesis 2 available.
+

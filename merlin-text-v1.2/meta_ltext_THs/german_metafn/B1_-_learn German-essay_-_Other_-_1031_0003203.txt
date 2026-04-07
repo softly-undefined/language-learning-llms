@@ -1,0 +1,40 @@
+METADATA
+
+General:
+Author ID: 1031_0003203
+Test language: German
+CEFR level of test: C1
+Task : essay about why it's of value to learn German - ID: 1031_010300
+Mother tongue: other
+Age: 28
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Liebe leser und Leserin.
+Das macht Spass Sprache zu lernen, aber es dauert manchmal einbischen langer. ein Sprache zu lernen. Meine Meinung nach Deutschlernen ist für sinnvoll halten. Es gibt viele lander Sprache Dutsch. Deswegen durfen wir Deutsch lernen. Für mich Deutsch ist ein sehr send Sprache zu benutzen.Z:B in Ganze Europa benuzen wir Deutsch, auch andere lander.
+Wenn man Deutsch lernet, dann bekommen man einfache ein Job. Das ist ein wichtige Sprache in Europa. Wenn man andere fremd Sprache lernen man bekomme eifach mehr Chande für die Arbeit zu finden. Wenn man die Europa leben, natullen muss man Deutsch lernen. Das ist gut für uns. zu Kommunikation mit ein andere leuten.
+Alle Sprachen sind wichtig für unser leben. Meine Meinung sind Deutschlerne macht mich Spass. Ich habe in der Schwiez gelebt- Deswegen muss ich Deutsch lernen. Ich brauche das zu Kommunikation mit andere leuten. Ich kann auch andere Sprachez:B Englisch, Chinesich und Maleysisch.
+Zusammendfassung lässt ich sagen. Deutschlernen ist witchtig wenn man die Europa lebt und zu kommunizieren mit andere Leuten es macht Spass andree Sprache zu lernen und andere Kulture kennen zu lernen.
+
+----------------
+
+Target hypothesis 1: 
+
+Liebe Leser und Leserinnen . Es macht Spass , Sprache zu lernen , aber es dauert manchmal ein bisschen länger , eine Sprache zu lernen . Meiner Meinung nach ist Deutschlernen für sinnvoll zu halten . Es gibt viele Länder , deren Sprache Deutsch ist . Deswegen dürfen wir Deutsch lernen . Für mich ist Deutsch eine sehr <-incomp-> Sprache zum Benutzen . Z. B. in ganz Europa benutzen wir Deutsch , auch in anderen Ländern . Wenn man Deutsch lernt , dann bekommt man einfach einen Job . Das ist eine wichtige Sprache in Europa . Wenn man andere Fremdsprachen  lernt , bekommt man einfach mehr Chancen , die Arbeit zu finden . Wenn man in Europa lebt , muss man natürlich Deutsch lernen . Das ist gut für uns , zur Kommunikation mit anderen Leuten . Alle Sprachen sind wichtig für unser Leben . Meiner Meinung macht mir Deutschlernen Spass . Ich habe in der Schweiz gelebt . Deswegen muss ich Deutsch lernen . Ich brauche das zur Kommunikation mit anderen Leuten . Ich kann auch andere Sprachen : Englisch , Chinesisch und Malaysisch . Zusammenfassend lässt sich sagen : Deutschlernen ist wichtig , wenn man in Europa lebt , und um mit anderen Leuten zu kommunizieren . Es macht Spass , eine andere Sprache zu lernen und andere Kulturen kennenzulernen .
+
+----------------
+
+No target hypothesis 2 available.
+

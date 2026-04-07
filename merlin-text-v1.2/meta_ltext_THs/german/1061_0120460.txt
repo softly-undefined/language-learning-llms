@@ -1,0 +1,42 @@
+METADATA
+
+General:
+Author ID: 1061_0120460
+Test language: German
+CEFR level of test: B1
+Task : write a letter for New Year to a friend - ID: 1061_110101
+Mother tongue: not reported
+Age: 30
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Liber Michael,
+Ich habe dein Brief bekommen. Ich hatte auch ein schöne Silvester. Ich war mit meine Freundin in die Stadt Stat X und Es war sehr schön.
+Ich arbaite immernoch in einem Italianische Restaurant als Barman, und du weiss wenn man im Restaurant arbeitet, Hat keine Zeit.
+Aber in nächste monat können wir uns treffen. weil ich eine woch urlaub habe.
+in Silvester haben wir zuerst bis 1 uhr in der nacht gefaiert. wir waren kurz in einem Disco. Dann sind wir nach hause gegangen.
+Liebe Grüss
+Michael
+
+----------------
+
+Target hypothesis 1: 
+
+Lieber Michael , ich habe deinen Brief bekommen . Ich hatte auch ein schönes Silvester . Ich war mit meiner Freundin in der Stadt Stadt X und es war sehr schön . Ich arbeite immer noch in einem italienischen Restaurant als Barmann , und du weisst , wenn man im Restaurant arbeitet , hat man keine Zeit . Aber im nächsten Monat können wir uns treffen , weil ich eine Woche Urlaub habe . Zu Silvester haben wir zuerst bis 1 Uhr in der Nacht gefeiert . Wir waren kurz in einer Disco . Dann sind wir nach Hause gegangen . Liebe Grüsse Michael
+
+----------------
+
+No target hypothesis 2 available.
+

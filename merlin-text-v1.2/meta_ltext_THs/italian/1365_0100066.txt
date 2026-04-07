@@ -1,0 +1,46 @@
+METADATA
+
+General:
+Author ID: 1365_0100066
+Test language: Italian
+CEFR level of test: B1
+Task : answer to an wedding invitation - ID: 1365_020300
+Mother tongue: Polish
+Age: 40
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B2
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Città X, il 12.06.2010 anni
+Cara Beatrice,
+come stai?
+Ti ringrazio del tuo invito per il tuo matrimonio. Penso che ti molto contenta!
+Purtroppo non posso venire. Molto lavoro. Ho scritto al' universita - ho tanti progetti! Mia madre è molto occupata, conduce la vita molto intensa. Qualge anni fa mio padre é morto.
+Dopo 15 ottobre sono costretta di andare dalla mia sorella Maria(Maria è malata).
+Attualmente lavoro come l'insegnate presso la scuola elementare.
+Non posso venire da te come ti avevo promesso(Tu sai bene ho bisogno di lavorare).
+Aspetta la tua risposta
+Baci
+Eva
+
+----------------
+
+Target hypothesis 1: 
+
+Città X , 12.06.2010 Cara Beatrice , come stai ? Ti ringrazio del tuo invito al tuo matrimonio . Penso che sarai molto contenta ! Purtroppo non posso venire . Ho molto lavoro . Ho scritto all' università : ho tanti progetti ! Mia madre è molto occupata , conduce una vita molto intensa . Qualche anno fa mio padre è morto . Dopo il 15 ottobre sono costretta ad andare da mia sorella Maria ( Maria è malata ) . Attualmente lavoro come insegnante presso una scuola elementare . Non posso venire da te come ti avevo promesso ( tu sai bene che ho bisogno di lavorare ) . Aspetta la tua risposta Baci Eva
+
+----------------
+
+No target hypothesis 2 available.
+

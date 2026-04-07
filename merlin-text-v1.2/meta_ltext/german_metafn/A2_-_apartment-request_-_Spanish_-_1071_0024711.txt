@@ -1,0 +1,29 @@
+METADATA
+
+General:
+Author ID: 1071_0024711
+Test language: German
+CEFR level of test: A1
+Task : ask friend for help for finding apartment - ID: 1071_020200
+Mother tongue: Spanish
+Age: 25
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: B1
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Hallo Ingo ...
+wie geht es dir .... Kannst du eine gunst mir machen bitte! Ich habe eine situation mit eine groß freund sie hat eine neu arbeit aber in deinen stadt, sie ist meine nachbaring in Stadt X. Sie brauchts eine wohnung for die nexte monate, vielleicht haben sie gehört auf ein Größe wohnung für sie...
+Danke für die Hilfe!!!
+Viele Großße
+Tobias

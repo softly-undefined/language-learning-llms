@@ -1,0 +1,43 @@
+METADATA
+
+General:
+Author ID: 1365_0100101
+Test language: Italian
+CEFR level of test: B1
+Task : inform oneself about language course - ID: 1365_050401
+Mother tongue: German
+Age: 33
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B2
+Orthography: C1
+Vocabulary range: B2
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+20-11-2010
+All'Ufficio della Piazza Italia
+Gentili Signori,
+siccome avevo sempre l'idea di fare un corso di lingua e cultura ho letto molto interessata questo annuncio. Ho deciso di rispondere subito per assicurarmi un posto.
+Mi piacerebbe frequentare un corso da due settimane. Ho letto che a scuola organizza un corso speciale con un programma di Natale. Cosí potrei combinare lo studio della lingua con la festa di Capodanno a Roma. Che bello! Penso che io desideri una camera singola in hotel, con pensione completa. Cosí non devo occuparmi di niente e avró più tempo per visitare la città.
+Potreste mandarmi le informazioni dai prezzi del corso e del albergo? Sarebbe per il tempo dal 26.12.10 fino al 6.1.11.
+In attesa di una risposta, ringrazio e invio cordiali saluti.
+MariaRossi
+
+----------------
+
+Target hypothesis 1: 
+
+20-11-2010 Ufficio di Piazza Italia Gentili Signori , siccome ho avuto sempre l' idea di fare un corso di lingua e cultura , ho letto con molto interesse questo annuncio . Ho deciso di rispondere subito per assicurarmi un posto . Mi piacerebbe frequentare un corso di due settimane . Ho letto che la scuola organizza un corso speciale con un programma di Natale . Così potrei combinare lo studio della lingua con la festa di Capodanno a Roma . Che bello ! Penso che io desideri una camera singola in hotel , con pensione completa . Così non devo occuparmi di niente e avrò più tempo per visitare la città . Potreste mandarmi le informazioni dei prezzi del corso e dell' albergo ? Sarebbe per il tempo dal 26.12.10 fino al 6.1.11 . In attesa di una risposta , ringrazio e invio cordiali saluti . MariaRossi
+
+----------------
+
+No target hypothesis 2 available.
+

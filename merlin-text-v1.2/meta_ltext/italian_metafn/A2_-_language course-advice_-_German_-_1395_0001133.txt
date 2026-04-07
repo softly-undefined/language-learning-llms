@@ -1,0 +1,29 @@
+METADATA
+
+General:
+Author ID: 1395_0001133
+Test language: Italian
+CEFR level of test: A2
+Task : inform friends about language course - ID: 1395_010300
+Mother tongue: German
+Age: 19
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A1
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Cara Miriam, 
+come stai? Sto bene. Sono qui a Città X. È molto bello. Qui imparato un po' della cultura e della storia italiana. Il mio insegnante è signor Müller. Devi lo conosco, signor Müller è molto gentile. Ma non imparato tutto il tempo. Ho molto tempo libero anche. E in questo tempo visito i monumenti a Città X e le città chi sono vicino a Città X. 
+Allora, devo finire la lettera, perché devo andare alla lezione.
+               Ciao e tanti baci 
+                                 Maria

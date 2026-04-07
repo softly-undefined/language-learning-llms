@@ -1,0 +1,28 @@
+METADATA
+
+General:
+Author ID: 1071_0248343
+Test language: German
+CEFR level of test: A1
+Task : arrange appointment with friend to go swimming together - ID: 1071_120302
+Mother tongue: Italian
+Age: 34
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: B1
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Lieber Daniela
+Heute ab ich frei, willst du mit mir ins schwimbad gehen. Wir konnen heute mittag in Stadt X treffen um 15:00 Uhr. Bringst du bitte eine Ankusch? ODER AnVusch? und Kleine Geld fur die Seife.
+Viel Grußen
+Michael

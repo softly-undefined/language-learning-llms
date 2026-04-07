@@ -1,0 +1,29 @@
+METADATA
+
+General:
+Author ID: 1091_0000185
+Test language: German
+CEFR level of test: A2
+Task : offer a ticket not used to a friend - ID: 1091_0690403
+Mother tongue: Turkish
+Age: not reported
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Liebe Julia
+Wie geht´s Ich habe einen Wochenendausflug eine Fahrkarte genommen. aber tut mir leid. Ich gehe nicht. Wiel Ich krank bin Wann bist du gehen? Wenn brauchst du eine Fahrkarte. Du schreibst mir bitte.
+Bis später
+Cus
+Stefan

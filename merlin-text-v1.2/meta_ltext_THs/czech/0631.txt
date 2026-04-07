@@ -1,0 +1,46 @@
+METADATA
+
+General:
+Author ID: 0631
+Test language: Czech
+CEFR level of test: B1
+Task : answer to the email of Alena - ID: 1_Alena
+Mother tongue: German
+Age: not reported
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+V Drážďanech, devatenáctého cervence 2006 
+Ahoj milá Mileno! 
+Jak se máš? 
+Dekuji Ti mockrát za Tvůj dopis (e-mail). Pišu Ti teprve dnes, protože jsem neměl čas Ti psát. Byl jsem nemocný. Měl jsem chripku! 
+Bohužel nemůžu přijít na grilovací party do Liberce. Nebudu mít čas, protože budu na dovolenu... 
+Ale na  svatbu přijdu! Už se těším! 
+Co ještě byste mohli potřebovat? Idea jít na kávu příští týden je dobrá. Budu mít čas příští středu. Setkáme se v pět hodin na Náměstí Míru před kavárnou? 
+Hledám dobrou gramatiku českého jaziku. Znáš jednu? Prosím, koupej mi tu gramatiku. Tak, přejí Ti všechno nejlepší! 
+Měj se dobře,
+Tvůj Tomáš 
+1 Zaplatím jí samozřejmý!
+
+----------------
+
+Target hypothesis 1: 
+
+V Drážďanech devatenáctého cervence 2006 Ahoj milá Mileno ! Jak se máš ? Děkuji Ti mockrát za Tvůj dopis ( e-mail ) . Píšu Ti teprve dnes , protože jsem neměl čas Ti psát . Byl jsem nemocný . Měl jsem chřipku ! Bohužel nemůžu přijít na grilovací party do Liberce . Nebudu mít čas , protože budu na dovolené ... Ale na svatbu přijdu ! Už se těším ! Co ještě byste mohli potřebovat ? Idea jít na kávu příští týden je dobrá . Budu mít čas příští středu . Setkáme se v pět hodin na Náměstí Míru před kavárnou ? Hledám dobrou gramatiku českého jazyka . Znáš jednu ? Prosím , kup mi tu gramatiku . Tak , přeji Ti všechno nejlepší ! Měj se dobře , Tvůj Tomáš 1 Zaplatím ji samozřejmě !
+
+----------------
+
+No target hypothesis 2 available.
+

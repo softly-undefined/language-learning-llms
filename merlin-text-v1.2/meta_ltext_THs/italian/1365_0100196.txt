@@ -1,0 +1,42 @@
+METADATA
+
+General:
+Author ID: 1365_0100196
+Test language: Italian
+CEFR level of test: B1
+Task : inform oneself about language course - ID: 1365_050401
+Mother tongue: Hungarian
+Age: 24
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: C1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+il 28 maggio 2011
+Egregio Signor,
+ho deciso di rispondere all'anuncio, perchè si trovano un buon corso in Italia è non facile di solo. Mi piace se danno diversi diplant, e ne posso scegliere. E a secondo me, meglio rivolgermi con un organizzatore chi puó offrire molti possibilitá e programmi interessanti, mentre studio tutto il giorno. Ho deciso il corso individuale, perchè mi serve se meglio il rapporto tra le insegnante e me, che piú importanti qui.
+Mi piace fare consigliare un alloggio buono, (e non troppo costoso) ma se tutto è a posto, e anche ancora camere libere, mi desidero una camera singola in hotel.
+Ho domande: Quando euro dell'aloggio per una sera? I prezzi comprendi la prima colazione?
+(I) Cordiali saluti,
+Maria Rossi
+
+----------------
+
+Target hypothesis 1: 
+
+28 maggio 2011 Egregio signore , ho deciso di rispondere all' annuncio , perché trovare un buon corso in Italia non è facile da solo . Mi piace se mi danno diversi depliant e ne posso scegliere uno . E secondo me , è meglio rivolgersi a un organizzatore che può offrire molte possibilità e programmi interessanti mentre studio tutto il giorno . Ho deciso il corso individuale , perché mi serve a migliorare il rapporto tra l' insegnante e me , che è la cosa più importante qui . Mi piace farmi consigliare un buon alloggio ( e non troppo costoso ) ma , se tutto è a posto e ci sono ancora camere libere , desidero una camera singola in hotel . Ho delle domande : quanti euro costa l' alloggio per una sera ? I prezzi comprendono la prima colazione ? Cordiali saluti , Maria Rossi
+
+----------------
+
+No target hypothesis 2 available.
+

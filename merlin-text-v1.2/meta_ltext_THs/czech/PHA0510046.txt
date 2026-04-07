@@ -1,0 +1,36 @@
+METADATA
+
+General:
+Author ID: PHA0510046
+Test language: Czech
+CEFR level of test: B2
+Task : write an essay: More people know more - ID: B2PS0201_hlava
+Mother tongue: Russian
+Age: 1519
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B2
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+"Víc hlav, víc ví", ř-ambiguous-ká česk-ambiguous- přislovi a má pravdu. To jsem pochopila ještě když jsem studovala ve střední škole. A taky v praxe mnohokrat se to dokazovalo, že čím víc lidí myslí nad jednou tematou, tím líp nebo rychlejí bude řešení tohoto problemu. Tady je přiklad ze svého životu. Měl jsme ve škole úkol udělat nějaký program pro děti z mladších třid. na tematu: "Jsem občan svého státu." A měla jsem na to asi tyden, abych to stihla. Udělala jsem sáma první čast a pak už jsem nemohla vymyšlet něco dobrého. Zeptala jsem se na pomoc maminku a spolu s ní jsme vypracovaly druhou čast. Stalo to zajímavějí a uslyšel nás, jak o tom mluvíme, i můj bratranec a bylo nás už troje. Když jsme potřebovali dozvědět něco ze statistiky, v čemž tatinek je odbornik, zaujali jsme ho svými ideimi. Tři dny jsme si myslili a všechno dopadlo OK.
+
+----------------
+
+Target hypothesis 1: 
+
+" Víc hlav , víc ví " , říká české přísloví a má pravdu . To jsem pochopila , ještě když jsem studovala ve střední škole . A taky v praxi mnohokrát se to dokazovalo , že čím víc lidí myslí nad jedním tématem , tím líp nebo rychleji bude řešení tohoto problému . Tady je příklad z mého života . Měli jsme ve škole úkol udělat nějaký program pro děti z mladších tříd na téma : " Jsem občan svého státu . " A měla jsem na to asi týden , abych to stihla . Udělala jsem sama první část a pak už jsem nemohla vymýšlet něco dobrého . Zeptala jsem se na pomoc maminky a spolu s ní jsme vypracovaly druhou část . Bylo to zajímavější a uslyšel nás , jak o tom mluvíme , i můj bratranec a byli jsme už tři . Když jsme se potřebovali dozvědět něco ze statistiky , v čemž tatínek je odborník , zaujali jsme ho svými idejemi . Tři dny jsme si myslili a všechno dopadlo OK .
+
+----------------
+
+No target hypothesis 2 available.
+

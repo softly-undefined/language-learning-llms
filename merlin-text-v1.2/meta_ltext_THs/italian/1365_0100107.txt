@@ -1,0 +1,49 @@
+METADATA
+
+General:
+Author ID: 1365_0100107
+Test language: Italian
+CEFR level of test: B1
+Task : inform oneself about language course - ID: 1365_050401
+Mother tongue: German
+Age: 55
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B2
+Orthography: C1
+Vocabulary range: B1
+Vocabulary control: B2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Piazza Italiana
+Via Bixio 99
+00185 Roma
+Città X, 20 novembre 2010
+Corso di lingua e cultura italiana
+Gentile Signora, gentile Signore,
+In risposta del suo annuncio sul Corriere della Sera Le prego di inviarmi del materiale d'informazione  sui corsi del suo centro condatti a Roma. In questo momento sto facendo il testo telc B1 - oppure al meno spero che lo passi - e sono convinta che perderei tutte le mie conoscenze se finissi svolgere un corso. Dato che non sono mai stata a Roma penso che sia una buona idea combinare il primo soggiorno a Roma con un corso d'italiano.
+Mi immaginerei un corso in un gruppo nuomente piccolo - 4 persone al massimo - se questo non è possibile prenderai dei lezioni individuali. 
+Concernete l'allogio sarei interessata vivre da una familia italiana, se possibile con tanti bambini. Sono convinta che una lingua si imp-unreadable-ri più facilmente parlando con dei bambini. Per questa ragione sono interessata in un alloggio in una casa privata, ma soltanto se sarebbe possibile riservare una camera da sola.
+Le prego di informarmi sei prezzi d'un tale alloggio. Per i prezzi dei corsi potrebbe inviarmi per favore la lista dei prezzi per corsi di tre settimane in piccoli gruppi quella  dei lezioni individuali correspondeli.
+In attesa del suo risposta in tempo utile rimango 
+con cordiali saluti 
+Maria  Rossi 
+
+
+----------------
+
+Target hypothesis 1: 
+
+Piazza Italiana Via Bixio 99 00185 Roma Città X , 20 novembre 2010 Corso di lingua e cultura italiana Gentile Signora , gentile Signore , in risposta al suo annuncio sul Corriere della Sera , vi prego di inviarmi del materiale d' informazione sui corsi del suo centro condotti a Roma . In questo momento sto facendo il testo telc B1 - almeno spero che lo passi - e sono convinta che perderei tutte le mie conoscenze se finissi di svolgere un corso . Dato che non sono mai stata a Roma , penso che sia una buona idea combinare il primo soggiorno a Roma con un corso d' italiano . Mi immaginerei un corso in un gruppo numericamente piccolo - 4 persone al massimo - se questo non è possibile prenderò delle lezioni individuali . Concernendo l' alloggio , sarei interessata a vivere da una famiglia italiana , se possibile con tanti bambini . Sono convinta che una lingua si imp-unreadable-ri più facilmente parlando con dei bambini . Per questa ragione sono interessata a un alloggio in una casa privata , ma soltanto se fosse possibile riservare una camera da sola . La prego di informarmi sui prezzi d' un tale alloggio . Per i prezzi dei corsi potrebbe inviarmi per favore la lista dei prezzi per corsi di tre settimane in piccoli gruppi e quella delle lezioni individuali corrispondenti ? In attesa della sua risposta in tempo utile , rimango con cordiali saluti Maria Rossi
+
+----------------
+
+No target hypothesis 2 available.
+

@@ -1,0 +1,38 @@
+METADATA
+
+General:
+Author ID: PHA0811014
+Test language: Czech
+CEFR level of test: B2
+Task : write an essay: No pain no gain - ID: B2PS0202_kolace
+Mother tongue: Other
+Age: 1519
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B2
+Vocabulary control: B1
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Vite, proč člověk stal člověkom a dosahl všeho, co ma dnes? Protože on se domyslet do teho, že aby v budoucností něco měl, musi teď něco pro to udělat. Jestli nechceš mit hlad , musiš najit něco do jidla. Nechceš, aby byla ti zima? Musiš zabit nějakeho  zviřa a udělat z něho oblek.
+Tak, krok za krokem, člověk rozuměl, že, jestli chce mit pěkny život, musi hodně pracovat. Pro sou čast neho člověk už neni duležitost všechno dělat svěma rukama a fizycká pra ce neni největší úloha života. Ale to ne znači, že nemusi dělat nějakou prace. Vědci nemají hodně fizickou praci, ale musí mnohem víc pracovat svou hlavou.
+Jeden chlapec na jmeno Auraam se narodil v rodině, ktera teměř nemohla dostat si zlamek chleba. Ten chlapec skončil jen několik třid ve škole, ale, kvůli jeho praci, zname ho jako Auraama Linkolna, jednoho z největšich lidí v historii. Proto, jestli chceme mit pěkny a šťastny život, musime hodně pracovat
+
+----------------
+
+Target hypothesis 1: 
+
+Víte , proč se člověk stal člověkem a dosáhl všeho , co má dnes ? Protože on myslel na to , aby v budoucnosti něco měl , musí teď něco pro to udělat . Jestli nechceš mít hlad , musíš najít něco k jídlu . Nechceš , aby ti byla zima ? Musíš zabít nějaké zvíře a udělat z něho oblek . Tak , krok za krokem , člověk rozuměl , že , jestli chce mít pěkný život , musí hodně pracovat . Pro současného člověka už není důležité všechno dělat svýma rukama a fyzická práce není největší úloha života . Ale to neznačí , že nemusí dělat nějakou práci . Vědci nemají hodně fyzické práce , ale musí mnohem víc pracovat svou hlavou . Jeden chlapec má jméno Auraam , narodil se v rodině , která téměř nemohla dostat kousek chleba . Ten chlapec skončil jen několik tříd ve škole , ale , kvůli jeho práci , známe ho jako Auraama Linkolna , jednoho z největších lidí v historii . Proto , jestli chceme mít pěkný a šťastný život , musíme hodně pracovat .
+
+----------------
+
+No target hypothesis 2 available.
+

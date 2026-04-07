@@ -1,0 +1,29 @@
+METADATA
+
+General:
+Author ID: 1031_0003149
+Test language: German
+CEFR level of test: C1
+Task : essay about why it's of value to learn German - ID: 1031_010300
+Mother tongue: other
+Age: 43
+Gender: female
+
+Rating:
+Overall CEFR rating: B2
+Grammatical accuracy: B2
+Orthography: C1
+Vocabulary range: C1
+Vocabulary control: C1
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: B2
+
+----------------
+
+Learner text: 
+
+Uberall werden Sprachen gesprochen und im Besonders die Sprache des Landes, in dem Man lebt.
+Ich halte Deutschlernen sinnvoll aufgrund der folgenden Pünkte:
++ Sich ausdrücken und austauschen zu können. Wenn Man in Deutschland lebt, muss man mit den Leuten kommunizieren, Ideen austauschen, können.
++ Deutschlernen ist sinnvoll, weil das Erlernen der Sprache hilft Vorurteile zu abbauen. Zum Beispiel die Vorurteile gegen Ausländer. Weil sie die Sprache nicht können, denken die Leute das sie (Ausländer) ungebildet sind. Dieses Gedenken lässt sich nicht anders überprüfen ohne Sprachkenntnisse. Auch um eine Arbeitstelle zu finden ist unmöglich ohne Sprachkenntnisse.
+Um sich in der Landeskultur zu Integrieren muss man die Landessprache können. 

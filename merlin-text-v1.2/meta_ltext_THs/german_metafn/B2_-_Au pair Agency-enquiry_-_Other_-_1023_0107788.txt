@@ -1,0 +1,49 @@
+METADATA
+
+General:
+Author ID: 1023_0107788
+Test language: German
+CEFR level of test: B2
+Task : ask for information at Au pair Agency - ID: 1023_080401
+Mother tongue: other
+Age: 23
+Gender: female
+
+Rating:
+Overall CEFR rating: B2
+Grammatical accuracy: B1
+Orthography: B2
+Vocabulary range: B2
+Vocabulary control: B2
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: B2
+
+----------------
+
+Learner text: 
+
+Eva Meier
+Zentralplatz 1
+12345 Stadt X
+Aupairsglobal
+Bahnhof str. 101, 65185 Wiesbaden
+                                                                                              26.4.2011
+Ihre Anzeige im Internet vom 24.4.2011
+Sehr geehrte Damen und Herren,
+ich interessiere mich für Ihre Anzeige als Aupair. Ich möchte noch etwas über Au-pair wissen. ich hieße Eva. Ich komme aus Indien. Jetzt lerne ich Deutsch in der Akademie Klausenhof Ich lerne Deutsch, weil ich in Deutschland studieren und arbeiten möchte.
+Meine Freundin hat mir gesagt, Wenn ich gute Sprache haben möchte, musse ich 1 Jahr als Aupair arbeiten - Ich weiß es nicht, ob es möglich ist? Ich möchte wissen, ob diese Familie oder Personen genau Hilfbereits sind? Gibt es ein möglichkeiten Deutsche Sprache zu lernen? Wenn ich als Au-pair arbeiten, muss ich immer arbeiten oder konnte ich meine, Zeit freizeitaktivitäten auch benutzen? Ich glauben, dass, ich mit diese arbeit nicht nur meine Sprache verbessen konnte, sondern auch konnte ich Deutsche Kulture und neue Fremde Leute auch kennen lernen? Ich habe noch Fragen, Wass soll ich machen, wenn ich eine Stelle als Au-pair bekommen möchte. Soll ich eine Bewerbung schreiben oder Muss ich in Ihre Firma kommen?
+Ich wäre dankbar, wenn Sie mir baldige Antwort geben könnten.
+Mit freundlichen Grüßen
+Eva Meier
+
+----------------
+
+Target hypothesis 1: 
+
+Eva Meier Zentralplatz 1 12345 Stadt X Aupairsglobal Bahnhofstr . 101 65185 Wiesbaden 26.4.2011 Ihre Anzeige im Internet vom 24.4.2011 Sehr geehrte Damen und Herren , ich interessiere mich für Ihre Anzeige als Aupair . Ich möchte noch etwas über Au-pair wissen . Ich heiße Eva . Ich komme aus Indien . Jetzt lerne ich Deutsch in der Akademie Klausenhof . Ich lerne Deutsch , weil ich in Deutschland studieren und arbeiten möchte . Meine Freundin hat mir gesagt , wenn ich eine gute Sprache haben möchte , muss ich 1 Jahr als Aupair arbeiten . Ich weiß nicht , ob es möglich ist ? Ich möchte wissen , ob diese Familie oder Personen genau hilfsbereit sind ? Gibt es die Möglichkeiten , die deutsche Sprache zu lernen ? Wenn ich als Au-pair arbeite , muss ich immer arbeiten oder konnte ich meine Zeit auch für Freizeitaktivitäten benutzen ? Ich glauben , dass ich mit dieser Arbeit nicht nur meine Sprache verbessern konnte , sondern auch die deutsche Kultur und neue fremde Leute kennenlernen konnte . Ich habe noch Fragen , was soll ich machen , wenn ich eine Stelle als Au-pair bekommen möchte ? Soll ich eine Bewerbung schreiben oder muss ich in Ihre Firma kommen ? Ich wäre dankbar , wenn Sie mir eine baldige Antwort geben könnten . Mit freundlichen Grüßen Eva Meier
+
+----------------
+
+Target hypothesis 2: 
+
+Eva Meier Zentralplatz 1 12345 Stadt X Aupairsglobal Bahnhofstr . 101 65185 Wiesbaden 26.4.2011 Ihre Anzeige im Internet vom 24.4.2011 Sehr geehrte Damen und Herren , ich interessiere mich für die Stelle als Au-pair . Ich möchte noch etwas über Au-pairs wissen . Ich heiße Eva . Ich komme aus Indien . Jetzt lerne ich Deutsch in der Akademie Klausenhof . Ich lerne Deutsch , weil ich in Deutschland studieren und arbeiten möchte . Meine Freundin hat mir gesagt , wenn ich gute Sprachkenntnisse haben möchte , muss ich 1 Jahr als Au-pair arbeiten . Ich weiß nicht , ob das möglich ist . Ich möchte wissen , ob diese Familien oder Personen ausreichend hilfsbereit sind . Gibt es die Möglichkeit , die deutsche Sprache zu lernen ? Wenn ich als Au-pair arbeite , muss ich immer arbeiten oder könnte ich meine Zeit auch für Freizeitaktivitäten nutzen ? Ich glaube , dass ich mit dieser Arbeit nicht nur meine Sprache verbessern , sondern auch die deutsche Kultur und neue Leute kennen lernen könnte . Ich habe weitere Fragen . Was soll ich machen , wenn ich eine Stelle als Au-pair bekommen möchte ? Soll ich eine Bewerbung schreiben oder muss ich in Ihre Firma kommen ? Ich wäre dankbar , wenn Sie mir eine baldige Antwort geben könnten . Mit freundlichen Grüßen Eva Meier

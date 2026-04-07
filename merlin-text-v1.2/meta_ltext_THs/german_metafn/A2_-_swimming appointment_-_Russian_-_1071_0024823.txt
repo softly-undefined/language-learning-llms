@@ -1,0 +1,41 @@
+METADATA
+
+General:
+Author ID: 1071_0024823
+Test language: German
+CEFR level of test: A1
+Task : arrange appointment with friend to go swimming together - ID: 1071_120302
+Mother tongue: Russian
+Age: 61
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Liebe Daniela.
+Ich habe morgen einen Freitag und chi möchte mit die ins Schwimbad kommen. Ich werde morgen dich um 9-30 Uhr in der Haltestele warten. Ich nehme Obst und Gemüse Du bringst nur 2 Flasch Wasser.
+Bis Morgen
+Ville grüße
+Michael
+
+----------------
+
+Target hypothesis 1: 
+
+Liebe Daniela . Ich habe morgen einen Freitag und ich möchte mit dir ins Schwimmbad kommen . Ich werde dich morgen um 9:30 Uhr an der Haltestelle erwarten . Ich nehme Obst und Gemüse , du bringst nur 2 Flaschen Wasser . Bis morgen ! Viele Grüße Michael
+
+----------------
+
+Target hypothesis 2: 
+
+Liebe Daniela . Ich habe morgen einen freien Tag und ich möchte mit dir ins Schwimmbad gehen . Ich werde dich morgen um 9:30 Uhr an der Haltestele erwarten . Ich nehme Obst und Gemüse mit , du brauchst nur 2 Flaschen Wasser mitzubringen . Bis Morgen ! Viele Grüße Michael

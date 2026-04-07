@@ -1,0 +1,42 @@
+METADATA
+
+General:
+Author ID: PAR1011008A
+Test language: Czech
+CEFR level of test: A2
+Task : answering on a birthday invitation - ID: A2PS0102_oslava
+Mother tongue: French
+Age: 4049
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: A2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Ahoj Evo! 
+Děkuji za pozvaní! Jsi velmi laskavá. Budu ráda že Ti záse vídím! Budu u tebe s radosti. Ale nevím kde bydlíš? ještě u rodiče? A v kolik hodin mužu přijet. Neříkáš jestli oslavy bude poledne nebo večer. Čekám za odpovědaní.
+A nezapomeň! V lednu To bude muj narozeniny a jsi vítaní. Doufám, že mužes přijet do Prahy!
+Těší mě na tebe! Brzy na shledanou! Měj se co nejlíp!
+Kateřina
+.
+
+----------------
+
+Target hypothesis 1: 
+
+Ahoj Evo ! Děkuji za pozvání ! Jsi velmi laskavá . Budu ráda , že Tě zase uvidím ! Budu u Tebe s radostí . Ale nevím , kde bydlíš . Ještě u rodičů ? A v kolik hodin můžu přijet ? Neříkáš , jestli oslava bude v poledne , nebo večer . Čekám na odpovědání . A nezapomeň ! V lednu budou moje narozeniny a jsi vítaná . Doufám , že můžeš přijet do Prahy ! Těším se na Tebe ! Brzy na shledanou ! Měj se co nejlíp ! Kateřina
+
+----------------
+
+Target hypothesis 2: 
+
+Ahoj Evo ! Děkuji za pozvání ! Jsi velmi laskavá . Budu ráda , že Tě zase uvidím ! Budu u Tebe s radostí . Ale nevím , kde bydlíš . Ještě u rodičů ? A v kolik hodin můžu přijet ? Neříkáš , jestli oslava bude v poledne , nebo večer . Čekám na odpověď . A nezapomeň ! V lednu budou moje narozeniny a jsi vítaná . Doufám , že můžeš přijet do Prahy ! Těším se na Tebe ! Brzy na shledanou ! Měj se co nejlíp ! Kateřina

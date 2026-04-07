@@ -1,0 +1,31 @@
+METADATA
+
+General:
+Author ID: 1071_0024699
+Test language: German
+CEFR level of test: A1
+Task : ask friend for help for finding apartment - ID: 1071_020200
+Mother tongue: Arabic
+Age: 23
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: B1
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Lieber Ingo,                                                  01.03.2012.
+wie geht´s dir und wie geht´s deine Eltern. Ich vermese dich Hast du ein Arbeit gevunden Oder noch nicht?
+Ich muss meine Wohnung um ziehen in Neuburg Weil habe Ich ein Arbeit gefunden und ich bin Glüglich.
+Kannst du bitter mir helfen Weil habe ich Viel Sachen und muss Ich am 01.04.2012 Arbeiten und ich habe vinger Zeit und Soll ich am 15.03.2012 alle meine Sache raus..
+Ich viel Stress
+Ich Vermesse dich, und vielen dank
+Julia

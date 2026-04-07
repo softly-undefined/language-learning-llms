@@ -1,0 +1,45 @@
+METADATA
+
+General:
+Author ID: 1023_0108889
+Test language: German
+CEFR level of test: B2
+Task : Au pair writes letter of complaint to Agency - ID: 1023_100303
+Mother tongue: Russian
+Age: 32
+Gender: male
+
+Rating:
+Overall CEFR rating: B2
+Grammatical accuracy: B2
+Orthography: B2
+Vocabulary range: B2
+Vocabulary control: B2
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: B2
+
+----------------
+
+Learner text: 
+
+Au-pair-Agentur Schultz & Partner
+Regenstr. 101
+90451 Nürnberg
+                                                                    Stadt X den, 01.08.2011.
+                   Beschwerde.
+Seher geherte Damen und Herren.
+als ich habe Ihre Werbeanzeige in der Zeitung gelesen, ich war sehr enttäuscht. Das, was da drin steht mir ist sehr gefalen "Vermittlung und Betreuung, super-guten Service". Ich hab ganz anders erwartet als ich etzt habe. Ich wohne in eine Familie wo ich fühle mich als einen Sklawe, ich habe zu viele Aufgaben und gar keine Recht etwas zu sagen oder zu endern. Ich finde am schlimsten ist das, dass ich kann Ihre "super-guten Service" gar nich erreichen, weder telefonich auch über Internet. Auf meine E-mails die ich schon vor zwei wochen geschrieben habe, bekamm ich bis etzt gar keinen Antwort. Betreuer (Ansprechpartner) geht nicht ans Telefon alles was ich kann ist nur ein Nachricht auf seinen Meilbox hinterlassen. Ich gehe davon aus und schlage Ihnen vor. Entweder bekomme ich eine andere Familie wo ich mich wohl fühelen kann und meine Aufgaben werden verträglich angepast. Die zweite Lösung lautet; dass ich werde drei fach  für die Arbeit Bezahlt bekommen als es geplant wurde. Und wenn nach Ablauf einer Woche immer noch finden wir  kein ein gemeinsamen Problemlösung ich kaufe mir ein tiket nach Heimat und schalte  meinen Anwalt an.
+Mit freundlichen Grußen   
+Michael Winkelmann
+
+----------------
+
+Target hypothesis 1: 
+
+Au-pair-Agentur Schultz & Partner Regenstr . 101 90451 Nürnberg Stadt X den , 01.08.2011 Beschwerde Sehr geherte Damen und Herren , als ich Ihre Werbeanzeige in der Zeitung gelesen habe , war ich sehr enttäuscht . Das , was da drin steht , hat mir sehr gefallen , " Vermittlung und Betreuung , super-guten Service " . Ich habe etwas ganz anders erwartet , als ich jetzt habe . Ich wohne in einer Familie , wo ich mich als einen Sklaven fühle , ich habe zu viele Aufgaben und gar kein Recht , etwas zu sagen oder zu ändern . Ich finde , am schlimsten ist das , dass ich Ihren " super-guten Service " gar nicht erreichen kann , weder telefonisch noch über Internet . Auf meine E-mails , die ich schon vor zwei Wochen geschrieben habe , bekamm ich bis jetzt gar keine Antwort . Der Betreuer ( Ansprechpartner ) geht nicht ans Telefon , alles , was ich kann , ist nur eine Nachricht auf seiner Meilbox hinterlassen . Ich gehe davon aus und schlage Ihnen vor : Entweder bekomme ich eine andere Familie , wo ich mich wohlfühlen kann und meine Aufgaben werden verträglich angepasst . Die zweite Lösung lautet , dass ich dreifach für die Arbeit bezahlt bekomme als es geplant wurde . Und wenn wir nach Ablauf einer Woche immer noch keine gemeinsame Problemlösung finden , kaufe ich mir ein Ticket in die Heimat und schalte meinen Anwalt an . Mit freundlichen Grüßen Michael Winkelmann
+
+----------------
+
+Target hypothesis 2: 
+
+Au-pair-Agentur Schultz & Partner Regenstr . 101 90451 Nürnberg Stadt X den , 01.08.2011 Beschwerde Sehr geehrte Damen und Herren , als ich Ihre Werbeanzeige in der Zeitung gelesen habe , war ich sehr erfreut . Das , was da drin steht , hat mir sehr gefallen , " Vermittlung und Betreuung , super-guter Service " . Ich habe etwas ganz anderes erwartet , als das was ich jetzt habe . Ich wohne in einer Familie , in der ich mich als Sklave fühle . Ich habe zu viele Aufgaben und gar keine Möglichkeit , etwas zu sagen oder zu ändern . Am schlimsten finde ich jedoch das , dass ich Ihren " super-guten Service " gar nicht erreichen kann , weder telefonisch noch über Internet . Auf meine E-mails , die ich schon vor zwei Wochen geschrieben habe , bekam ich bis jetzt gar keine Antwort . Der Betreuer ( Ansprechpartner ) geht nicht ans Telefon . Alles , was ich machen kann , ist eine Nachricht auf seiner Meilbox zu hinterlassen . Ich gehe davon aus und schlage Ihnen vor : Entweder bekomme ich eine andere Familie , in der ich mich wohl fühlen kann und meine Aufgaben werden vertraglich angepasst . Die zweite Lösung lautet , dass ich dreimal so viel für die Arbeit bezahlt bekomme als es geplant war . Und wenn wir nach Ablauf einer Woche immer noch keine gemeinsame Problemlösung finden , kaufe ich mir ein Ticket in die Heimat und schalte meinen Anwalt ein . Mit freundlichen Grußen Michael Winkelmann

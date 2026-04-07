@@ -1,0 +1,32 @@
+METADATA
+
+General:
+Author ID: 1365_0100260
+Test language: Italian
+CEFR level of test: B1
+Task : answer to an wedding invitation - ID: 1365_020300
+Mother tongue: Spanish
+Age: 56
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: C1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Cara Beatrice, caro Stefano, 
+Con grande sorpresa, ho ricevuto oggi vostra partecipazione di matrimonio. Per questo grande passo vi auguro profondamente. Le ringrazio il vostro invito dopo la cerimonia di incontrarsi al ristorante "Da Ciro". 
+Sicomme durante le prossime due settimane sarò in viaggio d'affari in Paese X, non potrò essere alla vostra festa e vi prego di scusarmi. 
+Cominciando una nuova vita insieme, mi posso immaginare, che non avete ancora tutto per la casa. Qual bisogno avete che potrei regalarvi? 
+Lasciate sapermilo! 
+Vi augurio una grande indimenticabile festa. 
+Cordiali saluti 
+         Michele

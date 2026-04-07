@@ -1,0 +1,45 @@
+METADATA
+
+General:
+Author ID: 0612
+Test language: Czech
+CEFR level of test: B1
+Task : answer to the email of Alena - ID: 1_Alena
+Mother tongue: German
+Age: not reported
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Ahoj Aleno, 
+Děkuju za tvůj email. Tenhle rok budu končit studium a budu začinat pracovat na diplomce. Teď planuju dovolenou s přitelkyni. Chceme pojedu v létě do Italíi. 
+Těším se na tvoj návštěvu v Drážďancku. Když přijedu do Drážďanck, přijiďpřijiď k mně. V pátku odpoledne mám čas. Kolík hodin budeš přijet? Budu jet pro ti na nádraži.
+Děkuju za informace o prazdninové kurzy češtiny. Je to zajímavý. Prosím, poslej mně to inzerát. Kolík stojí kurz a kdy přesně začina ho? Jak dlouho trvalý kurz? 
+Doufám, ty máš šťastný v Pirně. Těším se na te. Můžeme jit do kina nebo do divadlo, když jsi tady. Jak v poslední navštevě.
+Mej se hezký. Pozdravi tveho přitela. 
+Zatím ahoj.
+David
+
+
+----------------
+
+Target hypothesis 1: 
+
+Ahoj Aleno , děkuju za tvůj e-mail . Tenhle rok budu končit studium a budu začínat pracovat na diplomce . Teď plánuju dovolenou s přítelkyní . Chceme jet v létě do Itálie . Těším se na tvoji návštěvu v Drážďanech . Když přijedeš do Drážďan , přijď ke mně . V pátek odpoledne mám čas . V kolik hodin přijedeš ? Pojedu pro tebe na nádraží . Děkuju za informace o prázdninových kurzech češtiny . Je to zajímavé . Prosím , pošli mi ten inzerát . Kolik stojí kurz a kdy přesně začíná ? Jak dlouho trvá kurz ? Doufám , že ty se máš šťastně v Pirně . Těším se na tebe . Můžeme jít do kina nebo do divadla , když budeš tady . Jako při poslední návštěvě . Měj se hezky . Pozdravuj svého přítele . Zatím ahoj . David
+
+----------------
+
+Target hypothesis 2: 
+
+Ahoj Aleno , děkuju za tvůj e-mail . Tenhle rok budu končit studium a budu začínat pracovat na diplomce . Teď plánuju dovolenou s přítelkyní . Chceme jet v létě do Itálie . Těším se na tvoji návštěvu v Drážďanech . Až přijedeš do Drážďan , přijď ke mně . V pátek odpoledne mám čas . V kolik hodin přijedeš ? Pojedu pro tebe na nádraží . Děkuju za informace o prázdninových kurzech češtiny . Je to zajímavé . Prosím , pošli mi ten inzerát . Kolik stojí kurz a kdy přesně začíná ? Jak dlouho trvá kurz ? Doufám , že ty se máš šťastně v Pirně . Těším se na tebe . Můžeme jít do kina nebo do divadla , až budeš tady . Jako při poslední návštěvě . Měj se hezky . Pozdravuj svého přítele . Zatím ahoj . David

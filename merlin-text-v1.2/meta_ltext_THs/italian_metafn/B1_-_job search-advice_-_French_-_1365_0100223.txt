@@ -1,0 +1,40 @@
+METADATA
+
+General:
+Author ID: 1365_0100223
+Test language: Italian
+CEFR level of test: B1
+Task : help a friend who is looking for work after school-leaving exam - ID: 1365_040501
+Mother tongue: French
+Age: 36
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: C1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+                                                                                  Città X, 18.06.2011 
+Caro Francesco, 
+Auguri! Sono veramente contento per te. Me ne avevi parlato l'ultima volta che ci siamo incontrati, ma non pensavo di sentirti con una buona notizia così velocemente! Sei bravo!
+Durante questo periodo, per me, la vita era più calma. Non ho avuto vacanze, sono andato a Parigi per la prima volta solo per 3 giorni. Però, ho potuto vedere le principale cose di non mancare. Invece, al lavoro, ho sempre più delle responsabilità, ma il mio stipendio non cambie. Sto guardando per trovare un altro posto di lavoro nello stesso dominio. Ho guardato già tutti giornali queste ultime settimane, ma non c'è niente. Anche per te sto cercando, ma senza fortuna. Invece, mi sembra che sia un nuovo albergo in construzione a dieci minuti a piedi della mia casa. Aspetto di sapere il nome et ti telefonerò per darti le riferenze. Ti consiglio di priparare i tuoi documenti , così le potrai mandare rapidamente. D'accordo? 
+Cordiali saluti.                               Michele 
+
+----------------
+
+Target hypothesis 1: 
+
+Città X , 18.06.2011 Caro Francesco , auguri ! Sono veramente contento per te . Me ne avevi parlato l' ultima volta che ci siamo incontrati , ma non pensavo di sentirti con una buona notizia così velocemente ! Sei bravo ! Durante questo periodo , per me , la vita era più calma . Non ho avuto vacanze , sono andato a Parigi per la prima volta solo per 3 giorni . Però ho potuto vedere le principali cose da non mancare . Invece al lavoro ho sempre più responsabilità , ma il mio stipendio non cambia . Sto guardando per trovare un altro posto di lavoro nello stesso dominio . Ho guardato già tutti i giornali queste ultime settimane , ma non c' è niente . Sto cercando anche per te , ma senza fortuna . Invece mi sembra che ci sia un nuovo albergo in costruzione a dieci minuti a piedi dalla mia casa . Aspetto di sapere il nome e ti telefonerò per darti le referenze . Ti consiglio di preparare i tuoi documenti , così li potrai mandare rapidamente . D' accordo ? Cordiali saluti . Michele
+
+----------------
+
+No target hypothesis 2 available.
+

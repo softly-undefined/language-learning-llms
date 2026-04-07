@@ -1,0 +1,29 @@
+METADATA
+
+General:
+Author ID: 1091_0000066
+Test language: German
+CEFR level of test: A2
+Task : ask friend to take care of pet - ID: 1091_0650102
+Mother tongue: Russian
+Age: 61
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: B1
+Orthography: A2
+Vocabulary range: B1
+Vocabulary control: A2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Hallo Maria,
+Ich bin zwei Tage nicht zu Hause
+Am Samstag ich fahre nach Stadt X
+Können Sie bitte meine Katze füttern.
+Fille Danke.

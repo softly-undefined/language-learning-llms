@@ -1,0 +1,28 @@
+METADATA
+
+General:
+Author ID: 1061_0120271
+Test language: German
+CEFR level of test: B1
+Task : write a letter to a friend (visit) - ID: 1061_130101
+Mother tongue: Hungarian
+Age: 21
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B2
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Liebe Dana,
+Vor allem möchte ich zur bestandenen Prüfung gratulieren. Du hast sicher einen schönen Urlaub in der Turkei. Ich besuche auch meine Verwandten in England. Ich werde am nächsten Wochende in Stadt X fahren. Ich werde zwei Woche dort verbringen. Ich wünsche mir aus Istambul einige Postkarte um die Sehenswürdigkeiten zu sehen. Nach deiner Rückkerh werde ich dich am Wochenende besuchen und ich nehme etwas Geschänk aus Stadt X mit.
+Viele Grüße
+Maria

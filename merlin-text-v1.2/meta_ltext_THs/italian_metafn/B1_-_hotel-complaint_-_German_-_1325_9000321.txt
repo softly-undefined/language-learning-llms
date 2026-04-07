@@ -1,0 +1,43 @@
+METADATA
+
+General:
+Author ID: 1325_9000321
+Test language: Italian
+CEFR level of test: B2
+Task : help someone who has problems with chats - ID: 1325_010300-2
+Mother tongue: German
+Age: 41
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B2
+Orthography: C1
+Vocabulary range: B2
+Vocabulary control: B2
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: B2
+
+----------------
+
+Learner text: 
+
+Caro Giorgio,
+Posso dirti è molto difficile per dare una soluzione su questo problema. Vorrei raccontarti una piccola storia che mi è successa alcuni mesi fa. Ero iscritto con i miei dati su facebook. Al' inizio era un'esperienza molto bella perché ho ricevuto tanti messaggini e notizie e ho incontrato anche vecchi amici dallo studio. Dopo due mesi non mi piaciuta perché quasi ogni giorno  riceva una richiesta per fare amicizia. Naturalmente erano gente di sopratutto. Se avessi saputo come questa portale sviluperà non avrei mai scelto questa possibilità per contattare i miei amici. Ho finito questo brutto sogno con un "piccolo click" su facebook. Ho cancellato il mio account e adesso io spedisco solo  alcune notizie con mio cellulare.
+Se fossi in te non avrei cancellato tutti i contatti nel cellulare. Una possibilità di cambiare il tuo problema potrebbe essere di contattare una spezzialista per il tuo cellulare. Così potrebbe fare un update con una software per raggiungere un "restart" o meglio "reload" dei contatti.  Se questa idea non è possibile di realizzare puoi anche cambiare il tuo numero del telefonino così finisce tutto. 
+Per trovare nuovi amici sarebbe anche una bell idea di participare in una palestra per fare lo sport. 
+Ti auguro buona fortuna! In bocca al lupo.
+Saluti!
+Maria    
+
+----------------
+
+Target hypothesis 1: 
+
+Caro Giorgio , posso dirti che è molto difficile dare una soluzione a questo problema . Vorrei raccontarti una piccola storia che mi è successa alcuni mesi fa . Ero iscritto con i miei dati su facebook . All' inizio era un' esperienza molto bella perché ricevevo tanti messaggini e notizie e ho incontrato anche vecchi amici dello studio . Dopo due mesi non mi è piaciuta perché quasi ogni giorno ricevevo una richiesta per fare amicizia . Naturalmente era soprattutto gente di malaffare . Se avessi saputo come questo portale si sarebbe sviluppato , non avrei mai scelto questa possibilità per contattare i miei amici . Ho finito questo brutto sogno con un " piccolo click " su facebook . Ho cancellato il mio account e adesso io spedisco solo alcune notizie con il mio cellulare . Se fossi in te non avrei cancellato tutti i contatti dal cellulare . Una possibilità di cambiare il tuo problema potrebbe essere contattare una specialista per il tuo cellulare . Così potrebbe fare un update con un software per raggiungere un " restart " o meglio " reload " dei contatti . Se questa idea non è possibile da realizzare puoi anche cambiare il tuo numero di telefonino così finisce tutto . Per trovare nuovi amici sarebbe una bell' idea anche partecipare a una palestra per fare dello sport . Ti auguro buona fortuna ! In bocca al lupo . Saluti ! Maria
+
+----------------
+
+Target hypothesis 2: 
+
+Caro Giorgio , posso dirti che è molto difficile dare una soluzione a questo problema . Vorrei raccontarti una piccola storia che mi è successa alcuni mesi fa . Ero iscritto con i miei dati su facebook . All' inizio era un' esperienza molto bella perché ricevevo tanti messaggini e notizie e ho incontrato anche vecchi amici dello studio . Dopo due mesi non mi è piaciuta più perché quasi ogni giorno ricevevo una richiesta per fare amicizia . Naturalmente era soprattutto gente di malaffare . Se avessi saputo come questo portale si sarebbe sviluppato , non avrei mai scelto questa possibilità per contattare i miei amici . Ho finito questo brutto sogno con un " piccolo click " su facebook . Ho cancellato il mio account e adesso io spedisco solo alcune notizie con il mio cellulare . Se fossi stato in te non avrei cancellato tutti i contatti dal cellulare . Una possibilità di risolvere il tuo problema potrebbe essere contattare una specialista per il tuo cellulare . Così potrebbe fare un update con un software per raggiungere un " restart " o meglio " reload " dei contatti . Se questa idea non è possibile da realizzare puoi anche cambiare il tuo numero di telefonino così finisce tutto . Per trovare nuovi amici sarebbe una bell' idea anche iscriversi a una palestra per fare dello sport . Ti auguro buona fortuna ! In bocca al lupo . Saluti ! Maria

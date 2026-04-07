@@ -1,0 +1,30 @@
+METADATA
+
+General:
+Author ID: 1091_0000223
+Test language: German
+CEFR level of test: A2
+Task : ask friend to take care of pet - ID: 1091_0650102
+Mother tongue: Italian
+Age: 31
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+BETREFF. Hilfe für Waldi
+Liebe Julia!
+wie geht´s dir? Mir geht es sehr gut! Ich habe schöne Pläne für dies Wochenend! Am Freitagabend fahre ich mit meinem Freund nach Stadt X. Wir würden ein paar romantische Tage haben! Ich habe ein Zimmer reserviert aber dort sind die Haustiere verboten. Erinnst du mein schönes Hündchen Waldi? Vielleicht hast du am Freitagnachmittag zeit um es zu abholen! Waldi ist sehr ruhig und freundlich.
+Das würde sehr nett von dir sein!
+Bitte, schreib mir bald! Mit vielen Küssen
+-image-         Katharina! -image-

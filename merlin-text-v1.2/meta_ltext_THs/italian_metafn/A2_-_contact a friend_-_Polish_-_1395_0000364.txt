@@ -1,0 +1,41 @@
+METADATA
+
+General:
+Author ID: 1395_0000364
+Test language: Italian
+CEFR level of test: A2
+Task : contact a friend after a long time - ID: 1395_020300
+Mother tongue: Polish
+Age: 30
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Cara Anna,
+Io sto bene è spero che anche tu stia bene. Sono molto contenta è felice ma ho tanto da fare. Sai che devo lavorare molto. Fra un mese devo andare in Città X per fare un esame importante.
+Purtroppo non posso andare in Italia. Forse tu vieni da me? Ti faccio vedere i posti molto interessanti: le città che mi piacciono.
+Aspetto la tua telefonata.
+Ciao e a presto 
+Maria
+
+----------------
+
+Target hypothesis 1: 
+
+Cara Anna , io sto bene e spero che anche tu stia bene . Sono molto contenta e felice , ma ho tanto da fare . Sai che devo lavorare molto . Fra un mese devo andare a Città X per fare un esame importante . Purtroppo non posso andare in Italia . Forse tu vieni da me ? Ti faccio vedere dei posti molto interessanti : le città che mi piacciono . Aspetto la tua telefonata . Ciao e a presto Maria
+
+----------------
+
+No target hypothesis 2 available.
+

@@ -1,0 +1,39 @@
+METADATA
+
+General:
+Author ID: 1395_0000595
+Test language: Italian
+CEFR level of test: A2
+Task : inform friends about language course - ID: 1395_010300
+Mother tongue: French
+Age: 48
+Gender: female
+
+Rating:
+Overall CEFR rating: A1
+Grammatical accuracy: A1
+Orthography: A1
+Vocabulary range: A2
+Vocabulary control: A1
+Coherence/Cohesion: A1
+Sociolinguistic appropriateness: A1
+
+----------------
+
+Learner text: 
+
+Cari luisa, Carlo.
+Sono a Città X per due mesi per seguo i corso,Imparo l'italiano. Mia insegnante se chiama Maria, e molto gentile. Nel corso siamo 11 personne molto diverse. Quando no c'è lezione leggo e faccio sport con amici. 
+   Ciao 
+                                 Maria
+
+----------------
+
+Target hypothesis 1: 
+
+Cari Luisa e Carlo , sono a Città X per due mesi per seguire un corso : imparo l' italiano . La mia insegnante si chiama Maria ed è molto gentile . Nel corso siamo 11 persone molto diverse . Quando non c' è lezione leggo e faccio sport con gli amici . Ciao Maria
+
+----------------
+
+No target hypothesis 2 available.
+

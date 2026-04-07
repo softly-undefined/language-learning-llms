@@ -1,0 +1,29 @@
+METADATA
+
+General:
+Author ID: 1091_0000017
+Test language: German
+CEFR level of test: A2
+Task : offer a ticket not used to a friend - ID: 1091_0690403
+Mother tongue: Russian
+Age: 57
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B2
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B2
+
+----------------
+
+Learner text: 
+
+Liebe Julia,
+ich wollte am Wochenende nach Köln mit dem Bus eine Reise machen. Ich habe eine Fahrkarte für den Wochenendausflug gekauft. Aber leide kann ich nicht fahren, weil meiner Mutter krank ist. Ich muss zu Hause bleiben. Wieleicht möchtes du die Reise machen? 
+Ruf mich bitte an. 
+Mit freundlichen Grüßen
+Eva

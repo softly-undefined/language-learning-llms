@@ -1,0 +1,29 @@
+METADATA
+
+General:
+Author ID: 1091_0000227
+Test language: German
+CEFR level of test: A2
+Task : ask friend to take care of pet - ID: 1091_0650102
+Mother tongue: not reported
+Age: 15
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A1
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A1
+
+----------------
+
+Learner text: 
+
+                                           Stadt X, 12-03-12
+Liebe Eva,
+                      Ich muss für ein paar Tage nach Nigeria fliegen. Ich habe ein Haustier, eine Katze, und kann ich nicht mit die katze nehmen. Deshalb, brauche ich deine Helfe. Von 15. bis 20. März bin ich nicht zu Hause. Bitte, passt du meine Katze auf. Vielen Dank für deine Helfe!
+Bis bald! 
+Dein Stefan

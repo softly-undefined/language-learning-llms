@@ -1,0 +1,39 @@
+METADATA
+
+General:
+Author ID: 1031_0003035
+Test language: German
+CEFR level of test: C1
+Task : reporting about the housing situation - ID: 1031_050300
+Mother tongue: Russian
+Age: 39
+Gender: female
+
+Rating:
+Overall CEFR rating: B2
+Grammatical accuracy: B2
+Orthography: B2
+Vocabulary range: C1
+Vocabulary control: B2
+Coherence/Cohesion: C1
+Sociolinguistic appropriateness: B2
+
+----------------
+
+Learner text: 
+
+Sehr geehrte zukünftigen Kollegen, ich möchte euech eine Information über den Wohnungsmarkt in mein Stadt mitteilen. Als erste, möchte ich mich vorstellen. Mein Name ist Maria, ich komme aus Ukraine, wohne seit ein Jahr in Stadt X. Ich liebe diese Stadt und lade euech ein hier zu wohnen und arbeiten. Es ist möglich ein Haus zu kaufen und auch ist möglich eine Wohnung zu vermieten. Wenn Sie mich fragen, was besser ist, kann ich auch nicht sofort antworten. Ein Haus zu besitzen gibt es viel Freiheit, da gehört  meistens auch noch klein Gründstück dazu, wo mann richtig genießen kann schöne Wetter beim Grillen z.B. Was ich als Minus bezeichnen kann beim Kauf einen Haus, das ist sicher finanzielle Seite. Ein Haus kostet teuer und alle Reperaturenkosten liegen auf dem Besitzer. Andereseits ist es wenn Wohnung vermietet. Mann zahlt immer wieder die gleiche Summe pro Monat und lebt sorgenfrei auch wenn irgendwas defekt in der Wohnung ist, weil da für ist der Besitzer da um das zu reparieren und vorsorgen. Welche schwierigketien gibt es, wenn man Wohnung vermietet? Es könnte Problemen mit Nachbarn auftreten wegen Lärm oder Unordnung. Die Regel wie man sich benehmen muß stehen in dem Mietvertrag. Wenn die Regeln angehaltet von Vermieter sind, dann gibt es auch kein Problem.
+Sie können es selber entscheiden, ob Sie Haus oder Wohnung vermieten oder kaufen wollen, aber dass die Menschen in mein Stadt sehr herzlich sich, dass kann ich Ihnen versichern.
+Mit freundlichen Grüßen                        Meier Eva
+
+----------------
+
+Target hypothesis 1: 
+
+Sehr geehrte zukünftige Kollegen , ich möchte euch eine Information über den Wohnungsmarkt in meiner Stadt mitteilen . Als Erstes möchte ich mich vorstellen . Mein Name ist Maria , ich komme aus der Ukraine , wohne seit einem Jahr in Stadt X . Ich liebe diese Stadt und lade euch dazu ein , hier zu wohnen und zu arbeiten . Es ist möglich , ein Haus zu kaufen und es ist auch möglich , eine Wohnung zu vermieten . Wenn Sie mich fragen , was besser ist , kann ich auch nicht sofort antworten . Ein Haus zu besitzen , gibt viel Freiheit , da gehört meistens auch noch ein kleines Grundstück dazu , wo man das schöne Wetter beim Grillen z.B. richtig genießen kann . Was ich als Minus bezeichnen kann beim Kauf eines Hauses , das ist sicher die finanzielle Seite . Ein Haus kostet viel und alle Reparaturkosten liegen auf dem Besitzer . Anders ist es , wenn man eine Wohnung vermietet . Man zahlt immer wieder die gleiche Summe pro Monat und lebt sorgenfrei , auch wenn irgendetwas defekt in der Wohnung ist , weil dafür der Besitzer da ist , um das zu reparieren und vorzusorgen . Welche Schwierigkeiten gibt es , wenn man eine Wohnung vermietet ? Es könnten Probleme mit Nachbarn auftreten wegen Lärm oder Unordnung . Die Regeln , wie man sich benehmen muss , stehen in dem Mietvertrag . Wenn die Regeln vom Vermieter eingehaltet werden , dann gibt es auch kein Problem . Sie können es selber entscheiden , ob Sie ein Haus oder eine Wohnung vermieten oder kaufen wollen , aber dass die Menschen in meiner Stadt sehr herzlich sind , das kann ich Ihnen versichern . Mit freundlichen Grüßen Meier Eva
+
+----------------
+
+Target hypothesis 2: 
+
+Sehr geehrte zukünftige Kollegen , ich möchte euch Informationen über den Wohnungsmarkt in meiner Stadt mitteilen . Als Erstes möchte ich mich vorstellen . Mein Name ist Maria , ich komme aus der Ukraine und wohne seit einem Jahr in Stadt X . Ich liebe diese Stadt und lade euch dazu ein , hier zu wohnen und zu arbeiten . Es ist möglich , ein Haus zu kaufen und es ist auch möglich , eine Wohnung zu mieten . Wenn Sie mich fragen , was besser ist , kann ich auch nicht sofort darauf antworten . Ein Haus zu besitzen gibt viel Freiheit , da gehört meistens auch noch ein kleines Grundstück dazu , wo man das schöne Wetter beim Grillen z.B. richtig genießen kann . Was ich beim Kauf eines Hauses als Nachteil bezeichnen kann , das ist sicher die finanzielle Seite . Ein Haus kostet viel und alle Repearaturkosten liegen bei dem Besitzer . Anders ist es , wenn man eine Wohnung mietet . Man zahlt immer wieder die gleiche Summe pro Monat und lebt sorgenfrei , auch wenn irgendetwas defekt in der Wohnung ist , weil der Besitzer dafür da ist , das zu reparieren und instand zu halten . Welche schwierigketien gibt es , wenn man eine Wohnung mietet ? Es könnten Probleme mit Nachbarn auftreten wegen Lärm oder Unordnung . Die Regeln , wie man sich benehmen muss , stehen im Mietvertrag . Wenn die Regeln vom Mieter eingehalten werden , dann gibt es auch kein Problem . Sie können es selber entscheiden , ob Sie ein Haus oder eine Wohnung mieten oder kaufen wollen , aber dass die Menschen in meiner Stadt sehr herzlich sind , das kann ich Ihnen versichern . Mit freundlichen Grüßen Meier Eva

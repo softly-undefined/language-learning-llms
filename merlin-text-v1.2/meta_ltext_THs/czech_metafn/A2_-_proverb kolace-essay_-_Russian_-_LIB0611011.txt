@@ -1,0 +1,37 @@
+METADATA
+
+General:
+Author ID: LIB0611011
+Test language: Czech
+CEFR level of test: B2
+Task : write an essay: No pain no gain - ID: B2PS0202_kolace
+Mother tongue: Russian
+Age: 2029
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Myslim že práce velme douležita věc. Protože jsme studujeme, abychom melí dobru a zajmavu práce. A když maš práce mužeš udelat mě peniza a ztratit na věcí, ktery chceš.Ješte dobře udelat svou  firmu, protože budeš pracovat na sabě, a taky budeš met vetši penize a vetší svoubodu než kdy pracuješ na nejakoho řidiča. Ale tento zpuběh je nebezpeční, mužeš ztratít všechí penízé. S dobrem prace mužne ne bude pro tobě těžke nakupovat svuj byt nebo cely dům nebo udelat rodinu. Jsem chcel bych prácovat jako lékař, myslim že to bude zajmava práce pro mě a taky budu mít dobre péníze a s tim mužu pomahat vsym kamaradem a rodině. Ale práce musit byt zajmava pro človeka, ktery pracuje, protože když dloucho pracuješ na ne oblibené práce, mužiš byt nesšastny. Prace je velka čast života človeka.
+
+----------------
+
+Target hypothesis 1: 
+
+Myslím , že práce je velmi důležitá věc . Protože studujeme , abychom měli dobrou a zajímavou práci . A když máš práci , můžeš udělat peníze a ztratit je za věci , které chceš . Ještě je dobré udělat svou firmu , protože budeš pracovat na sebe a taky budeš mít větší peníze a větší svobodu , než když pracuješ na nějakého řidiče . Ale tento průběh je nebezpečný , můžeš ztratit všechny peníze . S dobrou prací pro tebe možná nebude těžké nakupovat svůj byt nebo celý dům nebo udělat rodinu . Chtěl bych pracovat jako lékař , myslím , že to pro mě bude zajímavá práce a taky budu mít dobré peníze a s tím můžu pomáhat všem kamarádům a rodině . Ale práce musí být zajímavá pro člověka , který pracuje , protože když dlouho pracuješ v neoblíbené práci , můžeš být nešťastný . Práce je velká část života člověka .
+
+----------------
+
+Target hypothesis 2: 
+
+Myslím , že práce je velmi důležitá věc . Protože studujeme , abychom měli dobrou a zajímavou práci . A když máš práci , můžeš vydělat peníze a utratit je za věci , které chceš . Ještě je dobré založit svou firmu , protože budeš pracovat na sebe a taky budeš mít víc peněz a větší svobodu , než když pracuješ na nějakého nadřízeného . Ale tento postup je nebezpečný , můžeš ztratit všechny peníze . S dobrou prací pro tebe možná nebude těžké koupit svůj byt nebo celý dům nebo založit rodinu . Chtěl bych pracovat jako lékař , myslím , že to pro mě bude zajímavá práce a taky budu mít dobré peníze a s tím můžu pomáhat všem kamarádům a rodině . Ale práce musí být zajímavá pro člověka , který pracuje , protože když dlouho pracuješ v neoblíbené práci , můžeš být nešťastný . Práce je velká část života člověka .

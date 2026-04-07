@@ -1,0 +1,47 @@
+METADATA
+
+General:
+Author ID: 0912
+Test language: Czech
+CEFR level of test: B1
+Task : answer to the email of Jana - ID: 2_Jana
+Mother tongue: German
+Age: not reported
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B2
+Vocabulary range: B1
+Vocabulary control: A2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+21. srpna 2009
+Ahoj Jano,
+
+děkuji Ti  mnohokrát za Tvůj  e-mail. Jsem ráda, že ses psala. Mám se dobře. Ale příští týden mam zkoušky z  češtiny.
+Děkuji za pozvání. Rada přijedu do Prahi. Ale teď mám moc práce a zkoušky. Ale 14.3. mám čas a chtěla bych stat celý víkend v Praze a dělat shromáždění měst s tebou a s Petrem.
+A kde je Tvůj byt v Praze? Jaká je Tvoje adresa? Z jaký metro musim jet? A jak se jmenuje zastávka, kde musím vystoupit? A víš snano kolik stojí jízdenka? Musím se zeptat tenhle otazkí, ale nynější doma nemám internet.
+A mám ještě jednu otázku: Co si přeješ k narozeninám? Máš přání? Prosím napiš mi tvůje přaní.
+A máš ještě něco, co můžu přinest?
+Veselim se na velkou party a že můžu mluvit jenom česky, to je doopravdy dobrá možnost. Jinak není nic nového. Všechno v pořadku.
+Těší mě, že pojedeš s Petrem do Itálie! Přeju vám hezkou dovolenou! A čekám na pohled z Říma nebo z Florence!
+Srdečně tě zdravím! Měj se hezky a pozdravuj Petra!
+Sabina
+
+----------------
+
+Target hypothesis 1: 
+
+21. srpna 2009 Ahoj , Jano , děkuji Ti mnohokrát za Tvůj e-mail . Jsem ráda , žes psala . Mám se dobře . Ale příští týden mám zkoušky z češtiny . Děkuji za pozvání . Ráda přijedu do Prahy . Ale teď mám moc práce a zkoušky . Ale 14. 3. mám čas a chtěla bych zůstat celý víkend v Praze a dělat shromáždění města s tebou a s Petrem . A kde je Tvůj byt v Praze ? Jaká je Tvoje adresa ? Jakým metrem musím jet ? A jak se jmenuje zastávka , kde musím vystoupit ? A víš snad , kolik stojí jízdenka ? Musím se zeptat na tyhle otázky , ale nyní doma nemám internet . A mám ještě jednu otázku : Co si přeješ k narozeninám ? Máš přání ? Prosím , napiš mi svoje přání . A máš ještě něco , co můžu přinést ? Těším se na velké party a že můžu mluvit jenom česky , to je doopravdy dobrá možnost . Jinak není nic nového . Všechno v pořádku . Těší mě , že pojedeš s Petrem do Itálie ! Přeju vám hezkou dovolenou ! A čekám na pohled z Říma nebo z Florencie ! Srdečně Tě zdravím ! Měj se hezky a pozdravuj Petra ! Sabina
+
+----------------
+
+No target hypothesis 2 available.
+

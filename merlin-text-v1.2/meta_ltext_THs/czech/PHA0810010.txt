@@ -1,0 +1,38 @@
+METADATA
+
+General:
+Author ID: PHA0810010
+Test language: Czech
+CEFR level of test: B2
+Task : write an essay: Clothes make the man - ID: B2PS0201_saty
+Mother tongue: Russian
+Age: 3039
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B2
+Vocabulary control: B2
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Šaty delají člověka
+Dost často se říká že šaty dělají člověka Není pochyb že způsob oblečení a moda hrají velkou roli v lídské společnosti. A i v afrických kměnech, a i v více pokročílých státech pomáhají šaty lídem ukázat před ostatnímí svoje individualitu, a občas povědět něco navíc o své osobnosti. Pro jední je to také způsob jak se schovat od ostatních. Dase řict, že šaty jsou instrumentem, který pomáha lidem se přizpúsobit k životu mezi ostatnímí lidmi. 
+Můj vlastní názor je takový, že šaty dělají člověka jen do určité míry. Na jednou stranu je to způsob samovyjadření. Ale když za šatama neukrývá se níc, tak se to dost rýchle dá najevo. Až se to objeví, okamžitě člověk přestane působit na ostatní stejně jak před tím. A naopak - dobré srdce, chitrý rozum, šikovné ruce hned přilakají líde. Všichní budou se soustředěni na dobrých lidských vlastnostech člověka. A od té doby vůbec nikomu nebude vadět jeho způsob oblečení. Na závěr chci řict, že ne šaty dělají člověka, a člověk dělá šaty. Líde vždy by měli hledat tu rovnováhu mezi svým vnitřním rozvojem a náplní a tím, jak vypadají ze vnějška.
+
+----------------
+
+Target hypothesis 1: 
+
+Šaty dělají člověka Dost často se říká , že šaty dělají člověka . Není pochyb , že způsob oblečení a móda hrají velkou roli v lidské společnosti . A i v afrických kmenech , i ve více pokročilých státech pomáhají šaty lidem ukázat před ostatními svoji individualitu a občas povědět něco navíc o své osobnosti . Pro jedny je to také způsob , jak se schovat před ostatními . Dá se říct , že šaty jsou instrumentem , který pomáhá lidem se přizpůsobit životu mezi ostatními lidmi . Můj vlastní názor je takový , že šaty dělají člověka jen do určité míry . Na jednu stranu je to způsob samovyjádření . Ale když se za šaty neukrývá nic , tak se to dost rychle dá najevo . Až se to objeví , okamžitě člověk přestane působit na ostatní stejně jak před tím . A naopak - dobré srdce , chytrý rozum , šikovné ruce hned přilákají lidi . Všichni budou soustředěni na dobré lidské vlastnosti člověka . A od té doby vůbec nikomu nebude vadit jeho způsob oblečení . Na závěr chci říct , že ne šaty dělají člověka , ale člověk dělá šaty . Lidé by vždy měli hledat tu rovnováhu mezi svým vnitřním rozvojem a náplní a tím , jak vypadají ze vnějška .
+
+----------------
+
+No target hypothesis 2 available.
+

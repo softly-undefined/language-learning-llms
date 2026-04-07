@@ -1,0 +1,48 @@
+METADATA
+
+General:
+Author ID: 1365_0100029
+Test language: Italian
+CEFR level of test: B1
+Task : answer to an wedding invitation - ID: 1365_020300
+Mother tongue: French
+Age: 26
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Rossi Maria
+8 Strada Maggiore
+12345 Città X
+Città X 15, marzo 2010
+Napoli via osma, 2
+cara Beatrice,
+Ti escrivo per dire te che io viene a tu matrimonio con molto piacere. é tenti augurie per il matrimonio.
+Io sono contente per te.
+Io vuolé te ringraziando dell'invito.
+Io vuolé sapere che regalo posso ti chiedendo.
+si ho bissognia qual cosa di speciale chiamo per dire mi OK fatchiamo casi.
+A presto mille baci
+Maria
+
+----------------
+
+Target hypothesis 1: 
+
+Rossi Maria 8 Strada Maggiore 12345 Città X Città X 15 marzo 2010 Napoli via Osma , 2 Cara Beatrice , ti scrivo per dirti che io vengo al tuo matrimonio con molto piacere . E tanti auguri per il matrimonio . Io sono contenta per te . Io voglio ringraziarti dell' invito . Io voglio sapere che regalo ti posso chiedere . Se ho bisogno di qualcosa di speciale chiamo per dirmi OK facciamo così . A presto , mille baci Maria
+
+----------------
+
+No target hypothesis 2 available.
+

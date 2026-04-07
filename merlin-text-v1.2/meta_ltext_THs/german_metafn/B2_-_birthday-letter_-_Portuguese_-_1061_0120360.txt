@@ -1,0 +1,40 @@
+METADATA
+
+General:
+Author ID: 1061_0120360
+Test language: German
+CEFR level of test: B1
+Task : write a letter to a friend (birthday) - ID: 1061_170900
+Mother tongue: Portuguese
+Age: 19
+Gender: female
+
+Rating:
+Overall CEFR rating: B2
+Grammatical accuracy: B2
+Orthography: B2
+Vocabulary range: B2
+Vocabulary control: B2
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: B2
+
+----------------
+
+Learner text: 
+
+Liebe Silke,                                                28/02/12
+schön dass du mir wieder geschrieben hast! Ich habe lange nicht mehr von dir gehört. Ich finde toll dass jetzt dein Sohn eine Katze hat. Er hat mir schon immer gesagt dass er ein Haustiere haben möchte. Ich personlich einfach liebe Tiere, wir haben immer noch unseren Hund und meine Mutter möchte noch einen haben! Obwohl dass ich Hunde mag, ich weiß nicht ob es eine gute idee ist, weil Tiere zu viel Arbeit geben, und du weißt, unsere Wohnung ist ein bisschen klein. Mein Vater hat wie immer keine Zeit, und ich zurzeit besuche nur die Schule, aber bin sehr aufgeregt wegen mein Geburtstag! Du hast mich gefragt was ich von Geburtstag wünsche. Das ist ja eine schlimme Frage! Ich möchte einfach dass du und deine Familie kommen. Wir haben uns ja lange nicht mehr gesehen. Ich würde mich auch freuen wenn ich dich besuchen kann, ich nehme die Einladung sehr gerne! Ich warte auf euch in meinem Geburtstagsparty! Dann können wir endlich zusammen feiern!
+Liebe Grüße
+Julia
+
+----------------
+
+Target hypothesis 1: 
+
+Liebe Silke , 28/02/12 schön , dass du mir wieder geschrieben hast ! Ich habe lange nichts mehr von dir gehört . Ich finde toll , dass dein Sohn jetzt eine Katze hat . Er hat mir schon immer gesagt , dass er ein Haustier haben möchte . Ich personlich liebe Tiere einfach , wir haben immer noch unseren Hund und meine Mutter möchte noch einen haben ! Obwohl ich Hunde mag , weiß ich nicht , ob es eine gute Idee ist , weil Tiere zu viel Arbeit geben , und du weißt , unsere Wohnung ist ein bisschen klein . Mein Vater hat wie immer keine Zeit , und zurzeit besuche ich nur die Schule , aber bin sehr aufgeregt wegen meines Geburtstags ! Du hast mich gefragt , was ich mir zum Geburtstag wünsche . Das ist ja eine schlimme Frage ! Ich möchte einfach , dass du und deine Familie kommen . Wir haben uns ja lange nicht mehr gesehen . Ich würde mich auch freuen , wenn ich dich besuchen kann , ich nehme die Einladung sehr gerne ! Ich warte auf euch bei meiner Geburtstagsparty ! Dann können wir endlich zusammen feiern ! Liebe Grüße Julia
+
+----------------
+
+Target hypothesis 2: 
+
+28/02/12 Liebe Silke , schön , dass du mir wieder geschrieben hast ! Ich habe lange nichts mehr von dir gehört . Ich finde es toll , dass dein Sohn jetzt eine Katze hat . Er hat mir schon immer gesagt , dass er ein Haustier haben möchte . Ich personlich liebe Tiere einfach , wir haben immer noch unseren Hund und meine Mutter möchte noch einen haben ! Obwohl ich Hunde mag , weiß ich nicht , ob das eine gute Idee ist , weil Tiere sehr viel Arbeit machen , und du weißt , unsere Wohnung ist ein bisschen klein . Mein Vater hat wie immer keine Zeit , und zurzeit besuche ich nur die Schule . Aber ich bin wegen meines Geburtstages sehr aufgeregt ! Du hast mich gefragt , was ich mir zum Geburtstag wünsche . Das ist ja eine schlimme Frage ! Ich möchte einfach , dass du und deine Familie vorbeikommt . Wir haben uns ja lange nicht mehr gesehen . Ich würde mich auch freuen , wenn ich dich besuchen kann , ich nehme die Einladung sehr gerne an ! Ich erwarte euch auf meiner Geburtstagsparty ! Dann können wir endlich zusammen feiern ! Liebe Grüße Julia

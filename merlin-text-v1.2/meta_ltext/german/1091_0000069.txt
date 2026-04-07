@@ -1,0 +1,29 @@
+METADATA
+
+General:
+Author ID: 1091_0000069
+Test language: German
+CEFR level of test: A2
+Task : ask friend to take care of pet - ID: 1091_0650102
+Mother tongue: not reported
+Age: 48
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: B1
+Orthography: B2
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Hallo Frau Müller                                         Stadt X 06-01-2012
+Ich fliege Am Montag un 7 uhr nach Moskau Können Sie bitte meine Katze füttern?
+Ich werfe meinen Schlüssel in dar Briefkasten.
+Am Freitag bin ich Zurück
+Vielen Dak im Voraus für Ihre Hilfe

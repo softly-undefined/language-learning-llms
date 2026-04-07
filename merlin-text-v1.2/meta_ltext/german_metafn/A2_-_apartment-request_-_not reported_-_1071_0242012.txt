@@ -1,0 +1,30 @@
+METADATA
+
+General:
+Author ID: 1071_0242012
+Test language: German
+CEFR level of test: A1
+Task : ask friend for help for finding apartment - ID: 1071_020200
+Mother tongue: not reported
+Age: 37
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Lieber Ingo,
+wie geht es Dir? mir geht es gut. Ich habe eine Arbeit in Neuburg gefunden. Ich brauche eine Wohnung in Neuburg. Ich möchte Dir helfen. Kannst du eine Wohnung im Internet suchen? Die Wohnung hat 3 Zimmer, 1 Küchezimmer, 1 Badzimmer und 1 Schlafzimmer. Die Wohnung ist klein, 45 m² und sie ist Neubauwohnung. Kann du mir information, Pries schicken? Ich möchte zum 1. Mai einziehen.
+Antworte bitte bald.
+Liebe Grüße
+Deine Freundin
+Maria Müller

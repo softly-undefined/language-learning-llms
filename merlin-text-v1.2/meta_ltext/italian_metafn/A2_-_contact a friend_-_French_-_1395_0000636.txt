@@ -1,0 +1,33 @@
+METADATA
+
+General:
+Author ID: 1395_0000636
+Test language: Italian
+CEFR level of test: A2
+Task : contact a friend after a long time - ID: 1395_020300
+Mother tongue: French
+Age: 55
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A1
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A1
+Coherence/Cohesion: A1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+                                                        Città X, il 4 Marzo 2010 
+             Caro Pietro, 
+Come stai? 
+Oggi giorni vado al lavoro con il sorriso perché sono tornati di vacanza. Sono andato in Maroco una settimana fa. Ma il lavoro è dificile perché c'è molte gente.
+Mia famiglia va bene. 
+Penso ti ricontrare per Natale. 
+              Molti baci 
+             la tua amica 
+                                   Maria

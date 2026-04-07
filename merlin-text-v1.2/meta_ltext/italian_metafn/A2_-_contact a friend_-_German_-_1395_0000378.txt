@@ -1,0 +1,31 @@
+METADATA
+
+General:
+Author ID: 1395_0000378
+Test language: Italian
+CEFR level of test: A2
+Task : contact a friend after a long time - ID: 1395_020300
+Mother tongue: German
+Age: 27
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Ciao Sabrina
+come stai? Io sto bene!
+Lavoro in una ditta a Città X e lì, mi piace molto lavoro è interessante e io vado d'accordo con i miei colleghi!
+L'estate scorso,sono andata a Città X, per fare vacanze nel mare, era stupendo!
+Spero che ci vediamo l'anno prossimo in Svizzera!
+Tanti baci
+Maria

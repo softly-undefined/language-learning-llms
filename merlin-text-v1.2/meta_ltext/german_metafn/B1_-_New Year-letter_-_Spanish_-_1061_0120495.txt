@@ -1,0 +1,33 @@
+METADATA
+
+General:
+Author ID: 1061_0120495
+Test language: German
+CEFR level of test: B1
+Task : write a letter for New Year to a friend - ID: 1061_110101
+Mother tongue: Spanish
+Age: 27
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B2
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Lieber Michael,
+wie geht es dir? Ich habe lange nichts von dir gehört.
+Die Silvesternacht habe in Deutschland mit. meinen Freunde gefeiert. Wir haben in meiner Wohnung getroffen, und wir haben gemeinsam gegessen und getanz.
+Ich habe nur eine Wünsche für diesem Jahr. Ich möchte einen gute Arbeit in Deutschland finden, auch möchte ich mein Deutsch berbessern.
+Ich habe Neues über mein Arbeit. Ich habe einen neue Arbeit gefunden. Jetz arbeite ich in der Universität. Ich habe eine kurze Vertrag. Ich arbeite nur von 8 bis 12:00 Uhr, so am abends kann ich mehr Deutsch lernen.
+Ich glaube, dass nächste Woche wir Treffen könnten. Hast du Zeit am Wochenende? Ich möchte dir alles meine Neues erzählen!
+Ich warte auf deine Antwort!
+Liebe Grüßes
+Eva

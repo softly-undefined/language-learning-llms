@@ -1,0 +1,40 @@
+METADATA
+
+General:
+Author ID: 0720
+Test language: Czech
+CEFR level of test: B1
+Task : answer to the email of Alena - ID: 1_Alena
+Mother tongue: German
+Age: not reported
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: A2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Ahoj Aleno,
+děkuji Ti za Tvůj dlohý dopis! Mám moc černe svědomí, že jsem Ti už dlouho nepsala. Je mí líto! Napsat moje studijní prací do srpna, potom  začina diplomoví prací. Na diplomce čhtela bych pracovat v Stockholme X a porodit moc dětí. Dovolená plánuju mezi studijní prací a diplomoví prací. Čhtela bych cestovat na Baltske moře jeden tyden. Těsim se, že tě opět uvidím v Drážďanech! Máš již neco odpoledne? Ráda bych  pozvat tebe domů. Kdy přijižděš? Ráda bych přijíždět tebe na nádraží. Prázdninové kurzy češtiny? Výborný! Kolík stojí kurz?  Kdy zacina a konči kurz? Kde konaje se? Prosím posílaješ inzerát! Děkuji pěkně!
+Pro dnešek končím. Zatím ahoj!
+Dana
+
+----------------
+
+Target hypothesis 1: 
+
+Ahoj Aleno , děkuji Ti za Tvůj dlouhý dopis ! Mám moc černé svědomí , že jsem Ti už dlouho nepsala . Je mi líto ! Napíšu svoji studijní práci do srpna , potom začnu s diplomovou prací . Na diplomce bych chtěla pracovat ve Stockholmu a porodit bych chtěla moc dětí . Dovolenou plánuju mezi studijní prací a diplomovou prací . Chtěla bych cestovat k Baltskému moři jeden týden . Těším se , že Tě opět uvidím v Drážďanech ! Máš již něco odpoledne ? Ráda bych Tě pozvala domů . Kdy přijedeš ? Ráda bych pro Tebe přijela na nádraží . Prázdninové kurzy češtiny ? Výborné ! Kolik stojí kurz ? Kdy začíná a končí kurz ? Kde se koná ? Prosím pošli inzerát ! Děkuji pěkně ! Pro dnešek končím . Zatím ahoj ! Dana
+
+----------------
+
+Target hypothesis 2: 
+
+Ahoj Aleno , děkuji Ti za Tvůj dlouhý dopis ! Mám moc černé svědomí , že jsem Ti už dlouho nepsala . Je mi líto ! Napíšu svoji studijní práci do srpna , potom začnu s diplomovou prací . Na diplomce bych chtěla pracovat ve Stockholmu a porodit bych chtěla moc dětí . Dovolenou plánuju mezi studijní prací a diplomovou prací . Chtěla bych cestovat k Baltskému moři jeden týden . Těším se , že Tě opět uvidím v Drážďanech ! Máš již něco odpoledne ? Ráda bych Tě pozvala domů . Kdy přijedeš ? Ráda bych pro Tebe přijela na nádraží . Prázdninové kurzy češtiny ? Výborné ! Kolik stojí kurz ? Kdy začíná a končí kurz ? Kde se koná ? Prosím pošli inzerát ! Děkuji pěkně ! Pro dnešek končím . Zatím ahoj ! Dana

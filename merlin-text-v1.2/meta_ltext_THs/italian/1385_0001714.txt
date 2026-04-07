@@ -1,0 +1,41 @@
+METADATA
+
+General:
+Author ID: 1385_0001714
+Test language: Italian
+CEFR level of test: A1
+Task : reschedule an appointment - ID: 1385_020100
+Mother tongue: German
+Age: 58
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: A1
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A1
+
+----------------
+
+Learner text: 
+
+Caro Daniele, 
+Come stai? Io sto bene. 
+Ma mi dispiace, non posso venire giovedi pomeriggio. Non ho tempo per incontrarti perchè devo lavarare. Vogliamo andare il sabato  sera in un ristorante tailandese? 
+Spero che tu hai tempo!
+Cari tanti saluti 
+ Maria
+
+----------------
+
+Target hypothesis 1: 
+
+Caro Daniele , come stai ? Io sto bene . Ma mi dispiace , non posso venire giovedì pomeriggio . Non ho tempo per incontrarti perché devo lavorare . Vogliamo andare sabato sera in un ristorante tailandese ? Spero che tu abbia tempo ! Tanti cari saluti Maria
+
+----------------
+
+No target hypothesis 2 available.
+

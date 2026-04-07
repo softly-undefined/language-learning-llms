@@ -1,0 +1,44 @@
+METADATA
+
+General:
+Author ID: 1365_0100288
+Test language: Italian
+CEFR level of test: B1
+Task : answer to an wedding invitation - ID: 1365_020300
+Mother tongue: German
+Age: 60
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: C1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Cara Beatrice, Caro Stefano 
+Ho ricevuto vostro invitatione per la vostra festa di matrimonio. 
+Tanti auguri per te e per tua moglie anche della parte della mia famiglia. 
+Mi piace tanto che ho ricevuto un invitatione per la grande festa. È anche una possibilita di vedere vecchi amici.
+Con un grande lusso particpò alla festa. 
+Mah ho una domanda vorrei sapere cosa posso regalare per il matrimonio. 
+ 
+Tanti saluti e ancora una volta grazie mille. 
+            Michele  
+
+----------------
+
+Target hypothesis 1: 
+
+Cara Beatrice , caro Stefano , ho ricevuto il vostro invito per la vostra festa di matrimonio . Tanti auguri per te e per tua moglie anche da parte della mia famiglia . Mi piace tanto che ho ricevuto un invito per la grande festa . È anche una possibilità di vedere vecchi amici . Con un grande lusso partecipo alla festa . Ma ho una domanda : vorrei sapere cosa posso regalare per il matrimonio . Tanti saluti e ancora una volta grazie mille . Michele
+
+----------------
+
+No target hypothesis 2 available.
+

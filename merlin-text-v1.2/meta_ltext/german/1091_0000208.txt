@@ -1,0 +1,36 @@
+METADATA
+
+General:
+Author ID: 1091_0000208
+Test language: German
+CEFR level of test: A2
+Task : letter to housing office - ID: 1091_0610301
+Mother tongue: not reported
+Age: 31
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: B1
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+                                           Stadt X 9-3-2012
+Stadt Y radum shau 
+Stadt Y, Fluss 
+
+Eva Maria
+Stadt Z 
+ 
+Neue wohnung
+Seehr geehrte Damen und Herren,
+Ich möchte eine neue wohnung in Stadt Y . Ich möchte mit meinen Familie ziehen. Deshalb möchte ich eine Große Wohnung. Ich möchte gerne in der wohnung 6 Zimmer, EBK und Badzimmer. Ich möchte gerne einen Balkon in der wohnung. Wir haben ein Auto. Deshalb möchte ich eine Garage. Jetzt wohnen wir in Stadt Z  aber nästern Monat müssen wir nach Stadt Y  ziehen Ich möchte auf eine baldige Antwort
+Mit freundlich Grüße 
+Eva Maria

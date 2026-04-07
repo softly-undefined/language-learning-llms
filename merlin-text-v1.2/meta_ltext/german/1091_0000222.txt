@@ -1,0 +1,29 @@
+METADATA
+
+General:
+Author ID: 1091_0000222
+Test language: German
+CEFR level of test: A2
+Task : ask friend to take care of pet - ID: 1091_0650102
+Mother tongue: not reported
+Age: 30
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+                                Stadt X den.12 märz 2012
+Liebe Maria,
+             wie gehts dir? Ich hoffe du gehts ganz gut. Ich habe eine frage, bist du frei am kommen den montag? Ich wünche ein besonderes urlaub in der Strand machen. Aber Ich habe ein lieber Hund. Ich muss Ihen nicht mitnehmen. Darum möchte ich deine hilfe. Ich fare am 25. märz um 17 Uhr nach Köln. Ich wurde ein Paar tage im Köln verbringen. und Ich bin zürck am montag.
+Alles Liebe,
+deine Katharina

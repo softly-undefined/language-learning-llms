@@ -1,0 +1,43 @@
+METADATA
+
+General:
+Author ID: 1395_0000469
+Test language: Italian
+CEFR level of test: A2
+Task : inform friends about language course - ID: 1395_010300
+Mother tongue: German
+Age: 42
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Cari cari amici!
+Io sono a Città X per tre settimane, da dove io faccio un corso di lingua italiana!
+Siamo 8 Persone al corso. 5 Ragazze e 3 Ragazzi.
+La nostra insegnante si chiama Maria e lei è molto gentile.
+In tempo libero io sono in giro alla città per visitare diversi Musei.
+Tanti Salutie a presto
+Michele
+
+----------------
+
+Target hypothesis 1: 
+
+Cari cari amici ! Io sono a Città X per tre settimane , dove io faccio un corso di lingua italiana ! Siamo 8 persone al corso : 5 ragazze e 3 ragazzi . La nostra insegnante si chiama Maria e lei è molto gentile . Nel tempo libero io sono in giro in città per visitare diversi Musei . Tanti saluti e a presto Michele
+
+----------------
+
+Target hypothesis 2: 
+
+Cari cari amici ! Io sono a Città X per tre settimane , dove io faccio un corso di lingua italiana ! Siamo 8 persone al corso : 5 ragazze e 3 ragazzi . La nostra insegnante si chiama Maria e lei è molto gentile . Nel tempo libero io sono in giro in città per visitare diversi musei . Tanti saluti e a presto Michele

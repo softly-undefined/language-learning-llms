@@ -1,0 +1,39 @@
+METADATA
+
+General:
+Author ID: LIB0611004A
+Test language: Czech
+CEFR level of test: A2
+Task : answering on a birthday invitation - ID: A2PS0102_oslava
+Mother tongue: Other
+Age: 3039
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B2
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Milá Evo! 
+Včera jsi pozvala mě na oslavu svých narozenin. Děkuju na to! Moc se na to těším!  Ale chci zeptat, kde budeš oslavovat narozeniny? V kavárně nebo doma? V kolik hodin bude to začíná? A kdo ještě přijde k tobě?
+Tvoje kamarádka
+ Kateřina
+
+----------------
+
+Target hypothesis 1: 
+
+Milá Evo ! Včera jsi mě pozvala na oslavu svých narozenin . Děkuju ti za to ! Moc se na to těším ! Ale chci se zeptat , kde budeš oslavovat narozeniny ? V kavárně nebo doma ? V kolik hodin to začne ? A kdo ještě k tobě přijde ? Tvoje kamarádka Kateřina
+
+----------------
+
+No target hypothesis 2 available.
+

@@ -1,0 +1,25 @@
+METADATA
+
+General:
+Author ID: PHA0210001
+Test language: Czech
+CEFR level of test: A2
+Task : describe a photo: woman sitting at the window - ID: A2PS0200_zena
+Mother tongue: Russian
+Age: 2029
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Na obrázku vidím nějakou ženu, která sedí a divá v okno. Žena je Češka a jmenuje se Kateřina Svobodová. Je v mistnosti a odpočivá. Kateřina se narodila v Olomouce, ale teď bydlí v Praze. Kateřina je hezká a asi ji 35 let. Vystudovala sociologie a filosofie a teď pracuje na univerzitě Karlově. Je vdaná, má manžela Petra a dceru Annu 7. let. V tento moment Kateřina myslí co bude nakupovat k narozeninam sve kamaradky. Kateřina má ráda knihy a libi se ji detektivní povidky. Na procházku ráda chodí do parku. Nemá psa, ale má kočku Angelu.

@@ -1,0 +1,44 @@
+METADATA
+
+General:
+Author ID: 0630
+Test language: Czech
+CEFR level of test: B1
+Task : answer to the email of Alena - ID: 1_Alena
+Mother tongue: German
+Age: not reported
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A1
+
+----------------
+
+Learner text: 
+
+Ahoj Mileno!
+Dekuji za tvoj email. Těší se mi. Mám dobře a nemam čas. V srpne budu na moře o dovolene. Protože nemam čas  13. srpna. srpna a nepůjedu na grilovací party. A potom na 27.8.. 8. půjedu o svatbě. Co si přejete? 
+Mám čas ve stredu. Sedjeme se ve stredu na kavu v menze v kavane. Teši se mi. Mám čas na v 13.00 hodin. Maš čas? Nema pišeš. 
+Hledám dobrou gramaticu ceskeho jasyku. Znaš jednou a mužeš koupit? Platim se  kdyš sedjeme. 
+Jak se mate? Maš dobře? Tesi se mi na tebe. 
+Na konci  vsechno dobře. 
+Zatim Ahoj 
+Blažena
+
+----------------
+
+Target hypothesis 1: 
+
+Ahoj Mileno ! Děkuji za tvůj e-mail . Těší mě . Mám dobře a nemám čas . V srpnu budu u moře o dovolené . Protože nemám čas 13. srpna nepojedu na grilovací party . A potom 27.8. pojedu na svatbu . Co si přejete ? Mám čas ve středu . Sejdeme se ve středu na kávu v menze v kavárně . Těším se . Mám čas v 13.00 hodin . Máš čas ? Nemá píšeš . Hledám dobrou gramatiku českého jazyka . Znáš jednu a můžeš koupit ? Zaplatím se sejdeme . Jak se máte ? Máš dobře ? Těším se na tebe . Na konci všechno dobře . Zatím ahoj Blažena
+
+----------------
+
+Target hypothesis 2: 
+
+Ahoj Mileno ! Děkuji za tvůj e-mail . Těší mě . Mám se dobře a nemám čas . V srpnu budu u moře na dovolené . Protože nemám čas 13. srpna nepojedu na grilovací party . A potom 27.8. pojedu na svatbu . Co si přejete ? Mám čas ve středu . Sejdeme se ve středu na kávu v menze v kavárně . Těším se . Mám čas v 13.00 hodin . Máš čas ? Nemá píšeš . Hledám dobrou gramatiku českého jazyka . Znáš nějakou a můžeš mi ji koupit ? Zaplatím Ti ji , až se sejdeme . Jak se máte ? Máš se dobře ? Těším se na tebe . Na konci všechno dobře . Zatím ahoj Blažena

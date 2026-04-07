@@ -1,0 +1,29 @@
+METADATA
+
+General:
+Author ID: 1071_0024761
+Test language: German
+CEFR level of test: A1
+Task : ask friend for help for finding apartment - ID: 1071_020200
+Mother tongue: Polish
+Age: 37
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Hallo Ingo.
+Ich habe neue Arbeit in Neuburg. Ich brauche deine Hilfe. Ich suche für misch kleine Wohnung in Neuburg. Ich will einer Wohnung mit ein Zimmer, Küche und Toilete bis 40 m² aber nich zu teurer. Bis 300 € warm. Ich rufe an spöter.
+Vielen Dank!
+Mit freundlichen Grußen.
+Tobias

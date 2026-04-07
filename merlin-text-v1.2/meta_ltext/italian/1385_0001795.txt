@@ -1,0 +1,28 @@
+METADATA
+
+General:
+Author ID: 1385_0001795
+Test language: Italian
+CEFR level of test: A1
+Task : help a friend who is looking for work - ID: 1385_040101
+Mother tongue: German
+Age: 30
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: A1
+Vocabulary control: A1
+Coherence/Cohesion: A1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Ciao Silvio, come stai? 
+Puoi dirmi dove tu lavori adesso? Vorrei sapere questo tipo di lavoro tu vuoi fare? A questa data tu vuoi iniziare un nuovo lavoro? 
+ Tanti saluti 
+ Michele

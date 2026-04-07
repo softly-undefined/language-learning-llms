@@ -1,0 +1,31 @@
+METADATA
+
+General:
+Author ID: 1061_0120375
+Test language: German
+CEFR level of test: B1
+Task : write a letter to a friend (birthday) - ID: 1061_170900
+Mother tongue: Spanish
+Age: 37
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Lieber Silke,
+Ich froeue mich du und deine Fannilia sind gut, und deine Kinders sind gesud, ich finde eine gute ide von Max eine Katze huben, und Ana im Kindergarde anfangen ist sehr schwirrig, kümmerst, arbeiten serr Viel ist überal,
+Danke hast du gedacht bei meine Guburtag, duch habe ich eine wüche mit deine familliu Feiern. meine Gebustug.
+Leider kann ich nicht zu dir kummem in disses Jahr. zu besuchen, 
+Ich wüche. dir und deine Famillia alles gute.
+Viele Gruße.
+Tobias

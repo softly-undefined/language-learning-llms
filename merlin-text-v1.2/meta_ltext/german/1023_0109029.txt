@@ -1,0 +1,34 @@
+METADATA
+
+General:
+Author ID: 1023_0109029
+Test language: German
+CEFR level of test: B2
+Task : Au pair writes letter of complaint to Agency - ID: 1023_100303
+Mother tongue: other
+Age: 52
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: A2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Au-pair-Agentur Schultz & Partner
+Regenstr. 101
+90451 Nürnberg
+Sehr geherten Damen und Heren
+Seit drei monat habe ich bei einer Gastfamilie in Deutschland verbracht. Meine Situation sind sehr schwer. Sie sind meine Betreuung, bitte rufen Sie mich gleich, dass wie eine solution zusammen gefund. Gastfamilie ist sehr nette, aber ich habe keine Zeit zu Lehren, odre für meine freizeit.
+Bitte: Ich warten für Ihren antwort.
+Mit freundlishe Grüße!
+Frau Maria Winkelmann
+          Bahnhofsstraße 12-14
+12345 Stadt X Deutschland

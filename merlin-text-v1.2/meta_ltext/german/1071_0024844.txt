@@ -1,0 +1,31 @@
+METADATA
+
+General:
+Author ID: 1071_0024844
+Test language: German
+CEFR level of test: A1
+Task : congratulate to birth of child - ID: 1071_030101
+Mother tongue: Arabic
+Age: 38
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Hallo Jens
+Ich Freue Mich Für deine gut Nachricht. Du bist jets ein Vater. Glückwünsche.
+Wie gehts der Mutter und des Babys?
+Ich habe gehort dein Frau jets zu Hause. Sie hat zwei Tage im KrankenHaus geblieben. Ich hofe alls gut. Wie Heiß des Babys?
+Ich komme für besauch am Samstag Abend
+Viele Gruß
+deine Eva

@@ -1,0 +1,37 @@
+METADATA
+
+General:
+Author ID: PHA0411039
+Test language: Czech
+CEFR level of test: B2
+Task : write an essay: A friend in need is a friend indeed - ID: B2PS0202_pritel
+Mother tongue: Polish
+Age: 3039
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B2
+Vocabulary control: B2
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+V NOUZI POZNÁŠ PŘÍTELE
+Vsichni znají přísloví „V nouzípoznáš přítele". Je to stará právda, kterou, myslím skoro každý „zažíl" na své kuži. Kdy všechno je v pořádku lidé mají kolem sebe „přátele", kteří velmí často řikají jak nás mají rádi. Bohužel slova nic nestojí i kdy doopravdy budeme v nouzi může se stát, že níkdo tam pro nás nebude, níkdo nezvedne telefon, níkdo neusliší klepání na dveře, . Je to velíce smutná věc, kdy člověk žíje v přesvědčení, že „prítel" tam pro něho je,  a všechno  dopadne jínak, a zůstava sam se svými problémy. V takové situaci je velmí těžké pořád  věřit v přátelstvi a někdy í věřit lidem. Na štěstí (doufám!) je to výjimečna sitauce, a každy má někoho na kim se može spolechnout. Občas aní si to neuvědomuje Možná myslí, že nemá přátel, a když už v nouzi bude, někdo s kím vůbec nepočítal bude ochotný mu pomoct (a tak může začit krásné přátelství) Myslím, že pomoc lídem je to velmi důležitá věc, je nutné být otevřeným na problémy jiných iidí (občas je nutné dobře poslouchat, protože někteří lidé nerádí  vůbec mluví o tím co jích trápi). A když už chceme být pro líde v prvním řade -unreadable- buď-unreadable-me pro naši přátele - tak aby nikdy nikdo neřekl, že „v nouzi  bys měl poznát přítele, ale nikde tam nebyl...
+
+----------------
+
+Target hypothesis 1: 
+
+V NOUZI POZNÁŠ PŘÍTELE Všichni znají přísloví " V nouzi poznáš přítele " . Je to stará pravda , kterou , myslím , skoro každý " zažil " na svou kůži . Když je všechno v pořádku , lidé mají kolem sebe " přátele " , kteří velmi často říkají , jak nás mají rádi . Bohužel slova nic nestojí , a když doopravdy budeme v nouzi , může se stát , že nikdo tam pro nás nebude , nikdo nezvedne telefon , nikdo neuslyší klepání na dveře . Je to velice smutná věc , když člověk žije v přesvědčení , že " přítel " tam pro něho je , a všechno dopadne jinak , a zůstává sám se svými problémy . V takové situaci je velmi těžké pořád věřit v přátelství , a někdy i věřit lidem . Na štěstí ( doufám ! ) je to výjimečná situace a každý má někoho , na koho se může spolehnout . Občas si to ani neuvědomuje . Možná si myslí , že nemá přátele , a když už v nouzi bude někdo , s kým vůbec nepočítal , bude ochotný mu pomoct ( a tak může začít krásné přátelství ) . Myslím , že pomoc lidem je velmi důležitá věc , je nutné být otevřený problémům jiných lidí ( občas je nutné dobře poslouchat , protože někteří lidé neradi vůbec mluví o tom , co je trápí ) . A když už chceme být pro lidi , v první řade -unreadable- buď-unreadable-me pro naše přátele - tak , aby nikdy nikdo neřekl , že " v nouzi bys měl poznat přítele " , ale nikde tam nebyl ...
+
+----------------
+
+No target hypothesis 2 available.
+

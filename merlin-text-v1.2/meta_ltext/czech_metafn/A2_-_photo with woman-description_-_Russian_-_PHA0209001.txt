@@ -1,0 +1,26 @@
+METADATA
+
+General:
+Author ID: PHA0209001
+Test language: Czech
+CEFR level of test: A2
+Task : describe a photo: woman sitting at the window - ID: A2PS0200_zena
+Mother tongue: Russian
+Age: 3039
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Ta žena na obrázku se jmenuje Kateřina Nováková, ona je v prace  - v Knihovne, i pracuje jako knihovnice až 15 roky. Má ráda sve praci. Studovala, myslím že, na filozovské fakultě. Ona je z Prahy, má rodiny a 2 děti, pří tom seznamila se se svým manželem také b knihovne. Ona je romantická osoba, protože ráda čte romany. Jde ji dobře, nemá žádné problemy. Kazdý den rano chodí na prochazky se svem psem Savem a přemysli o tom, že má všechno v pořadku a nudi se ji to. Chtela bych  něco změnit ve svemživote, ale nemůze, je jí to líto.
+Doufám, že ona bude mít radost a najde své štěsťi u sobě, kde se narodila na Morave,kde bydli její dvě sestry a bratr.

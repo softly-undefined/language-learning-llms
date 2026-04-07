@@ -1,0 +1,38 @@
+METADATA
+
+General:
+Author ID: 1385_0001751
+Test language: Italian
+CEFR level of test: A1
+Task : reschedule an appointment - ID: 1385_020100
+Mother tongue: Polish
+Age: 28
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A1
+Coherence/Cohesion: A1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Ciao Daniele. Mi dispiace molto, pero non possiamo incontrare domani. Noi abbiamo molti cosi da fare in nostri l'ufficio. Hai voglia di incontrare a sabato sera? Noi non siamo occupati, noi abbiamo molto tempo libero. Noi vogliamo andare  a cena in un ristorante tailandese. Tu sai contento? Tu sai d'accordo? Noi asspetiamo per tuo risposto. Noi abbiamo bisogno di vederti. 
+Fammi sapere se sei d'accordo
+Scrivi presto! Ciao 
+
+----------------
+
+Target hypothesis 1: 
+
+Ciao Daniele . Mi dispiace molto , però non possiamo incontrarci domani . Noi abbiamo molte cose da fare nel nostro ufficio . Hai voglia di incontrarci sabato sera ? Noi non siamo occupati , abbiamo molto tempo libero . Noi vogliamo andare a cena in un ristorante tailandese . Tu sei contento ? Tu sei d' accordo ? Noi aspettiamo la tua risposta . Noi abbiamo bisogno di vederti . Fammi sapere se sei d' accordo . Scrivi presto ! Ciao
+
+----------------
+
+No target hypothesis 2 available.
+

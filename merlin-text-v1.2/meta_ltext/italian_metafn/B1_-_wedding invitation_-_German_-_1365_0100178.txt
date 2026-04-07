@@ -1,0 +1,35 @@
+METADATA
+
+General:
+Author ID: 1365_0100178
+Test language: Italian
+CEFR level of test: B1
+Task : answer to an wedding invitation - ID: 1365_020300
+Mother tongue: German
+Age: 19
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: C1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Chiaro Stefano e chiara Beatrice, 
+grazie mille per il vostro invito. 
+Sono moltissimo felice d'essere invitato sul vostro matrimonio. 
+Voglio fare la mia congratulazione a voi, . 
+Naturalmente prendo il tempo per participare a questa festa. 
+Infatti, devo lavorare al questo giorno, ma per voi mi prendo un giorno di vacanze. Ma cosa posso regalarvi? 
+So, che fra poco, avresti un proprio appartamento. E no sarà ancora ammobiliato. Allora, vorreste una poltra o un tavolo? O oppure un televisore?
+Non vede l'ora di festeggiare questo giorno!
+Tanti saluti, 
+la tua amica, 
+Maria     

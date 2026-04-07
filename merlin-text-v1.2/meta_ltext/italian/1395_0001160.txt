@@ -1,0 +1,30 @@
+METADATA
+
+General:
+Author ID: 1395_0001160
+Test language: Italian
+CEFR level of test: A2
+Task : go see a friend - ID: 1395_040101
+Mother tongue: German
+Age: 36
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+                                                                     Città X, 24.11.2011 
+Ciao Franco,
+Grazie per la tua invitazione. Certo voglio venire a Città Y per questo grande incontro AS Roma contro la Lazio. È sempre uno spettacolo grandioso ... ancora più quando vince la Roma! 
+Penso di prendere Easyjet già venerdì sera, così arriverò alle ore 20.30. Mandami un messagio se verrai incontrarmi all'aeroporto! Se vuoi rimango fino a martedì mattina. Ci vediamo, forza Roma
+                                   Michele
+P.S. Come va tuo padre? Ha trovato un nuovo impiego?

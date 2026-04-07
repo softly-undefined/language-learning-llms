@@ -1,0 +1,44 @@
+METADATA
+
+General:
+Author ID: 1365_0100171
+Test language: Italian
+CEFR level of test: B1
+Task : answer to an wedding invitation - ID: 1365_020300
+Mother tongue: German
+Age: 18
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: B1
+Orthography: C1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Cara Beatrice, caro Stefano, 
+tanti auguri per il vostro matrimonio. 
+Mi piace che sposate e sono felice che invitatemi. 
+Al 20 novembre ho tempo e posso andare a voi matrimonio. Ma non conosco la chiesa di santa chiara perché non sono a Napoli da otto anni. 
+In questo momento abito a Germania perché lo studio ma nonostante vedo andare. 
+E posso regolare un regalato tipico tedesco  a voi. C'è una bella idea, non?
+Che cosa volete avere? Un tavolo, una lampada o qualcosa tipico tedesco per mangiare? Dicemi, perché vedo regalare un regalato bellissimo. 
+Tanti saluti e molto fortuna per il futuro! 
+Maria
+
+----------------
+
+Target hypothesis 1: 
+
+Cara Beatrice , caro Stefano , tanti auguri per il vostro matrimonio . Mi piace che vi sposiate e sono felice che mi  invitiate . Il 20 novembre ho tempo e posso andare al vostro matrimonio . Ma non conosco la chiesa di Santa Chiara perché non sono a Napoli da otto anni . In questo momento abito in Germania perché studio ma nonostante ciò vedrò di andare . E posso regolare a voi un regalo tipico tedesco . È una bella idea , no ? Che cosa volete avere ? Un tavolo , una lampada o qualcosa di tipico tedesco per mangiare ? Ditemi , perché vedo di regalarvi un regalo bellissimo . Tanti saluti e molta fortuna per il futuro ! Maria
+
+----------------
+
+No target hypothesis 2 available.
+

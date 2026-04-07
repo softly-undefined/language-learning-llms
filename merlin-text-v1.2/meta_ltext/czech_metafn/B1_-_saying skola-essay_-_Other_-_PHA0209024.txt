@@ -1,0 +1,27 @@
+METADATA
+
+General:
+Author ID: PHA0209024
+Test language: Czech
+CEFR level of test: B2
+Task : write an essay: The school is the basis of the life - ID: B2PS0200_skola
+Mother tongue: Other
+Age: 3039
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: B2
+Vocabulary control: B2
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Skola je zaklad života. Dava človeku ne jen znalosti a vzdelaní, a taki predpoklady k spravnemu kolektivemu chovaný. Ponevadž jeto místo gde jedinci umožnena vychóvav mezilidskich vstazich, což nelze podceńovat a  ne měne duležita než znalosti. I gdyž bez znalostí v součastnem svéte nelze obyjit. Ja mam na mysli základní znalostí, jako čtení, psaní, a k tomu v poslední dobu nutne prepsat i zachazení z internetem. Součastný zdelovaci prostredki hodne pokročili do predu. Teď ve školach hodne se použivaji kino a internet. Ale i ten nejvzdelanejši človek bez spravnej  vychovy muže být skaženej zlej, nesnesitelnej ve svem chovaní. Proto ne mužeme zapomínat na gumanitarný predměty: literatura, hudba, filosofie, psichologie.
+Ponevadž cílem školy je vychova chitrych společenskich duševne krásnych jedincu. Ale škola, jeto neni jen zakladní škola, , střední, a vysoka. Každej človek musi mít svuj život.
+Jak správne řečeno:  ,, Století se žij, století se vzdelavej." A ja chci pridat k tomu ,, Stoveti se žij, stoleti se vzdelavej a mysli". Ponevadz jen  gdyž mysli člověk, tehdy doopravdy žije!!!

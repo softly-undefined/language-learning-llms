@@ -1,0 +1,25 @@
+METADATA
+
+General:
+Author ID: PHA1109008
+Test language: Czech
+CEFR level of test: A2
+Task : describe a photo: woman sitting at the window - ID: A2PS0200_zena
+Mother tongue: Other
+Age: 2029
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Na obrázku vidim ženu. Je pani Jana Svobodová. Šedi na zidli vedle okna. Je v Praze ale neni Čecha. Je Italska od Řime. Pani Svobodová má dlouhé vlasy a je ji 45 let. Vystudovala Filozofii a pracuje v knihovnu. Je vdaná a ma 2 děti. Na co právě mysli? Na dovolenou protože je unavena. Ráda čte historicke romany. Kazde rano chodi na procházku na Inaměsti vedle jeji dům. Má jeden pes ktery se jmenuje Rex. 

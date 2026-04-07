@@ -1,0 +1,42 @@
+METADATA
+
+General:
+Author ID: 1395_0001065
+Test language: Italian
+CEFR level of test: A2
+Task : contact a friend after a long time - ID: 1395_020300
+Mother tongue: German
+Age: 28
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Caro Silvio,
+anche quest'anno non riuscieramo a visitarti a Città X. Ma ti scriviamo una lettera. Meglio che niente! Noi stiamo bene. Maria ha trovato un nuovo lavoro. Pensa, lei è adesso un'insegnante! 
+In febbraio siamo stati in vacanza. Eravamo in Città Y. Il tempo era ottimo e schiavamo tanto. Bisogna andare in vacanze più spesso. 
+ 
+Potremmo venire da te in agosto. Che cosa ne pensi? 
+Cari saluti
+Michele e Maria
+
+----------------
+
+Target hypothesis 1: 
+
+Caro Silvio , anche quest' anno non riusciremo a visitarti a Città X . Ma ti scriviamo una lettera . Meglio che niente ! Noi stiamo bene . Maria ha trovato un nuovo lavoro . Pensa , lei adesso è un' insegnante ! In febbraio siamo stati in vacanza . Eravamo a Città Y . Il tempo era ottimo e abbiamo sciato tanto . Bisogna andare in vacanza più spesso . Potremmo venire da te in agosto . Che cosa ne pensi ? Cari saluti Michele e Maria
+
+----------------
+
+No target hypothesis 2 available.
+

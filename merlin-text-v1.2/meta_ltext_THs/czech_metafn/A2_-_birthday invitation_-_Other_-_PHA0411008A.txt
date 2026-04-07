@@ -1,0 +1,37 @@
+METADATA
+
+General:
+Author ID: PHA0411008A
+Test language: Czech
+CEFR level of test: A2
+Task : answering on a birthday invitation - ID: A2PS0102_oslava
+Mother tongue: Other
+Age: 1519
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: A1
+
+----------------
+
+Learner text: 
+
+Ahoj! Moc děkuji tobě, udělala jsi mě s tim radost že pozvala na sve narozeniny.  Ale ty jsi zapoměla napsat kde a kdy se začina oslava. Prosím, napiš mi detajly. A ještě chci se zeptat, kdo ještě bude?  Budu velice se těšit na tve narozeniny.S pozdravem, Kateřina
+
+----------------
+
+Target hypothesis 1: 
+
+Ahoj , moc ti děkuji , udělala jsi mi s tím radost , že jsi mě pozvala na své narozeniny . Ale ty jsi zapomněla napsat , kde a kdy začíná oslava . Prosím , napiš mi detaily . A ještě se chci zeptat , kdo tam ještě bude ? Budu se velice těšit na tvé narozeniny . S pozdravem Kateřina
+
+----------------
+
+Target hypothesis 2: 
+
+Ahoj , moc ti děkuji , udělala jsi mi tím radost , že jsi mě pozvala na své narozeniny . Ale ty jsi zapomněla napsat , kde a kdy začíná oslava . Prosím , napiš mi detaily . A ještě se chci zeptat , kdo tam ještě bude ? Budu se velice těšit na tvé narozeniny . S pozdravem Kateřina

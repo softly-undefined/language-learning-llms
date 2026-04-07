@@ -1,0 +1,33 @@
+METADATA
+
+General:
+Author ID: 1091_0000203
+Test language: German
+CEFR level of test: A2
+Task : letter to housing office - ID: 1091_0610301
+Mother tongue: not reported
+Age: 48
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Wohnungsamt                  Stadt X 10.03.2012
+Müller Meier Maria
+Bahnhofsstraße 123
+Stadt Y
+                                           Neue Wohnung
+             Sehr geehrte Dames und Herren,
+Ich habe in Wohnung samt gelesen und Interessiere mich für Wohnung. Ich möchte gerne wissen, wir hoch nebenkosten sind. Ich möchte gerne mit meine Familia zusamen wohnen, ist die Wohnung mit viele Zimmer? Hat die Wohnung Balkon und Garage? Ich wohne jetzt in Stadt X aber nächten Monat möchte ich nach Stadt Z. Können wir Besichtgungstermin verneinbaren?
+Mit Freundlichen Grüß
+UNTERSCHRIFT

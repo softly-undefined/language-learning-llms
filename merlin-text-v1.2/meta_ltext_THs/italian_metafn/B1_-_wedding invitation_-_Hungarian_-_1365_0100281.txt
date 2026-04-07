@@ -1,0 +1,41 @@
+METADATA
+
+General:
+Author ID: 1365_0100281
+Test language: Italian
+CEFR level of test: B1
+Task : answer to an wedding invitation - ID: 1365_020300
+Mother tongue: Hungarian
+Age: 26
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: A2
+Orthography: C2
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+                                                                                             Città X, 1 ottobre 2011 
+Cari Beatrice e Stefano, 
+ Piaccio molto alla vostra lettera. Per me una grande gioia, che vi sposerò. Aspetto che ci incontrerò fra alcuni giorni. Secondo me Beatrice vale la pena, diventerà una buona moglie. E quando abbiamo deciso di sposarvi? Il ultimo momento  dimenticavo che Beatrice era fidanzata e Stefano era fidanzato. Che bella sorpresa per me! Vi ringrazio che mi avete invitati. Certo io posso aiutare. Secondo me era un  ottimo scelto questa ristorante. Un anno scorso ho mangiato in questa ristorante e secondo me era buonissimo. Per fortuna la settimana scorso ho comprato un bellissimo giacca d'uomo e un pantaloni. Ma non so dove potrei compare una bella cintura. Che ne pensi? E che cosa vi piacerebbe per regalo di matrimonio? Purtroppo   non ho niente idea di comprare. 
+ 
+Tanti baci 
+        Michele    
+
+----------------
+
+Target hypothesis 1: 
+
+Città X , 1 ottobre 2011 Cari Beatrice e Stefano , mi piace molto la vostra lettera . Per me è una grande gioia che vi sposerò . Aspetto che vi incontrerò fra alcuni giorni . Secondo me Beatrice vale la pena , diventerà una buona moglie . E quando avete deciso di sposarvi ? L' ultimo momento dimenticavo che Beatrice era fidanzata e Stefano era fidanzato . Che bella sorpresa per me ! Vi ringrazio che mi avete invitato . Certo , io vi posso aiutare . Secondo me era una ottima scelta questo ristorante . L' anno scorso ho mangiato in questo ristorante e secondo me era buonissimo . Per fortuna la settimana scorsa ho comprato una bellissima giacca da uomo e pantaloni . Ma non so dove potrei comprare una bella cintura . Che ne pensi ? E che cosa vi piacerebbe come regalo di matrimonio ? Purtroppo non ho nessuna idea di cosa comprare . Tanti baci Michele
+
+----------------
+
+No target hypothesis 2 available.
+

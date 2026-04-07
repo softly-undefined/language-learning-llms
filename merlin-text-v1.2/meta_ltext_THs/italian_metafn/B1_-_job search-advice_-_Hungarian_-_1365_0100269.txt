@@ -1,0 +1,44 @@
+METADATA
+
+General:
+Author ID: 1365_0100269
+Test language: Italian
+CEFR level of test: B1
+Task : help a friend who is looking for work after school-leaving exam - ID: 1365_040501
+Mother tongue: Hungarian
+Age: 26
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: C1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+                                                                                Città X, 13.08.2011 
+Caro Francesco, 
+ho saputo che finalmente la hai fatto! So che sei molto intelligente e un ragazzo chi riusci fare tutte l'esame!
+Purtroppo devo informarti che trovare un lavoro non è facile. Lo sai che incontro molti, chi può aiutarci.
+Penso che devi studiare un'altra lingua straniera e con queste conoscienze potrei cercare lavoro anche in altri paesi. Mandarmi il tuo curriculum. 
+Mi hai detto che hai lavorato in un albergo e per questo penso che trovare il lavoro per te non sarà difficile. 
+Scrivemi se tutti saranno chiare per te' 
+Tanti saluti 
+Maria
+
+----------------
+
+Target hypothesis 1: 
+
+Città X , 13.08.2011 Caro Francesco , ho saputo che finalmente l' hai fatto ! So che sei molto intelligente e un ragazzo che riesce a fare tutti gli esami ! Purtroppo devo informarti che trovare un lavoro non è facile . Lo sai che incontro molti individui che possono aiutarci . Penso che tu debba studiare un' altra lingua straniera e con queste conoscenze potrai cercare lavoro anche in altri paesi . Mandami il tuo curriculum . Mi hai detto che hai lavorato in un albergo e per questo penso che trovare il lavoro per te non sarà difficile . Scrivimi se tutti saranno chiari per te . Tanti saluti Maria
+
+----------------
+
+No target hypothesis 2 available.
+

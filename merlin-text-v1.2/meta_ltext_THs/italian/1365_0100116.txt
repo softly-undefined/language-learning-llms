@@ -1,0 +1,45 @@
+METADATA
+
+General:
+Author ID: 1365_0100116
+Test language: Italian
+CEFR level of test: B1
+Task : help a friend who is looking for work after school-leaving exam - ID: 1365_040501
+Mother tongue: German
+Age: 51
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: C1
+Vocabulary range: B2
+Vocabulary control: B2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Città X, 10.12.2010
+Caro Francesco
+Grazie per la tua lettera. Tanti auguri per la tua maturità linguistica!
+Sono apena arrivato da Città Y qui ho fatto due settimane di vacanza.
+Penso che fai bene per iscriverti all Università per continuare subito le tue conoscenze linguistiche. A Città Y purtroppo i posti all'Università sono al momento tutti occupati.
+Ho fatto anche qualche lessione in scuola: "CUCCINARE al modo" ITALIANO" Ho seguito fino oggi già cinque lessioni a Città Y! Cosí posso invitarti presto per mangiare a casa mia... Che sorpresa... (ha-ha-ha!)
+Il mio commento per il tuo esame superato; credo, hai deciso veramente la giusta direzione nella vita!
+Altroche, ti saluto tanto e mi piacerebbe molto vederti presto a Città X o per mangiare ("bene") "Cucina Italiana" a Città X!
+Tanti saluti (anche alla tua Mammina) Michele
+
+
+----------------
+
+Target hypothesis 1: 
+
+Città X , 10.12.2010 Caro Francesco , grazie per la tua lettera . Tanti auguri per la tua maturità linguistica ! Sono appena arrivato qui da Città Y e ho fatto due settimane di vacanza . Penso che fai bene a iscriverti all' università per continuare subito le tue conoscenze linguistiche . A Città Y purtroppo i posti all' università sono al momento tutti occupati . Ho fatto anche qualche lezione a scuola : " Cucinare al modo italiano " . Ho seguito fino ad oggi già cinque lezioni a Città Y ! Così posso invitarti presto per mangiare a casa mia ... Che sorpresa ... ( ha-ha-ha ! ) Il mio commento per il tuo esame superato : credo che hai deciso veramente la giusta direzione nella vita ! Altroché ! Ti saluto tanto e mi piacerebbe molto vederti presto a Città X per mangiare ( " bene " ) qualcosa della cucina italiana a Città X ! Tanti saluti ( anche alla tua mammina ) Michele
+
+----------------
+
+No target hypothesis 2 available.
+

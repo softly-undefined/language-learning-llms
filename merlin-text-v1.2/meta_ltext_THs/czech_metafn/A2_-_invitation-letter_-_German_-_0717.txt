@@ -1,0 +1,44 @@
+METADATA
+
+General:
+Author ID: 0717
+Test language: Czech
+CEFR level of test: B1
+Task : answer to the email of Alena - ID: 1_Alena
+Mother tongue: German
+Age: not reported
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: A2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Ahoj Aleno!
+děkuju Ti za tvůj email. Musim odevzdát magisterskou praci přišti tyden, takže  nemám hodně čas.
+Těší mě,  že navštěvovaš naš brzo.  Chceš navstívit mě doma odpoledne? Kdy budeš přijiždět? Asi muzů docházet pro tebe. Kurz je zajimavý. Koli stoji  on? Mysliš, že je dobře? A kdy je termín? Doufám, že  budu  mít čas.
+ Posláš prosím inzerát z mě.
+Těším se na naše setkáni v Drážďanech. Budeme mít moc žert. Prosím pozdravuj všechny a hlavně  Pavla.
+Poslední  informace: moje zkoušky z hostorii byl výborně. Jsem moc šťastny. Ale  měla pracovat a učet tak hodně, takže teď jsem jenom unavená.
+Měj se hezký, dobře.
+ Martin
+
+----------------
+
+Target hypothesis 1: 
+
+Ahoj Aleno ! Děkuju Ti za Tvůj e-mail . Musím odevzdat magisterskou práci příští týden , takže nemám hodně času . Těší mě , že nás brzo navštívíš . Chceš mě navštívit doma odpoledne ? Kdy přijedeš ? Asi můžu dojít pro Tebe . Kurz je zajímavý . Kolik stojí ? Myslíš , že je dobře ? A kdy je termín ? Doufám , že budu mít čas . Pošleš mi prosím inzerát ? Těším se na naše setkání v Drážďanech . Budeme mít moc žertu . Prosím pozdravuj všechny a hlavně Pavla . Poslední informace : moje zkoušky z historie byly výborné . Jsem moc šťastný . Ale měl bych pracovat a hodně se učit , takže teď jsem jenom unavený . Měj se hezky , dobře . Martin
+
+----------------
+
+Target hypothesis 2: 
+
+Ahoj Aleno ! Děkuju Ti za Tvůj e-mail . Musím odevzdat magisterskou práci příští týden , takže nemám moc času . Těší mě , že nás brzo navštívíš . Chceš mě navštívit doma odpoledne ? Kdy přijedeš ? Asi můžu dojít pro Tebe . Kurz je zajímavý . Kolik stojí ? Myslíš , že je dobrý ? A kdy je termín ? Doufám , že budu mít čas . Pošleš mi prosím inzerát ? Těším se na naše setkání v Drážďanech . Budeme mít moc legrace . Prosím pozdravuj všechny a hlavně Pavla . Poslední informace : moje zkoušky z historie byly výborné . Jsem moc šťastný . Ale měl bych pracovat a hodně se učit , takže teď jsem jenom unavený . Měj se hezky , dobře . Martin

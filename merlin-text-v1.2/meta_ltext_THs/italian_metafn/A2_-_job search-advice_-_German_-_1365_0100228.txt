@@ -1,0 +1,45 @@
+METADATA
+
+General:
+Author ID: 1365_0100228
+Test language: Italian
+CEFR level of test: B1
+Task : help a friend who is looking for work after school-leaving exam - ID: 1365_040501
+Mother tongue: German
+Age: 19
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B2
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+                                                                                                 Città X, il 17 giugno 2011 
+Caro Francesco, 
+Sono contenta che sei molto bene e famoso. Voglino ringraziarti per il tuo sucesso. Ho fatto la mia maturità anche. Secondo me l'è stata molto difficile e per questo sono molto felice che era finita. 
+È un buona idea d'iscriverti all Università. Visto che abito vicino a Città Y e potresti venire lì per studiare. La regione è molto interessante. Puoi fare il shopping o andare in piscina o andare in cinema. Poi vado con te. :) 
+Dopo la mia maturità voglino fare una formazione nella parte di chimica, ma forse studio con te a Città Y. (Quando vengi!?)
+Uno di miei amici ha un albergo e cerca una persona la quale mette le stanze in ordine. Quando voui, posso chiederli se dati il lavoro. Poi dormi alla mia casa e va a piedi circa cinque minuti fine all'albergo. 
+Sono molto felice quando mi mandai il tuo curriculum, ma solo con una foto di te. Meglio sara che mi mandai tutte le cose, poiché le do al mio amico. 
+Spero che scrivimi molto rapido. 
+Tanti saluti e un baccio
+Maria 
+
+----------------
+
+Target hypothesis 1: 
+
+Città X , il 17 giugno 2011 Caro Francesco , Sono contenta che sia molto buono e famoso . Voglio ringraziarti per il tuo successo . Ho fatto anche la mia maturità . Secondo me è stata molto difficile e per questo sono molto felice che sia finita . È una buona idea iscriverti all' Università . Visto che abito vicino a Città Y potresti venire lì per studiare . La regione è molto interessante . Puoi fare lo shopping o andare in piscina o andare al cinema . Poi vado con te . :) Dopo la mia maturità voglio fare una formazione nella parte di chimica , ma forse studio con te a Città Y . ( Quando vieni ? ) Uno dei miei amici ha un albergo e cerca una persona la quale metta le stanze in ordine . Quando vuoi , posso chiedergli se ti dà  il lavoro . Poi dormi a casa mia e vai a piedi circa cinque minuti fino all' albergo . Sarei molto felice se mi mandassi il tuo curriculum , ma solo con una foto di te . Sarebbe meglio che mi mandassi tutte le cose , così le do al mio amico . Spero che mi scriva  molto rapidamente . Tanti saluti e un bacio Maria
+
+----------------
+
+No target hypothesis 2 available.
+

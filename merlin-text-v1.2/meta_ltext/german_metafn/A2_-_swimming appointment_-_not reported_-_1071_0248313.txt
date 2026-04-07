@@ -1,0 +1,32 @@
+METADATA
+
+General:
+Author ID: 1071_0248313
+Test language: German
+CEFR level of test: A1
+Task : arrange appointment with friend to go swimming together - ID: 1071_120302
+Mother tongue: not reported
+Age: 29
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Liebe Daniela,                                                                Stefan Müller
+                                                                                           Müllergasse 11, Stadtteil
+                                                                                           Stadt X
+ich möchte mit dir zum Schwimmen gehen. Kannst du mir schreiben, wo können wir treffen?.
+Und kannst du mir auch schreiben, wann kannst du kommen?
+Du sollst mit dir ein Anzuge Und die Brille für Schwimmen mitbringen.
+Mit freundlichen Grüßen
+Stefan

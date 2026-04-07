@@ -1,0 +1,28 @@
+METADATA
+
+General:
+Author ID: 1395_0001123
+Test language: Italian
+CEFR level of test: A2
+Task : inform friends about language course - ID: 1395_010300
+Mother tongue: German
+Age: 40
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A1
+Sociolinguistic appropriateness: A1
+
+----------------
+
+Learner text: 
+
+Cari amici
+Io sono a Città X, in Italia. Io frequento il corso di italiano. Io devo anche imparare a parlare d'italia. Mia insegnante è molto simpatica. A nostro corso, noi siamo dei studenti diversi. Inglesi, francesi, spagnoli e tedeschi. I collegi sono molto simpatico. Nel mio tempo libero, io visito la città e faccio di sport. Rimango ancora una settimana. A presto! 
+Cordiali saluti 
+Michele

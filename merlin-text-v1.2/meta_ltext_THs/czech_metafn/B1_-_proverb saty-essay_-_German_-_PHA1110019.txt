@@ -1,0 +1,40 @@
+METADATA
+
+General:
+Author ID: PHA1110019
+Test language: Czech
+CEFR level of test: B2
+Task : write an essay: Clothes make the man - ID: B2PS0201_saty
+Mother tongue: German
+Age: 4049
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B2
+Vocabulary range: B2
+Vocabulary control: B1
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Není nic nového, že šaty dělají člověka. Známe pohadku s některým králem, který se svlekne a potom lide už nevěří v tom, že je král, protože chybí královský oblek. 
+Oblek má ruzné funkci: Zachrána počasí je zakladní funkce. Ale stále má jinou funkci: ukázat, kdo jsem a to zaleži na to, jini lide myslí o tom. Dnes značky hrají důležity role v nasí společnosti. 
+Často je to mozné poznat, co někdo dělat, jaké je jeji povolání nebo profese. Normální manažér nenosí oblek punku a naopak. Člověk chce, aby ostatni viděli a vědeli, s kým maji stysk. Proto je to také špatně říct, že existuje nekonformístný oblek. 
+Kdybych mohl ríct, jaký je nejdůležitejši část obleku, řekl bych: boty . V nemčině máme sloveso "auf treten", to známená buď druh, jako chodím na země a také známená, jak výpadá nekoho. A od italů víme, že vybíráji pozorně svoje boty. 
+Na konec mužeme říct, že král se zase obvleknul, aby mohl vypadat co chtěl být. A lide konečně mohli věřit v tom, že král je král a žebrák je žebrák.
+
+----------------
+
+Target hypothesis 1: 
+
+Není nic nového , že šaty dělají člověka . Známe pohádku s některým králem , který se svlékne , a potom už lidé nevěří tomu , že je král , protože mu chybí královský oblek . Oblek má různé funkce : Záchrana před počasím je základní funkce . Ale stále má jinou funkci : ukázat , kdo jsem , a to záleží na tom , co si jiní lidé o tom myslí . Dnes značky hrají důležitou roli v naší společnosti . Často je možné poznat , co někdo dělá , jaké je její povolání nebo profese . Normální manažer nenosí oblek punku a naopak . Člověk chce , aby ostatní viděli a věděli , s kým mají styk . Proto je také špatné říct , že existuje nekonformistní oblek . Kdybych mohl říct , jaká je nejdůležitější část obleku , řekl bych : boty . V němčině máme sloveso " auf treten " , to znamená buď druh , jako chodím po zemi , a také to znamená , jak někdo vypadá . A od Italů víme , že si vybírají pozorně svoje boty . Na konec můžeme říct , že král se zase oblékl , aby mohl vypadat tak , jaký chtěl být . A lidé konečně mohli věřit tomu , že král je král a žebrák je žebrák .
+
+----------------
+
+No target hypothesis 2 available.
+

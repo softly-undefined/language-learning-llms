@@ -1,0 +1,25 @@
+METADATA
+
+General:
+Author ID: VAR0910010
+Test language: Czech
+CEFR level of test: B2
+Task : write an essay: Clothes make the man - ID: B2PS0201_saty
+Mother tongue: Polish
+Age: 2029
+Gender: male
+
+Rating:
+Overall CEFR rating: B2
+Grammatical accuracy: B2
+Orthography: B1
+Vocabulary range: B2
+Vocabulary control: B2
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Šaty dělaji člověka, je to pravda, anebo ne? Je to jako v písničce od Voskovce a Wericha, že ,,je to pravda odvěka"? Na jedne straně si myslím, že ano. Přece už v době, kdy se človek ještě podobal opici to první odění z něj udelalo človeka. Pak podle oblečení se stalo možne rozlišit chudého od bohatého, pána od otroka. Ješte pozdějí se objevíly uniformy. Specialní uniformy pro vojáky, pro kuchaře, pro Katy, pro jeptišky, pro břeholníky, pro studenty, pro panovníky atd. Ješte před několika lety bylo možno říct podle spůsobu oblékání kdo je kdo, čím se zabývá, jake má společenské postavení. Také barvy oblečení říkaly o svých majítelech. Látky, ze kterých se oblečení vyrábělo mohly být drahé,

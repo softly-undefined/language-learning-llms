@@ -1,0 +1,38 @@
+METADATA
+
+General:
+Author ID: PHA0811020
+Test language: Czech
+CEFR level of test: B2
+Task : write an essay: No pain no gain - ID: B2PS0202_kolace
+Mother tongue: Other
+Age: 2029
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B2
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Bez práce nejsou koláče
+V součásně, každý z nás musí pracovat. A proto, vyberu tuto tématu přísloví "Bez práce nejsou koláče.
+"Bez práce nejsou koláče" má dva význam. První, samozřejmě, dříve musíme vařit pak mužeme jíst. Ale na druhou stránky, mužeme tady rozumět, nemužeme mít nebo vybrat něco zdarma bez práce. Každý den, musíme přijít do práce, pracujeme nebo učíme a na konci měsíce budeme mít penize nebo platu. A nebo jiné věci, nyní, mužeme mít televizi nebo nové auto. ale nic nemusíme dělat? Domnívám se ne. To je pro člověka? Ale, také pro tvor, hmyz nebo dobytek. Musejí pracovat pro jídlo nebo trávy kazdý den  (V: myslím že) kdy nepracujeme tak co bude dál? Myslím, že budeme se stát krádeže nebo budeme umřít. Lidé bude neexistovat. Dokonce, přísloví "Bez práce nejsou koláče" Je správně. To je správně pro človeka?, pro hmyz? pro tvor? Myslím že pro všechny. Z přísloví, myslím že budu pracovat pilnější od teď.
+
+----------------
+
+Target hypothesis 1: 
+
+Bez práce nejsou koláče . V současně každý z nás musí pracovat . A proto si vyberu toto téma přísloví " Bez práce nejsou koláče " . " Bez práce nejsou koláče " má dva významy . První , samozřejmě , nejdříve musíme vařit , pak můžeme jíst . Ale na druhou stránku můžeme taky rozumět , nemůžeme mít nebo si vybrat něco zdarma , bez práce . Každý den musíme přijít do práce , pracujeme nebo učíme a na konci měsíce budeme mít peníze nebo plat , anebo jiné věci . Nyní můžeme mít televizi nebo nové auto , ale nic nemusíme dělat ? Domnívám se , že ne . To je pro člověka ? Ale také pro tvory , hmyz nebo dobytek . Musejí pracovat za jídlo nebo trávu každý den ( myslím , že ) , když nebudeme pracovat , tak co bude dál ? Myslím , že staneme krádeže nebo umřeme . Lidé nebudou existovat . Dokonce přísloví " Bez práce nejsou koláče " , je správně . To je správně pro člověka ? Pro hmyz ? Pro tvory ? Myslím , že pro všechny . Z přísloví myslím , že budu pracovat pilněji od teď .
+
+----------------
+
+No target hypothesis 2 available.
+

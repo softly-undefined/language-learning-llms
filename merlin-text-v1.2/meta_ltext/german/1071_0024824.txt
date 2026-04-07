@@ -1,0 +1,29 @@
+METADATA
+
+General:
+Author ID: 1071_0024824
+Test language: German
+CEFR level of test: A1
+Task : arrange appointment with friend to go swimming together - ID: 1071_120302
+Mother tongue: Arabic
+Age: 20
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+liebe Daniela,
+Hallo, wie geht´s? , Ich möchte schwimmen gehen mit dir am Freitag um 14:00 uhr. in die Fitness club.
+und bitte, bring mir meinen Rucksack mit, weil vergisst es in dein Haus habe ich. und bring deine Bikini mit.
+bis Freitag
+Aufwiedersehen

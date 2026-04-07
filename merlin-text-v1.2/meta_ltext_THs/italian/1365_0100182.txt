@@ -1,0 +1,40 @@
+METADATA
+
+General:
+Author ID: 1365_0100182
+Test language: Italian
+CEFR level of test: B1
+Task : answer to an wedding invitation - ID: 1365_020300
+Mother tongue: German
+Age: 17
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: C1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+                                                                                                       Città X, 14 maggio 2011 
+Cara Beatrice, caro Stefano, 
+ieri ho ricevuto la Vostra invitazione per la Vostra cerimonia di matrimonio e Vi vorrei ringraziare moltissimo. Quando ho letto quest'invitazione ho telefonato direttamente Paola e Marco e gli ho raccontato la novità! Congratulazione! Finalmente avete deciso che volete vivere insieme come moglie e marito. Siete un po' curiosi? Credo che e il nervocismo e la curiosità e i dubbi siano normali prima della ceremonia. In seguito vorrei riferendomi a quello che mi avete scritto: L'invitazione mi dà l'informazione che vi sposerete a Napoli in Chiesa Di Santa Chiara. Dopo vorreste festeggiare al ristorante che si chiama "Da Ciro". Mi dispiace, ma lavorò  il 20 Novembre coneguentemente parteciperò solitamente alla festa. Che cosa Vi posso regalare? Penso che volete viaggiare dopo la ceremonia dunque Vi farrò una sorpresa addatta. Forse troverò una cosa utile ... -symbol- Spero di ricevere presto una vostra lettera o una Vostra telefonata. 
+Molto affettuosamente
+Maria
+
+----------------
+
+Target hypothesis 1: 
+
+Città X , 14 maggio 2011 Cara Beatrice , caro Stefano , ieri ho ricevuto la vostra invitazione alla vostra cerimonia di matrimonio e vi vorrei ringraziare moltissimo . Quando ho letto quest' invitazione ho telefonato direttamente a Paola e Marco e gli ho raccontato la novità ! Congratulazione ! Finalmente avete deciso che volete vivere insieme come moglie e marito . Siete un po' curiosi ? Credo che il nervosismo e la curiosità e i dubbi siano normali prima della cerimonia . In seguito vorrei riferirmi a quello che mi avete scritto : l' invitazione mi dà l' informazione che vi sposerete a Napoli nella Chiesa di Santa Chiara . Dopo vorreste festeggiare al ristorante che si chiama " Da Ciro " . Mi dispiace , ma lavorerò il 20 novembre , conseguentemente parteciperò solitamente alla festa . Che cosa vi posso regalare ? Penso che vogliate viaggiare dopo la cerimonia dunque vi farò una sorpresa adatta . Forse troverò una cosa utile ... -symbol- Spero di ricevere presto una vostra lettera o una vostra telefonata . Molto affettuosamente Maria
+
+----------------
+
+No target hypothesis 2 available.
+

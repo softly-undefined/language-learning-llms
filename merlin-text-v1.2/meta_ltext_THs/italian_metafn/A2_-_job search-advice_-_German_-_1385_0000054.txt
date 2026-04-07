@@ -1,0 +1,39 @@
+METADATA
+
+General:
+Author ID: 1385_0000054
+Test language: Italian
+CEFR level of test: A1
+Task : help a friend who is looking for work - ID: 1385_040101
+Mother tongue: German
+Age: 53
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Ciao Luigi,
+ho ricevuto la tua email e ti ringrazio. Ti aiuto volentieri, però vorrei sapere cosa hai fatto esattamente finora e dove hai lavorato? Ti piacciono le lingue straniere e quali lingue sai parlare? Che tipo di lavoro vuoi fare adesso? E quando cominciare il nuovo lavoro?
+A presto, e cari saluti,
+Maria
+
+----------------
+
+Target hypothesis 1: 
+
+Ciao Luigi , ho ricevuto la tua email e ti ringrazio . Ti aiuto volentieri , però vorrei sapere cosa hai fatto esattamente finora e dove hai lavorato . Ti piacciono le lingue straniere e quali lingue sai parlare ? Che tipo di lavoro vuoi fare adesso ? E quando vuoi cominciare il nuovo lavoro ? A presto e cari saluti , Maria
+
+----------------
+
+No target hypothesis 2 available.
+

@@ -1,0 +1,29 @@
+METADATA
+
+General:
+Author ID: 1091_0000076
+Test language: German
+CEFR level of test: A2
+Task : letter to housing office - ID: 1091_0610301
+Mother tongue: not reported
+Age: 30
+Gender: female
+
+Rating:
+Overall CEFR rating: B2
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Sehr geehrter Herr Glaab,
+mein Mann und ich suchen eine neue Wohnung in X. Wir interessieren uns für eine Wohnung mit vier Zimmern und einem Balkon. Und wir brauchen auch eine Garage. Trotzdem haben wir ein Budget von 300 € bis 350 € pro Monat.
+Wir höffen dass Sie uns hilfen kann. Wenn Sie Frage haben, schreiben Sie bitte uns.
+Viele Grüße,
+Maria Julia Müller

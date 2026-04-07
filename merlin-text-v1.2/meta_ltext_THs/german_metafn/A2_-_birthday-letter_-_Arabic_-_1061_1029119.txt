@@ -1,0 +1,42 @@
+METADATA
+
+General:
+Author ID: 1061_1029119
+Test language: German
+CEFR level of test: B1
+Task : write a letter to a friend (birthday) - ID: 1061_170900
+Mother tongue: Arabic
+Age: 30
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B2
+Vocabulary range: B1
+Vocabulary control: A2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+                                          Stadt X, 27.02.2012.
+Lieber Silke,
+vielen Dank für deine Brief. Ich freue mich auf seinen Einladung, leider kann ich nicht besuchen, weil ich viele Arbeit habe.
+Für meinen Geburstag ich wünsche mir immer von ein kleinen Hund, trozdem habe ich keinen. Deshalb bin ich sehr glücklich wenn ich ein Hund habe, denn ich möge die Tiere.
+Bei uns es ganz gut. Stefan geht noch nicht in den Kindergarten, weil in den Kindergarten kein Plazt haben, mein Mann ist sehr gut, denn er hat ein neue Arbeit.
+Viele Grüße
+Maria
+
+----------------
+
+Target hypothesis 1: 
+
+Stadt X , 27.02.2012 . Liebe Silke , vielen Dank für deinen Brief . Ich freue mich auf seine Einladung , leider kann ich dich nicht besuchen , weil ich viel Arbeit habe . Für meinem Geburstag wünsche ich mir immer einen kleinen Hund , trotzdem habe ich keinen . Deshalb bin ich sehr glücklich , wenn ich einen Hund habe , denn ich mag die Tiere . Bei uns geht es ganz gut . Stefan geht noch nicht in den Kindergarten , weil sie in dem Kindergarten keinen Platz haben . Mein Mann ist sehr gut , denn er hat eine neue Arbeit . Viele Grüße Maria
+
+----------------
+
+No target hypothesis 2 available.
+

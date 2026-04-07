@@ -1,0 +1,28 @@
+METADATA
+
+General:
+Author ID: 1071_0024765
+Test language: German
+CEFR level of test: A1
+Task : ask friend for help for finding apartment - ID: 1071_020200
+Mother tongue: Turkish
+Age: 23
+Gender: female
+
+Rating:
+Overall CEFR rating: A1
+Grammatical accuracy: A1
+Orthography: A2
+Vocabulary range: A1
+Vocabulary control: A1
+Coherence/Cohesion: A1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Lieber Jens,
+Ich Glückwünsche dich ist Vater geworden. Wie es deine Frau und deine Babys? Wie heißt des Babys? Brauchst du etwas hilfe? Könntest du bitte mich anrufen?
+Herzlichen Grüßen
+Maria Meier

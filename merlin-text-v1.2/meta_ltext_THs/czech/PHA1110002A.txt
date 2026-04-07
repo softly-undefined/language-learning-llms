@@ -1,0 +1,39 @@
+METADATA
+
+General:
+Author ID: PHA1110002A
+Test language: Czech
+CEFR level of test: A2
+Task : write an email to a hotel - ID: A2PS0101_hotel
+Mother tongue: Other
+Age: 1519
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Dobrý den,
+jsem studentka z Ukrajiny a na konci listopadu chtěla bých jét někám na hory se svým kamarádem. Dozvěděla jsem o vašem hotelu od svého známého ale ještě mám několik otázek. Chtěla bých obědnat jeden pokoj, pokud ještě máte volný a kolik to bude stojí? Taký chtěla bých vědět, jake jidlo nabízí hotel a je-li tam parkoviště, protože jedeme tam autem. A nakonec, chtěli býchom dostat nějakou informace o lyžařské škole. Vím, že je někde vedle hotelu ale chci znát více o ceně a rozvrhu. 
+Předem děkuji. Těším se na Vašu odpověd co nejdřiv. 
+Eva Svobodová 
+
+----------------
+
+Target hypothesis 1: 
+
+Dobrý den , jsem studentka z Ukrajiny a na konci listopadu bych chtěla jet někam na hory se svým kamarádem . Dozvěděla jsem se o Vašem hotelu od svého známého , ale ještě mám několik otázek . Chtěla bych objednat jeden pokoj , pokud ještě máte volný , kolik to bude stát ? Taky bych chtěla vědět , jaké jídlo nabízí hotel a je-li tam parkoviště , protože tam jedeme autem . A nakonec , chtěli bychom dostat nějakou informaci o lyžařské škole . Vím , že je někde vedle hotelu , ale chci znát více o ceně a rozvrhu . Předem děkuji . Těším se na Vaši odpověď co nejdřív . Eva Svobodová
+
+----------------
+
+No target hypothesis 2 available.
+

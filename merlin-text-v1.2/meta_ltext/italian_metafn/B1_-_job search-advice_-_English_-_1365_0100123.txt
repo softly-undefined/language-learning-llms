@@ -1,0 +1,32 @@
+METADATA
+
+General:
+Author ID: 1365_0100123
+Test language: Italian
+CEFR level of test: B1
+Task : help a friend who is looking for work after school-leaving exam - ID: 1365_040501
+Mother tongue: English
+Age: 43
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: C1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Città X 10/12/2010
+Caro Francesco,
+Congratulazione, sono molto felice di leggere della tua novità. L'ultima volta in cui abbiamo parlato avevo comminciato un corso di lingua tedesca, ma ho lasciato il corso prima del'esame.
+Sono molto contento di aiutarti, e io raccomanda che tu scrivi al capo del'albergo "Hotel Forte" che aprirà in Febbraio.
+Per tre mesi io lavoro in un albergo ma il posto paga poco e anch'io penso di comminciare un nuovo lavoro.
+Infine vorrei ripetere congratulazione, e penso che tu abbia la competenza di comminciare un lavoro nel mondo italiano!
+Tanti saluti,
+Michele

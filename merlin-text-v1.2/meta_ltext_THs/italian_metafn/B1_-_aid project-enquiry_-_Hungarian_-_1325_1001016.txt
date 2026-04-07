@@ -1,0 +1,51 @@
+METADATA
+
+General:
+Author ID: 1325_1001016
+Test language: Italian
+CEFR level of test: B2
+Task : inform oneself about an aid project - ID: 1325_030300-1
+Mother tongue: Hungarian
+Age: 18
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: C2
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Maria Rossi
+Strada Maggiore 60
+1234 Città X
+13. agosto 2011
+Solidarietà Viva
+Viale Bruzzi 117
+21023 Milano
+Spettabile Signora o Signore,
+sto scrivendo per reagire e un annuncio che ho letto in un giornale il giorno precedente.
+Mi chiamo Maria Rossi da Città X. Ho 24 anni. Sono neolaureata. Ho frequentato l'Università di Città X per 4 anni. Sono laureata in Sociologia. Sono un volontario ogni anno presso una piccola ditta che aiuta la gente che non ha casa. Allora posso servirle una lettera di raccommandazione, se c'è bisogno. Aiuto tutti sempre con contenta, lo comprende il mio curriculum vitae che è allegato con questa lettera. 
+Adesso lavoro presso una ditta e nel mio ex-università, ma sono in vacanza dal 15 agosto al 31 agosto, allora in questo periodo posso aiutarvi.
+Da me un poco che ho una figlia che 2 anni, anche già oggigiorno la studio scrivere, leggere e contare. Voi -unreadable- su anche lei poi, nel futuro.
+Mi scriva, per favore, se è possibile prestissimo.
+Sto aspettando la Sua risposta impazientemente.
+Con tutti gli onori, 
+Maria Rossi
+
+----------------
+
+Target hypothesis 1: 
+
+Maria Rossi Strada Maggiore 60 1234 Città X 13 . agosto 2011 Solidarietà Viva Viale Bruzzi 117 21023 Milano Spettabile Signora o Signore , sto scrivendo per reagire a un annuncio che ho letto in un giornale il giorno precedente . Mi chiamo Maria Rossi da Città X . Ho 24 anni . Sono neolaureata . Ho frequentato l' Università di Città X per 4 anni . Sono laureata in Sociologia . Sono un volontario ogni anno presso una piccola ditta che aiuta la gente che non ha casa , dunque posso servirle una lettera di raccomandazione , se c' è bisogno . Aiuto sempre tutti con contentezza , lo comprende dal mio curriculum vitae che è allegato a questa lettera . Adesso lavoro presso una ditta e nella mia ex università , ma sono in vacanza dal 15 agosto al 31 agosto , allora in questo periodo posso aiutarvi . Da un poco ho una figlia che ha 2 anni , già oggigiorno la studio scrivere , leggere e contare . Voi -unreadable- assumerete anche lei poi nel futuro . Mi scriva , per favore , se è possibile prestissimo . Sto aspettando la Sua risposta impazientemente . Con tutti gli onori , Maria Rossi
+
+----------------
+
+No target hypothesis 2 available.
+

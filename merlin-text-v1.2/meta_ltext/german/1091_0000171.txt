@@ -1,0 +1,32 @@
+METADATA
+
+General:
+Author ID: 1091_0000171
+Test language: German
+CEFR level of test: A2
+Task : ask friend to take care of pet - ID: 1091_0650102
+Mother tongue: not reported
+Age: 34
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Seher geeherter Herr Meier
+in zwei Tage fahre ich nach Stadt X wegen eine Geschefts arbeit.
+Deswegen kann ich nicht meine Katze mir nehmen.
+Könnten sie bitte  sich  um meine Katze kummern, während ich nicht zu Hause bin.
+ Das was sie frißt habe ich alles früher gekauft. nur Sie braucht jemand welsche um sie kummert. und ich denke sie sind die richtige Person.
+
+Ich freue mich sehr, wenn Sie mir helfen kann es wäre schön, wenn Sie mir sobald Bescheid geben.
+Mit freundlischen Grüßen.

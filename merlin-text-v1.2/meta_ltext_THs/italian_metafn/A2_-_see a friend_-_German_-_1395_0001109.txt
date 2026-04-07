@@ -1,0 +1,40 @@
+METADATA
+
+General:
+Author ID: 1395_0001109
+Test language: Italian
+CEFR level of test: A2
+Task : go see a friend - ID: 1395_040101
+Mother tongue: German
+Age: 22
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A1
+Orthography: A1
+Vocabulary range: A2
+Vocabulary control: A1
+Coherence/Cohesion: A1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Caro Luca
+Quest'anno, possiamo arrivare a tua città. Ho ascoltato, il tuo città è molto carina. Sempre sole, niente nouvolosa, io penso una bella cosa per fare vacance. Allora, cosa possiamo fare la sera in tua città? I tuoi genitori? Abbiamo ascoltato il tuo papa e in ospedale, speriamo niente di grave. Io e mia ragazza arrivare, prossima settimana a lunedi. Va bene per te, chieder a me, sei a posto cari. 
+Tanti Saluti 
+                             Michele  Maria :)
+
+----------------
+
+Target hypothesis 1: 
+
+Caro Luca , quest' anno possiamo arrivare alla tua città . Ho ascoltato che la tua città è molto carina . Sempre sole , niente nuvole , io penso che sia una bella cosa per fare vacanze . Allora , cosa possiamo fare la sera nella tua città ? I tuoi genitori ? Abbiamo ascoltato che il tuo papà è in ospedale , speriamo niente di grave . Io e la mia ragazza arriviamo la prossima settimana lunedì . Va bene per te ? -incomp- -incomp- -incomp- . Sei a posto caro ? Tanti saluti Michele Maria :)
+
+----------------
+
+Target hypothesis 2: 
+
+Caro Luca , quest' anno possiamo venire nella tua città . Ho sentito che la tua città è molto carina . Sempre sole , niente nuvole , io penso che sia una bella cosa per fare vacanze . Allora , cosa possiamo fare la sera nella tua città ? Come stanno i tuoi genitori ? Abbiamo sentito che il tuo papà è in ospedale , speriamo niente di grave . Io e la mia ragazza arriviamo la prossima settimana lunedì . Va bene per te ? -incomp- -incomp- -incomp- . Sei a posto caro ? Tanti saluti Michele e Maria :)

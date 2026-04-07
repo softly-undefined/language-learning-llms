@@ -1,0 +1,39 @@
+METADATA
+
+General:
+Author ID: PHA0710017
+Test language: Czech
+CEFR level of test: B2
+Task : write an essay: Clothes make the man - ID: B2PS0201_saty
+Mother tongue: Other
+Age: 2029
+Gender: male
+
+Rating:
+Overall CEFR rating: B2
+Grammatical accuracy: B2
+Orthography: B1
+Vocabulary range: B2
+Vocabulary control: B2
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Oblečeny jsou jedna z nejdůležitějších věcí pro člověka. Lídé nosí oblečeny podle ne jenom počasí, a také podle situace. Napřiklad v letě je to velmi přijemné nosit šortky, ale pro obchodníky nebo uřadniky nejsou takové oblečeny vhodné. Vkus také hraje velmi důležitou roli. Na ulících vidíme často nekterý lidi, kteři nosí barevné oblečeny, které jsou snad hezké, ale určitě nejsou elegantní. Cena oblečenů dá také informaci, jakou socialní pozici má ten člověk, je bohatý nebo chudý. Ale mezi vkusem a cenou nemusí být spojení. Podle mého názoru, nejdůležitejší je najít oblečen, které sluší svému vkusu a vzhledu. To znamená, vkusní oblečeny nemusí být drahé, a je to občas nesmysl utratit hodně peněz za oblečeny, protože někdy kupujeme drahé a nevhodné oblečeny. 
+Existuje české přisloví: "šaty dělají člověka". Pro každého má snad různý význam. Pro mě šaty dělá člověka, protože šaty jsou první dojem který dostanou ostatní. Ačkoliv podle toho nemůžeme vědět jaký je tenhle člověk, ale máme alespoň přestavu. 
+Ta přestava může být dobrá nebo špatná podle nejenom vkusu toho člověka, a také podl našeho vkusu, protože každý má svůj osobní vkus a názor na obličeny. A to určit snad naši skupinu přátel, protože podle vkusu a výběru obličenů víme, kteři lidi mají stejný vkus jako mý . Proto si mýslím, že šaty dělají člověka, také mají vliv na chovaní člověka.
+
+----------------
+
+Target hypothesis 1: 
+
+Oblečení je jedna z nejdůležitějších věcí pro člověka . Lidé nosí oblečení nejenom podle počasí , ale také podle situace . Například v létě je to velmi příjemné , nosit šortky , ale pro obchodníky nebo úředníky není takové oblečení vhodné . Vkus také hraje velmi důležitou roli . Na ulicích vidíme často některé lidi , kteří nosí barevné oblečení , které je snad hezké , ale určitě není elegantní . Cena oblečení dá také informaci , jakou sociální pozici má ten člověk , zda je bohatý , nebo chudý . Ale mezi vkusem a cenou nemusí být spojení . Podle mého názoru nejdůležitější je najít oblečení , které sluší svému vkusu a vzhledu . To znamená , že vkusné oblečení nemusí být drahé , a je to občas nesmysl , utratit hodně peněz za oblečení , protože někdy kupujeme drahé a nevhodné oblečení . Existuje české přísloví : " Šaty dělají člověka . " Pro každého má snad různý význam . Pro mě šaty dělají člověka , protože šaty jsou první dojem , který dostanou ostatní . Ačkoliv podle toho nemůžeme vědět , jaký je tenhle člověk , máme alespoň představu . Ta představa může být dobrá nebo špatná nejenom podle vkusu toho člověka , ale také podle našeho vkusu , protože každý má svůj osobní vkus a názor na oblečení . A to určí snad naši skupinu přátel , protože podle vkusu a výběru oblečení víme , kteří lidé mají stejný vkus jako my . Proto si myslím , že šaty dělají člověka , také mají vliv na chování člověka .
+
+----------------
+
+Target hypothesis 2: 
+
+Oblečení je jedna z nejdůležitějších věcí pro člověka . Lidé nosí oblečení nejenom podle počasí , ale také podle situace . Například v létě je to velmi příjemné , nosit šortky , ale pro obchodníky nebo úředníky není takové oblečení vhodné . Vkus také hraje velmi důležitou roli . Na ulicích vidíme často některé lidi , kteří nosí barevné oblečení , které je snad hezké , ale určitě není elegantní . Cena oblečení dá také informaci , jakou sociální pozici má ten člověk , zda je bohatý , nebo chudý . Ale mezi vkusem a cenou nemusí být přímá úměra . Podle mého názoru nejdůležitější je najít oblečení , které odpovídá vkusu a sluší vzhledu člověka . To znamená , že vkusné oblečení nemusí být drahé , a je to občas nesmysl , utratit hodně peněz za oblečení , protože někdy kupujeme drahé a nevhodné oblečení . Existuje české přísloví : " Šaty dělají člověka . " Pro každého má snad různý význam . Pro mě šaty dělají člověka , protože šaty vytváří první dojem u ostatních . Ačkoliv podle toho nemůžeme vědět , jaký je tenhle člověk , máme alespoň představu . Ta představa může být dobrá nebo špatná nejenom podle vkusu toho člověka , ale také podle našeho vkusu , protože každý má svůj osobní vkus a názor na oblečení . A to určí snad naši skupinu přátel , protože podle vkusu a výběru oblečení víme , kteří lidé mají stejný vkus jako my . Proto si myslím , že šaty dělají člověka , také mají vliv na chování člověka .

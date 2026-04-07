@@ -1,0 +1,29 @@
+METADATA
+
+General:
+Author ID: 1071_0243592
+Test language: German
+CEFR level of test: A1
+Task : congratulate to birth of child - ID: 1071_030101
+Mother tongue: Turkish
+Age: 18
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Lieber Jens,
+wie geht es Dir? Ich wünsche Dich. Wie geht es deine Frau und dein Baby? Ist Es Sohn oder Tochter? Wie heißt dein Baby? Ich möchte dein Baby sehen. Ich kann am Freitag zu Dir kommen. Ich möchte für das Baby eine Kleidung mitbringen. 
+Bitte ruf mich an.
+Viele Grüße
+Julia

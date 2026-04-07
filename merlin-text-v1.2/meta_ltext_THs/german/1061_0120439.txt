@@ -1,0 +1,39 @@
+METADATA
+
+General:
+Author ID: 1061_0120439
+Test language: German
+CEFR level of test: B1
+Task : write a letter for New Year to a friend - ID: 1061_110101
+Mother tongue: not reported
+Age: 62
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: A2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+                                       STADT X 04 17
+Liebe Michael
+Vielen Dank für deine Brief. Ich lese alles, und denke, du mit Franz und Daniela die Silvesternacht gut gemacht. In das neue jahr ich habe Neue Arbeit, das ist für mich interesant. Mit das ich hatte ein Prüfung gemacht.
+ich wünsche dich alles Gute zum neun Jahr.
+
+----------------
+
+Target hypothesis 1: 
+
+STADT X 04 . 17 . Lieber Michael ! Vielen Dank für deinen Brief . Ich lese alles und denke , du hast mit Franz und Daniela die Silvesternacht gut gemacht . In dem neuen Jahr habe ich eine neue Arbeit , das ist für mich interessant . Damit hatte ich eine Prüfung gemacht . Ich wünsche dir alles Gute zum neuen Jahr .
+
+----------------
+
+No target hypothesis 2 available.
+

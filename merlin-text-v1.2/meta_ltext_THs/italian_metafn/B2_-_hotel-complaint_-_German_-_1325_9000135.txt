@@ -1,0 +1,48 @@
+METADATA
+
+General:
+Author ID: 1325_9000135
+Test language: Italian
+CEFR level of test: B2
+Task : complaining against a hotel - ID: 1325_030300-2
+Mother tongue: German
+Age: 22
+Gender: female
+
+Rating:
+Overall CEFR rating: B2
+Grammatical accuracy: C1
+Orthography: C1
+Vocabulary range: C1
+Vocabulary control: B2
+Coherence/Cohesion: C1
+Sociolinguistic appropriateness: B2
+
+----------------
+
+Learner text: 
+
+Canton Ticino                                             Maria Rossi
+Sport e relax al                                           Strada Maggiore 1
+"Residence del Lago"                                 12345 Città X
+                                                                   21 maggio 2011 
+Egregi Signori,
+Gli scrivo per lamentarmi del mio soggiorno al "Residence del Lago" perché non ero contenta di questa vacanza. 
+Dopo aver letto il vostro annuncio ero sicura che questo residence è un luogo ottimo per riposarmi godendo l'ambiente esclusiva. Ma nelle mie vacanze ho dovuto notare che il vostro annuncio non corrisponde alla realtà, perciò durante il mio soggiorno mi sono resa conto che molte delle informazioni contenute nella pubblicità erano inesatte. Un esempio per questo è la difficoltà di fare dello sport. Sono una persona atletica che ama fare dello sport. Dunque ho scelto il vostro residence per il mio viaggio. Da voi non c'era la possibilità di nuotare perché la piscina era sempre sovraffollata e anche i corsi di nuoto erano pieni dei partecipanti.  Inoltre la frequentazione ad un corso di vela  o surf non era fattibile perché il lago era molto lontano e c'erano solo pochi collegamenti. Normalmente nel mio tempo libero  mi piace giocare a tennis ma purtroppo il campo da tennis era in riperazione. 
+Tutte queste differenze tra la realtà e l'annuncio pubblicitario mi costringe a richiedere di un parziale rimborso. 
+Veramente, tutto sommato, il viaggio era piuttosto un inferno che un  paradiso. 
+Vi ringrazio in anticipo per la vostra risposta. 
+Maria Rossi 
+
+
+----------------
+
+Target hypothesis 1: 
+
+Canton Ticino Maria Rossi Sport e relax al Strada Maggiore 1 " Residence del Lago " 12345 Città X 21 maggio 2011 Egregi Signori , Gli scrivo per lamentarmi del mio soggiorno al " Residence del Lago " perché non sono stata contenta di questa vacanza . Dopo aver letto il vostro annuncio ero sicura che questo residence è un luogo ottimo per riposarmi godendo l' ambiente esclusivo . Ma durante le mie vacanze ho dovuto notare che il vostro annuncio non corrisponde alla realtà , cioè durante il mio soggiorno mi sono resa conto che molte delle informazioni contenute nella pubblicità erano inesatte . Un esempio di questo è la difficoltà di fare dello sport . Sono una persona atletica che ama fare dello sport . Dunque ho scelto il vostro residence per il mio viaggio . Da voi non c' era la possibilità di nuotare perché la piscina era sempre sovraffollata e anche i corsi di nuoto erano pieni di partecipanti . Inoltre la frequentazione di un corso di vela o surf non era fattibile perché il lago era molto lontano e c' erano solo pochi collegamenti . Normalmente nel mio tempo libero mi piace giocare a tennis ma purtroppo il campo da tennis era in riparazione . Tutte queste differenze tra la realtà e l' annuncio pubblicitario mi costringono a richiedere un parziale rimborso . Veramente , tutto sommato , il viaggio è stato piuttosto un inferno che un paradiso . Vi ringrazio in anticipo per la vostra risposta . Maria Rossi
+
+----------------
+
+Target hypothesis 2: 
+
+Canton Ticino Maria Rossi Sport e relax al Strada Maggiore 1 " Residence del Lago " 12345 Città X 21 maggio 2011 Gentili Signori , Vi scrivo per lamentarmi del mio soggiorno al " Residence del Lago " perché non sono stata contenta di questa vacanza . Dopo aver letto il vostro annuncio ero sicura che questo residence era un luogo ottimo per riposarmi godendo l' ambiente esclusivo . Ma durante le mie vacanze ho dovuto notare che il vostro annuncio non corrisponde alla realtà , cioè durante il mio soggiorno mi sono resa conto che molte delle informazioni contenute nella pubblicità erano inesatte . Un esempio di questo è la difficoltà di fare dello sport . Sono una persona atletica che ama fare dello sport . Dunque ho scelto il vostro residence per il mio viaggio . Da voi non c' era la possibilità di nuotare perché la piscina era sempre sovraffollata e anche i corsi di nuoto erano pieni di partecipanti . Inoltre la frequenza di un corso di vela o surf non era possibile perché il lago era molto lontano e c' erano solo pochi collegamenti . Normalmente nel mio tempo libero mi piace giocare a tennis ma purtroppo il campo da tennis era in riparazione . Tutte queste differenze tra la realtà e l' annuncio pubblicitario mi costringono a richiedere un parziale rimborso . Veramente , tutto sommato , il viaggio è stato piuttosto un inferno che un paradiso . Vi ringrazio in anticipo per la vostra risposta . Maria Rossi

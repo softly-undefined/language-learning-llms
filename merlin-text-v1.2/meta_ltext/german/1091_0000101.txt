@@ -1,0 +1,30 @@
+METADATA
+
+General:
+Author ID: 1091_0000101
+Test language: German
+CEFR level of test: A2
+Task : ask friend to take care of pet - ID: 1091_0650102
+Mother tongue: Spanish
+Age: not reported
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Hallo Julia, Ich bin einmal.
+Ich habe ein Job Tamin in den Irak, nächst wochende, und Ich kann nicht allein MEINE Rois lassen.
+Bitte, können Sie einmal fur tag  in meine Haus gehen, fur check ob alles ist ok?
+Es hat, wasser und essen für zwei tag. und Sie haben nich problem. Aber Sie Darfen telefonieren für mich.
+Vieb Grüße
+Stefan

@@ -1,0 +1,48 @@
+METADATA
+
+General:
+Author ID: 1365_0100259
+Test language: Italian
+CEFR level of test: B1
+Task : answer to an wedding invitation - ID: 1365_020300
+Mother tongue: German
+Age: 28
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: C1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+                                                                                     Città X, 25-06-2011 
+Cara Beatrice, 
+ 
+Ti ringrazio moltissimo per l'invito del tuo matrimonio e ti mando tantissimi auguri per questa decisione unica. Sono sicura che Stefano è l'uomo giusto per te. 
+Sono molto felice che posso participare al tuo giorno speciale e che posso congratulare personalmente a te. 
+Ho una domanda: Avete una lista di desideri per il vostro matrimonio? Non voglio regalare qualcosa che già avete. Sarebbe molto gentile se mi può mandare la lista. Grazie mille! 
+ 
+Verrò già al 10 novembre perché vorrei a trovare anche la mia famiglia e farrò anche delle ferie in Italia. 
+                                                             -symbol-
+Allora, mi fa molto piacere di venire al tuo matrimonio e di vederti presto. 
+ 
+Tantissimi saluti e un abbraccio 
+Maria 
+
+----------------
+
+Target hypothesis 1: 
+
+Città X , 25-06-2011 Cara Beatrice , ti ringrazio moltissimo per l' invito al tuo matrimonio e ti mando tantissimi auguri per questa decisione unica . Sono sicura che Stefano è l' uomo giusto per te . Sono molto felice che posso partecipare al tuo giorno speciale e che posso congratularmi personalmente con te . Ho una domanda : avete una lista di desideri per il vostro matrimonio ? Non voglio regalare qualcosa che già avete . Sarebbe molto gentile se mi poteste mandare la lista . Grazie mille ! Verrò già il 10 novembre perché vorrei trovare anche la mia famiglia e farò anche delle ferie in Italia . -symbol- Allora , mi fa molto piacere venire al tuo matrimonio e vederti presto . Tantissimi saluti e un abbraccio Maria
+
+----------------
+
+No target hypothesis 2 available.
+

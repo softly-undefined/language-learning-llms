@@ -1,0 +1,37 @@
+METADATA
+
+General:
+Author ID: PHA0510004A
+Test language: Czech
+CEFR level of test: A2
+Task : write an email to a hotel - ID: A2PS0101_hotel
+Mother tongue: Other
+Age: 4049
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A1
+
+----------------
+
+Learner text: 
+
+Vážené dámy a panové, potřebujeme jednou dvelůzkovy pokoj se snídaně u vás. A bezpecní parkoviště je důlezité pro náse Auto. Můzete se opakovat hned. Kolik to stoji za noc? Jsme z lyžařskou školy, proto obyčejné zařízení v pokoj jsou v pořátku, ale pokoj musí byt s koupelnou. Děkujeme za opeď pozdem, s přatelskym pozdravem.
+
+----------------
+
+Target hypothesis 1: 
+
+Vážené dámy a pánové , potřebujeme u vás jednou dvělůžkový pokoj se snídaní . A bezpečné parkoviště je důležité pro naše auto . Můžete se opakovat hned . Kolik to stojí za noc ? Jsme z lyžařské školy , proto obyčejné zařízení v pokoji je v pořádku , ale pokoj musí být s koupelnou . Děkujeme za opeď pozdem , s přátelským pozdravem .
+
+----------------
+
+Target hypothesis 2: 
+
+Vážené dámy a pánové , potřebujeme u vás jednou dvoulůžkový pokoj se snídaní . A bezpečné parkoviště je důležité pro naše auto . Můžete se opakovat hned . Kolik to stojí za noc ? Jsme z lyžařské školy , proto obyčejné zařízení v pokoji je v pořádku , ale pokoj musí být s koupelnou . Děkujeme za odpověď předem , s přátelským pozdravem .

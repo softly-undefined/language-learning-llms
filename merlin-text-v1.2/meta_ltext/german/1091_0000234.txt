@@ -1,0 +1,31 @@
+METADATA
+
+General:
+Author ID: 1091_0000234
+Test language: German
+CEFR level of test: A2
+Task : ask friend to take care of pet - ID: 1091_0650102
+Mother tongue: not reported
+Age: 33
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B2
+Orthography: B1
+Vocabulary range: B2
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B2
+
+----------------
+
+Learner text: 
+
+                         Liebe Eva,
+               Ich will am Samstag ins Gebirge fahren. Ich mache meine Urlaub. Ich bin nicht zu Hause für zwei Wochen. Du weiß doch: ich habe einen Hund und zwei Katze. Aber ich kann nich mitnehmen. In diesem Hotel sind Haustiere nicht erlaubt. Kannst du mir mit meinen Haustieren helfen?
+              Mein Hund isst drei mal pro Tag. Am Nachmittag sollst du draußen bringen. Meine Katze essen und trinken wasser vier mal pro Tag. Du sollst nicht in der Küche lassen. Und der Hund auch.
+             Kannst du morgen um 8.30 meine Haustiere mitnehmen?
+            Ich warte auf deine baldige Antwort. 
+            Bis bald. 
+            Friedrich

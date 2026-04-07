@@ -1,0 +1,31 @@
+METADATA
+
+General:
+Author ID: 1071_0024705
+Test language: German
+CEFR level of test: A1
+Task : ask friend for help for finding apartment - ID: 1071_020200
+Mother tongue: not reported
+Age: 24
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: A2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Liebe Ingo,
+ich brauche Ihre hilfe, weil ich eine Arbeit in Neuburg gefunden habe, aber ich muss eine Wohnung vermietten.
+ich suche eine zwei Zimmer Wohnung ungefähr 50 m², mit Möbel dabei, TV und internet erforderlich, zwischen 300-450 Euro, ob möglich ist. 
+Schreib mir eine (e-Mail) Antwort wenn du Zeit hast.
+ich muss Arbeit anfangen am 1 Januar.
+Mit freundlichen Grußen, 
+Meier Michael Friedrich

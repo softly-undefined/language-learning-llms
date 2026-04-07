@@ -1,0 +1,29 @@
+METADATA
+
+General:
+Author ID: 1091_0000027
+Test language: German
+CEFR level of test: A2
+Task : letter to housing office - ID: 1091_0610301
+Mother tongue: Russian
+Age: 40
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: A1
+Orthography: A2
+Vocabulary range: A1
+Vocabulary control: A1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+                                            Stadt X. 04.01.2010.
+Sehr geehrte Damen und Herren,
+ich suche ein drei Zimmer Wohnung am Erdgeschoß mit große Balkon oder Terrase, Bad, Küche. In haus soll auch sein ein Kelerraum für eigene Bedarf und Waschraum. Dann hätten wir gern ein Parkplatz oder 2, oder Garage, weil wir zwei Autos besitzen.
+Mit freundlinen Grüßen
+Familie 

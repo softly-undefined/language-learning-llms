@@ -1,0 +1,55 @@
+METADATA
+
+General:
+Author ID: 1325_1001013
+Test language: Italian
+CEFR level of test: B2
+Task : complaining against a hotel - ID: 1325_030300-2
+Mother tongue: Hungarian
+Age: 18
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: C1
+Vocabulary range: B2
+Vocabulary control: B2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B2
+
+----------------
+
+Learner text: 
+
+Maria Rossi
+Città X
+Strada Maggiore 9
+12345
+Ungheria
+Canton Ticino
+Lugano
+18  Via Montanini
+1234
+Italia
+13 agosto 2011
+Spettabile ditta,
+Vi scrivo perchè ho avuto dei problemi durante la mia permanenza nel vostro villaggio turistico.
+Prima di tutto  sono state grande differenze tra la realtà e l'annucio pubblicato che ho letto su vostro sito Internet. Per esempio  l'area condizionata non  era funzionante e la  piscina  era sempre sovraffollata.
+In oltre sono una persona sportiva ma non ho potuto fare niente di sport.  Non ho potuto nuotare o non ho potuto giocare tennis perchè i campi da tennis erano in riparazione
+ Ho scelto il Vostro villaggo turistico perchè sembrava un residence bellissimo. Ma il mio viaggio è diventato un inbuco. 
+ In più non solo il servizio era orribile. Anche il residenze era vecchio mentre ho letto che questo è di recente costruzione. Sono veramente delusa e 3 naturalmente vorrei che mi vi rimborsiate almeno mezzo del prezzo pagato.  
+In attesa di una Vostra cortese risposta, 
+Distinti saluti, 
+Maria Rossi
+
+----------------
+
+Target hypothesis 1: 
+
+Maria Rossi Città X Strada Maggiore 9 12345 Ungheria Canton Ticino Lugano 18 Via Montanini 1234 Italia 13 agosto 2011 Spettabile ditta , Vi scrivo perché ho avuto dei problemi durante la mia permanenza nel vostro villaggio turistico . Prima di tutto ci sono state grandi differenze tra la realtà e l' annuncio pubblicato che ho letto su vostro sito Internet . Per esempio l' aria condizionata non era funzionante e la piscina era sempre sovraffollata . Inoltre sono una persona sportiva ma non ho potuto fare nessuno sport . Non ho potuto nuotare e non ho potuto giocare a tennis perché i campi da tennis erano in riparazione . Ho scelto il Vostro villaggio turistico perché sembrava un residence bellissimo . Ma il mio viaggio è diventato un incubo . In più , non solo il servizio era orribile , ma anche il residence era vecchio mentre avevo letto che questo è di recente costruzione . Sono veramente delusa e naturalmente vorrei che mi rimborsaste almeno metà del prezzo pagato . In attesa di una Vostra cortese risposta , distinti saluti . Maria Rossi
+
+----------------
+
+No target hypothesis 2 available.
+

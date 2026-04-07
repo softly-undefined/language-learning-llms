@@ -1,0 +1,29 @@
+METADATA
+
+General:
+Author ID: 1071_0024865
+Test language: German
+CEFR level of test: A1
+Task : congratulate to birth of child - ID: 1071_030101
+Mother tongue: English
+Age: 25
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Lieber Jens,
+Herzliche Glückwünsche. Ich Gratuliere Ihen und Ihre Frau auf das neue Baby. Du bist jetzt ein Vater. Das ist Super. Wie heißt das Baby? Also, ist seine Baby Männlich oder Weiblich. Ich glaube es/sie is sehr shön/nett. Ich denke sehr gut. Wie es der Mutter des Babys geht? Sagt sie; ich shicke meine Grüßen und besuche ich übermorgen mit viele Geschenke für das Baby.
+Wir bedanken uns bei Gott schön Tag noch. 
+Mit freundlichen Grüßen,
+Katharina

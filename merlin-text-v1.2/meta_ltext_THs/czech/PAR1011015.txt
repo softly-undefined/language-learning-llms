@@ -1,0 +1,40 @@
+METADATA
+
+General:
+Author ID: PAR1011015
+Test language: Czech
+CEFR level of test: B2
+Task : write an essay: More people know more - ID: B2PS0201_hlava
+Mother tongue: French
+Age: 3039
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B2
+Vocabulary range: B2
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Už v škole, začináme učit spolu učitel dobře zná že každy z žaků má specialní znalost o něco: zviřata, farby, země...Ta znalost zaleží o skušenost každého_
+V každem kontextu má dva typi znalosti: obecná a privatní_ Pak, nejvíc se rozmluví nejvíc obecná znalost růste.
+To patří k paradigmů naše Takzvané komunikacní společnost_  Jsme spojeny víc a víc diky počitačům, a tak každy z nás může přispět k růstu obecné znalost - Ten fakt se uzna snad nejlíp v internetových "forum"_
+Každy z učastniků můze informovat ostatní, a také dostat nutné informace a ostatní, a také dostat nutné informace a zpravy_Spolu, víme víc_ Pak můžeme ríct že: víc hlav, Víc ví.
+Ale také znamená že každá hlava musí fungovát alespoň minimalně_ totiž víc hlavy které nefungují_
+
+----------------
+
+Target hypothesis 1: 
+
+Už ve škole se začínáme učit spolu , učitel dobře zná to , že každý z žáků má speciální znalost o něčem : zvířata , farby , země ... Ta znalost záleží na zkušenosti každého . V každém kontextu má dva typy znalostí : obecné a privátní . Pak se nejvíc rozmluví , obecná znalost nejvíc roste . To patří k paradigmatu naší takzvané komunikační společnosti . Jsme spojeny víc a víc díky počítačům , a tak každý z nás může přispět k růstu obecné znalosti . Ten fakt se uzná snad nejlíp v internetových " fórech " . Každý z účastníků může informovat ostatní a také dostat nutné informace a zprávy . Spolu víme víc . Pak můžeme říct , že víc hlav víc ví . Ale také to znamená , že každá hlava musí fungovat alespoň minimálně  -  totiž víc hlav , které nefungují …
+
+----------------
+
+No target hypothesis 2 available.
+

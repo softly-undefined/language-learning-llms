@@ -1,0 +1,51 @@
+METADATA
+
+General:
+Author ID: 1023_0109946
+Test language: German
+CEFR level of test: B2
+Task : ask for information at Au pair Agency - ID: 1023_080401
+Mother tongue: other
+Age: 30
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B2
+Vocabulary control: B2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Schmidt Katharina
+Bahnhofsstraße 
+12345
+Stadt X
+                                                         28.10.2011
+Bahnhofstr. 101
+65185
+Wiesbaden
+Betreff: Informationen über Au-Pair Vermittlung.
+Sehr Geehrte Damen und Herren,
+Als ich eure Anzeige geleasen haben, hat es Mir Sehr interessiert. Ich habe Meine Realschule fertig gemacht, und Möchte ich mich ein Jarh Zeit lassen bevore ich mit einen Ausbildung anfangen kann. Dass Ihr International Au-pair vermittelt habe ich Mir Sehr drauf gefreut Weil ich habe Mich entschiden ein Jahr nach Deautschland zu reisen als Au-pair Mädchen. Ich habe Kleine Geschwezter die ich sehr gut umgehen kann, und es Wäre Keine problem um die Kleine Kinder zu Kümmern. Die Deutsche Sprache würde in Meine Schule als Zweitesprache gesprochen. Meine Hobbies Sind Kochen, Swimmen, Verschidene Spielen mit Kinder und Musik.
+Über die Aufenthaltsinformation fehlt mir einige, Bitte schicken Sie mir die Information wie ich für Mein Visum mich vorbereiten Kann.
+Ich würde Mich Sehr freuen ein Termin zu bekommen mich beraten lassen welche Pflichten, und Rechte ich habe als Au-pair Mädchen. Mein Ausweise ist bereit und bin zu vermitllen ab 1. Januar 2012.
+Für eine baldige Antwort würde mich sehr freuen.
+Mit freundlichen Grussen
+Schmidt Katharina
+
+----------------
+
+Target hypothesis 1: 
+
+Schmidt Katharina Bahnhofsstraße 12345 Stadt X 28.10.2011 Bahnhofstr . 101 65185 Wiesbaden Betreff : Informationen über Au-Pair-Vermittlung Sehr geehrte Damen und Herren , als ich eure Anzeige gelesen habe , hat es mich sehr interessiert . Ich habe meine Realschule fertig gemacht , und ich möchte mir ein Jahr Zeit lassen , bevor ich mit einer Ausbildung anfangen kann . Dass Ihr international Au-pairs vermittelt , darauf habe ich mich sehr gefreut , weil ich mich entschieden habe , ein Jahr nach Deutschland zu reisen als Au-pair-Mädchen . Ich habe kleine Geschwister , mit denen ich sehr gut umgehen kann , und es wäre kein Problem , mich um die kleinen Kinder zu kümmern . Die deutsche Sprache würde in meiner Schule als Zweitesprache gesprochen . Meine Hobbies sind kochen , schwimmen , Verschiedenes mit Kindern spielen und Musik . Über die Aufenthaltsinformation fehlt mir Einiges . Bitte schicken Sie mir die Information , wie ich mich für mein Visum vorbereiten kann . Ich würde mich sehr darüber freuen , einen Termin zu bekommen und mich beraten zu lassen , welche Pflichten und Rechte ich als Au-pair-Mädchen habe . Mein Ausweis ist bereit und ich bin ab 1 . Januar 2012 zu vermitteln . Über eine baldige Antwort würde ich mich sehr freuen . Mit freundlichen Grüssen Schmidt Katharina
+
+----------------
+
+No target hypothesis 2 available.
+

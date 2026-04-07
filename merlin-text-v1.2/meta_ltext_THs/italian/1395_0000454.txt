@@ -1,0 +1,40 @@
+METADATA
+
+General:
+Author ID: 1395_0000454
+Test language: Italian
+CEFR level of test: A2
+Task : contact a friend after a long time - ID: 1395_020300
+Mother tongue: French
+Age: 71
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Cara Anna,
+Come stai? Spero che tutto va bene con il tuo lavoro. Io sto bene. Mia sorella era malata fra due giorni e poi non ha potuto andare con mio fratello in Francia per vedere i nostri parenti. Era molto triste. Mio fratello sta ancora in Francia, ma ritorna a casa domenica. Fortunamente miei genitori non sono malati.
+Allora, quando ci incontriamo di nuovo? Che fai sabato sera? Forse possiamo andare al cinema insieme!
+Saluti,
+Maria
+
+----------------
+
+Target hypothesis 1: 
+
+Cara Anna , come stai ? Spero che tutto vada bene con il tuo lavoro . Io sto bene . Mia sorella è malata da due giorni e poi non è potuta andare con mio fratello in Francia per vedere i nostri parenti . È molto triste . Mio fratello sta ancora in Francia , ma ritorna a casa domenica . Fortunatamente i miei genitori non sono malati . Allora , quando ci incontriamo di nuovo ? Che fai sabato sera ? Forse possiamo andare al cinema insieme ! Saluti , Maria
+
+----------------
+
+No target hypothesis 2 available.
+

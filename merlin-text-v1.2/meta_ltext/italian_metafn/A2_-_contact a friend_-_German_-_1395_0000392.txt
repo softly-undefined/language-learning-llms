@@ -1,0 +1,30 @@
+METADATA
+
+General:
+Author ID: 1395_0000392
+Test language: Italian
+CEFR level of test: A2
+Task : contact a friend after a long time - ID: 1395_020300
+Mother tongue: German
+Age: 16
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: B1
+Orthography: C2
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Città X, 29.5.10
+Ciao Francesco
+Come stai? Quando ci siamo visti l'ultima volta? Io adesso sto studiando. Se tutto va bene andrò dopo al ospedale a lavorare Ma mi piace molto anche studiare.
+Al momento sono in vacanza a Città X. È molto bello. Il tempo è ottimo è la gente molto simpatice. Spero incontrarti presto. Ti faccio sapere quando ritorno così ci vediamo subito.
+Cari saluti e a presto
+Maria

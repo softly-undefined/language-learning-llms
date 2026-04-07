@@ -1,0 +1,45 @@
+METADATA
+
+General:
+Author ID: 1015
+Test language: Czech
+CEFR level of test: B1
+Task :  - ID: 3_Jana
+Mother tongue: German
+Age: not reported
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: A2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Ahoj Janko
+Velmi se mi líbilo, že jsem dostal zprávy od tebe. Už  jsem byl velmi zvedavý co děláš.  Určite byla ta seminař o jazyků.  Vím, že nikdy můžeš slyšit dost o tom.
+Jana, konečně, ktery obor studuješ v Praze? Myslim ten napad stodovat dálkově v Praze je vyborně!
+Pro mě ukončit studium  není tak lahký jako jsem myslil, ale nanejvýše na tři leti.
+ Tvůj jazykový kurz v Brně - to se ti líbí? Protože chtěl bych  vědět jestli ta jazyková škola má dobré metody a má kurzy češtiny.  Přišti leto chcel bych stravit v Brně aby nie jsi tak sama a mozeme se setkat častěji. Tak, prosím tě,  pošli mi odkaz na webovou stranku skoly.
+Na tento leto mám velký plan: chcem cestovat do Španělska, tam jedem vlakem a zpět - autostopem.
+Také chcem ti posielat nějaké fotky, keď jsem byl na vylet s Martinem na horach.
+Doufam že čas běhá do příšteho leta aby brzy se  uvidime. Taky ti posielám  hodně pozdravů od matky! 
+Měj se pekne - David
+
+----------------
+
+Target hypothesis 1: 
+
+Ahoj Janko , velmi se mi líbilo , že jsem dostal zprávy od tebe . Už jsem byl velmi zvědavý , co děláš . Určitě byl ten seminář o jazycích . Vím , že nikdy nemůžeš o tom slyšet dost . Jano , konečně , který obor studuješ v Praze ? Myslím , že ten nápad studovat dálkově v Praze je výborný ! Pro mě ukončit studium není tak lahké , jak jsem si myslel , ale nanejvýše tři roky . Tvůj jazykový kurz v Brně - ten se ti líbí ? Protože bych chtěl vědět , jestli ta jazyková škola má dobré metody a má kurzy češtiny . Příští léto bych chcel strávit v Brně , abys nebyla tak sama , a mozeme se setkávat častěji . Tak , prosím tě , pošli mi odkaz na webovou stránku školy . Na toto léto mám velký plán : chci cestovat do Španělska , tam jedu vlakem a zpět - autostopem . Také ti chci posielat nějaké fotky , keď jsem byl na výletě s Martinem na horách . Doufám , že čas uběhne do příštího léta , abychom se brzy viděli . Taky ti posielám hodně pozdravů od matky ! Měj se pěkně , David
+
+----------------
+
+Target hypothesis 2: 
+
+Ahoj Janko , velmi se mi líbilo , že jsem dostal zprávy od tebe . Už jsem byl velmi zvědavý , co děláš . Určitě byl ten seminář o jazycích . Vím , že nikdy nemůžeš o tom slyšet dost . Jano , konečně , který obor studuješ v Praze ? Myslím , že ten nápad studovat dálkově v Praze je výborný ! Pro mě ukončit studium není tak lehké , jak jsem si myslel , ale nanejvýše tři roky . Tvůj jazykový kurz v Brně - ten se ti líbí ? Protože bych chtěl vědět , jestli ta jazyková škola má dobré metody a má kurzy češtiny . Příští léto bych chtěl strávit v Brně , abys nebyla tak sama , a můžeme se setkávat častěji . Tak , prosím tě , pošli mi odkaz na webovou stránku školy . Na toto léto mám velký plán : chci cestovat do Španělska , tam jedu vlakem a zpět - autostopem . Také ti chci posílat nějaké fotky , když jsem byl na výletě s Martinem na horách . Doufám , že čas uběhne do příštího léta , abychom se brzy viděli . Taky ti posílám hodně pozdravů od matky ! Měj se pěkně , David

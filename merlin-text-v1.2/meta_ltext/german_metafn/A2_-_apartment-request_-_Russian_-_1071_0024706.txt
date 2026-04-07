@@ -1,0 +1,29 @@
+METADATA
+
+General:
+Author ID: 1071_0024706
+Test language: German
+CEFR level of test: A1
+Task : ask friend for help for finding apartment - ID: 1071_020200
+Mother tongue: Russian
+Age: 38
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Hallo, Ingo
+das ist Maria
+Ingo, zwei Wohen vor habe ich eine Arbeit in Neuburg gefunden. Aber ich habe keine Wohnung dort. Ich muss in Kurz Zeit eine Kleine Wohnung, veleicht 45-50m², zu finden. Wenn das möglich nähe mit mein Arbeit. Ich brauche deine Hilfe, 
+Antworte, bitte.
+Viele Größe Maria

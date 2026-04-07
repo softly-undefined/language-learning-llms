@@ -1,0 +1,41 @@
+METADATA
+
+General:
+Author ID: 1385_0001746
+Test language: Italian
+CEFR level of test: A1
+Task : reschedule an appointment - ID: 1385_020100
+Mother tongue: Polish
+Age: 36
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A1
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Ciao Daniele. 
+Mi dispiace, ma non posso andare a appuntamento con te, perche ho bisogno. Ho lavoro molto, perche mio capo ha organizzato una riunione giovedì pomeriggio, anche ho lavora molto in ufficio. Purtroppo non ho tempo per incontrarvi con te. 
+Possiamo andare a cena in sabato sera? o cinema in venerdi a pomeriggio? 
+                                     Ci vediamo in sabato 
+                                            Saluti 
+                                                   Maria
+
+----------------
+
+Target hypothesis 1: 
+
+Ciao Daniele . Mi dispiace , ma non posso andare all' appuntamento con te , perché ho bisogno di tempo . Ho molto lavoro , perché il mio capo ha organizzato una riunione giovedì pomeriggio e ho anche molto lavoro in ufficio . Purtroppo non ho tempo per incontrarmi con te . Possiamo andare a cena sabato sera ? O al cinema venerdì pomeriggio ? Ci vediamo sabato . Saluti Maria
+
+----------------
+
+No target hypothesis 2 available.
+

@@ -1,0 +1,45 @@
+METADATA
+
+General:
+Author ID: 1365_0100074
+Test language: Italian
+CEFR level of test: B1
+Task : help a friend who is looking for work after school-leaving exam - ID: 1365_040501
+Mother tongue: German
+Age: 59
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: B1
+Orthography: B2
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Caro Francesco!
+Gratulazione per la tua maturità linguistica; sei una persona molto brava!
+Nel nostro ristorante abbiamo avuto molto lavoro restarativi le ultimi mese. Ma l'architecto, che a planado tutto, costa molto soldi. 
+Communque ci sono molti fatture da pagare. Per cui ragione ti propositiamo: Tu poi entrare ad lavorare nel nostro ristorante come apprendisto di cuoco. Primamente, tu devi lavare i piatti, preparare l'insalata per pranzo e la sera. Con mio capo di cuisine, il signor Buffo, tu impari cuocere al fuoco. Il tempo apprendisto dura tre annos. Dopo questo , stare tu puoi decidere di restare nel ristorante per guadagnare due o tre anni, o ritornare direttamente agli tuoi studi linguistiche.
+In altro: nostro ristorante "Verde cruce", è situato nella bella Romagna, un ora e mezzo di Città X. Vicino a San Marina.
+Noi stiamo bene. Tuttavia, non siamo contento con il tempo; di due mesi foi quasi la pioggia, sempre e fa brutto tempo. Mi piacerebbe se tu mi fai guardare il tuo curriculum.
+Tanti saluti ai tuoi genitori anche.
+Cordiali saluti
+Il tuo zio e la tua zia
+Maria e Michele
+
+----------------
+
+Target hypothesis 1: 
+
+Caro Francesco ! Gratulazioni per la tua maturità linguistica : sei una persona molto brava ! Nel nostro ristorante abbiamo avuto molti lavori restaurativi negli ultimi mesi . Ma l' architetto che ha progettato tutto costa molti soldi . Comunque ci sono molte fatture da pagare . Per questa ragione ti proponiamo : tu puoi entrare a lavorare nel nostro ristorante come apprendista cuoco . Primamente , tu devi lavare i piatti , preparare l' insalata per il pranzo e la sera . Con il mio capo di cucina , il signor Buffo , tu impari a cuocere al fuoco . Il tempo di apprendistato dura tre anni . Dopo questo stare tu puoi decidere di restare nel ristorante per guadagnare due o tre anni , o ritornare direttamente ai tuoi studi linguistici . Inoltre il nostro ristorante " Verde cruce " è situato nella bella Romagna , a un' ora e mezza da Città X . Vicino a San Marino . Noi stiamo bene . Tuttavia , non siamo contenti del tempo : da due mesi fa quasi sempre pioggia e fa brutto tempo . Mi piacerebbe se tu mi facessi guardare il tuo curriculum . Tanti saluti anche ai tuoi genitori . Cordiali saluti Tuo zio e tua zia Maria e Michele
+
+----------------
+
+No target hypothesis 2 available.
+

@@ -1,0 +1,29 @@
+METADATA
+
+General:
+Author ID: 1071_0248335
+Test language: German
+CEFR level of test: A1
+Task : ask friend for help for finding apartment - ID: 1071_020200
+Mother tongue: Turkish
+Age: 36
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Liebe Ingo,
+ich habe eine neu Arbeit in Neuburg. Jetzt brauche ich ein neu Wohnung in Neuburg, kannst du bitte mir helfen. ein neue Wohnug finden bis spätet 1. Agust bitte. Ich fange die Arbeite 15 Agust an. Ich möchte die Wohnung 1 oder 2 Zimmer bitte Quadrat metre 55 oder 65.
+Vielen Dank für deine hilfe.
+Viele Grüße
+deine Peter.

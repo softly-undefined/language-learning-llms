@@ -1,0 +1,29 @@
+METADATA
+
+General:
+Author ID: 1091_0000002
+Test language: German
+CEFR level of test: A2
+Task : offer a ticket not used to a friend - ID: 1091_0690403
+Mother tongue: not reported
+Age: 59
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B2
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Liebe Julia
+Ich habe ein ZugTicket gekauft, Weil ich wollte nach Frankfurt fahren, aber leider hat meinen Bruder angerufen, Er wollte mich besuchen. 
+Ich kann leider nicht fahren, ob du lust hast nach Frankfurt, Du kannst das Ticket nehmen, es ist im 15.1.2012 um 8 Uhr morgen. fährt der Zug.
+Ich wünsche dir eine gute Wochenende.
+Viele Grüße

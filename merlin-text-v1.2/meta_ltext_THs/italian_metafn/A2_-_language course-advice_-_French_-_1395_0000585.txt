@@ -1,0 +1,43 @@
+METADATA
+
+General:
+Author ID: 1395_0000585
+Test language: Italian
+CEFR level of test: A2
+Task : inform friends about language course - ID: 1395_010300
+Mother tongue: French
+Age: 47
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A1
+Coherence/Cohesion: A1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+                                                                   Firenze, 3 marzo 2009
+Ciao, Paolo e Laura.
+Come state? Sono arrivata a Città X per seguire un corso di italiano. Il corso è interessante imparamio tutto la lingua (gramatica, vocabulari, verbi ...). La Profesoressa è molto gentile, cominciamo alle 3h fino alle 15h . Dunque, tengo tempo libero per visitare la cittá, i monumenti, le chiese dove si puó vedere bellissime cose di Leonardo di Vinci a Botticelli.
+Ritorno a Città X da tre settimane. 
+Ci vediamo, per ci racontare cosa ho fatto. 
+Un baccio, a presto 
+                                                              Maria
+
+----------------
+
+Target hypothesis 1: 
+
+Firenze , 3 marzo 2009 Ciao Paolo e Laura . Come state ? Sono arrivata a Città X per seguire un corso di italiano . Il corso è interessante , impariamo tutto della lingua ( grammatica , vocabolario , verbi ... ) . La professoressa è molto gentile , cominciamo alle 3 fino alle 15 , dunque tengo del tempo libero per visitare la città , i monumenti e le chiese dove si possono vedere bellissime cose di Leonardo da Vinci e Botticelli . Ritorno a Città X fra tre settimane . Ci vediamo per raccontarci cosa ho fatto . Un bacio , a presto Maria
+
+----------------
+
+Target hypothesis 2: 
+
+Firenze , 3 marzo 2009 Ciao Paolo e Laura . Come state ? Sono arrivata a Città X per seguire un corso di italiano . Il corso è interessante , impariamo tutto della lingua ( grammatica , vocabolario , verbi ... ) . La professoressa è molto gentile , seguiamo dalle 3 fino alle 15 , dunque ho del tempo libero per visitare la città , i monumenti e le chiese dove si possono vedere bellissime cose di Leonardo da Vinci e Botticelli . Ritorno a Città X fra tre settimane . Ci vediamo per raccontarti cosa ho fatto . Un bacio , a presto Maria

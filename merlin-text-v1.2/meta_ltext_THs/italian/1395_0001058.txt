@@ -1,0 +1,39 @@
+METADATA
+
+General:
+Author ID: 1395_0001058
+Test language: Italian
+CEFR level of test: A2
+Task : inform friends about language course - ID: 1395_010300
+Mother tongue: German
+Age: 18
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Cari amici
+Sono a Città X per fare un corso di italiano. Il corso mi piace molto. La mia insegnante, Francesca Rossi, è gentille. Nel suo corso posso imparare molto. Quando non c'è lezione vado in città per visitare dei monumenti, faccio shopping e vado al cinema con degli amici italiani. 
+Cari saluti
+ Maria
+
+----------------
+
+Target hypothesis 1: 
+
+Cari amici , sono a Città X per fare un corso di italiano . Il corso mi piace molto . La mia insegnante , Francesca Rossi , è gentile . Nel suo corso posso imparare molto . Quando non c' è lezione vado in città per visitare dei monumenti , faccio shopping e vado al cinema con degli amici italiani . Cari saluti Maria
+
+----------------
+
+No target hypothesis 2 available.
+

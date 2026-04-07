@@ -1,0 +1,30 @@
+METADATA
+
+General:
+Author ID: 1395_0001122
+Test language: Italian
+CEFR level of test: A2
+Task : go see a friend - ID: 1395_040101
+Mother tongue: German
+Age: 24
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: A1
+Vocabulary control: A1
+Coherence/Cohesion: A1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Cara Daniela, 
+Come stai? E come state la tua famiglia, tutto a posto?
+Ti piace la città Città X? Io voglio andare a Città X per la prossima settimana, va bene per te? Io vengo con il bus e restare 3 giorni. A la sera andiamo al cinema. Puoi chiamarmi al NR. 0345-11111111. Aspetto la tua telefonata. 
+ 
+Ci vediamo a presto 
+Cari saluti    Maria

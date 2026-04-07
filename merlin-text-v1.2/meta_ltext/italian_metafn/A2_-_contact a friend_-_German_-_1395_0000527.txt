@@ -1,0 +1,32 @@
+METADATA
+
+General:
+Author ID: 1395_0000527
+Test language: Italian
+CEFR level of test: A2
+Task : contact a friend after a long time - ID: 1395_020300
+Mother tongue: German
+Age: 25
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Città X, 26 Novembre 2010
+Caro Bruno,
+Come va? Io sto bene.
+Lavoro a Città X nelle Aziende X. Mi occupo delle informazioni dei clienti.
+Un mese adesso, sono andato a Londra per una settimana.
+Voglio ti incontrare il 27 Dicembre.
+Cari saluti
+Michele

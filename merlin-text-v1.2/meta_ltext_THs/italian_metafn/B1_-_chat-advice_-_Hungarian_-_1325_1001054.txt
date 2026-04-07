@@ -1,0 +1,44 @@
+METADATA
+
+General:
+Author ID: 1325_1001054
+Test language: Italian
+CEFR level of test: B2
+Task : help someone who has problems with chats - ID: 1325_040300-2
+Mother tongue: Hungarian
+Age: 20
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: C1
+Vocabulary range: B2
+Vocabulary control: B2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B2
+
+----------------
+
+Learner text: 
+
+Città X, 01 ottobre 2011
+Gentile Giorgio,
+abbiamo letto la tua lettera e ci fa piacere che hai deciso di scrivere a noi.
+Secondo noi hai fato bene a cancellare i numeri delle persone con cui chattavi. L'internet è un mondo "falso". Non poi avere un amicizia vera e sincera con una persona che non hai incontrato ancora. Ti consigliamo ad incontrarci con questi raggazzi così vi potete conoscere bene e dopo l'incontro poi decidere se voi tenere il rapporto con loro o no. Se decidi che non voi vedere più i ragazzi, meglio se cambi il tuo numero di cellulare. L'internet e utile e una buona cosa ma po essere anche pericoloso. Devi stare sempre attento con gli occhi aperti.
+Ti auguriamo tutto il buono e speriamo che potevamo aiutarti.
+Ti salutiamo cordialmente:
+Settimana Giovani
+Via Carispi 119
+80127
+
+----------------
+
+Target hypothesis 1: 
+
+Città X , 01 ottobre 2011 Gentile Giorgio , abbiamo letto la tua lettera e ci fa piacere che hai deciso di scrivere a noi . Secondo noi hai fatto bene a cancellare i numeri delle persone con cui chattavi . Internet è un mondo " falso " . Non puoi avere un' amicizia vera e sincera con una persona che non hai ancora incontrato . Ti consigliamo di incontrarti con questi ragazzi così vi potete conoscere bene e dopo l' incontro puoi decidere se vuoi tenere il rapporto con loro o no . Se decidi che non vuoi vedere più i ragazzi , meglio se cambi il tuo numero di cellulare . Internet è utile e una buona cosa ma può essere anche pericoloso . Devi stare sempre attento e con gli occhi aperti . Ti auguriamo tutto il buono e speriamo che abbiamo potuto aiutarti . Ti salutiamo cordialmente . Settimana Giovani Via Carispi 119 80127
+
+----------------
+
+No target hypothesis 2 available.
+

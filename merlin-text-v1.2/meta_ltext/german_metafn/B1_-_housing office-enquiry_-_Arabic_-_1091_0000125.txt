@@ -1,0 +1,30 @@
+METADATA
+
+General:
+Author ID: 1091_0000125
+Test language: German
+CEFR level of test: A2
+Task : letter to housing office - ID: 1091_0610301
+Mother tongue: Arabic
+Age: not reported
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B2
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: B2
+
+----------------
+
+Learner text: 
+
+Sehr geehte Damen und Herren,                     26.01.2012
+im Tageblatt habe ich Ihre Anzeig gelesen. Ich interessiere mich sehr das Wohnung.
+Ich habe lange Zeit einen neuen Wohnung suche. Ich bin verheiratet und habe ich 3 Kinder. Wir arbeiten bis 4:00 Uhr.
+Wir suchen einen neuen Wohnung groß hat fünf Zimmer. Küchen un Bad mit Balkon oder eine Garten. Und neh in die Stadt. Aber ich möchte die Miete und nebengusten nicht zu teuer sein bis 600€. Ich warte auf Ihre Antwortet.
+Mit freundlichen Grüßen.
+Müller Stefan

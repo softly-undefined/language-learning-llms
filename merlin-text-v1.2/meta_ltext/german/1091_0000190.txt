@@ -1,0 +1,30 @@
+METADATA
+
+General:
+Author ID: 1091_0000190
+Test language: German
+CEFR level of test: A2
+Task : offer a ticket not used to a friend - ID: 1091_0690403
+Mother tongue: Turkish
+Age: not reported
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A1
+
+----------------
+
+Learner text: 
+
+                                   07.02.12
+Liebe Julia,
+ich habe eine Fahrkarte für einen Wochenendausflug gekauft und möchte ich nach Stadt X fliegen. Aber leider am Wochenende muss ich viele Arbeiten. Ich brauche noch fahrkarte für nächste Wochenende aber möchte ich mit den Schiff fahren. (22.02.2012).
+Kannst du bitte mir Antwort.
+Viele Grüße
+Dein freund Michael

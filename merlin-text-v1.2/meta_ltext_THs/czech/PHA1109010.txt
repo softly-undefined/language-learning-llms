@@ -1,0 +1,45 @@
+METADATA
+
+General:
+Author ID: PHA1109010
+Test language: Czech
+CEFR level of test: A2
+Task : describe a photo: woman sitting at the window - ID: A2PS0200_zena
+Mother tongue: Other
+Age: 2029
+Gender: male
+
+Rating:
+Overall CEFR rating: A1
+Grammatical accuracy: A1
+Orthography: A2
+Vocabulary range: A1
+Vocabulary control: A1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Ta žena se jmenuje Jana.
+Je na jeji pokoje
+Je v Anglii a bydli v Londyne
+Má černe douhe vlasy  je jí padesatt let
+Pracuje v kancelaři
+Je vdaná ale nemá děti. 
+
+Ma ráda romanzy a historicky.
+Chodí na procházku do kina  a  do kavarny.
+Nemá psa ale ma kočku
+
+----------------
+
+Target hypothesis 1: 
+
+Ta žena se jmenuje Jana . Je na svém pokoji . Je v Anglii a bydlí v Londýně . Má černé dlouhé vlasy , je jí padesát let . Pracuje v kanceláři . Je vdaná , ale nemá děti . Má ráda romány a historky . Chodí na procházku do kina a do kavárny . Nemá psa , ale má kočku .
+
+----------------
+
+No target hypothesis 2 available.
+

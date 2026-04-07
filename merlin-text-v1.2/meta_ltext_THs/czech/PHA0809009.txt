@@ -1,0 +1,42 @@
+METADATA
+
+General:
+Author ID: PHA0809009
+Test language: Czech
+CEFR level of test: B2
+Task : write an essay: Everywhere well but at home the best - ID: B2PS0200_doma
+Mother tongue: Russian
+Age: 2029
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B2
+Vocabulary control: B1
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Všude dobře, doma nejlépe
+Každý člověk se snaží najít pro sebe lépší život. Hodně lídí se myslí že doma si ho nenajde. Každy z nich chce jet do hlávního města nebo do zhraničí. Ale když to uděla, jenom někteřy zvladnou tam zůstat. Samozřejmě život v bohatším mistě se zda jako přijemnější. Ale předem máme přemyslet proč to tak je. Nikdy a nic se neda zadarmo. Vždycky musime hodně pracovat aby něco dostat. Toto vědi každý, ale nemysli že v cizím to je komplikovaneje.
+Ja jsem měla stejnou chybu. Když jsem poprve přijela do České Republiky, zdalo se mi že bydlení tády je skoro pohadka. A už po prvním měsici se objevila řada problemů. Začálo to všecko s nerozumění českého jazyka. Nemohla jsem nic odjednat ani v restauraci, ani v obchodě,  vždycky mi davali neco jiné než jsem si mýslela. Neznaš dobře město, ztrátiš se někde, a nemužeš nikoho zeptat. bylo to težke nazačatku. Ale když už jsem  začala trochu mluvit česky, stalo to lepší. Seznamila jsem se s několikamy kamarády, začala rozumět  zpravy v novinach, filmy v kině. A přišla druha vlna illuze, že jsem doma. Pak se mi stalo velice  stískat pro moje rodině. 
+Jen když jsem se vratila domů po půl roků bydlení v zahraničí citila jsem si uplně spokojena. 
+Toto všechno se stalo před několika let, a teď už je to -symbol- všechno prýč. 
+Každy kdo někdy zkusil život v zahranicí vi, že všude je dobře, ale doma je nejlépe. 
+Jen jestlí zvyk trval  mnoho časů, domov se může změnit.
+
+----------------
+
+Target hypothesis 1: 
+
+Všude dobře , doma nejlépe Každý člověk se snaží najít pro sebe lepší život . Hodně lidí si myslí , že doma si ho nenajde . Každý z nich chce jet do hlavního města nebo do zahraničí . Ale když to udělá , jenom někteří tam zvládnou zůstat . Život v bohatším místě se samozřejmě zdá příjemnější . Ale předem máme přemýšlet , proč to tak je . Nikdy a nic se nedává zadarmo . Vždycky musíme hodně pracovat , abychom něco dostali . Toto vědí každí , ale nemyslí , že v cizím to je komplikovanějé . Já jsem měla stejnou chybu . Když jsem poprvé přijela do České republiky , zdálo se mi , že bydlení tady je skoro pohádka . A už po prvním měsíci se objevila řada problémů . Začalo to všecko nerozuměním českému jazyku . Nemohla jsem nic odjednat ani v restauraci , ani v obchodě , vždycky mi dávali něco jiného , než jsem si myslela . Neznáš dobře město , ztratíš se někde a nemůžeš se nikoho zeptat . Bylo to težké na začátku . Ale když už jsem začala trochu mluvit česky , stalo se to lepším . Seznámila jsem se s několika kamarády , začala rozumět zprávám v novinách , filmům v kině . A přišla druhá vlna iluze , že jsem doma . Pak se mi stalo , že se mi velice stýskalo po mojí rodině . Jen když jsem se vrátila domů po půl roku bydlení v zahraničí , cítila jsem se úplně spokojena . Toto všechno se stalo před několika lety a teď už je to všechno pryč . Každý , kdo někdy zkusil život v zahraničí , ví , že všude je dobře , ale doma je nejlépe . Jen jestli zvyk trval mnoho času , domov se může změnit .
+
+----------------
+
+No target hypothesis 2 available.
+

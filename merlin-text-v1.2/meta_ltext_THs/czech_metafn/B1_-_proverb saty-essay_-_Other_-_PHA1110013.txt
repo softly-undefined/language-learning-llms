@@ -1,0 +1,39 @@
+METADATA
+
+General:
+Author ID: PHA1110013
+Test language: Czech
+CEFR level of test: B2
+Task : write an essay: Clothes make the man - ID: B2PS0201_saty
+Mother tongue: Other
+Age: 3039
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B2
+Vocabulary range: B2
+Vocabulary control: B1
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+S myšlenkou, že šaty dělají člověka, souhlasím. Člověk, který není líný, má šikovné ruce a je chytrý může ve svém životě dosahnout všeho, co si přejí. 
+Pokud jde o lidi, nekaždý z nás umí sebe prosadit v tomhle životě. Ale nesmíme opuštět ruce dolů, musíme se snažit a jít za svým cílem. Dobrém příkladem je pro nás jsme sami. 
+Chytřé se lidé nerodí, ale se nimi stávají. Nemusí mít člověk vysokoškolské vzdělaní, nebo několik, stači když jednou někdy prosadí svou mýšlenku a ona bude o něčem, co ještě nikdo o tom ani neslyšel. A toho si člověka budou cenit. Takovým se způsobem člověk může posadit hodně vysoko. On se bude snažit dělat všechno, aby mohl být užitečný, aby všechny o něm mysleli, že je skvělý, a že svoji práci nedělá zbytečně a má rád to, co ho baví, to co jemu "sluší". 
+Myslím si, že se každý z nás muže prosadit něcím tak, aby byl viděn a pochvalen, a uslyšet to, že z tebe "šaty udělali člověka".
+
+----------------
+
+Target hypothesis 1: 
+
+S myšlenkou , že šaty dělají člověka , souhlasím . Člověk , který není líný , má šikovné ruce a je chytrý , může ve svém životě dosáhnout všeho , co si přeje . Pokud jde o lidi , ne každý z nás umí sebe prosadit v tomhle životě . Ale nesmíme opouštět ruce dolů , musíme se snažit a jít za svým cílem . Dobrým příkladem pro nás jsme my sami . Chytří se lidé nerodí , ale stávají se jimi . Nemusí mít člověk vysokoškolské vzdělání nebo několik , stačí , když jednou někdy prosadí svou myšlenku a ona bude o něčem , co ještě nikdo o tom ani neslyšel . A toho si lidé budou cenit . Takovým způsobem se člověk může posadit hodně vysoko . On se bude snažit dělat všechno , aby mohl být užitečný , aby všichni o něm mysleli , že je skvělý , a že svoji práci nedělá zbytečně a má rád to , co ho baví , to co mu " sluší " . Myslím si , že se každý z nás může prosadit něčím tak , aby byl viděn a pochválen a uslyšet to , že z tebe " šaty udělaly člověka " .
+
+----------------
+
+No target hypothesis 2 available.
+

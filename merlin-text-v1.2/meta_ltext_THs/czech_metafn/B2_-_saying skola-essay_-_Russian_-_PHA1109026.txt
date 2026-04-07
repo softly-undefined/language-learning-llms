@@ -1,0 +1,41 @@
+METADATA
+
+General:
+Author ID: PHA1109026
+Test language: Czech
+CEFR level of test: B2
+Task : write an essay: The school is the basis of the life - ID: B2PS0200_skola
+Mother tongue: Russian
+Age: 3039
+Gender: female
+
+Rating:
+Overall CEFR rating: B2
+Grammatical accuracy: B2
+Orthography: B1
+Vocabulary range: B2
+Vocabulary control: B2
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Škola - základ zivota
+Školáci chodi do školy denně. Někdo chodí rád, někdo se k této činnosti musí pobízet. Však v tomto věku ne každé dítě je schopné pochopit, co přesně za poklad v  rukou má a jak se s ním by mělo zacházet. Vzdělávací program na každé úrovní předpokládá obrovské investice jak  peněz, tak  lidského faktoru.  Vzdělané lidí zpravidla pokračují v samostudiu a dalším  rozšiřování svých ználosti i když se to netyká jejích oboru. Život kolem nás se moc rychle mění. Abychom mohli využít všech východ současného intellektualního  světa, musíme pracovat, číst, ptát se, zamyšlet se, porovnávát, zkoumat a nebát se všeho nového, neobvyklého. 
+Čím dřív pochopí to  naše děti, tím snadnější bude  jejích a zároveň i náš život. Celý socialní život probíhá po spiráli. Vyučovácí process zrovna také tak. Tím přinásíme do budousna více a více informaci. S informaci se musí úmět zacházet. Jenom mít nějakou povědomost, toho v dnešní době nestačí.  Každý obor lidské činnosti předpokládá široký spektrum znalosti a možnosti čerpat doplnujicí a rozšiřujicí informaci z jiných sfer lidského poznání. 
+Na závěr chci říci, že nic čemu jsme se učili na zakládní škole, -unreadable- střední, či vysoké škole, vše co jsme slyšeli od našich babiček, dědečků mám a tát není zbytečný. Každá dozvednost  -unreadable- dodá nám malý plus. A součet at spočítá každy sám! 
+(nejsem spisovatelkou, prominte)
+
+----------------
+
+Target hypothesis 1: 
+
+Škola - základ života . Školáci chodí do školy denně . Někdo chodí rád , někdo se k této činnosti musí pobízet . Však v tomto věku ne každé dítě je schopné pochopit , co přesně za poklad v rukou má a jak by se s ním mělo zacházet . Vzdělávací program na každé úrovni předpokládá obrovské investice jak peněz , tak lidského faktoru . Vzdělaní lidé zpravidla pokračují v samostudiu a dalším rozšiřování svých znalostí , i když se to netýká jejich oboru . Život kolem nás se moc rychle mění . Abychom mohli využít všech výhod současného intelektuálního světa , musíme pracovat , číst , ptát se , zamýšlet se , porovnávat , zkoumat a nebát se všeho nového , neobvyklého . Čím dřív to pochopí naše děti , tím snadnější bude jejich a zároveň i náš život . Celý sociální život probíhá po spirále . Vyučovací proces zrovna také tak . Tím přinášíme do budoucna více a více informací . S informací se musí umět zacházet . Jenom mít nějakou povědomost , to v dnešní době nestačí . Každý obor lidské činnosti předpokládá široké spektrum znalostí a možnosti čerpat doplňující a rozšiřující informaci z jiných sfér lidského poznání . Na závěr chci říci , že nic , čemu jsme se učili na základní škole , -unreadable- střední , či vysoké škole , vše co jsme slyšeli od našich babiček , dědečků mám a taky není zbytečné . Každá dozvednost -unreadable- dodá nám malý plus . A součet ať spočítá každý sám ! ( nejsem spisovatelkou , promiňte )
+
+----------------
+
+Target hypothesis 2: 
+
+Škola - základ života . Školáci chodí do školy denně . Někdo chodí rád , někdo se k této činnosti musí pobízet . Avšak v tomto věku ne každé dítě je schopné pochopit , co přesně za poklad v rukou má a jak by se s ním mělo zacházet . Vzdělávací program na každé úrovni předpokládá obrovské investice jak peněz , tak lidského faktoru . Vzdělaní lidé zpravidla pokračují v samostudiu a dalším rozšiřování svých znalostí , i když se to netýká jejich oboru . Život kolem nás se moc rychle mění . Abychom mohli využít všech výhod současného intelektuálního světa , musíme pracovat , číst , ptát se , zamýšlet se , porovnávat , zkoumat a nebát se všeho nového , neobvyklého . Čím dřív to pochopí naše děti , tím snadnější bude jejich a zároveň i náš život . Celý sociální život probíhá po spirále . Vyučovací proces zrovna tak . Tím přinášíme do budoucna více a více informací . S informací se musí umět zacházet . Jenom mít nějakou povědomost , to v dnešní době nestačí . Každý obor lidské činnosti předpokládá široké spektrum znalostí a možnosti čerpat doplňující a rozšiřující informace z jiných sfér lidského poznání . Na závěr chci říci , že nic , čemu jsme se učili na základní škole , -unreadable- střední , či vysoké škole , vše co jsme slyšeli od našich babiček , dědečků a mám , taky není zbytečné . Každá dozvednost -unreadable- nám dodá malý plus . A součet ať spočítá každý sám ! ( nejsem spisovatelkou , promiňte )

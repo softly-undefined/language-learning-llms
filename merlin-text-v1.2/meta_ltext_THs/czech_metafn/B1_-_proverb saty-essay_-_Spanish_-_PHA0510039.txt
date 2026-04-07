@@ -1,0 +1,37 @@
+METADATA
+
+General:
+Author ID: PHA0510039
+Test language: Czech
+CEFR level of test: B2
+Task : write an essay: Clothes make the man - ID: B2PS0201_saty
+Mother tongue: Spanish
+Age: 2029
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B2
+Orthography: B1
+Vocabulary range: B2
+Vocabulary control: B1
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+V součásné době existuje hodně modních trendů a stylů oblečení, což ovlivňuje myšlení lidí a může i zmenit názory.
+To slovo móda pro káždého může znamenat něco jiného, ale já to názyvám ,,Netrvanlivá podpora něčeho, což se líbí lidem." ;to může být myšlení, oblečení, hudba, auta, nejnovější technologie, a tak dále. Já osobně s tou řečí ,,šaty dělají člověka" nemůžu souhlasit a myslím že to by mělo být naopak ,,Šaty NEdělají člověka", podle mého názoru káždý člověk by měl mít prostě svojí vlastní módu a respektovat životy druhých lidí, to asi jednou tak bylo, asi ne, nejsem si jistý ale bohužel dneska to tak není, Všichní středoškolští studenti chtějí mít nejnovější boty, oblečení a tak ... a jenom myslejí na to, ve škole je poznat kdo je chudý a kdo bohatý podle oblečení a proto taky si myslím, že školní uniformy jsou dobré ale o tom už nebudu psát, tak konečně myslím že člověk by neměl nic povědět o nikom podle toho jaké mají oblečení.
+
+----------------
+
+Target hypothesis 1: 
+
+V současné době existuje hodně módních trendů a stylů oblečení , což ovlivňuje myšlení lidí a může i změnit názory . To slovo móda pro každého může znamenat něco jiného , ale já to nazývám , netrvanlivá podpora něčeho , což se líbí lidem . " ; to může být myšlení , oblečení , hudba , auta , nejnovější technologie , a tak dále . Já osobně s tou řečí , " šaty dělají člověka " nemůžu souhlasit a myslím , že by to mělo být naopak , Šaty NEdělají člověka " , podle mého názoru každý člověk by měl mít prostě svojí vlastní módu a respektovat životy druhých lidí , to asi jednou tak bylo , asi ne , nejsem si jistý , ale bohužel dneska to tak není . Všichni středoškolští studenti chtějí mít nejnovější boty , oblečení a tak ... a jenom myslí na to , že ve škole je poznat , kdo je chudý a kdo bohatý podle oblečení , a proto taky si myslím , že školní uniformy jsou dobré , ale o tom už nebudu psát , tak konečně myslím že člověk by neměl nic povědět o nikom podle toho jaké má oblečení .
+
+----------------
+
+No target hypothesis 2 available.
+

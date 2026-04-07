@@ -1,0 +1,38 @@
+METADATA
+
+General:
+Author ID: 1395_0001020
+Test language: Italian
+CEFR level of test: A2
+Task : go see a friend - ID: 1395_040101
+Mother tongue: German
+Age: 15
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Cara Giulia! Come stai? Io sto bene e la mia famiglia anche sta bene. Vorrei andare a trovare ti perchè mi voglio incontro con te! Puoi venire lì in settembre per due settimane! Le sere possiamo andare ai concerti o possiamo guardare i film al cinema. Anche possiamo fare lo shopping perchè la mia città e molto bella e grande. È una grande idea, vero? 
+Un braccio e per favore anche tu scrivi una lettera per me! 
+Maria 
+
+----------------
+
+Target hypothesis 1: 
+
+Cara Giulia , come stai ? Io sto bene e anche la mia famiglia sta bene . Vorrei andare a trovarti perché mi voglio incontrare con te ! Puoi venire lì in settembre per due settimane ! Le sere possiamo andare ai concerti o possiamo guardare i film al cinema . Possiamo anche fare lo shopping perché la mia città è molto bella e grande . È una grande idea , vero ? Un braccio e per favore scrivi anche tu una lettera per me ! Maria
+
+----------------
+
+No target hypothesis 2 available.
+

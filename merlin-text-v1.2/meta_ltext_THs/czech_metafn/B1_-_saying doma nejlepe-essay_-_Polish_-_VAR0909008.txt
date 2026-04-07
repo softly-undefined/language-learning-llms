@@ -1,0 +1,40 @@
+METADATA
+
+General:
+Author ID: VAR0909008
+Test language: Czech
+CEFR level of test: B2
+Task : write an essay: Everywhere well but at home the best - ID: B2PS0200_doma
+Mother tongue: Polish
+Age: 3039
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B2
+Vocabulary control: B2
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Rada čestuju -symbol- hlavně do ČR -symbol- od dobý když začela jsem mluvít český je to uplně super. Mam v ČR kamarady ze kterema jezdim. Navštivila jsem nekolik krásnych míst, ale vždycký když jsem tam měsíc nebo dva stiska se mi za Varšavou, ktera kdy jsem tady nevypadá hezký.
+Nevim proč, ale kdy človek narodi se v jedne země nemuže uplně řict, že nema jí rád. Pro mně  je to velká zajímavost -symbol- moje sestra bydlí ve Švicarsku a přijiždi do Polska jednou za rok. Po navštěve vždycký řiká -symbol- proč jsem tam jelá ale už za dva dný stiska se jí za polštinou, jídlem, rodinou ...
+Ja mam stejný názor na štastí. Nebydlim v nějaké cizí země. Když jednou jsem jela na dlouho dlouhý zájezd do Turecka byla jsem uplně štastna -symbol- nová mista,  -unreadable- lide, jídlo, přiroda, TEPLO :) ale když už jsem tam byla třetí týden počitala jsem dný do doby až se vratím domů. Myslela jsem na rodinu, kamarady, na pohled z okna, na zacpánée autobusy uplně obvyklé věcí, na ktere kdysme doma vůbec nemyslimé. Ale bohužel  každá taková malá věc, ktera udelála nam rádost po nejake době mizí a ukazuje se spatký po našem nasledujícím zajezdě nebo prazdninách 
+Ja mam ten pocit opravdu ráda protože dáva to možnost podivat se na naše prostředí uplně jinák a kvůlí tomu nektere věcí mužeme změnit nebo všimnout, uvidět znova.
+-unreadable- Myslím nejenom na nová mista země, kam pojedu když budu mít čas ale myslím taký že to bude hezký se vrátit. Už se na to těšim. :)
+
+----------------
+
+Target hypothesis 1: 
+
+Ráda cestuju -symbol- hlavně do ČR -symbol- od doby , kdy jsem začala mluvit česky , je to úplně super . Mám v ČR kamarády , za kterými jezdím . Navštívila jsem několik krásných míst , ale vždycky , když jsem tam měsíc nebo dva , stýská se mi po Varšavě , která , když jsem tady , nevypadá hezky . Nevím proč , ale když se člověk narodí v jedné zemi , nemůže úplně říct , že ji nemá rád . Pro mě je to velká zajímavost -symbol- moje sestra bydlí ve Švicarsku a přijiždi do Polska jednou za rok . Po navštěve vždycký řiká -symbol- proč jsem tam jela , ale už za dva dny se jí stýská po polštině , jídle , rodině ... Já mám stejný názor na štěstí . Nebydlím v nějaké cizí zemi . Když jsem jednou jela na dlouhý zájezd do Turecka , byla jsem úplně šťastná -symbol- nová místa , -unreadable- lidé , jídlo , příroda , TEPLO :) , ale když už jsem tam byla třetí týden , počítala jsem dny do doby , až se vrátím domů . Myslela jsem na rodinu , kamarády , na pohled z okna , na zacpané autobusy , úplně obvyklé věci , na které , když jsme doma , vůbec nemyslíme . Ale bohužel každá taková malá věc , která nám udělala radost , po nějaké době mizí a ukazuje se zpátky po našem následujícím zájezdě nebo prázdninách . Já mám ten pocit opravdu ráda , protože dává možnost podívat se na naše prostředí úplně jinak a kvůli tomu některé věci můžeme změnit nebo si jich všimnout , uvidět je znova . -unreadable- Myslím nejenom na nová místa země , kam pojedu , když budu mít čas , ale myslím taky , že bude hezké se vrátit . Už se na to těším . :)
+
+----------------
+
+No target hypothesis 2 available.
+

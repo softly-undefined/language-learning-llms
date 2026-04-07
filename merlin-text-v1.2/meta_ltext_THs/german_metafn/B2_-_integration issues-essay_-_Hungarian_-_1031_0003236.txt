@@ -1,0 +1,38 @@
+METADATA
+
+General:
+Author ID: 1031_0003236
+Test language: German
+CEFR level of test: C1
+Task : write article about sticking to one's traditions and 'assimilation' in a new environment - ID: 1031_030301
+Mother tongue: Hungarian
+Age: 19
+Gender: not reported
+
+Rating:
+Overall CEFR rating: B2
+Grammatical accuracy: B2
+Orthography: C1
+Vocabulary range: B2
+Vocabulary control: B2
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: B2
+
+----------------
+
+Learner text: 
+
+Die Traditionen seines Heimatlandes fortsetzen im Ausland? Oder Orientierung an der Kultur des Gastlandes? Das ist ein schwere Frage für mich, weil ich immer in meinem Heimatland lebte. Aber ich habe eine mongolische Freundin, die 6 oder 7 Jahr alt war, wenn sie und ihre Familie nach Ungarn kamen. Sie war noch sehr jung, und sie konnte sich schnell „zu Hause fühlen".z.B. wenn wir in der Schule eine „Weihnachtenparty machten, kaufte sie auch etwas Kleinigkeit den anderen. Aber ihre Mutter und Vater waren ganz anders. Sie waren schon Erwachsene. Sie lernten und üben ihre eigene Traditionen in ihrem Heimatland. So sie übten auch in Ungarn diese Traditionen, und auch die budhische Religion.
+Ich bin der Meinung, wenn ich ins Ausland gehe, und ich wochne dort, übe ich meine Traditionen. Aber das bedeutet nicht, dass ich ein Außenseiter wäre. z.B. wenn ich in Brasilien wohnen hätte, ich, ginge immer auf dem Karneval von Rio.
+Manchmal sehe ich auf solche Menschen nicht mit gute Augen, die ihre Traditionen sehr wichtig halten, und sie üben überall und immer. Ich denke, dass sie ein bisschen fanatisch sind.  Und ich weiß, dass ich kein Recht habe, aber die erste Gedanken kann ich nicht regieren. Trotzdem sage ich: Toleranz ist sehr wichtig zwischen die Völkern und Menschen.
+
+----------------
+
+Target hypothesis 1: 
+
+Die Traditionen seines Heimatlandes im Ausland fortsetzen , oder Orientierung an der Kultur des Gastlandes ? Das ist ein schwere Frage für mich , weil ich immer in meinem Heimatland lebte . Aber ich habe eine mongolische Freundin , die 6 oder 7 Jahre alt war , als sie und ihre Familie nach Ungarn kamen . Sie war noch sehr jung , und sie konnte sich schnell " zu Hause fühlen " , z.B. wenn wir in der Schule eine " Weihnachtenparty " machten , kaufte sie den anderen auch eine Kleinigkeit . Aber ihre Mutter und ihr Vater waren ganz anders . Sie waren schon Erwachsene . Sie lernten und übten ihre eigenen Traditionen in ihrem Heimatland . So übten sie auch in Ungarn diese Traditionen , und auch die buddhische Religion . Ich bin der Meinung , wenn ich ins Ausland gehe , und ich wohne dort , übe ich meine Traditionen . Aber das bedeutet nicht , dass ich ein Außenseiter wäre , z.B. wenn ich in Brasilien wohnen würde , ginge ich immer auf den Karneval von Rio . Manchmal sehe ich auf solche Menschen , die ihre Traditionen sehr wichtig halten und sie überall und immer üben , nicht mit guten Augen . Ich denke , dass sie ein bisschen fanatisch sind . Und ich weiß , dass ich kein Recht habe , aber die ersten Gedanken kann ich nicht regieren . Trotzdem sage ich : Toleranz ist sehr wichtig zwischen den Völkern und Menschen .
+
+----------------
+
+No target hypothesis 2 available.
+

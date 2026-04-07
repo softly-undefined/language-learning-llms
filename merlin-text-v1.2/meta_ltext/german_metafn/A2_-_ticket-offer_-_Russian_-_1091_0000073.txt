@@ -1,0 +1,28 @@
+METADATA
+
+General:
+Author ID: 1091_0000073
+Test language: German
+CEFR level of test: A2
+Task : offer a ticket not used to a friend - ID: 1091_0690403
+Mother tongue: Russian
+Age: 61
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: B2
+Orthography: B2
+Vocabulary range: B1
+Vocabulary control: B2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B2
+
+----------------
+
+Learner text: 
+
+Sehr Damen und Herren,
+Ich suche eine 3 Zimmer Wohnung. Meine Wohnung ist 2 Zimmer. Meine Wohnung für unsere ist zu Klein, weil ich 2 Kinder habe. Ich möchte auch große Balkon. Die miete muss 600 € kalt pro Monat sein. Ich bin sehr zufrieden.
+Mit freundliche Grüße,
+Julia Müller

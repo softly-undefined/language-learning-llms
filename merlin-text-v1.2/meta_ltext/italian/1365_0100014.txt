@@ -1,0 +1,34 @@
+METADATA
+
+General:
+Author ID: 1365_0100014
+Test language: Italian
+CEFR level of test: B1
+Task : answer to an wedding invitation - ID: 1365_020300
+Mother tongue: Polish
+Age: 30
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: C1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+15 marzo 2010
+Cari amici,
+Congratulazioni! Tanti auguri!
+Mi piace molto sentire questa bella informazione: avete deciso di sposarvi! Sopratutto, vorrei ringraziarvi del vostro invito.
+Con un grande piacere participerò a la vostra cerimonia e dopo andrò al ristorante "da ciro". 
+Potete dirmi una cosa? Che posso regalarvi?
+Mi piacerebbe darvi una cosa prattica e bella ma non so che scegliere... Aiutate me!
+A presto 
+Cari saluti,
+Maria Rossi

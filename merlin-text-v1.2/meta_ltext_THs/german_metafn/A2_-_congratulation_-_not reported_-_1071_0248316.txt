@@ -1,0 +1,39 @@
+METADATA
+
+General:
+Author ID: 1071_0248316
+Test language: German
+CEFR level of test: A1
+Task : congratulate to birth of child - ID: 1071_030101
+Mother tongue: not reported
+Age: 42
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Hallo Jens Herzlich Glückwünsch Sie Sint Fata geworden ich freumich fur dich Vie viel wigt das Bebi und wie heist das Bebi istas aien Junge oder ain Mötchen Istes alles oke wigetes die Mamma gehtes ir gut ist ales oke mit ir Bitte wen Sie raus ist ruf mich am Ich wolte vor bei kommen
+Viele Gruse
+Deiner Eva
+
+----------------
+
+Target hypothesis 1: 
+
+Hallo Jens ! Herzlichen Glückwunsch ! Sie sind Vater geworden . Ich freue mich für dich . Wie viel wiegt das Baby und wie heißt das Baby ? Ist es ein Junge oder ein Mädchen ? Ist alles ok ? Wie geht es der Mama ? Geht es ihr gut ? Ist alles ok mit ihr ? Bitte , wenn sie raus ist , ruf mich an . Ich wollte vorbeikommen . Viele Grüße Deine Eva
+
+----------------
+
+Target hypothesis 2: 
+
+Hallo Jens ! Herzlichen Glückwunsch ! Du bist Vater geworden . Ich freue mich fur dich . Wie viel wiegt das Baby und wie weißt das Baby ? Ist es ein Junge oder ein Mädchen ? Ist es alles ok ? Wie geht es der Mama ? Geht es ihr gut ? Ist alles ok mit ihr ? Bitte , wenn sie raus ist , ruf mich an . Ich möchte vorbeikommen . Viele Grüße Deine Eva

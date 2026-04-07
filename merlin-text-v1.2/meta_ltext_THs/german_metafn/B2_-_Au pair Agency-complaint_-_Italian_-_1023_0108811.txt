@@ -1,0 +1,44 @@
+METADATA
+
+General:
+Author ID: 1023_0108811
+Test language: German
+CEFR level of test: B2
+Task : Au pair writes letter of complaint to Agency - ID: 1023_100303
+Mother tongue: Italian
+Age: 14
+Gender: male
+
+Rating:
+Overall CEFR rating: B2
+Grammatical accuracy: B2
+Orthography: B2
+Vocabulary range: B2
+Vocabulary control: B2
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: C1
+
+----------------
+
+Learner text: 
+
+2. Thema Beschwerdebrief
+Sehr geehrte Au-pair-Agentur,
+dieses ltztes Vierteljahr habe ich bei einer Gastfamilie in Deutschland verbracht. und ich wollt einige bemerkungen daruber machen.
+Als ich vor ein Vierteljahr in Deutschland angekommen bin, ich fühlte mich sehr glücklich, weil ich meine "neue" Familie sehen wollte.
+Aber am Flughafen war nimanden der auf mich wartete, darum habe ich ein Taxi genommen und ich bin nach meine "neue" Haus gefahren. Dort war nemanden weil die Familie war am spatzieren und ich habe fast eine Stunde gewartet, aber dann sind sie wieder von der Spatziergang gekommen und ich habe unendlich mein Haus gesehen. Ein wunderschönes, riesiges Haus. Nach das Haustaur habe ich meine Zimmer gesehen, wie war ganz schmutzig und klein (meine Erwartungen waren -unreadable- viel besser als dort das war)
+Die Familie bei dem ich gegangen bin ist wirklich unsympatisch, in ein Vierteljahr wir haben nie miteinander gegessen und wir haben auch uns nicht kennen gelernt.
+Meiner Meinung nach ihr sollter diese Familie vom Liste der Gastfamilie streichen, weil sonst ein anderes Junge wie ich könnte sich ärgern.
+Viele Grüsse                                     Friedrich Müller
+
+----------------
+
+Target hypothesis 1: 
+
+2 . Thema Beschwerdebrief Sehr geehrte Au-pair-Agentur , dieses letztes Vierteljahr habe ich bei einer Gastfamilie in Deutschland verbracht . Und ich wollte einige Bemerkungen darüber machen . Als ich vor einem Vierteljahr in Deutschland angekommen bin , fühlte ich mich sehr glücklich , weil ich meine " neue " Familie sehen wollte . Aber am Flughafen war niemand , der auf mich wartete , darum habe ich ein Taxi genommen und ich bin zu meinem " neuen " Haus gefahren . Dort war niemand , weil die Familie war am Spazieren , und ich habe fast eine Stunde gewartet , aber dann sind sie wieder von dem Spaziergang gekommen und ich habe unendlich mein Haus gesehen . Ein wunderschönes , riesiges Haus . Nach der Haustür habe ich mein Zimmer gesehen , das war ganz schmutzig und klein ( meine Erwartungen waren -unreadable- viel besser als es dort war ) Die Familie , bei der ich gegangen bin , ist wirklich unsympathisch , in einem Vierteljahr haben wir nie miteinander gegessen und wir haben uns auch nicht kennengelernt . Meiner Meinung nach solltet ihr diese Familie von der Liste der Gastfamilien streichen , weil sich sonst ein anderer Junge wie ich ärgern könnte . Viele Grüsse Friedrich Müller
+
+----------------
+
+Target hypothesis 2: 
+
+2 . Thema Beschwerdebrief Sehr geehrte Au-pair-Agentur , dieses letzes Vierteljahr habe ich bei einer Gastfamilie in Deutschland verbracht . Und ich wollte einige Bemerkungen darüber machen . Als ich vor einem Vierteljahr in Deutschland angekommen bin , fühlte ich mich sehr glücklich , weil ich meine " neue " Familie sehen wollte . Aber am Flughafen war nimanden , der auf mich wartete , darum habe ich ein Taxi genommen und ich bin zu meinem " neuen " Haus gefahren . Dort war niemand , weil die Familie am Spatzieren war . Ich habe fast eine Stunde gewartet , und dann sind sie wieder von dem Spatziergang gekommen und ich habe endlich mein Haus gesehen . Ein wunderschönes , riesiges Haus . Nach der Haustür habe ich mein Zimmer gesehen , das war ganz schmutzig und klein ( meine Erwartungen waren -unreadable- viel höher als es dort war ) . Die Familie , zu der ich gekommen bin , ist wirklich unsympatisch , in einem Vierteljahr haben wir nie miteinander gegessen und wir haben uns auch nicht kennengelernt . Meiner Meinung nach sollten Sie diese Familie von der Liste der Gastfamilien streichen , weil sich sonst ein anderer Junge wie ich ärgern könnte . Viele Grüsse Friedrich Müller

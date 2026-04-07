@@ -1,0 +1,44 @@
+METADATA
+
+General:
+Author ID: 1061_0120486
+Test language: German
+CEFR level of test: B1
+Task : write a letter for New Year to a friend - ID: 1061_110101
+Mother tongue: Russian
+Age: 23
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+                                                       Stadt X, 8.03.2012
+Lieber Michael,
+ich freue mich auf deinen Brief!
+Es ist toll, dass haben sie die Silvesternacht zusamen verbracht. Ich wünsche euch alles gute in neuen Jahr!
+Was für meine Silvesternacht - es war einfach toll! Mein Man hat ein Platz ins Restaurant reserviert und wir waren dort ganze Nacht und einen guter Konzert angeschauen und viel getanzt haben. Danach war sehr großer Feuerwerk. Bei meiner neues Arbeit es gibt alles gut. Ich habe einer guter Schef und das Office liegt in der Nähe von meiner Haus. 
+Ich möchte gerne mit dir in nextes Monat treffen. Hast du Zeit?
+Ich möchte dein Antwort schnel bekomen!
+Also, bis bald!
+Julia
+
+----------------
+
+Target hypothesis 1: 
+
+Stadt X , 8.03.2012 Lieber Michael , ich freue mich auf deinen Brief ! Es ist toll , dass sie die Silvesternacht zusammen verbracht haben . Ich wünsche euch alles Gute im neuen Jahr ! Was meine Silvesternacht angeht - es war einfach toll ! Mein Mann hat einen Platz im Restaurant reserviert und wir waren dort die ganze Nacht und haben ein gutes Konzert angeschaut und viel getanzt . Danach war ein sehr großes Feuerwerk . Bei meiner neuen Arbeit gibt es alles Gute . Ich habe einen guten Chef und das Büro liegt in der Nähe von meinem Haus . Ich möchte mich gerne mit dir im nächsten Monat treffen . Hast du Zeit ? Ich möchte deine Antwort schnell bekommen ! Also , bis bald ! Julia
+
+----------------
+
+No target hypothesis 2 available.
+

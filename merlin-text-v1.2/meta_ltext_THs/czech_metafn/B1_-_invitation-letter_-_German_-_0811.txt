@@ -1,0 +1,43 @@
+METADATA
+
+General:
+Author ID: 0811
+Test language: Czech
+CEFR level of test: B1
+Task : answer to the email of Alena - ID: 1_Alena
+Mother tongue: German
+Age: not reported
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B2
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Drážďany x 7.dubna2007
+Milá Aleno,
+
+děkuju Ti  mnohokrát za Tvůj email. Těšila jsem se moc z něj. Je mi líto, že píšu teprve dnes, ale musel jsem pracovat hodně v poslední době. Bohužel musím už pracovat na diplomce. Budu na dovolené až příští měsíc. Jinak se mám docela dobře! 
+Těšila jsem se moc, že budeš v Drážďanech X brzo! Můžeme se setkat, budu mít čas. Mužeš mi  navštívit odpoledne. Kdy příjedeš na nádraží? Chtěla bych jít na tebe! 
+Ten prázdninový kurz zajímá mě. Kateřino, víš kdy bude kurz a kolik stojí? Mohla bys mi poslat ten inzerát? 
+ Tak, doufám, že Ti v Brně Y dobře. Přeju Ti všechno nejlepší za Tvůj pohovor! Posílám Ti milý pozdrav z Drážďan X . Měj se hezký a za chvílí ahoj! Dana
+  
+
+----------------
+
+Target hypothesis 1: 
+
+Drážďany 7.dubna2007 Milá Aleno , děkuju Ti mnohokrát za Tvůj e-mail . Moc jsem se z něj těšila . Je mi líto , že píšu teprve dnes , ale musela jsem hodně pracovat v poslední době . Bohužel už musím pracovat na diplomce . Budu na dovolené až příští měsíc . Jinak se mám docela dobře ! Těšila jsem se moc , že budeš v Drážďanech brzo ! Můžeme se setkat , budu mít čas . Můžeš mě navštívit odpoledne . Kdy přijedeš na nádraží ? Chtěla bych pro Tebe jít ! Ten prázdninový kurz mě zajímá . Kateřino , víš , kdy bude kurz a kolik stojí ? Mohla bys mi poslat ten inzerát ? Tak , doufám , že Ti je v Brně dobře . Přeju Ti všechno nejlepší na Tvém pohovoru ! Posílám Ti milý pozdrav z Drážďan . Měj se hezky a za chvíli ahoj ! Dana
+
+----------------
+
+No target hypothesis 2 available.
+

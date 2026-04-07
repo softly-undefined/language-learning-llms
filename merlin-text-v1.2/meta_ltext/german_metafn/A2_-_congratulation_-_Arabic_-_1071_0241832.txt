@@ -1,0 +1,30 @@
+METADATA
+
+General:
+Author ID: 1071_0241832
+Test language: German
+CEFR level of test: A1
+Task : congratulate to birth of child - ID: 1071_030101
+Mother tongue: Arabic
+Age: 31
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Lieber Jens,
+wie geht es Dir?
+Herzlische glückwünsche mein Freund Jens für Vater worden. Wer ist Names Dein Baby? Wie sind Deine Frau und Dein Baby? Sind Sie gesund oder krank? Wie ist Dein Baby? Ist es einen Junge oder eine Mädschen? Wie findest Du Dein Baby? Bitte schreibt mich die Antwortet und schinkt mir 2 Bilder.
+Liebe Grüße,
+Dein Freund,
+Michael Müller

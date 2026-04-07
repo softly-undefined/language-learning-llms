@@ -1,0 +1,27 @@
+METADATA
+
+General:
+Author ID: 1071_0024851
+Test language: German
+CEFR level of test: A1
+Task : congratulate to birth of child - ID: 1071_030101
+Mother tongue: not reported
+Age: 36
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: B1
+Orthography: A2
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Mein Freund Jens ich hab´s gehört du bist Vater geworden. Herlich Glückwünsche! Und wie ist der Name des Babys? Ich glaube du auswelst die rihtige.
+Wie es der Mutter des Babys geht. Ich hofe alle ist in ordum. Ich wünsche euch Gezundheit.
+Mit vielen Gruß dein Freundn Tobias

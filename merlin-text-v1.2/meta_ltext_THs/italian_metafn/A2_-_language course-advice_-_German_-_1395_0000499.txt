@@ -1,0 +1,40 @@
+METADATA
+
+General:
+Author ID: 1395_0000499
+Test language: Italian
+CEFR level of test: A2
+Task : inform friends about language course - ID: 1395_010300
+Mother tongue: German
+Age: 26
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Città X 22 novembre 2010
+Caro Stefano, cara Beatrice
+Sono qui a Città X nel corso italiano. Segno il corso B1 nella scuola di lingua italiana. Impariamo la grammatica italiana e la comprensione auditiva. Nel mio corso c'è anchora 5 persone della Francia e 2 giapponese Dopo la lezione visitiamo il Collosseo. Per questo la guida è l'insegnante della scuola. È una signora italiana molto simpatica! Si chiama Maria Rossi.
+A presto!
+Michele
+
+----------------
+
+Target hypothesis 1: 
+
+Città X , 22 novembre 2010 Caro Stefano , cara Beatrice , sono qui a Città X al corso d' italiano . Segno il corso B1 nella scuola di lingua italiana . Impariamo la grammatica italiana e la comprensione auditiva . Nel mio corso ci sono ancora 5 persone della Francia e 2 giapponesi . Dopo la lezione visitiamo il Colosseo . Per questo la guida è l' insegnante della scuola . È una signora italiana molto simpatica ! Si chiama Maria Rossi . A presto ! Michele
+
+----------------
+
+No target hypothesis 2 available.
+

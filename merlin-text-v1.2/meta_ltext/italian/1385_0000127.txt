@@ -1,0 +1,31 @@
+METADATA
+
+General:
+Author ID: 1385_0000127
+Test language: Italian
+CEFR level of test: A1
+Task : reschedule an appointment - ID: 1385_020100
+Mother tongue: German
+Age: 41
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Ciao Daniele!
+Questa settimana, è una settimana orribile. In ufficio c'è molto lavoro e giovedì pomeriggio non posso incontrarti perché devo andare a una riunione con il mio capo.
+Ci vediamo sabato sera? È possibile per te? Ti piace andare al ristorante "Pattaya"; è un ristorante tailandese?
+Spero sì. Ti chiamo domani.
+A presto.
+Tanti saluti.
+Maria

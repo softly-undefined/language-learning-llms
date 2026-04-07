@@ -1,0 +1,30 @@
+METADATA
+
+General:
+Author ID: 1395_0000504
+Test language: Italian
+CEFR level of test: A2
+Task : inform friends about language course - ID: 1395_010300
+Mother tongue: German
+Age: 60
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Città X, 22 novembre 2010
+Cari amici
+Sono a Città X. C'è un luogo famoso in Sicilia. Faccio un corso di italiano di due mesi. Abbiamo una bella insegnante di Città Y. Siamo 15 studenti di diversa nazionalità. Usciamo spesso insieme quando non c'è lezione.
+La zona di Etna è molto bella per fare escursioni.
+A presto
+Michele

@@ -1,0 +1,31 @@
+METADATA
+
+General:
+Author ID: 1061_0120310
+Test language: German
+CEFR level of test: B1
+Task : write a letter to a friend (birthday) - ID: 1061_170900
+Mother tongue: Russian
+Age: 63
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B2
+Vocabulary control: B1
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Liebe Silke
+Ich mochte dir sehr besuchen, jetzt habe ich keine zeit. Kann sein bin ich in 3 woche auf 1 Woche urlaub bekommen und dann besuche ich Ihre famillie. Ich meihne, daß eine Katze ist gut geschenk zum Geburstag.  Ich liebe Tiere, aber bin ich allergich gegen katzenvell. Ich möchte zum geburstag Parfüm
+Meine Familie geht es gut Wichtig ist das meine Familie gesund ist und fitt.
+Ich warte auf die Zeit, da ich dich mal besuchen kann.
+Mit freundlichen Grußen
+dein Michael
+23.02.12

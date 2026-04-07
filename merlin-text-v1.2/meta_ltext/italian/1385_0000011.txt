@@ -1,0 +1,27 @@
+METADATA
+
+General:
+Author ID: 1385_0000011
+Test language: Italian
+CEFR level of test: A1
+Task : help a friend who is looking for work - ID: 1385_040101
+Mother tongue: German
+Age: 32
+Gender: male
+
+Rating:
+Overall CEFR rating: A1
+Grammatical accuracy: A1
+Orthography: A2
+Vocabulary range: A1
+Vocabulary control: A2
+Coherence/Cohesion: A1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Ciao Michele,
+grazie per la tua email. Vorrei aiutarti, ma ho bisogno di qualche informazione in più. Puoi...sono lavoro tutti! In tempo lavoro l'insegnante. Mi piace vaccio tutti. Che lavoro fai? Buona fine la settimana.
+molti saluti -unreadable-

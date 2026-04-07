@@ -1,0 +1,51 @@
+METADATA
+
+General:
+Author ID: 1325_1001170
+Test language: Italian
+CEFR level of test: B2
+Task : apply for internship in fashion sector - ID: 1325_020401-1
+Mother tongue: Hungarian
+Age: 19
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B2
+Orthography: C1
+Vocabulary range: B2
+Vocabulary control: B2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+                         Michele Rossi
+                         Strada Maggiore 42
+                         12345 Città X
+                         Paese X
+                        Città X, 12 ottobre 20120 
+ALI - Agenza Lavoro Interinale 
+ 
+Spettabile Ufficio,
+Sto scrivendo in risposta alla Vostra inserzione apparsa su Corriere della Sera. Mi permetto di presentare l'impegno in questione.
+Ho 23 anni, coniugato con due figli. Mi sono laureato in economice presso l'università di Città Y nel 1982. Adesso lavoro come addetto alla esportazione. 
+Conosco perfettamente  l'italiano, l'inglese e lo spagnolo. Ho una completta conoscenza dei  affari economici, avendo ripetutamente lavorato in Italia. 
+Sarei interessato a conoscere nei dattagli che cosa comportarebbero la registrazione del lavoro. Quando sarebbe la data d'inizio dello stage? 
+ 
+Nella speranza che la mia domanda venga accoltata favorevolmente e che mi venga accortata l'onore di un colloquio i miei migliori saluti. 
+                                     Rossi
+P.S. Allegato Curriculum Vitae
+
+----------------
+
+Target hypothesis 1: 
+
+Michele Rossi Strada Maggiore 42 12345 Città X Paese X Città X , 12 ottobre 20120 ALI - Agenza Lavoro Interinale Spettabile Ufficio , sto scrivendo in risposta alla Vostra inserzione apparsa sul Corriere della Sera . Mi permetto di presentare l' impegno in questione . Ho 23 anni , coniugato con due figli . Mi sono laureato in economia presso l' Università di Città Y nel 1982 . Adesso lavoro come addetto all' esportazione . Conosco perfettamente l' italiano , l' inglese e lo spagnolo . Ho una completa conoscenza degli affari economici , avendo ripetutamente lavorato in Italia . Sarei interessato a conoscere nei dettagli che cosa comporterebbe la registrazione del lavoro . Quando sarebbe la data d' inizio dello stage ? Nella speranza che la mia domanda venga accolta favorevolmente e che mi venga accordato l' onore di un colloquio vi mando i miei migliori saluti . Rossi P . S . Allegato Curriculum Vitae
+
+----------------
+
+No target hypothesis 2 available.
+

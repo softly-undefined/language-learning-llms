@@ -1,0 +1,45 @@
+METADATA
+
+General:
+Author ID: 1365_0100266
+Test language: Italian
+CEFR level of test: B1
+Task : help a friend who is looking for work after school-leaving exam - ID: 1365_040501
+Mother tongue: Hungarian
+Age: 30
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B2
+Orthography: B2
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+                                                                                                 Città X, 12.08.2011 
+Carissimo amico, Francesco!
+No vedo l'ora di rivederci! Questa settimana era fantastico! Sono stato a Transilvania a un artigiano, che dipinge armadi in stilo popolare. Ho conosciuto tanti motivi, ed adesso posso dipingere fiori bellissimi. 
+Adesso lavorando presso Entità X di Città X, vorrei scriverti di un impiego. Se accettassi, dovrei registare i fogli di ufficio, come no. 
+Non è un lavoro intellettuale, è sottopagato, ma senza dubbio saresti contento se anche tu cominci a lavorare. 
+Ho due diplomi ed io ti dico, che deve imparare qualchosa che rispetta ad economia. Io avendo diplomi di lingue non posso trovare un lavoro buono. 
+Secondo me tu sei molto bravo. No mi sono occupato. Congratulazioni per il successo tuo!
+Scrivimi nella lettera prossima più di te e applica il tuo curriculum. Monstrero lo al capoufficio! 
+In attesa della risposta tua: 
+                                                 Gian Carlo Tognazei 
+
+----------------
+
+Target hypothesis 1: 
+
+Città X , 12.08.2011 Carissimo amico Francesco ! Non vedo l' ora di rivederti ! Questa settimana era fantastico ! Sono stato in Transilvania da un artigiano che dipinge armadi in stilo popolare . Ho conosciuto tanti motivi e adesso posso dipingere fiori bellissimi . Adesso sto lavorando presso Entità X di Città X , vorrei scriverti di un impiego . Se accettassi , dovrei registrare i fogli dell' ufficio , come no . Non è un lavoro intellettuale , è sottopagato , ma senza dubbio saresti contento se anche tu cominciassi a lavorare . Ho due diplomi ed io ti dico che deve imparare qualcosa che rispetti l' economia . Io , avendo diplomi di lingue , non posso trovare un buon lavoro . Secondo me tu sei molto bravo . Non mi sono occupato . Congratulazioni per il tuo successo ! Scrivimi nella prossima lettera più su di te e applica il tuo curriculum . Lo mostrerò al capoufficio ! In attesa della tua risposta Gian Carlo Tognazei
+
+----------------
+
+No target hypothesis 2 available.
+

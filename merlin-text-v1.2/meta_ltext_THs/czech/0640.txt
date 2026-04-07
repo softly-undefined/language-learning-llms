@@ -1,0 +1,43 @@
+METADATA
+
+General:
+Author ID: 0640
+Test language: Czech
+CEFR level of test: B1
+Task : answer to the email of Alena - ID: 1_Alena
+Mother tongue: German
+Age: not reported
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Ahoj Mileno,
+děkuju mnohokrát za tvůj email. Těším se, že máte docela dobře a že mi pozváš!
+Momentalně mám hodně práce. Musíme se skončit s programem na festival. Potom budu mít dovolenou. To znamená, že se  bohužel neuvídíme v Liberci na grilovací party. Ale na svatbu ráda a určitě příjdu. Co si přáte, ty a Petr?
+Příští štredu budu mít čas. Ráda se s tebou setkám! Znáš kavárnu u "Gäusedieb"? Tuhle je v "Bilé uličce" (Weisse Gasse). Setkáme se tám v 15 hodin. Píjéme kávu a popovídáme si o svatbě. To je dobrý napad a už jsem moc zvědavá. 
+Mám ještě jednu otázku: Hledám dobrou gramatiku českého jazyka. Znáš jednu?  Jestli je to  možné, můžeš mi koupit jednu , prosím? Samozřejmě ji zaplatím! 
+Mileno, teď už skončím.
+Moc se těším na naše setkání. Hezký víkend!
+Ahoj Dana
+
+----------------
+
+Target hypothesis 1: 
+
+Ahoj Mileno , děkuju mnohokrát za tvůj e-mail . Těším se , že se máte docela dobře a že mě zveš ! Momentálně mám hodně práce . Musíme skončit s programem na festival . Potom budu mít dovolenou . To znamená , že se bohužel neuvidíme v Liberci na grilovací party . Ale na svatbu ráda a určitě přijdu . Co si přejete , ty a Petr ? Příští středu budu mít čas . Ráda se s tebou setkám ! Znáš kavárnu Gäusedieb ? Tahle je v Bílé uličce ( Weisse Gasse ) . Setkáme se tam v 15 hodin . Vypijeme kávu a popovídáme si o svatbě . To je dobrý nápad a už jsem moc zvědavá . Mám ještě jednu otázku : hledám dobrou gramatiku českého jazyka . Znáš jednu ? Jestli je to možné , můžeš mi koupit jednu , prosím ? Samozřejmě ti ji zaplatím ! Mileno , teď už skončím . Moc se těším na naše setkání . Hezký víkend ! Ahoj Dana
+
+----------------
+
+No target hypothesis 2 available.
+

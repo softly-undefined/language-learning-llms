@@ -1,0 +1,46 @@
+METADATA
+
+General:
+Author ID: 1325_1001008
+Test language: Italian
+CEFR level of test: B2
+Task : complaining against a hotel - ID: 1325_030300-2
+Mother tongue: Hungarian
+Age: 21
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: C2
+Vocabulary range: B2
+Vocabulary control: B2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Residence al Lago
+Maria Rossi
+Strada Maggiore 2/D
+Città X
+Ungheria
+13/08/2011
+Egregio Signore/a,
+La scrivo al riferimento dei servizi del Suo residence. Ci sono stata con il mio fidanzato per due settimane. Sembrava una buona scelta il suo hotel. Ma tutto era al contrario  come era scritta nel Suo annuncio.
+Siamo appassianati dello sport. Purtroppo non abbiamo potuto giocare tennis perchè i campi da tennis erano in riparazione. Questo era un problema grande riguardando alla cosa che il mio fidanzato un professionista del tennis. Quando abbiamo chiesto aiuto non abbiamo trovato una sola persona per risolverlo. Quanto a me la piú grande problema era che il lago sia stata lontanissimo. Mentre l'annuncio diceva "Il lago si raggiunge comodamente con i mezzi pubblici". Questo non è un bugio totalmente ma  c'erano pochi collegamenti però non ho potuto andarci. Una altra mancezza era l'équipe di animazione. Me la piace molto ma c'era una sola sera quando c'èra animazione. Non sono soddisfatta neanche il mio fidanzato è contento con i Suoi servizi.  Le preghiamo compensazione e  se potessi darLe un consiglio cambia l'annuncio. In aspetta di una sua risposta.
+Cordiali saluti,
+Maria Rossi  
+
+----------------
+
+Target hypothesis 1: 
+
+Residence al Lago Maria Rossi Strada Maggiore 2 / D Città X Ungheria 13 / 08 / 2011 Egregio / a Signore / a , Le scrivo in riferimento ai servizi del Suo residence . Ci sono stata con il mio fidanzato per due settimane . Sembrava una buona scelta il suo hotel , ma tutto era il contrario di come era scritto nel Suo annuncio . Siamo appassionati dello sport . Purtroppo non abbiamo potuto giocare a tennis perché i campi da tennis erano in riparazione . Questo era un problema grande riguardo alla cosa che il mio fidanzato è un professionista del tennis . Quando abbiamo chiesto aiuto non abbiamo trovato una sola persona per risolverlo . Quanto a me , il più grande problema era che il lago era lontanissimo , mentre l' annuncio diceva " Il lago si raggiunge comodamente con i mezzi pubblici " . Questo non è totalmente una bugia ma c' erano pochi collegamenti quindi non ho potuto andarci . Una altra mancanza era l' équipe di animazione . Mi è piaciuta molto ma c' è stata animazione una sola sera . Non sono soddisfatta e neanche il mio fidanzato è contento dei Suoi servizi . La preghiamo di darci una compensazione e se posso darLe un consiglio cambi l' annuncio . Resto in attesa di una sua risposta . Cordiali saluti , Maria Rossi
+
+----------------
+
+No target hypothesis 2 available.
+

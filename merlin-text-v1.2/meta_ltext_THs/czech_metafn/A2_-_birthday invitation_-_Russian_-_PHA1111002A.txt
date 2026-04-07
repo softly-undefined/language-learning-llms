@@ -1,0 +1,44 @@
+METADATA
+
+General:
+Author ID: PHA1111002A
+Test language: Czech
+CEFR level of test: A2
+Task : answering on a birthday invitation - ID: A2PS0102_oslava
+Mother tongue: Russian
+Age: 1519
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Milý Martine,
+ dekují za e-mail a za pozvaní. Rada pujdu na oslavu tvých narozenin. 
+Ale mamotazky. Napiš mi prosím, kde bude oslava a kdy oslava začíná. Kdo bude dalšmíhostmí?
+Teším se na odpověd
+
+S přitelskímpozdravem
+
+Eva.
+
+----------------
+
+Target hypothesis 1: 
+
+Milý Martine , děkuji za e-mail a za pozvání . Ráda půjdu na oslavu tvých narozenin . Ale mám otázky . Napiš mi , prosím , kde bude oslava a kdy oslava začíná . Kdo budou další hosté ? Těším se na odpověď . S přátelským pozdravem Eva .
+
+----------------
+
+Target hypothesis 2: 
+
+Milý Martine , děkuji za e-mail a za pozvání . Ráda půjdu na oslavu tvých narozenin . Ale mám otázky . Napiš mi , prosím , kde bude oslava a kdy oslava začíná . Kdo budou další hosté ? Těším se na odpověď . S přátelským pozdravem Eva .

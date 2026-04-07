@@ -1,0 +1,43 @@
+METADATA
+
+General:
+Author ID: PHA1110003B
+Test language: Czech
+CEFR level of test: A2
+Task : describe a photo: playground - ID: A2PS0201_hriste
+Mother tongue: Other
+Age: 2029
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A1
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Na fotografii je rodina, rodiče a jejich malé dvě děti.
+Oni jsou v nějakém místě, kde můžou hrát děti.
+Manželovi stojí a stará se o ně.
+Děti hrajou šťastně a rodiče na ně se dívají.
+Cítí se veselé.
+Myslím, že jsou spokojené, protože děti nemají problémy ze zdravy.
+Roční období je, myslím, že mezi létem a podzimem.
+
+----------------
+
+Target hypothesis 1: 
+
+Na fotografii je rodina , rodiče a jejich dvě malé děti . Oni jsou v nějakém místě , kde si můžou hrát děti . Manžel stojí a stará se o ně . Děti si šťastně hrajou a rodiče se na ně dívají . Cítí se vesele . Myslím , že jsou spokojené , protože děti nemají problémy se zdravím . Roční období je , myslím , mezi létem a podzimem .
+
+----------------
+
+Target hypothesis 2: 
+
+Na fotografii je rodina , rodiče a jejich dvě malé děti . Oni jsou na nějakém místě , kde si můžou hrát děti . Manžel stojí a stará se o ně . Děti si šťastně hrajou a rodiče se na ně dívají . Cítí se vesele . Myslím , že jsou spokojené , protože děti nemají problémy se zdravím . Roční období je , myslím , mezi létem a podzimem .

@@ -1,0 +1,41 @@
+METADATA
+
+General:
+Author ID: 1395_0000563
+Test language: Italian
+CEFR level of test: A2
+Task : go see a friend - ID: 1395_040101
+Mother tongue: German
+Age: 23
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Ciao Giusi
+Come stai? Io sto bene. Sono a Città X, per incontrare un amico. La città è bellissima, con le cathedrale e il grande Giuseppe Meazza stadio! Adesso siamo nella piazza a mangiare una pizza. Sta sera andiamo a vedere la partita del AC Milan contra Napoli. Quando vinciamo la partita, andiamo a fare una festa, quando no, andiamo a casa a dormire. Spero che vinciamo!
+La sua famiglia sono molto gentili. La sua mamma è una bellissima cuciniera! Sono ancora due giorni qui :(
+Tanti baci e ci vediamo a Città X 
+Michele
+
+----------------
+
+Target hypothesis 1: 
+
+Ciao Giusi , come stai ? Io sto bene . Sono a Città X per incontrare un amico . La città è bellissima con la cattedrale e il grande stadio Giuseppe Meazza ! Adesso siamo nella piazza a mangiare una pizza . Stasera andiamo a vedere la partita del AC Milan contro il Napoli . Quando vinciamo la partita , andiamo a fare una festa , quando non vinciamo , andiamo a casa a dormire . Spero che vinciamo ! La sua famiglia è molto gentile . La sua mamma è una bellissima cuciniera ! Sono qui ancora due giorni :( Tanti baci e ci vediamo a Città X Michele
+
+----------------
+
+Target hypothesis 2: 
+
+Ciao Giusi , come stai ? Io sto bene . Sono a Città X per incontrare un amico . La città è bellissima con la cattedrale e il grande stadio Giuseppe Meazza ! Adesso siamo nella piazza a mangiare una pizza . Stasera andiamo a vedere la partita del AC Milan contro il Napoli . Se vinciamo la partita , andiamo a festeggiare , se no , andiamo a casa a dormire . Spero che vinciamo ! La famiglia del mio amico è molto gentile . La sua mamma è una bravissima cuoca ! Sono qui ancora due giorni :( Tanti baci e ci vediamo a Città X Michele

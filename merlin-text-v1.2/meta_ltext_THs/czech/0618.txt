@@ -1,0 +1,43 @@
+METADATA
+
+General:
+Author ID: 0618
+Test language: Czech
+CEFR level of test: B1
+Task : answer to the email of Alena - ID: 1_Alena
+Mother tongue: German
+Age: not reported
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: A2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Dražďany, 8.2.07
+Ahoj Aleno!
+Děkuju za tvůj dopis! Mam se vyborně. Těším se na  setkaní!!  Kdy  příjdeš do Dražďan? Když přijdeš odpoledne, mužu dojít pro tě na nádraží. Potom jedeme domů a tam pijeme dobré české pivo! Kupoval jsem Pilzeňský Prazdroj! (vim, že maš rada :-) Znad budeme mam se čas prohližet pivovar "Watzke". Ale pravděpodobný budeme být opilý!
+Studium je velmi těšky teď , protože mam zkoušku v češtině zitra. Jsem trochu rozčilený, protože neměl jsem se čas učit. Nepracuju na diplomce ted, ale budu začínat přišti měsíc. Přišti tyden pojedu s přatelí do Litoměřic v Chechach. Tam se budeme opíjet a prohlížet si na památky.
+Kdy je prázdninové kurzy  a kolik to stoji? Posilaš inzeráty, prosím? Doufam, že mam čas přijet do vaší university. Pozdravuj tvoje přitel a tvoje rodinu!
+Mejse heský,
+Tvůj Tomáš
+
+----------------
+
+Target hypothesis 1: 
+
+Drážďany , 8.2.07 Ahoj Aleno ! Děkuju za tvůj dopis ! Mám se výborně . Těším se na setkání ! ! Kdy přijdeš do Drážďan ? Když přijdeš odpoledne , můžu pro tebe dojít na nádraží . Potom půjdeme domů a tam budeme pít dobré české pivo ! Kupoval jsem Plzeňský Prazdroj ! ( Vím , že ho máš ráda . :-) Snad budeme mít čas prohlédnout si pivovar " Watzke " . Ale pravděpodobně budeme opilí ! Studium je velmi těžké teď , protože mám zkoušku v češtině zítra . Jsem trochu rozčílený , protože jsem neměl čas učit se . Nepracuju na diplomce teď , ale začnu příští měsíc . Příští týden pojedu s přáteli do Litoměřic v Čechách . Tam se budeme opíjet a prohlížet si památky . Kdy jsou prázdninové kurzy a kolik to stojí ? Pošleš inzeráty , prosím ? Doufám , že budu mít čas přijet na vaši univerzitu . Pozdravuj tvého přítele a tvoji rodinu ! Měj se hezky , Tvůj Tomáš
+
+----------------
+
+Target hypothesis 2: 
+
+Drážďany , 8. 2. 07 Ahoj Aleno ! Děkuju za tvůj dopis ! Mám se výborně . Těším se na setkání ! ! Kdy přijedeš do Drážďan ? Když přijedeš odpoledne , můžu pro tebe dojít na nádraží . Potom půjdeme domů a tam budeme pít dobré české pivo ! Koupil jsem Plzeňský Prazdroj ! ( Vím , že ho máš ráda . :-) Snad budeme mít čas prohlédnout si pivovar " Watzke " . Ale pravděpodobně budeme opilí ! Studium je teď velmi težké , protože mám zkoušku z češtiny zítra . Jsem trochu rozčílený , protože jsem neměl čas učit se . Nepracuju na diplomce teď , ale začnu příští měsíc . Příští týden pojedu s přáteli do Litoměřic v Čechách . Tam se budeme opíjet a prohlížet si památky . Kdy jsou prázdninové kurzy a kolik to stojí ? Pošleš inzeráty , prosím ? Doufám , že budu mít čas přijet na vaši univerzitu . Pozdravuj tvého přítele a tvoji rodinu ! Měj se hezky , Tvůj Tomáš

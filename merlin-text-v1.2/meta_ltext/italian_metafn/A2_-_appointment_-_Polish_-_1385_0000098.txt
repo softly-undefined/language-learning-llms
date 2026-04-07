@@ -1,0 +1,29 @@
+METADATA
+
+General:
+Author ID: 1385_0000098
+Test language: Italian
+CEFR level of test: A1
+Task : reschedule an appointment - ID: 1385_020100
+Mother tongue: Polish
+Age: 54
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Caro Daniele,
+come stai,
+e una settimana orribile. In ufficio c'è molto lavoro e giovedi pomeriggio non posso incontro con te. Che ne dici di incontrare sabato sera? Hai voglia di andare a cena in un ristorante tailandese?
+Ci sentiamo!
+Tua Maria

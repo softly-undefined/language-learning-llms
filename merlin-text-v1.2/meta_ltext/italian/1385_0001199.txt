@@ -1,0 +1,31 @@
+METADATA
+
+General:
+Author ID: 1385_0001199
+Test language: Italian
+CEFR level of test: A1
+Task : reschedule an appointment - ID: 1385_020100
+Mother tongue: German
+Age: 33
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A1
+
+----------------
+
+Learner text: 
+
+Caro Daniele,
+Mi dispiace ma e una settimana orribile.  
+In ufficio c'è molto lavoro e giovedì pomeriggio non posso incontrarmi con te perché il mio capo ha organizzato una riunione per questo giorno.  
+Ma ho tempo sabato. Andiamo a cena sabato sera! 
+Hai voglia di andare in un ristorante tailandese? Come stai Daniele? Tu hai molto lavoro come me? 
+Presto 
+   Michele

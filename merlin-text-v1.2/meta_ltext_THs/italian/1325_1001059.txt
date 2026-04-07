@@ -1,0 +1,47 @@
+METADATA
+
+General:
+Author ID: 1325_1001059
+Test language: Italian
+CEFR level of test: B2
+Task : help someone who has problems with chats - ID: 1325_040300-2
+Mother tongue: Hungarian
+Age: 28
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: C1
+Vocabulary range: B2
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Settimana Giovani
+via Crispi 119
+80127, Caserta
+2011.10.01
+ogetto: Lettere personali
+Caro Giorgio
+Ho letto la tua lettera sul giornale "Settimana Giovani". Vorrei darti consiglio perche questa problema è famigliare anche per me. Lo fa tanta gente, tutti chattano. Facevo anche io durante anni. Ma nessun chat partner era o diventava un amica vera. Ho provato trovare anche l'amore ma non è riuscito perchè non erano uomini buoni in vivo.
+Sul base della mia esperienza chattare è un buon hobby ma un ora per giorno è abbastanza. Anche più se non scrivi dati e informazioni personali. Non dare il tuo numero di telefono mai perchè è un abitazione della gente di scrivere messaggi. Tutti fanno cosi.
+Allora, se hai cominciato il chat su un sito come facebook o skype puoi scrivere un status che dice che ha finito. Puoi anche cancellare il tuo profilo anche - è una cura più dura. Me stessa l'ho fatto cosi prima e funzionava.
+Puoi usare l'internet e il computer per tante altre cose. Per esempio io lavoro tanto sul internet. Guardo film italiani e giocco tanto. Amicizie virtuali non funzionano in 90 per cento. Divertiti con i tuoi amici veri.
+Buona fortuna,
+Maria
+
+----------------
+
+Target hypothesis 1: 
+
+Settimana Giovani via Crispi 119 80127 , Caserta 2011.10.01 oggetto : Lettere personali Caro Giorgio , ho letto la tua lettera sul giornale " Settimana Giovani " . Vorrei darti un consiglio perché questo problema è famigliare anche per me . Lo fa tanta gente , tutti chattano . L' ho fatto anche io durante gli anni . Ma nessun chat partner era o diventava un' amica vera . Ho provato a trovare anche l' amore ma non mi è riuscito perché non erano uomini buoni dal vivo . Sulla base della mia esperienza chattare è un buon hobby ma un' ora al giorno è abbastanza . Ancor più se non scrivi dati e informazioni personali . Non dare mai il tuo numero di telefono perché è un' abitazione della gente scrivere messaggi . Tutti fanno così . Allora , se hai cominciato la chat su un sito come facebook o skype puoi scrivere uno status che dice che ha finito . Puoi anche cancellare il tuo profilo , è una cura più dura . Io stessa l' ho fatto così prima e ha funzionato . Puoi usare internet e il computer per tante altre cose . Per esempio io lavoro tanto con internet . Guardo film italiani e gioco tanto . Le amicizie virtuali non funzionano al 90 per cento . Divertiti con i tuoi amici veri . Buona fortuna , Maria
+
+----------------
+
+No target hypothesis 2 available.
+

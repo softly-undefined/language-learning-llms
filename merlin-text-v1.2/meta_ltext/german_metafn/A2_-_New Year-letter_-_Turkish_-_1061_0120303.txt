@@ -1,0 +1,31 @@
+METADATA
+
+General:
+Author ID: 1061_0120303
+Test language: German
+CEFR level of test: B1
+Task : write a letter for New Year to a friend - ID: 1061_110101
+Mother tongue: Turkish
+Age: 46
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A1
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+                                      Stadt X 22.02.2012
+Liebe Michael
+vielen Dank für deine Glückwunschkarte zum neuen Jahr.
+Ich wünsche dir auch alles Gute!
+Die Silviesternach haben Maria und Ich wie jedes Jahr mit Julia und Friedrich gekocht und gegessen. Später sind wir dann in die Stadt gegangen,im Frühjahr werde ich mit meiner Freunden Maria ein Job gefunden.
+Herzliche Grüße
+Katharina

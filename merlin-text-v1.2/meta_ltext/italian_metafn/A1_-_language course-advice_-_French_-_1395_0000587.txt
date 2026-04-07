@@ -1,0 +1,29 @@
+METADATA
+
+General:
+Author ID: 1395_0000587
+Test language: Italian
+CEFR level of test: A2
+Task : inform friends about language course - ID: 1395_010300
+Mother tongue: French
+Age: 48
+Gender: female
+
+Rating:
+Overall CEFR rating: A1
+Grammatical accuracy: A1
+Orthography: A1
+Vocabulary range: A1
+Vocabulary control: A1
+Coherence/Cohesion: A1
+Sociolinguistic appropriateness: A1
+
+----------------
+
+Learner text: 
+
+                                                              Città X, il 12.01.10 
+Cari Paolo e Marco, 
+Sono a Città X; una settimana fa per seguire, un corso d'italiano. é credimo non é facile, di imparar italiano. 
+quando non c'e lezione, faccio un giro nel centro di Città X.ci sono tante belle cose da vedere. 
+Vi abracio               Maria

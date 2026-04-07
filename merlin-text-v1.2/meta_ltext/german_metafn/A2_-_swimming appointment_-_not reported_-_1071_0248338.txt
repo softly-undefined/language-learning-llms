@@ -1,0 +1,27 @@
+METADATA
+
+General:
+Author ID: 1071_0248338
+Test language: German
+CEFR level of test: A1
+Task : arrange appointment with friend to go swimming together - ID: 1071_120302
+Mother tongue: not reported
+Age: 36
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Hallo Daniela!
+Wir geht´s dir? Ich  habe heute frei und ich möchte mit dir in Schwimmbad gehe. Hast du Zeit? Wann du möchtest, wie treffen uns am 14 00 Uhr in den Bushaltestele. Muss du  nur eine Deke dabei haben.
+Bis bald Julia

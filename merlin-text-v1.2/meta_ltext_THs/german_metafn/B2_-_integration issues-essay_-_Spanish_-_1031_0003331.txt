@@ -1,0 +1,41 @@
+METADATA
+
+General:
+Author ID: 1031_0003331
+Test language: German
+CEFR level of test: C1
+Task : write article about sticking to one's traditions and 'assimilation' in a new environment - ID: 1031_030301
+Mother tongue: Spanish
+Age: 44
+Gender: female
+
+Rating:
+Overall CEFR rating: B2
+Grammatical accuracy: B1
+Orthography: B2
+Vocabulary range: B2
+Vocabulary control: B2
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: B2
+
+----------------
+
+Learner text: 
+
+Unter Kultur verstehet man verschiedenen Meinungen, Traditionen, Essen Gewohnheiten, Folkmusik und viele anderen Aspekte die characterizieren ein Land eller Stam. Auf der einen Seite sollt man nicht einfach die eigene Traditionen vergessen, weil sie ein wichtige Teil von die Identität sind.
+Auf der anderen Seite könnte man der Kultur des Gastslandes kennenzulernen, um die Leute besser zu verstehen. Offenheit spielt eine maßgebliche Rolle wenn man in anderen Land sich befindet. In der Regle sollte man tägliche neue Leute treffen, weil durch dies Erfahrung man sich nicht wie ein Fremde fühlt.
+Ein Balance zwischen die Bewahrung des eigenes Kultur und der Kultur des Gastlandes lernen zu können sollte eine Intelligent Alternativ sein. Darüber hinaus denke ich dass jeder Kultur ist wie ein Schatz die jeder entdecken kann wenn man will.
+Gleichzeitig muss man die negative Seiten die jede Kultur hat in Kauft nehmen.
+Als Gast in Ausland möchte ich fast alles erleben die mich interessiert und über Neuigkeiten aus dieses Kultur mich informiere.
+Meines Erachtens ist wichtig die Positive zu nehmen wenn ich ein fremde Land besuch.
+
+----------------
+
+Target hypothesis 1: 
+
+Unter Kultur versteht man verschiedene Meinungen , Traditionen , Essengewohnheiten , Folkmusic und viele andere Aspekte , die ein Land oder einen Staat charakterisieren . Auf der einen Seite sollte man nicht einfach die eigenen Traditionen vergessen , weil sie ein wichtiger Teil von der Identität sind . Auf der anderen Seite könnte man die Kultur des Gastslandes kennenlernen , um die Leute besser zu verstehen . Offenheit spielt eine maßgebliche Rolle , wenn man sich in einem anderen Land befindet . In der Regel sollte man täglich neue Leute treffen , weil man sich durch diese Erfahrung nicht wie eine Fremde fühlt . Eine Balance zwischen der Bewahrung der eigenen Kultur und der Kultur des Gastlandes lernen zu können , sollte eine intelligente Alternative sein . Darüber hinaus denke ich , dass jede Kultur wie ein Schatz ist , den jeder entdecken kann , wenn man will . Gleichzeitig muss man die negativen Seiten , die jede Kultur hat , in Kauf nehmen . Als Gast im Ausland möchte ich fast alles erleben , das mich interessiert , und mich über Neuigkeiten aus dieser Kultur informieren . Meines Erachtens ist es wichtig , das Positive zu nehmen , wenn ich ein fremdes Land besuche .
+
+----------------
+
+No target hypothesis 2 available.
+

@@ -1,0 +1,37 @@
+METADATA
+
+General:
+Author ID: 1004
+Test language: Czech
+CEFR level of test: B1
+Task :  - ID: 3_Jana
+Mother tongue: German
+Age: not reported
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: A2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Ahoj Jano, mockrát děkuju za tvůj mail. Psal jsi mě, že chceš studovat v Praze ale neřikal jsi jaké obor. Tak, ca budeš studovat? A kde? Mužeš me poslat odkaz na stranu škkolý? Maš rada kurz angličtiny? Tenhla škala taký nabízet kurzy češtiny? Protože já chci přijít v letě do Brny a tam chcí studovat češtinu. A mimo to se budeme setkat pak často. Potom se budu vrátit do městaX a dale budu studovat do ukončení. Bude trvat jěště dva roky.  V dodatku mužeš najít sudý fotky z vyletu Tomškem. Taký musím teď končit. Mě-ambiguous- se hezky. Tvoje Petra
+
+----------------
+
+Target hypothesis 1: 
+
+Ahoj Jano , mockrát děkuju za tvůj mail . Psala jsi mi , že chceš studovat v Praze , ale neříkala jsi jaký obor . Tak co budeš studovat ? A kde ? Můžeš mi poslat odkaz na stranu školy ? Máš ráda kurz angličtiny ? Tahle škola taky nabízí kurzy češtiny ? Protože já chci přijít v létě do Brna a chci tam studovat češtinu . A mimo to se pak budeme setkávat často . Potom se vrátím do Drážďan a dále budu studovat do ukončení . Bude to trvat ještě dva roky . V dodatku můžeš najít sudé fotky z výletu s Tomáškem . Taky musím teď končit . Měj se hezky . Tvoje Petra
+
+----------------
+
+Target hypothesis 2: 
+
+Ahoj Jano , mockrát děkuju za Tvůj mail . Psala jsi mi , že chceš studovat v Praze , ale neříkala jsi jaký obor . Tak co budeš studovat ? A kde ? Můžeš mi poslat odkaz na stránky školy ? Máš ráda kurz angličtiny ? Tahle škola taky nabízí kurzy češtiny ? Protože já chci přijít v létě do Brna a chci tam studovat češtinu . A mimo to se pak budeme setkávat často . Potom se vrátím do Drážďan a dále budu studovat do ukončení . Bude to trvat ještě dva roky . V dodatku můžeš najít sudé fotky z výletu s Tomáškem . Taky musím teď končit . Měj se hezky . Tvoje Petra

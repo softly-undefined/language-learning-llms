@@ -1,0 +1,28 @@
+METADATA
+
+General:
+Author ID: 1091_0000075
+Test language: German
+CEFR level of test: A2
+Task : letter to housing office - ID: 1091_0610301
+Mother tongue: Russian
+Age: 35
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Sehr Damen und Herren 
+Ich suche eine neue Wohnung. Die Wohnung muss 3 Zimmer haben, weil meine Familia große ist. Wir sind zwei Erwachsene und zwei Kinder. Die Wohnung muss bis 100m² sein. Die Miete muss bis 600 € pro Monat Kalt sein. Ich habe ein Auto, denn ich brauche eine Garage. Wenn die Wohnung Erdgeschoss ist, ich bin sehr zufrieden.
+Mit freundliche Grüße
+Julia

@@ -1,0 +1,29 @@
+METADATA
+
+General:
+Author ID: 1395_0000516
+Test language: Italian
+CEFR level of test: A2
+Task : contact a friend after a long time - ID: 1395_020300
+Mother tongue: German
+Age: 46
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Ciao Francesco
+come va?
+E tua famiglia e tutto va bene? Per la prosima vacanza io vado per due settimane al Città X e asspetta a te. La date 10.03 - 30.03.2011. Come va tua nova proffessione "patrone" al ristorante "Don Bruno"?
+ci vediamo
+Michele

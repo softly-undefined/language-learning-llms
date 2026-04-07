@@ -1,0 +1,40 @@
+METADATA
+
+General:
+Author ID: PHA0111018
+Test language: Czech
+CEFR level of test: B2
+Task : write an essay: A friend in need is a friend indeed - ID: B2PS0202_pritel
+Mother tongue: French
+Age: 4049
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B2
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Vybral jsem téma: "V nouzí poznáš přítele" protože, ja jsem myslím, že to je uplně pravda. Navic myslím, že každyčlověk muže to konstatovat vicekrát během svuj život. Toje taky téma o ktérém režisery radí dělají filmy.
+Osobně myslím, že to nezaleží, jestlí žijete v Evropě a nebo nikám jinám Vztahy mezí lidí je něco velmí komlíkovany -unreadable- vysvětlení a těžko rict jak, a proč dvě přítele, a nebo taxvany přítele, na jednou budu se chovat jinak než doposud. Fakt je, že opravdu realně přítele mám možna jenom jeden a nebo dva, což je hodně! Možna důvod je, že nejsme připravený žit s naších sousede ale jenom abychom mohlí se užit co nejvic bez ohledu na tom jestlí to je užiteční a nebo ne pro společnost.
+V připadě, že něco nám trápí a cítime, že nedostávame co jsme zvýkly dostávat, prestáneme se zajimat o naše prostredí.
+Na závěr, jediný rešení ktery vidím, je podporovat skoly a všcheno ktéry se týka o vzdělavaní aby,  co maximalně, lidí mohlí mít pristup na věd, literatura atd...
+Nouzovy situací jsou vždycky něco ktéry nemáme radí rešít a v tom připadě se chováme jinák než normalně ikdyž to se týka o naše prítele. 
+
+----------------
+
+Target hypothesis 1: 
+
+Vybral jsem téma : " V nouzi poznáš přítele " , protože já si myslím , že to je úplná pravda . Navíc myslím , že každý člověk to může konstatovat vícekrát během svého života . To je taky téma , o kterém režiséři rádi dělají filmy . Osobně si myslím , že nezáleží , jestli žijete v Evropě , anebo někde jinde . Vztahy mezi lidmi jsou něco velmi komplikovaného -unreadable- vysvětlení a těžko říct , jak a proč dva přátele , anebo takzvaní přátelé , se najednou budou chovat jinak než doposud . Fakt je , že opravdu reálného přítele mám možná jenom jednoho , anebo dva , což je hodně ! Možná je důvod to , že nejsme připraveni žít se svými sousedy , ale jenom abychom si mohli užít co nejvíc bez ohledu na to , jestli to je užitečné pro společnost , anebo ne . V případě , že nás něco trápí a cítíme , že nedostáváme , co jsme zvyklí dostávat , přestaneme se zajímat o své prostředí . Na závěr , jediné řešení , které vidím , je podporovat školy a všechno , co se týká vzdělávání , aby co maximálně lidí mohlo mít přístup k vědám , literatuře atd. Nouzové situace jsou vždycky něco , co neradi řešíme , a v tom případě se chováme jinak než normálně , i když se to týká našeho přítele .
+
+----------------
+
+No target hypothesis 2 available.
+

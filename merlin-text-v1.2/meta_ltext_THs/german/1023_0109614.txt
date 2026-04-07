@@ -1,0 +1,47 @@
+METADATA
+
+General:
+Author ID: 1023_0109614
+Test language: German
+CEFR level of test: B2
+Task : ask for information at Au pair Agency - ID: 1023_080401
+Mother tongue: other
+Age: 39
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B2
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Maria Meier
+Müllergasse 12
+12345 Stadt X
+International Au-pair
+Bahnhofstr. 101
+65185 Wiesbaden
+                                      Stadt X, den 10.10.11
+Sehr geehrte Damen und Herren,
+ich habe Ihre Anzeige gelesen und ich interessire mich für eine Au-pair-Stelle in Deutschland. Ich möchte in Deutschland wie Au-pair erste mal sechs Monate bleiben. Wenn finde ich eine besser Deushe Familie danach ich habe eine große schance für Deutsche sprache lernenen. Ich kann ein bischje Deutsch spreche aber nicht zu viel. Deutsche sprache für mich wichtigste ist. Ich interesiere mich was muss in die Familie mache. Ich muss für die Kindern kümmer oder muss ich in die Küche etwas mache. Ich finde für mich sind alle leicht sind. Könen Sie mir bitte zeigen was kann ich in der Freizeitaktivitäten mache.
+Ich warte Ihrer Antworten.
+Mit freundlichen Grüßen
+Maria Meier
+
+----------------
+
+Target hypothesis 1: 
+
+Maria Meier Müllergasse 12 12345 Stadt X International Au-pair Bahnhofstr . 101 65185 Wiesbaden Stadt X , den 10.10.11 Sehr geehrte Damen und Herren , ich habe Ihre Anzeige gelesen und ich interessiere mich für eine Au-pair-Stelle in Deutschland . Ich möchte in Deutschland als Au-pair erst mal sechs Monate bleiben . Wenn ich eine bessere deutsche Familie finde , habe ich danach eine große Chance , die deutsche Sprache zu lernen . Ich kann ein bisschen Deutsch sprechen , aber nicht zu viel . Die deutsche Sprache ist für mich das Wichtigste . Ich interessiere mich dafür , was ich in der Familie machen muss . Ich muss mich um die Kinder kümmern , oder muss ich in der Küche etwas machen ? Ich finde , für mich sind alle leicht . Können Sie mir bitte zeigen , was ich in den Freizeitaktivitäten machen kann . Ich warte auf Ihre Antworten . Mit freundlichen Grüßen Maria Meier
+
+----------------
+
+No target hypothesis 2 available.
+

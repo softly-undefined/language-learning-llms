@@ -1,0 +1,29 @@
+METADATA
+
+General:
+Author ID: 1091_0000276
+Test language: German
+CEFR level of test: A2
+Task : offer a ticket not used to a friend - ID: 1091_0690403
+Mother tongue: not reported
+Age: 54
+Gender: female
+
+Rating:
+Overall CEFR rating: B2
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Hallo Julia,
+Ich wolte nexte Woche nach Stadt X hinfahre für besuche „Heimtextil 2012" TREND-Bereich. Diese Messe dauert (zuletzt) von 12.01.2012 bis 15.01.2012.
+Ich habe eine Fahrkarte für nexte Woche gekauft aber ich kann nicht fahren wiel mein Sohn Stefan, kommt mich besuchen, Er kommt Freitag morgen und fahrt zurück Samstagabend. Ich denke du wilst diese Fahrkarte haben für fahren und besuche diese Messe.
+05.01.2012                            Süße Grüße
+                                                 Katharina

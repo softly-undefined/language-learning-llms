@@ -1,0 +1,41 @@
+METADATA
+
+General:
+Author ID: 1365_0100203
+Test language: Italian
+CEFR level of test: B1
+Task : answer to an wedding invitation - ID: 1365_020300
+Mother tongue: German
+Age: 21
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: C1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Maria Rossi
+Strada Maggiore 840
+12345 Città X
+                                                                                     Stefano Tittarelli e 
+                                                                                     Beatrice Russo
+                                                                                     Via Friuli 72
+                                                                                     Napoli
+Caro Stefano, 
+Cara Beatrice,
+
+Vi ringrazio per l'invito che ho ricevuto. Mi ha fatto un gran piacere. 
+Cari congratulazioni per il vostro matrimonio e solo il meglio per il futuro. 
+Arrivo con piacere alla ceremonia. Ma non credo che arriverò al ristorante. Perché ho già un altro appuntamento. Se mai ti faccio sappere una settimana prima. 
+Altro non so che regalo vi piacerebbe. Dite mi per favore con cosa che vi posso fare un piacere? Non vorrei regalare qualcosa inutile.  
+Ormai ci sentiamo. 
+Cari saluti
+Maria   

@@ -1,0 +1,36 @@
+METADATA
+
+General:
+Author ID: PHA0610019B
+Test language: Czech
+CEFR level of test: A2
+Task : describe a photo: playground - ID: A2PS0201_hriste
+Mother tongue: German
+Age: 4049
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Na fotografii jsou dva dospělí a dvě dětí. Dospěli asi jsou rodice, dětí třeba jsou bratr a sestra. Jsou na hrdiště. Děti hrajou na, a dospělí dávají pozor. Dospěli mají na sobě trička a bundy. Nevidím to přsně, ale myslím si, že holka má na sobě bílé šaty a chlapec ma na sobě světlou tričku a tmávou bundu. Cítí se dobře, myslím, že žena se směje. Nevím, o čem mluví, ale zdá se mi, že to není smutné téma. Je na jář nebo v letě; to vím, protože stromy má lísty a osobí nemají na sobě teplé šaty.
+
+----------------
+
+Target hypothesis 1: 
+
+Na fotografii jsou dva dospělí a dvě děti . Dospělí asi jsou rodiče , děti třeba jsou bratr a sestra . Jsou na hřišti . Děti si hrajou a dospělí dávají pozor . Dospělí mají na sobě trička a bundy . Nevidím to přesně , ale myslím si , že holka má na sobě bílé šaty a chlapec má na sobě světlé tričko a tmavou bundu . Cítí se dobře , myslím , že žena se směje . Nevím , o čem mluví , ale zdá se mi , že to není smutné téma . Je to na jaře nebo v létě ; to vím , protože strom má listy a osoby nemají na sobě teplé šaty .
+
+----------------
+
+No target hypothesis 2 available.
+

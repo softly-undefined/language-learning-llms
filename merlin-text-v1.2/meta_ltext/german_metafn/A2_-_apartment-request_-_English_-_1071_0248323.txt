@@ -1,0 +1,28 @@
+METADATA
+
+General:
+Author ID: 1071_0248323
+Test language: German
+CEFR level of test: A1
+Task : ask friend for help for finding apartment - ID: 1071_020200
+Mother tongue: English
+Age: 69
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A1
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Hallo Ingo.
+Ich haben eine Arbeit in Neuburg gefundet, Ich beginnt 1st Juli. Ich brauche eine Wohnung in Neuburg. Kann ihr Hilfe mich bei der Wohnungssuche. Ich habe an Idee Große der Wohnung. Kann Sie anrufen mich und spricht mich wenn Sie haben der Zeit
+Mit Große Freundlich
+Vielen Vielen Danke.

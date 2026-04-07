@@ -1,0 +1,30 @@
+METADATA
+
+General:
+Author ID: 1395_0001045
+Test language: Italian
+CEFR level of test: A2
+Task : inform friends about language course - ID: 1395_010300
+Mother tongue: German
+Age: 19
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Ciao Selina,
+Sono a Città X è veramente molto bello qui. Nel mio corso venti studenti, tutti sono molto carini. Loro mi auitano sempre, quando io non capisco niente.
+Nel mio tempo libero io vado con gli amici alla città  fare shopping e qualche volte noi andiamo in piscina e dopo noi giocciamo a tennis per restare in forma. 
+È molto divertente qui. 
+Cari saluti 
+Maria 

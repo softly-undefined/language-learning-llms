@@ -1,0 +1,40 @@
+METADATA
+
+General:
+Author ID: 1385_0001110
+Test language: Italian
+CEFR level of test: A1
+Task : reschedule an appointment - ID: 1385_020100
+Mother tongue: other
+Age: 19
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Caro Daniele,
+voglio spiegarmi con queste e-mail per non potere insontrarti  giovedì pomeriggio. In ufficio è una settimana orribile e c'é molto lavoro.
+Se vuoi  possiamo incontrarci  sabato sera.  Hai voglia di andare a cena in un ristorante tailandese?
+Scrivimi presto!
+Michele
+
+----------------
+
+Target hypothesis 1: 
+
+Caro Daniele , voglio spiegarti con questa e-mail perché non posso incontrarti giovedì pomeriggio . In ufficio è una settimana orribile e c' è molto lavoro . Se vuoi possiamo incontrarci sabato sera . Hai voglia di andare a cena in un ristorante tailandese ? Scrivimi presto ! Michele
+
+----------------
+
+No target hypothesis 2 available.
+

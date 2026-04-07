@@ -1,0 +1,30 @@
+METADATA
+
+General:
+Author ID: 1091_0000032
+Test language: German
+CEFR level of test: A2
+Task : letter to housing office - ID: 1091_0610301
+Mother tongue: Russian
+Age: 37
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Stadt X, 04.01.2012
+Sehr geehrte Damen und Herren,
+ich suche einen 41/2 Zimmer Wohnung ca 125 m², mit Balkon. Güste WC wird auch von Vorteil. Warmmiete soll nicht hoher als 550 €. Auch ruhige Lage ist ein Vorteil für mich.
+Ich würde mich sehr freuen, wenn Sie für mich was passendes finden, oder anbietten könnten.
+Mit freundlichen Grüßen
+Eva Müller 

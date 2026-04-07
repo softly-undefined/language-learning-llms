@@ -1,0 +1,40 @@
+METADATA
+
+General:
+Author ID: 1385_0001761
+Test language: Italian
+CEFR level of test: A1
+Task : reschedule an appointment - ID: 1385_020100
+Mother tongue: German
+Age: 15
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A1
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A1
+Coherence/Cohesion: A1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Ciao Daniele 
+ 
+Non posso venire giovedì pomeriggio. Il mio capo ha organizzato una riunione giovedì pomeriggio. Ma possiamo andare via sabato sera. Hai voglia di andare a mangiare in un ristorante tailandese? 
+Scrivi presto! Ciao 
+Michele
+
+----------------
+
+Target hypothesis 1: 
+
+Ciao Daniele , non posso venire giovedì pomeriggio . Il mio capo ha organizzato una riunione giovedì pomeriggio . Ma possiamo andare via sabato sera . Hai voglia di andare a mangiare in un ristorante tailandese ? Scrivi presto ! Ciao Michele
+
+----------------
+
+No target hypothesis 2 available.
+

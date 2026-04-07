@@ -1,0 +1,40 @@
+METADATA
+
+General:
+Author ID: 1385_0001131
+Test language: Italian
+CEFR level of test: A1
+Task : help a friend who is looking for work - ID: 1385_040101
+Mother tongue: German
+Age: 33
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Cara Eva,
+...Puoi me dire dove lavori adesso. Tu lavori sempre al teatro? Che tipo di lavoro fai attualmente et che tipo di lavoro tu preferisci?
+C'è importante per me a sapere quando puoi comincare un altro lavoro?
+Cari saluti e a presto
+Maria
+
+----------------
+
+Target hypothesis 1: 
+
+Cara Eva , puoi dirmi dove lavori adesso ? Tu lavori sempre al teatro ? Che tipo di lavoro fai attualmente e che tipo di lavoro preferisci ? È importante per me sapere quando puoi cominciare un altro lavoro . Cari saluti e a presto Maria
+
+----------------
+
+No target hypothesis 2 available.
+

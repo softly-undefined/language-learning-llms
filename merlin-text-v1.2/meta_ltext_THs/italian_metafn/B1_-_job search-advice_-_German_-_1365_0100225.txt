@@ -1,0 +1,46 @@
+METADATA
+
+General:
+Author ID: 1365_0100225
+Test language: Italian
+CEFR level of test: B1
+Task : help a friend who is looking for work after school-leaving exam - ID: 1365_040501
+Mother tongue: German
+Age: 35
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: C1
+Vocabulary range: B1
+Vocabulary control: B2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+                                                                                              Città X, 18.06.2011 
+Caro Francesco, 
+Grazie per la tua lettera. Auguri per l'esame. Ho pensato che tu lo fai. 
+Io sto bene, sto lavorando in un ufficio delle Ditta X. 
+Mi occupo delle annunci sul treno. Mi piace molto!
+L'anno scorso sono stato in regione X per un mezzo anno per studiare la lingua italiana. Mi è piacuto molto! La cucina italiana, il mare, la gente ...
+Si, ti aiuto per cercare un lavoro. Se io sento qualcosa ti lo dico subito. Vado anche a telefonare un amico per sapere se lui sa qualcosa. 
+Le Ditta X  a Città X cercano sempre personale. Il nummero di telefono è 0345-11111111. Chiama lì! 
+Va bene così? Ci vediamo in settembre a Città Y per la festa di Eva   
+Tanti saluti 
+Michele
+
+----------------
+
+Target hypothesis 1: 
+
+Città X , 18.06.2011 Caro Francesco , grazie per la tua lettera . Auguri per l' esame . Ho pensato che tu lo fai . Io sto bene , sto lavorando in un ufficio delle Ditta X . Mi occupo degli annunci sul treno . Mi piace molto ! L' anno scorso sono stato in regione X per un mezzo anno per studiare la lingua italiana . Mi è piaciuto molto ! La cucina italiana , il mare , la gente ... Sì , ti aiuto a cercare un lavoro . Se io sento qualcosa , te lo dico subito . Vado anche a telefonare a un amico per sapere se lui sa qualcosa . Le Ditta X a Città X cercano sempre personale . Il numero di telefono è 0345-11111111 . Chiama lì ! Va bene così ? Ci vediamo in settembre a Città Y per la festa di Eva . Tanti saluti Michele
+
+----------------
+
+No target hypothesis 2 available.
+

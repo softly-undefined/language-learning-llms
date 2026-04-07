@@ -1,0 +1,33 @@
+METADATA
+
+General:
+Author ID: 1061_1029116
+Test language: German
+CEFR level of test: B1
+Task : write a letter to a friend (visit) - ID: 1061_130101
+Mother tongue: Arabic
+Age: 57
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+                                       Stadt X, 28.02.3012.
+Liebe Dana,
+wie geht es du und wie gehts deiner Onkel und deine Tante. Viel glückwünsch zum prüfung bestanden
+Istanbul ist sehr schön Stadt in der Türkei und intressant, aber man kann verwandt nicht in alles Stadt, weil es ist großer Stadt.
+Ich würde gern eine Schiffsfahrt machen, aber ich habe kein Zeit.
+Ich wünsche gern ein bild (Sovinier) von Istanbul.
+Wann bist du da zurück. Ich kann dich auch nach deiner Rückkehr mal wieder zu Hause besuchen und erzahlst du über deine verwandet. Ich hoffe dich sehr gut verwanden.
+Viele Grüße
+Katharina

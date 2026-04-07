@@ -1,0 +1,32 @@
+METADATA
+
+General:
+Author ID: 1061_0120457
+Test language: German
+CEFR level of test: B1
+Task : write a letter for New Year to a friend - ID: 1061_110101
+Mother tongue: Russian
+Age: 31
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B2
+Orthography: B2
+Vocabulary range: B1
+Vocabulary control: B2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B2
+
+----------------
+
+Learner text: 
+
+                              Stadt X, 17.04.12
+Liber Michael,
+vielen Dank für deiner Brief. Ich frohe mich darauf. Ich wünsche dir alles Gute in neue Jahr!
+Wir hatten einen schönes Silvesterfest. Das war eine große Party. Wir haben viel getanzt, gelachen und gegessen und getrunken auch :)
+Ich bin sehr zufrieden meinen Arbeit als Köchin. Meine Kollegen sind nett und mein Chef ist sehr freundlich. Ich muss viel arbeiten, aber jetzt bin ich glücklich! Im Juni habe ich einen Urlaub und ich habe Zeit und Lust zu treffen. Wir können zusammen paar schönes Tagen verbringen! 
+Schreib mir bald, bitte!
+Herzliche Grüße
+Dein Julia

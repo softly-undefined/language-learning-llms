@@ -1,0 +1,29 @@
+METADATA
+
+General:
+Author ID: 1061_0120280
+Test language: German
+CEFR level of test: B1
+Task : write a letter to a friend (visit) - ID: 1061_130101
+Mother tongue: Arabic
+Age: 33
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+lieber Dana.
+Ich gratuliere dir für Brüfung bestanden Ich möchte dich zu Hause besuchen, aber ich habe keine Zeit ich muss lernen. Ich möchte du mich eine blaue Auge mitbringen sie ist echt schön.
+meine verwandten Leben in Syrian und wir müssen euch besuchen
+bis bald
+Deine Julia

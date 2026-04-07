@@ -1,0 +1,40 @@
+METADATA
+
+General:
+Author ID: KYJ0611006B
+Test language: Czech
+CEFR level of test: A2
+Task : describe a photo: swimming in the sea - ID: A2PS0202_more
+Mother tongue: Other
+Age: 2029
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: A1
+Vocabulary control: A1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Na te fotografie jsou otec a jeho syn, kteří odpočivaji na moře v Krymu.
+Prijedlí jsou, protože otec maji dovolenu a chtel navštěvovat svého bratra, jaky pracuje tady už dlouho. Na sobě otec a syn maji někí mořskí šaty.
+Je velmi veseli, protože syn prvně jě na moři. Syn smají se a hovoří jak mu je bodře. 
+Obdobi je pěty roční.
+
+----------------
+
+Target hypothesis 1: 
+
+Na té fotografii jsou otec a jeho syn , kteří odpočívají u moře na Krymu . Přijeli , protože otec má dovolenou a chtěl navštívit svého bratra , jaký pracuje už dlouho . Na sobě otec a syn mají nějaké mořské šaty . Jsou velmi veselí , protože syn prvně u moře . Syn směje a hovoří jak mu je dobře . Období je pětiroční .
+
+----------------
+
+Target hypothesis 2: 
+
+Na té fotografii jsou otec a jeho syn , kteří odpočívají u moře na Krymu . Přijeli , protože otec má dovolenou a chtěl navštívit svého bratra , který tady pracuje už dlouho . Na sobě otec a syn mají nějaké plavky . Jsou velmi veselí , protože syn je prvně u moře . Syn se směje a říká , jak mu je dobře . Období je pětiroční .

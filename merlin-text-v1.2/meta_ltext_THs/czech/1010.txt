@@ -1,0 +1,38 @@
+METADATA
+
+General:
+Author ID: 1010
+Test language: Czech
+CEFR level of test: B1
+Task :  - ID: 3_Jana
+Mother tongue: German
+Age: not reported
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Ahoj Jano,
+jak se más? Mám se dobře! Mockrát dekuju za tvuj email. To je fajn, že ty napsala až teď. Měla jsem také hodně práce v poslední době! Chci dokončit diplomovou práci přišti tyden. Pak nejsem žadná studentka. Nevím, co chci dělat po ukončení studia. Asi budu hledat praci v nějakych městě. Jaký odbor ty chceš studovat v Praze? Sociologie nebo psychologie? Jak  ty libi kurz angličtiny? Chci absolvovat tam kurz češtinu v letě! To je mošno? Kromě toho  chci navštěvovat  v Brně v letě. Pak mužeme se setkat častějši. V letě nemám nějaké plany. Asi půjedu do Francii X. Mám jedna otazku: měla bych rada, kdybys mi posílala odkaz na internetov stranku školy. Budu posilat fotky od poslední vyletu s Tomášem.  Promiň, musím taky končit. Mej se hezky, Petra
+
+----------------
+
+Target hypothesis 1: 
+
+Ahoj Jano , jak se máš ? Mám se dobře ! Mockrát děkuju za tvůj e-mail . To je fajn , že jsi napsala až teď . Měla jsem také hodně práce v poslední době ! Chci dokončit diplomovou práci příští týden . Pak nebudu žádná studentka . Nevím , co chci dělat po ukončení studia . Asi budu hledat práci v nějakém městě . Jaký odbor ty chceš studovat v Praze ? Sociologii nebo psychologii ? Jak se ti líbí kurz angličtiny ? Chci tam absolvovat kurz češtiny v létě ! Je to možno ? Kromě toho tě chci navštěvovat v Brně v létě . Pak se můžeme setkávat častěji . V létě nemám nějaké plány . Asi pojedu do Francie . Mám jednu otázku : byla bych ráda , kdybys mi poslala odkaz na internetovou stránku školy . Budu posílat fotky z posledního výletu s Tomášem . Promiň , musím taky končit . Měj se hezky , Petra
+
+----------------
+
+Target hypothesis 2: 
+
+Ahoj Jano , jak se máš ? Mám se dobře ! Mockrát děkuju za tvůj e-mail . To je fajn , že jsi napsala až teď . Měla jsem také hodně práce v poslední době ! Chci dokončit diplomovou práci příští týden . Pak nebudu studentka . Nevím , co chci dělat po ukončení studia . Asi budu hledat práci v nějakém městě . Jaký obor ty chceš studovat v Praze ? Sociologii nebo psychologii ? Jak se ti líbí kurz angličtiny ? Chci tam absolvovat kurz češtiny v létě ! Je to možno ? Kromě toho tě chci navštěvovat v Brně v létě . Pak se můžeme setkávat častěji . V létě nemám žádné plány . Asi pojedu do Francie . Mám jednu otázku : byla bych ráda , kdybys mi poslala odkaz na internetovou stránku školy . Budu posílat fotky z posledního výletu s Tomášem . Promiň , musím taky končit . Měj se hezky , Petra

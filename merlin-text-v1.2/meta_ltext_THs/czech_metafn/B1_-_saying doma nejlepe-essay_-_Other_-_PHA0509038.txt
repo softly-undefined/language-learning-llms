@@ -1,0 +1,40 @@
+METADATA
+
+General:
+Author ID: PHA0509038
+Test language: Czech
+CEFR level of test: B2
+Task : write an essay: Everywhere well but at home the best - ID: B2PS0200_doma
+Mother tongue: Other
+Age: 1519
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Všude dobře, doma nejlépe
+Každý člověk rád cestuje. Někteři máji rádi země, kde je teplo, je moře. Jiné jezdí na hory. Takové lidi  máji rádi extremalni sporty.
+Cestujeme, abych se seznamily s jinimý země, s jeji kultuřou a historickymí památkamí. Většinou lídi rádi cestujou autem, protože je možné vídět města, přes kteramý jezdíme. Když se lidi vraceji domu, vždický máji velmi radost, že jsou doma. Dům to není jen byt, ve kterém bydlíme. Dům je místo, kde je tvá rodina, kde jsou všichny veci, ktery jsou vazný pro tebe. A nakonec dům pro človeka je jeji země kde se narodíl a přežil celý život. V mém připadě je to trochu jiný. Přijel do Prahy v 17 let. Přijel jsem s rodinou, protože jsem nemohl rozloučit s nimi. slyšel jsem, že v Praze je dobře studování, než u nás. Libilo se mi v Čechach. začal jsem studovat češtinu. I když jsem uměl trochu ceský, seznamil se s několika lídmi. Ted už mám mnoho kamarádů. Kromě češtiny  umím ruštinu, arménštinu a trochu angličtinu. Učím se fyziku, chemii a biologii, protože chcí studovat na Karlově univerzitě, na lekařské fakultě.
+Ačkoliv odjel ze své zemí, ale to ne známena, že jsem zapoměl na něj. 
+Ano, v Čechach dobře, ale pro mě doma nejlépe.
+
+----------------
+
+Target hypothesis 1: 
+
+Všude dobře , doma nejlépe Každý člověk rád cestuje . Někteří mají rádi země , kde je teplo , kde je moře . Jiní jezdí na hory . Takoví lidé mají rádi extremální sporty . Cestujeme , abychom se seznámili s jinými zeměmi , s jejich kulturou a historickými památkami . Většinou lidé rádi cestujou autem , protože je možné vidět města , přes která jezdíme . Když se lidé vracejí domů , vždycky mají velmi radost , že jsou doma . Dům , to není jen byt , ve kterém bydlíme . Dům je místo , kde je tvá rodina , kde jsou všechny věci , které jsou vážné pro tebe . A nakonec dům pro člověka je jeho země , kde se narodil a přežil celý život . V mém případě je to trochu jiné . Přijel jsem do Prahy v 17 letech . Přijel jsem s rodinou , protože jsem se nemohl s nimi rozloučit . Slyšel jsem , že v Praze je lepší studování než u nás . Líbilo se mi v Čechách . Začal jsem studovat češtinu . A když jsem uměl trochu česky , seznámil jsem se s několika lidmi . Teď už mám mnoho kamarádů . Kromě češtiny umím ruštinu , arménštinu a trochu angličtinu . Učím se fyziku , chemii a biologii , protože chci studovat na Karlově univerzitě , na lékařské fakultě . Sice jsem odjel ze své země , ale to neznamená , že jsem na ni zapomněl . Ano , v Čechách dobře , ale pro mě doma nejlépe .
+
+----------------
+
+No target hypothesis 2 available.
+

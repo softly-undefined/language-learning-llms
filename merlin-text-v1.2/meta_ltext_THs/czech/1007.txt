@@ -1,0 +1,38 @@
+METADATA
+
+General:
+Author ID: 1007
+Test language: Czech
+CEFR level of test: B1
+Task :  - ID: 3_Jana
+Mother tongue: German
+Age: not reported
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Ahoj Jano 
+Mám velkou radost z tvého mailu. To je super, že si rozhodla ještě studovat dál. Ale co vlastně chceš dělat, nabízi tam něco zajimaveho? Já musím říct, že jsem ráda když mám ukončení studia. Chci radší pracovat a vydělávat peníze. Žádné konkretní plány ještě nemám na léto. Ale moc ráda bych chodila na kurz češtiny. Nevíš nahodu jestli to tam v Brně nabízi? Prosím tě, abys mi posila odkaz na internetovou stránku z tvého školy. Mohla bych přijet do Brna v létě a mohli bysme se vidět častejší. To by bylo fain nebo co řikáš?! Posilám ti fotky co dělal Tomaš když jsme byli na výlet. Ať nezapomeneš na mě! Tak mej se a brzo se ozvi.  Pozdravuj taky Pavla! 
+Ahoj Petra
+
+----------------
+
+Target hypothesis 1: 
+
+Ahoj Jano . Mám velkou radost z tvého mailu . To je super , že ses rozhodla ještě studovat dál . Ale co vlastně chceš dělat , nabízí tam něco zajimavého ? Já musím říct , že jsem ráda , že mám ukončené studium . Chci radši pracovat a vydělávat peníze . Žádné konkrétní plány ještě nemám na léto . Ale moc ráda bych chodila na kurz češtiny . Nevíš náhodou , jestli to tam v Brně nabízí ? Prosím tě , abys mi poslala odkaz na internetovou stránku tvé školy . Mohla bych přijet do Brna v létě a mohli bychom se vidět časteji . To by bylo fajn nebo co říkáš ? ! Posílám ti fotky , co dělal Tomáš , když jsme byli na výletu . Ať na mě nezapomeneš ! Tak se měj a brzo se ozvi . Pozdravuj taky Pavla ! Ahoj Petra
+
+----------------
+
+No target hypothesis 2 available.
+

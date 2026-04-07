@@ -1,0 +1,28 @@
+METADATA
+
+General:
+Author ID: 1071_0243623
+Test language: German
+CEFR level of test: A1
+Task : arrange appointment with friend to go swimming together - ID: 1071_120302
+Mother tongue: not reported
+Age: 43
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Liebe Daniela,
+wie geht es Dir? Ich möchte am Samstag gehen schwimmen. Villst Du mit mir schwimmen? Habst Du Zeit? Ruf mir an. Du musst bringst einen Badeanzug, ein Badetuch und Wasser. Das ist alles.
+Viele Grüße
+Deine Freundin Katharina

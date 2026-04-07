@@ -1,0 +1,40 @@
+METADATA
+
+General:
+Author ID: 1395_0000432
+Test language: Italian
+CEFR level of test: A2
+Task : inform friends about language course - ID: 1395_010300
+Mother tongue: German
+Age: 15
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: B1
+Orthography: C2
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Cari ragazzi,
+sono a Città X che è una città affascinante vicino al mare. Sto facendo un corso di italiano. La mia amica Maria che conosco dello scambio abita a Città X e stiamo facendo questo corso insieme. Quando non c'è lezione facciamo molte cose per esempio ieri siamo andate in spiaggia per prendere il sole. Domani visiteremo il torre di Pisa. Questo mi fa piacere.
+Mi mancate molto! Ci vediamo.
+Tanti saluti a tutti,
+Eva
+
+----------------
+
+Target hypothesis 1: 
+
+Cari ragazzi , sono a Città X che è una città affascinante vicino al mare . Sto facendo un corso di italiano . La mia amica Maria , che conosco dallo scambio , abita a Città X e stiamo facendo questo corso insieme . Quando non c' è lezione facciamo molte cose , per esempio ieri siamo andate in spiaggia per prendere il sole . Domani visiteremo la torre di Pisa . Questo mi fa piacere . Mi mancate molto ! Ci vediamo . Tanti saluti a tutti , Eva
+
+----------------
+
+No target hypothesis 2 available.
+

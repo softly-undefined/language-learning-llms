@@ -1,0 +1,36 @@
+METADATA
+
+General:
+Author ID: PHA1111002B
+Test language: Czech
+CEFR level of test: A2
+Task : describe a photo: swimming in the sea - ID: A2PS0202_more
+Mother tongue: Russian
+Age: 1519
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Předo mnou leži fotografíe. Na fotografii jsou muž a chlap. Muž je otec toho chlapa. Oni jsou na moři. Oní tam odpočivam a divají se na hezkou přirodu. Oni jsou štastní a veselí. Muž mluví z chlapem. On řiká že všechne bude dobře. Svite slunečko. Chlap takegraí s mužem. Míslím že, to je leto.
+
+----------------
+
+Target hypothesis 1: 
+
+Přede mnou leží fotografie . Na fotografii jsou muž a chlap . Muž je otec toho chlapa . Oni jsou v moři . Oni tam odpočívají a dívají se na hezkou přírodu . Oni jsou štastní a veselí . Muž mluví s chlapem . On říká , že všechno bude dobré . Svítí slunečko . Chlap si také hraje s mužem . Myslím , že to je léto .
+
+----------------
+
+No target hypothesis 2 available.
+

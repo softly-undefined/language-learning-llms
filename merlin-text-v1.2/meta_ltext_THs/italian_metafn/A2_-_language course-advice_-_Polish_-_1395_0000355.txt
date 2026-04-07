@@ -1,0 +1,44 @@
+METADATA
+
+General:
+Author ID: 1395_0000355
+Test language: Italian
+CEFR level of test: A2
+Task : inform friends about language course - ID: 1395_010300
+Mother tongue: Polish
+Age: 36
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Città X 15.08.2010
+CARA LUCI E CARLO!
+COME STATE?
+NON RIUSCITE A CREDERMI DOVE SONO...
+SONO FINALMENTE A Città X! STO FARE UN CORSO DI ITALIANO. COSI CREDO CHE OGNI LETTERA DA VOI SCRIVERO MEGLIO.
+DA QUESTO CORSO CI SONO LE PERSONE DEL TUTTO MONDO: AMERICANI, TEDESCHI. C'È UN'ALTRA RAGAZZA POLACCA, CON LEI DOPO LE LEZIONI FACCIAMO LE PASSEGGIATE E COSI IO CONOSCO GIA QUASI TUTTA LA CITTÀ. STA SERA ANDEREMO A MANGIARE LA PIZZA. 
+PECCATO CHE PROPIO IN QUESTO TEMPO CI SIETE IN VACANZA E NON CI POSIAMO VEDERE.
+TANTI BACI Maria
+
+----------------
+
+Target hypothesis 1: 
+
+Città X 15.08.2010 Cara Luci e Carlo ! Come State ? Non riuscite a credere dove sono ... Sono finalmente a Città X ! Sto facendo un corso d' italiano . Così credo che scriverò meglio ogni lettera per voi . In questo corso ci sono persone di tutto il mondo : americani , tedeschi … C' è un' altra ragazza polacca , con lei dopo le lezioni facciamo delle passeggiate e così io conosco già quasi tutta la città . Stasera andremo a mangiare la pizza . Peccato che proprio in questo tempo siete in vacanza e non ci possiamo vedere . Tanti baci Maria
+
+----------------
+
+Target hypothesis 2: 
+
+Città X 15.08.2010 Cari Luci e Carlo , come state ? Non potete credere dove sono ... Sono finalmente a Città X ! Sto facendo un corso di italiano . Così credo che scriverò meglio ogni lettera per voi . In questo corso ci sono persone di tutto il mondo : americani , tedeschi … C' è un' altra ragazza polacca , con lei dopo le lezioni facciamo delle passeggiate e così io conosco già quasi tutta la città . Stasera andremo a mangiare la pizza . Peccato che proprio in questo periodo siete in vacanza e non ci possiamo vedere . Tanti baci Maria

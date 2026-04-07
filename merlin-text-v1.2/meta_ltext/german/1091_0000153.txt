@@ -1,0 +1,28 @@
+METADATA
+
+General:
+Author ID: 1091_0000153
+Test language: German
+CEFR level of test: A2
+Task : ask friend to take care of pet - ID: 1091_0650102
+Mother tongue: Polish
+Age: 32
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Liebe Katharina,
+am 01.02.2012 machen wir eine kleine Reise nach Stadt X, nur für drei Tage, trotzdem brauche ich deine hilfe. Wir kann nicht mein  Hund mitnehmen, weil unsere Freundin im Stadt X sehr kleine Wohnung hat. Kann ich bitte Bella mit dir gelassen? Du weiß schon, dass sie ist very possitive und freundlich und ich bin sicher, dass sie und deine Hasso will viel Spaß zusammen haben. Bella brauchts drei mal per Tag Raus gehen und das Essen ich genauso mitbringen. Auf der Packung steht wie viel brauche sie zum essen. Ist das ok? Kannst du bitte mir helfen? Ich warte für deine positive Antwort :)
+Kissen
+Julia

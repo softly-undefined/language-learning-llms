@@ -1,0 +1,39 @@
+METADATA
+
+General:
+Author ID: PHA1109006
+Test language: Czech
+CEFR level of test: B2
+Task : write an essay: Everywhere well but at home the best - ID: B2PS0200_doma
+Mother tongue: Other
+Age: 1519
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B2
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Všude dobře, doma nejlépe 
+Já ráda cestuji, jako moje celá rodina. Každý rok jezdíme do ciziny, a když  ríkam' "my", myslím moje maminka, můj tatínek, moje sestra a já. Všechné prázdniny mají hezké strany, ale také nehezké strany. Díky těch nehezkách stran, také ríkám že doma všechno je nejlépe. 
+Každý rok jezdíme do ciziny, jak jsem jiz rekla. Dříve jsme vždycky šli k mori, ale teď jsme tam už asi dvě roky nebyli. Proč? No, to Vám řeknu. Ja  jsem velmi alergická, a proto maminka vždycky chtěla abysme šli k more, protože moře je  -unreadable-  dobré  pro moji pléť. Ale  aby se človek dostal  k morei rychle, musel jet letadlem, a to je náš problem. Protože jsem tak alergická, moje uši vždycky velice zlobí, někdy prasknou, někdy jen bolí, někdy dostanu infekci do  něj. Moje maminka má to také, a proto už radši neletíme tak často. Když nejde člověk letadlem, tak může jet autem. To také děláme, ale pro nás je Praha už dost daleká (my vždycky  sedíme v autě asi 14 hodin -symbol- když  jedeme do Prahy) a  sedet v autě mě nedělá tak dobře, tak  pro nás to není  mo žnost jet autem tak daleko k mori (my vždycky jezděli do Řecka a nebo do Bulharska, včily to je  dost daleko). 
+ Jednou  také  maminka v Turecku byla  strašně nemocná ( její tělo nezvládne vysoké teploty) a to bylo opravu  strašné. Zaplať pán bůh teď mamince je zase lépe, ale bylo to ošklivé. Něco takového vždyckyuzijeme a pro te říkám ze doma všechno je nejlépe.
+
+----------------
+
+Target hypothesis 1: 
+
+Všude dobře , doma nejlépe . Já ráda cestuji jako moje celá rodina . Každý rok jezdíme do ciziny , a když říkám ' " my " , myslím moje maminka , můj tatínek , moje sestra a já . Všechny prázdniny mají hezké strany , ale také nehezké strany . Díky těm nehezkým stranám také říkám , že doma je všechno lepší . Každý rok jezdíme do ciziny , jak jsem již řekla . Dříve jsme vždycky šli k moři , ale teď jsme tam už asi dva roky nebyli . Proč ? No , to Vám řeknu . Já jsem velmi alergická , a proto maminka vždycky chtěla , abychom šli k moři , protože moře je -unreadable- dobré pro moji pleť . Ale aby se člověk dostal k moři rychle , musel by jet letadlem , a to je náš problém . Protože jsem tak alergická , moje uši vždycky velice zlobí , někdy prasknou , někdy jen bolí , někdy do nich dostanu infekci . Moje maminka to má také , a proto už radši nelétáme tak často . Když nejde člověk letadlem , tak může jet autem . To také děláme , ale pro nás je Praha už dost daleká ( my vždycky sedíme v autě asi 14 hodin -symbol- , když jedeme do Prahy ) a sedět v autě mně nedělá tak dobře , tak pro nás to není možnost jet autem tak daleko k moři ( my jsme vždycky jezdili do Řecka a nebo do Bulharska , čili to je dost daleko ) . Jednou také maminka v Turecku byla strašně nemocná ( její tělo nezvládlo vysoké teploty ) a to bylo opravu strašné . Zaplať Pán Bůh teď je mamince zase lépe , ale bylo to ošklivé . Něco takového si vždycky užijeme , a proto říkám , že doma je všechno lepší .
+
+----------------
+
+No target hypothesis 2 available.
+

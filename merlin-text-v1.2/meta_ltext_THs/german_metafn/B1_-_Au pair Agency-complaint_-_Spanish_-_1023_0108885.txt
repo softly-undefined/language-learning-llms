@@ -1,0 +1,48 @@
+METADATA
+
+General:
+Author ID: 1023_0108885
+Test language: German
+CEFR level of test: B2
+Task : Au pair writes letter of complaint to Agency - ID: 1023_100303
+Mother tongue: Spanish
+Age: 41
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B2
+Vocabulary control: B1
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: B2
+
+----------------
+
+Learner text: 
+
+                                                          Stadt X, den 01.08.11
+Friedrich Winkelmann
+Müllergasse 12
+12345 Stadt X
+Au-pair-Agentur Schultz & Partner
+Regenstr. 101
+90451 Nürnberg.
+Unzufrieden mit meinen Gastfamilie
+Sehr geehrte Damen und Herren,
+ich heiße Friedrich Winkelmann und ich komme aus Stadt Y - Venezuela. Ich bin 23 jahre alt. Ich habe etwa ein Vierteljahr bei meiner Gastfamilie. Ich bin unzufrieden mit meine situation hier. Also, die erste vier Wochen waren sehr gut aber danach habe ich viele problemen hier nur gesehen. Sie hat zu mich viele sachen verboten, zum Beispiel: ich darf nicht T.V. danach 20.00 Uhr sehen, oder ich habe wenig freizeit für lesen, Musik hören oder internet suchen. Andere situation ist über meine studium und sprachen. Ich habe eine semi-intensive Deutschkurse bei Colón gemacht, aber in moment meine Deutsch ist nir zu toll. Trotzdem haben wir in English kommuniziert, aber haben sich nicht zu viel gedult. Ich habe zum Ihnen gesacht dass iene neue Deutschkurse brauche aber seiner antwort war, nein. Ich habe über diese problem gedacht dass können sie mit meine Gastfamilie über diese situation sprachen.
+Ich freue mich, von Ihnen in die nächstes Tagen zu hören
+Mit freundlichen Grüßen
+Friedrich Winkelmann
+
+----------------
+
+Target hypothesis 1: 
+
+Stadt X , den 01.08.11 Friedrich Winkelmann Müllergasse 12 12345 Stadt X Au-pair-Agentur Schultz & Partner Regenstr . 101 90451 Nürnberg . Unzufrieden mit meiner Gastfamilie Sehr geehrte Damen und Herren , ich heiße Friedrich Winkelmann und ich komme aus Stadt Y - Venezuela . Ich bin 23 Jahre alt . Ich war etwa ein Vierteljahr bei meiner Gastfamilie . Ich bin unzufrieden mit meiner Situation hier . Also , die ersten vier Wochen waren sehr gut , aber danach habe ich hier nur viele Probleme gesehen . Sie hat mir viele Sachen verboten , zum Beispiel : ich darf nicht T . V . nach 20.00 Uhr sehen oder ich habe wenig Freizeit für lesen , Musik hören oder Internet suchen . Eine andere Situation ist über mein Studium und die Sprachen . Ich habe semi-intensive Deutschkurse bei Colón gemacht , aber im Moment ist mein Deutsch nicht zu toll . Trotzdem haben wir in Englisch kommuniziert , aber sie haben sich nicht zu viel geduldet . Ich habe zu Ihnen gesagt , dass ich neue Deutschkurse brauche , aber seine Antwort war nein . Ich habe über dieses Problem gedacht , dass sie mit meiner Gastfamilie über diese Situation sprechen können . Ich freue mich , von Ihnen in den nächsten Tagen zu hören . Mit freundlichen Grüßen Friedrich Winkelmann
+
+----------------
+
+No target hypothesis 2 available.
+

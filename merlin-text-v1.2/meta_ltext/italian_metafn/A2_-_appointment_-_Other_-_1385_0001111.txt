@@ -1,0 +1,28 @@
+METADATA
+
+General:
+Author ID: 1385_0001111
+Test language: Italian
+CEFR level of test: A1
+Task : reschedule an appointment - ID: 1385_020100
+Mother tongue: other
+Age: 20
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Caro Daniele,
+è una settimana orribile. In ufficio c'è molto lavoro e giovedi pomeriggio non posso perchè il nostro capo ha organizzato una riunione. Hai tempo sabato sera? Andiamo a cena in un ristorante tailandese. Hai voglia? Come stai? Come va il tuo lavoro?
+Scrivi presto! Ciao.
+Maria

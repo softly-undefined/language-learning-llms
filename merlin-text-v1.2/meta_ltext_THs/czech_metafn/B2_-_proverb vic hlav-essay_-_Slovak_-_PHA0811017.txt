@@ -1,0 +1,40 @@
+METADATA
+
+General:
+Author ID: PHA0811017
+Test language: Czech
+CEFR level of test: B2
+Task : write an essay: More people know more - ID: B2PS0201_hlava
+Mother tongue: Slovak
+Age: 2029
+Gender: female
+
+Rating:
+Overall CEFR rating: B2
+Grammatical accuracy: B2
+Orthography: B2
+Vocabulary range: B2
+Vocabulary control: B2
+Coherence/Cohesion: C1
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Tohle téma jsem si vybrala protože si myslím, že je opravdu zajímavé a pravdivé. Toto přísloví existuje i v mém rodném jazyce: "Viac hláv, viac rozumu"
+Uždítě přichází na tento svět ako veliký sobec. Pořát upoutáva na sebe pozornost pláčem, protože neumí samo naplnit své potřeby. Pak se ve dou letech dostáva do období vzdoru, kdy chce všechno dělat samo. Někdy se nad tím zamýšlím, že mnohokrát sme i my dospělí jako takové malé děti. Chceme všechno dokázat samy, my všechno víme, všechno zvládneme. A co tí druzí? Ti ať nám do toho neříkají. Vždyť my víme nejlépe jak se to má dělat, nebo jak se rozhodnout.
+Jenomže n-ambiguous- vždy je to pro dobro věci. Já osobne jsem typ člověka, který o věcech hodně přemýslí a hledá tu nejlepší cestu. Nejdřív přemýšlím sama v sobě a pak se radím s některýma lidma. Když jde o osobní věc, tak věčšinou žádam o radu přítele, kamarádku nebo rodiče. Když však jde o odbornou věc, rádá vyhledám experta a poradím se. Pak získam věčší rozhled a možnost rozhodnout se co nejvíc správně
+Co dodat závěrém? Snad jen to, že při vážnych rozhodnutích pamatujme na toto přísloví, protože má svoji sílu.
+
+----------------
+
+Target hypothesis 1: 
+
+Tohle téma jsem si vybrala , protože si myslím , že je opravdu zajímavé a pravdivé . Toto přísloví existuje i v mém rodném jazyce : " Viac hláv , viac rozumu " . Už dítě přichází na tento svět jako veliký sobec . Pořád upoutává na sebe pozornost pláčem , protože samo neumí naplnit své potřeby . Pak se ve dvou letech dostává do období vzdoru , kdy chce všechno dělat samo . Někdy se nad tím zamýšlím , že mnohokrát jsme i my dospělí jako takové malé děti . Chceme všechno dokázat sami , my všechno víme , všechno zvládneme . A co ti druzí ? Ti ať nám do toho neříkají . Vždyť my víme nejlépe , jak se to má dělat , nebo jak se rozhodnout . Jenomže n-ambiguous- vždy je to pro dobro věci . Já osobně jsem typ člověka , který o věcech hodně přemýšlí a hledá tu nejlepší cestu . Nejdřív přemýšlím sama v sobě a pak se radím s některými lidmi . Když jde o osobní věc , tak většinou žádám o radu přítele , kamarádku nebo rodiče . Když však jde o odbornou věc , ráda vyhledám experta a poradím se . Pak získám větší rozhled a možnost rozhodnout se co nejvíc správně . Co dodat závěrem ? Snad jen to , že při vážných rozhodnutích pamatujme na toto přísloví , protože má svoji sílu .
+
+----------------
+
+Target hypothesis 2: 
+
+Tohle téma jsem si vybrala , protože si myslím , že je opravdu zajímavé a pravdivé . Toto přísloví existuje i v mém rodném jazyce : " Viac hláv , viac rozumu " . Už dítě přichází na tento svět jako veliký sobec . Pořád upoutává na sebe pozornost pláčem , protože samo neumí naplnit své potřeby . Pak se ve dvou letech dostává do období vzdoru , kdy chce všechno dělat samo . Někdy se nad tím zamýšlím , že mnohokrát jsme i my dospělí jako takové malé děti . Chceme všechno dokázat sami , my všechno víme , všechno zvládneme . A co ti druzí ? Ti ať nám do toho nemluví . Vždyť my víme nejlépe , jak se to má dělat , nebo jak se rozhodnout . Jenomže n-ambiguous- vždy je to pro dobro věci . Já osobně jsem typ člověka , který o věcech hodně přemýšlí a hledá tu nejlepší cestu . Nejdřív přemýšlím sama v sobě a pak se radím s některými lidmi . Když jde o osobní věc , tak většinou žádám o radu přítele , kamarádku nebo rodiče . Když však jde o odbornou věc , ráda vyhledám experta a poradím se . Pak získám větší rozhled a možnost rozhodnout se co nejvíc správně . Co dodat závěrem ? Snad jen to , že při vážných rozhodnutích pamatujme na toto přísloví , protože má svoji sílu .

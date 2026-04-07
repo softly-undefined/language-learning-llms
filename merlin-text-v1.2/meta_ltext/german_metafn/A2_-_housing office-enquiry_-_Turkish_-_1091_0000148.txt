@@ -1,0 +1,33 @@
+METADATA
+
+General:
+Author ID: 1091_0000148
+Test language: German
+CEFR level of test: A2
+Task : letter to housing office - ID: 1091_0610301
+Mother tongue: Turkish
+Age: not reported
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+An die                                        19.01.0.12
+Wohnungsamt
+Sehr Geherte mein Damen und Herren.
+Ich habe jetz 3 Zimmer wohnung ist für uns zeher Klein. Dann brauche ich 4 Zimmer, mit Bolkon und Garage miete hökstens 800 € weil ich ferdint 1500 €.
+Mit freundlichen Grüßen
+Michael Winkelmann
+Zentralplatz 12
+12345 Stadt X
+                              Danke.

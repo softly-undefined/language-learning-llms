@@ -1,0 +1,35 @@
+{
+  "input_path": "/Users/ericbennett/Desktop/github/language-learning-llms/wmt-data/en_zh_closest_500.csv",
+  "output_path": "translation-levels/outputs/en_it_cefr_candidates_250.jsonl",
+  "summary_output_path": "translation-levels/outputs/en_it_cefr_summary_250.json",
+  "provider": "openai",
+  "model": "gpt-4o-mini",
+  "source_field": "english",
+  "reference_field": null,
+  "target_language": "Italian",
+  "temperature": 0.1,
+  "max_tokens": 800,
+  "levels": [
+    "A1",
+    "A2",
+    "B1",
+    "B2",
+    "C1",
+    "C2"
+  ],
+  "prompt_version": "wmt_cefr_translation_v2_cefr_companion",
+  "limit": 150,
+  "rows_seen": 150,
+  "rows_processed": 150,
+  "skipped_missing_source": 0,
+  "records_written": 900,
+  "successful_generations_by_level": {
+    "A1": 150,
+    "A2": 150,
+    "B1": 150,
+    "B2": 150,
+    "C1": 150,
+    "C2": 150
+  },
+  "errors_by_level": {}
+}

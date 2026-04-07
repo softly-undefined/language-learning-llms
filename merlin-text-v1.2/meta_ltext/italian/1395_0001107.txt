@@ -1,0 +1,30 @@
+METADATA
+
+General:
+Author ID: 1395_0001107
+Test language: Italian
+CEFR level of test: A2
+Task : go see a friend - ID: 1395_040101
+Mother tongue: German
+Age: 22
+Gender: female
+
+Rating:
+Overall CEFR rating: EMPTY
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Caro Pietro, 
+come stai? Noi vogliamo venire a visitarti. Come è la tua città? Abiti in una granda città? Come stà la tua sorella? Non abbiamo piu nessun contate con lei. Mi poi telefonare o scrivere una lettera quando possiamo trovarti in Italia per una settimana. 
+Aspettiamo la tua risposta. 
+ 
+Cari salutti
+Maria e Michele  

@@ -1,0 +1,52 @@
+METADATA
+
+General:
+Author ID: 1325_1001011
+Test language: Italian
+CEFR level of test: B2
+Task : inform oneself about an aid project - ID: 1325_030300-1
+Mother tongue: Hungarian
+Age: 25
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: C1
+Vocabulary range: B2
+Vocabulary control: B2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B2
+
+----------------
+
+Learner text: 
+
+Rossi Maria
+Strada Maggiore 13
+12345 Città X
+Spett.le
+Solidarietà Viva
+Viale Bruzzi 117
+21023 Milano
+Città X, 15 Maggio 2011
+Egregi Signori,
+Avevo letto la Vs. inserizione sul giornale, volevo chiedere qualche informazioni. Al inizio vorrei offrire il mio aiuto per voi nel campo estivo. Sono molto socievole, e ho giá lavorato in Italia per tre mesi. Sono una studentessa universitaria. Adesso sto studiando rapporti internazionali presso l'università di Azienda X a Città X, ma ho già una laurea in soziologia. Ho 24 anni e parlo tre lingue: inglese, tedesco e l'italiano. Sono molto communicative e seria.
+Come ho scritto prima, ho già qualche esperienze lavorative: ho lavorato in Italia con il programma Leonardo da Vinci. Sono stata impiegata in GAL (Gruppo Azzione Locale) quindi lo so come importante è il sviluppo, anche presso l'universita sto studiando politico di sviluppo reggionale.
+Sono quasi tutto il estate libera (da 21 giugo al 11 augusto), allora potrei cominciare nel primo campo.
+Non ho ancora lavorato in un campo di lavoro, ma secondo me come esperienza lavoratie sarebbe molto gratificante.
+Avrei qualche domande: c'è un colloquio personale per le persone che vogliono partecipare? Mentre il campo dove sono i allogii?
+In attesa il Vs. risposto cordialmente Vi saluto 
+Maria Rossi
+
+----------------
+
+Target hypothesis 1: 
+
+Rossi Maria Strada Maggiore 13 12345 Città X Spett.le Solidarietà Viva Viale Bruzzi 117 21023 Milano Città X , 15 Maggio 2011 Egregi Signori , ho letto la Vs. inserzione sul giornale , volevo chiedere qualche informazione . All' inizio vorrei offrire il mio aiuto a voi nel campo estivo . Sono molto socievole e ho già lavorato in Italia per tre mesi . Sono una studentessa universitaria . Adesso sto studiando rapporti internazionali presso l' università di Azienda X a Città X , ma ho già una laurea in sociologia . Ho 24 anni e parlo tre lingue : inglese , tedesco e l' italiano . Sono molto comunicativa e seria . Come ho scritto prima , ho già qualche esperienza lavorativa : ho lavorato in Italia con il programma Leonardo da Vinci . Sono stata impiegata nel GAL ( Gruppo Azione Locale ) quindi so come importante è lo sviluppo e anche presso l' università sto studiando politica di sviluppo regionale . Sono libera quasi tutta l' estate ( dal 21 giugno all' 11 agosto ) , dunque potrei cominciare nel primo campo . Non ho ancora lavorato in un campo di lavoro , ma secondo me come esperienza lavorativa sarebbe molto gratificante . Avrei qualche domanda : c' è un colloquio personale per le persone che vogliono partecipare ? E al campo dove sono gli alloggi ? In attesa della Vs. risposta , Vi saluto cordialmente Maria Rossi
+
+----------------
+
+Target hypothesis 2: 
+
+Rossi Maria Strada Maggiore 13 12345 Città X Spett.le Solidarietà Viva Viale Bruzzi 117 21023 Milano Città X , 15 Maggio 2011 Egregi Signori , Avevo letto la Vs. inserizione sul giornale , volevo chiedere qualche informazioni . Innanzitutto vorrei offrirvi il mio aiuto nel campo estivo . Sono molto socievole , e ho giá lavorato in Italia per tre mesi . Sono una studentessa universitaria . Adesso sto studiando relazioni internazionali presso l' università di Azienda X a Città X , ma ho già una laurea in soziologia . Ho 24 anni e parlo tre lingue : inglese , tedesco e l' italiano . Sono molto communicative e seria . Come ho scritto prima , ho già qualche esperienze lavorative : ho lavorato in Italia con il programma Leonardo da Vinci . Sono stata impiegata in GAL ( Gruppo Azzione Locale ) quindi lo so come importante è il sviluppo , anche presso l' universita sto studiando politico di sviluppo reggionale . Sono quasi tutto il estate libera ( da 21 giugo al 11 augusto ) , allora potrei cominciare nel primo campo . Non ho ancora lavorato in un campo di lavoro , ma secondo me come esperienza lavoratie sarebbe molto gratificante . Avrei qualche domande : c' è un colloquio personale per le persone che vogliono partecipare ? Mentre il campo dove sono i allogii ? In attesa il Vs. risposto cordialmente Vi saluto Maria Rossi

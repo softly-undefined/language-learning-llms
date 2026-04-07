@@ -1,0 +1,42 @@
+METADATA
+
+General:
+Author ID: 1395_0001119
+Test language: Italian
+CEFR level of test: A2
+Task : go see a friend - ID: 1395_040101
+Mother tongue: German
+Age: 38
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Cara Brigitta,
+come stai? Spero bene! Non ho sentito di te per tre mesi. Riccordi che ti ho domandato per andare trovati in settembre? I miei vaganze commincera le 22 settembre e potrei rimanere una settimana a casa tua. Che pensi? E possibile? 
+Come sta la tua famiglia. Spero la mia visita non farà troppo lavoro per lei. Sono molto curioso di fare conoscenza con i tuoi parenti. Amo l'italianità e vorrei parlare italiano spesso, perché ho un esame Ditta X lingue X in ottobre. Vorrei visitare anche i posti famosi del Città X. Ho letto che c'è un bus turistico, che porta in giro i touristi. Ma che cosa facciamo la sera? Mi piacerebbe andare in teatro e ti invitero cenare in un ristorante Piemontese. 
+Allora, ti pregho di scrivermi presto. 
+Carissimi saluti 
+tua amica svizzera 
+ Maria
+
+----------------
+
+Target hypothesis 1: 
+
+Cara Brigitta , come stai ? Spero bene ! Non ho sentito niente di te per tre mesi . Ricordi che ti ho domandato se posso andare a trovarti in settembre ? Le mie vacanze cominceranno il 22 settembre e potrei rimanere una settimana a casa tua . Che pensi ? È possibile ? Come sta la tua famiglia ? Spero che la mia visita non farà troppo lavoro per lei . Sono molto curioso di fare conoscenza con i tuoi parenti . Amo l' italianità e vorrei parlare italiano spesso , perché ho un esame Ditta X in ottobre . Vorrei visitare anche i posti famosi di Città X . Ho letto che c' è un bus turistico che porta in giro i turisti . Ma che cosa facciamo la sera ? Mi piacerebbe andare a teatro e ti inviterò a cenare in un ristorante piemontese . Allora , ti prego di scrivermi presto . Carissimi saluti la tua amica svizzera Maria
+
+----------------
+
+No target hypothesis 2 available.
+

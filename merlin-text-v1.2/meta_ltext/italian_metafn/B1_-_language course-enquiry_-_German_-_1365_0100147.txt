@@ -1,0 +1,30 @@
+METADATA
+
+General:
+Author ID: 1365_0100147
+Test language: Italian
+CEFR level of test: B1
+Task : inform oneself about language course - ID: 1365_050401
+Mother tongue: German
+Age: 54
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: C1
+Vocabulary range: B1
+Vocabulary control: B2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Gentile signora, gentile signore.
+Ho bisogno di apprendere l'italiano per il mio lavoro.
+Mi piacerebbe frequentare il corso estivi, scuola e mare, tutto insieme. Io desidero la soluzione di 4 settimane con un alloggio appropriato: Una camera singole in pensione se è possibile, con una piccola cucina e un bagno. Vi prego di comunicarmi i prezzi dell'alloggio e del corso, e la modalità di pagamento.
+Vi ringrazio per confirmarmi la prenotazione
+con cordiali saluti
+MicheleRossi

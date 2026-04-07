@@ -1,0 +1,42 @@
+METADATA
+
+General:
+Author ID: 1061_1202915
+Test language: German
+CEFR level of test: B1
+Task : write a letter to a friend (visit) - ID: 1061_130101
+Mother tongue: Portuguese
+Age: 56
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+                      Stadt X, 27.02.2012.
+Vielen Dank für Deine Briefe und Einladung.
+Ich mache ein (1) Woche vor Du meine Prüfung und bestanden habe, ich komme gern in STambaL und bleibe 2 Woche, ich liebe strand und schiffsfahrt das ist sehr Gut. Ich habe meiner Große Opa und Oma im Hauptstadt Ankara, nicht viele Kilometer von STembul.
+Nach meiner Rückkehr mal wieder zu Hause besuche.
+Viele Glück und Grüße
+Maria Eva Müller
+
+----------------
+
+Target hypothesis 1: 
+
+Stadt X , 27.02.2012 . Vielen Dank für Deine Briefe und die Einladung . Ich machte eine ( 1 ) Woche vor Dir meine Prüfung und habe bestanden , ich komme gern nach Istanbul und bleibe 2 Wochen , ich liebe Strand und Schiffsfahrt , das ist sehr gut . Ich habe meinen großen Opa und meine Oma in der Hauptstadt Ankara , nicht viele Kilometer von Istanbul . Nach meiner Rückkehr besuche ich dich mal wieder zu Hause . Viel Glück und Grüße Maria Eva Müller
+
+----------------
+
+Target hypothesis 2: 
+
+Stadt X , 27.02.2012 . Vielen Dank für Deine Briefe und die Einladung . Ich machte eine Woche vor Dir meine Prüfung und habe bestanden . Ich komme gern nach Istanbul und bleibe zwei Wochen , ich liebe Strände und Schiffsfahrten , die sind sehr schön . Ich habe einen Großvater und eine Oma in der Hauptstadt Ankara , nicht viele Kilometer von Istanbul entfernt . Nach meiner Rückkehr besuche ich dich mal wieder zu Hause . Viel Glück und Grüße Maria Eva Müller

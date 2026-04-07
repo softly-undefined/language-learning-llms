@@ -1,0 +1,29 @@
+METADATA
+
+General:
+Author ID: 1071_0248331
+Test language: German
+CEFR level of test: A1
+Task : ask friend for help for finding apartment - ID: 1071_020200
+Mother tongue: Spanish
+Age: 18
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A1
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Hallo Ingo
+Ich habe eine Arbeit in Neuburg gefunden. Ich muss gehen und Ich muss ein Wohnung suche. Ich möchte 3 schlafzimmer, 1 Kucher, 1 Bad, Wohnzimmer, 1 Balkon und ein Größe Kille.
+Kannst du bitte ein Wohnungssuche? Vielen Dank für dein Hilfe.
+Viele Größe
+Maria

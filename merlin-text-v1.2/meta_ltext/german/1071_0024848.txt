@@ -1,0 +1,31 @@
+METADATA
+
+General:
+Author ID: 1071_0024848
+Test language: German
+CEFR level of test: A1
+Task : congratulate to birth of child - ID: 1071_030101
+Mother tongue: not reported
+Age: 35
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Hallo Jens,
+vielen dank für eine E-mail. Wie geht´s es dir? Ich hopfe dir wunderbar und zum Glück.
+Wie es der Mutter des Babye geht?
+Ich wunsche dir schön Name für des Babys. Gestern war ich krank. Trotzdem muss ich zur Arbeit. 
+Dann ruffe dich mich am Abend an.
+Grüße
+Maria

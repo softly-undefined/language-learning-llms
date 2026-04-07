@@ -1,0 +1,37 @@
+METADATA
+
+General:
+Author ID: PHA0411055
+Test language: Czech
+CEFR level of test: B2
+Task : write an essay: A friend in need is a friend indeed - ID: B2PS0202_pritel
+Mother tongue: Slovak
+Age: 3039
+Gender: female
+
+Rating:
+Overall CEFR rating: B2
+Grammatical accuracy: B2
+Orthography: B2
+Vocabulary range: B2
+Vocabulary control: B2
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Dnešní doba je  hodně uspěchaná, proto lidi si těžko budují kvalitní přatelství. Přátelství se dá vytvořit ve škole, na spoločenských akcích, na pracovišti, se sousedmi. Myslím si, že v dnešní době lidi říkají často polopravdy, nebo úplné lži. Jsou víc uzavření. Otevřenost se ve mnoha případech nevyplácí často je zneužívaná. Tahle doba přinesla konzumní život. Lidi nepřemýšlejí nad morálním hodnotami. Lidi se uzavřeli na malý okruh lidí ve své rodině, kde mají zázemí a důvěru. Ve mnoha případech se mi stalo, že sem si myslela, že mám pravou kamarátku na, kterú se můžu opřít,  například, když jsem byla v nemocnici a ona se celou dobu mého pobytu, který jsem byla hospitalizovaná na chirurgii ani jednou neozvala. Byla jsem z toho smutná a sklamaná. Potěšilo mně, když mně navštívili mojí nejbližší. O přátelství se dá říkat vždy jen tehdy, když obě strany dávají lásku, pozornost, porozumnění a úctu. Ne když jen jedna strana dáva a druhá bere. V pravém přátelství musí být radost pro osobu, který dáva z lásky pomocnou ruku osobě, která prožívá bídu, strach, nemoc nebo finnační krizi. Člověk by mal být víc vnímavý a pozorný vůči lidem kolem. Někdy stačí úsměv, skoro, nebo pohlazení aby člověk cítil lásku. Je to velké štěstí, když má člověk dar přátelství. Je velkým vzorem pro děti, mladé lidí a pro společnost. Někdy jsou takovýdle lidi společnosti k smíchu. Málo lidí věří v dobro a přátelství. Mám pocit, že prátelství se bere, už za něco nadpřirozenýho.
+
+----------------
+
+Target hypothesis 1: 
+
+Dnešní doba je hodně uspěchaná , proto lidi těžko budují kvalitní přátelství . Přátelství se dá vytvořit ve škole , na společenských akcích , na pracovišti , se sousedy . Myslím si , že v dnešní době lidi říkají polopravdy nebo úplné lži . Jsou víc uzavření . Otevřenost se v mnoha případech nevyplácí často je zneužívaná . Tahle doba přinesla konzumní život . Lidi nepřemýšlejí nad morálními hodnotami . Lidi se uzavřeli na malý okruh lidí ve své rodině , kde mají zázemí a důvěru . V mnoha případech se mi stalo , že jsem si myslela , že mám pravou kamarádku o kterou se můžu opřít , například když jsem byla v nemocnici a ona se celou dobu mého pobytu , kdy jsem byla hospitalizovaná na chirurgii ani jednou neozvala . Byla jsem z toho smutná a zklamaná . Potěšilo mě , když mě navštívili moji nejbližší . O přátelství se dá říkat vždy jen tehdy , když obě strany dávají lásku , pozornost , porozumnění a úctu . Ne když jen jedna strana dává a druhá bere . V pravém přátelství musí být radost pro osobu , která dává z lásky pomocnou ruku osobě , která prožívá bídu , strach , nemoc nebo finanční krizi . Člověk by měl být víc vnímavý a pozorný vůči lidem kolem . Někdy stačí úsměv , skoro , nebo pohlazení aby člověk cítil lásku . Je to velké štěstí , když má člověk dar přátelství . Je velkým vzorem pro děti , mladé lidi a pro společnost . Někdy jsou takoví lidi společnosti k smíchu . Málo lidí věří v dobro a přátelství . Mám pocit , že přátelství se bere už za něco nadpřirozeného .
+
+----------------
+
+Target hypothesis 2: 
+
+Dnešní doba je hodně uspěchaná , proto si lidi těžko budují kvalitní přátelství . Přátelství se dá vytvořit ve škole , na společenských akcích , na pracovišti , se sousedy . Myslím si , že v dnešní době lidi často říkají polopravdy nebo úplné lži . Jsou víc uzavření . Otevřenost se v mnoha případech nevyplácí , často je zneužívaná . Tahle doba přinesla konzumní život . Lidi nepřemýšlejí nad morálními hodnotami . Lidi se uzavřeli do malého okruhu lidí ve své rodině , kde mají zázemí a důvěru . V mnoha případech se mi stalo , že jsem si myslela , že mám pravou kamarádku , o kterou se můžu opřít , například když jsem byla v nemocnici a ona se celou dobu mého pobytu , kdy jsem byla hospitalizovaná na chirurgii , ani jednou neozvala . Byla jsem z toho smutná a zklamaná . Potěšilo mě , když mě navštívili moji nejbližší . O přátelství se dá mluvit vždy jen tehdy , když obě strany dávají lásku , pozornost , porozumnění a úctu . Ne když jen jedna strana dává a druhá bere . V pravém přátelství musí být radost pro osobu , která dává z lásky pomocnou ruku osobě , která prožívá bídu , strach , nemoc nebo finanční krizi . Člověk by měl být víc vnímavý a pozorný vůči lidem kolem sebe . Někdy stačí úsměv , slovo , nebo pohlazení , aby člověk cítil lásku . Je to velké štěstí , když má člověk dar přátelství . Je velkým vzorem pro děti , mladé lidi a pro společnost . Někdy jsou takoví lidi společnosti k smíchu . Málo lidí věří v dobro a přátelství . Mám pocit , že přátelství se bere už za něco nadpřirozeného .

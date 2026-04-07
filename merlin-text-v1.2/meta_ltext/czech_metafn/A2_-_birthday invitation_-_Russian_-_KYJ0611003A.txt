@@ -1,0 +1,30 @@
+METADATA
+
+General:
+Author ID: KYJ0611003A
+Test language: Czech
+CEFR level of test: A2
+Task : answering on a birthday invitation - ID: A2PS0102_oslava
+Mother tongue: Russian
+Age: 1519
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+město X, 11.06.2011
+Ahoj kamarád!
+Chtěla bych poděkovat za bozvanku na oslavu svých narozenim.
+Chtěla bych zeptat se na místo oslavy, jaký je program oslavu? jaka bude cena vstupenky? V kolik hodin bude začátek oslavy? Určitě, dobře si využijeme ten večer. Sejdem se o 19:30 vedle divadla. Chtěla bych zeptat pro další hosty, Těšim se na střetnuti.
+Ahoj!
+Martin Novák

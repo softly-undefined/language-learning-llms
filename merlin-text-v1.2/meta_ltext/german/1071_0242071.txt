@@ -1,0 +1,28 @@
+METADATA
+
+General:
+Author ID: 1071_0242071
+Test language: German
+CEFR level of test: A1
+Task : ask friend for help for finding apartment - ID: 1071_020200
+Mother tongue: Russian
+Age: 35
+Gender: female
+
+Rating:
+Overall CEFR rating: A1
+Grammatical accuracy: A1
+Orthography: A1
+Vocabulary range: A1
+Vocabulary control: A1
+Coherence/Cohesion: A1
+Sociolinguistic appropriateness: A1
+
+----------------
+
+Learner text: 
+
+Lieber Ingo,
+Wie geht es Du? Ich habe eine Arbeit in Neuburg Ich will eine Wohnung in Neuburg. Ich will 3 zimmer, Wohnung. Größe 60 m², Hilfe bei der Wohnungssuche
+Tschüse. Bis bald.
+Daine Freundin.Katharina

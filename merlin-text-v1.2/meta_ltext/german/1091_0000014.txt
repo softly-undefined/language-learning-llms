@@ -1,0 +1,31 @@
+METADATA
+
+General:
+Author ID: 1091_0000014
+Test language: German
+CEFR level of test: A2
+Task : offer a ticket not used to a friend - ID: 1091_0690403
+Mother tongue: not reported
+Age: 48
+Gender: male
+
+Rating:
+Overall CEFR rating: A1
+Grammatical accuracy: A1
+Orthography: A2
+Vocabulary range: A1
+Vocabulary control: A1
+Coherence/Cohesion: A1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Hallo Julia,
+Ich haben eine Fahrkarte Für einen Wochenendausflug.
+Leider können Sie aber nicht Fahren Wichtig ich muss am Wochenende 
+arbeiten.
+Wann du
+Dank und herzliche Grüße
+M. Meier

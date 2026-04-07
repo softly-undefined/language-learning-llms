@@ -1,0 +1,49 @@
+METADATA
+
+General:
+Author ID: 1325_1001087
+Test language: Italian
+CEFR level of test: B2
+Task : apply for internship in fashion sector - ID: 1325_020401-1
+Mother tongue: Hungarian
+Age: 17
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: C1
+Vocabulary range: B1
+Vocabulary control: B2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Spettabile Agenzia Lavoro, 
+                           Roma , 19 novembre 2011 
+ho letto questo annuncio sul giornale e mi piace molto. 
+Ho superato l'esame di maturità e poi ho frequentato l'Università di Università X alla facolta di legge. Mi interessa anche sul diritto internazionale. E poi ho lavorato da una azienda, dove ero una assistente. Così questo lavoro non è sconosciuto per me. 
+Posso tenere i contatti con i clienti e posso assistere il personale in ufficio. Ho anche esperienza nei programmi informatici. (per esempio con il pacchetto Office). 
+Leggo spesso le riviste di moda e di solito vado anche alle sfilate di moda. Amo il mondo della moda. 
+Vorrei chiedere, che quanto si può cominciare questo lavoro?  
+Com'è l'orario di lavoro? Quanto pagano per un mese? 
+Possono mandare la loro domanda al seguente indirizzo: 
+Via Eros Ramazotti 22 
+I - 40020 
+Italia
+Nell' attesa della Vostra risposta, distinti saluti
+                           Maria Rossi
+
+----------------
+
+Target hypothesis 1: 
+
+Spettabile Agenzia Lavoro , Roma , 19 novembre 2011 ho letto questo annuncio sul giornale e mi piace molto . Ho superato l' esame di maturità e poi ho frequentato presso l' Università di Università X la facoltà di legge . Mi interessa anche il diritto internazionale . E poi ho lavorato in una azienda , dove ero una assistente . Così questo lavoro non è sconosciuto per me . Posso tenere i contatti con i clienti e posso assistere il personale in ufficio . Ho anche esperienza nei programmi informatici ( per esempio con il pacchetto Office ) . Leggo spesso le riviste di moda e di solito vado anche alle sfilate di moda . Amo il mondo della moda . Vorrei chiedere quando si può cominciare questo lavoro ? Com' è l' orario di lavoro ? Quanto pagano per un mese ? Possono mandare la loro domanda al seguente indirizzo : Via Eros Ramazotti 22 I - 40020 Italia ? Nell' attesa della Vostra risposta , porgo distinti saluti Maria Rossi
+
+----------------
+
+No target hypothesis 2 available.
+

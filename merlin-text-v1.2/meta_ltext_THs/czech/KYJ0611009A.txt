@@ -1,0 +1,44 @@
+METADATA
+
+General:
+Author ID: KYJ0611009A
+Test language: Czech
+CEFR level of test: A2
+Task : answering on a birthday invitation - ID: A2PS0102_oslava
+Mother tongue: Other
+Age: 3039
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Ahoj Evo, 
+Vitám té z narozeninamy a děkuji za pozvani na oslavu.
+Přeji te šťasťe a hodně peniz :) a ovšem být taký hezký a dál.
+Mohou se zeptat kde bude oslava tvých narozenin. -ambiguous-, že chtela by ses setkat v oblibenějsi restaurace , kde je chutně černe pivo :))
+Budu na prace do šest hodin večer. Kolik hodin chtela býs začat oslavu?
+Pozvala jsi Martina a Lukáše? Kdo jsou dalši hosty? Zapoměla jsem zaptat na jaký darek jsi dostala od manžela? Myslím autičko :) ? 
+Těší se na setkani. Uvidime večer. 
+Hezký den. Kateřina
+
+----------------
+
+Target hypothesis 1: 
+
+Ahoj Evo , vítám tě s narozeninami a děkuji za pozvání na oslavu . Přeji ti štěstí a hodně peněz :) a ovšem být taková hezká i dál . Mohu se zeptat kde bude oslava tvých narozenin ? Pamatuji , že chtěla setkat v oblíbenější restauraci , kde je chutné černé pivo :)) Budu v práci do šesti hodin večer . kolik hodin chtěla začít oslavu ? Pozvala jsi Martina a Lukáše ? Kdo jsou další hosti ? Zapomněla jsem zeptat jaký dárek jsi dostala od manžela . Myslím autíčko :) Těším se na setkání . Uvidíme večer . Hezký den . Kateřina
+
+----------------
+
+Target hypothesis 2: 
+
+Ahoj Evo , vítám tě s narozeninami a děkuji za pozvání na oslavu . Přeji ti štěstí a hodně peněz :) a samozřejmě abys byla taková hezká i dál . Mohu se zeptat , kde bude oslava tvých narozenin ? Pamatuji si , že ses chtěla setkat v oblíbené restauraci , kde je dobré černé pivo :)) Budu v práci do šesti hodin večer . V kolik hodin bys chtěla začít oslavu ? Pozvala jsi Martina a Lukáše ? Kdo jsou další hosti ? Zapomněla jsem se zeptat jaký dárek jsi dostala od manžela . Myslím autíčko :) Těším se na setkání . Uvidíme se večer . Hezký den . Kateřina

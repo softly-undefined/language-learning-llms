@@ -1,0 +1,13 @@
+name: universal-cefr-classifier
+channels:
+  - pytorch
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pytorch
+  - pip
+  - pip:
+      - transformers>=4.40
+      - sentencepiece
+      - safetensors
+

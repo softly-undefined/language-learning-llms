@@ -1,0 +1,31 @@
+METADATA
+
+General:
+Author ID: 1061_1202912
+Test language: German
+CEFR level of test: B1
+Task : write a letter to a friend (visit) - ID: 1061_130101
+Mother tongue: not reported
+Age: 61
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B2
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B2
+
+----------------
+
+Learner text: 
+
+                         Stadt X den 27.02.12
+Liebe Dana,
+glückwunsch zur deinen bestandenen Prüfung und auch für die Reise nach Istanbul bei deine Verwandten. Ich frohe mich dass du der stralende und misterieuse Istanbul besuchen hast. Vor 3 Jahre ich habe auch ihn besucht und es war wunderbar. Besonder die orienalichen Kuchen. Kontest du mir eine Sarayglie bringen? Für so was aber nicht nur, ich wäre gern nach deiner Rückkehr dich zu Hause besuchen.
+Villeicht konnten wir zuzamen am Ende des Jahr beim meinen Verwandten die in Finland leben gehen.
+Antworte mir bald!
+Liebe Gruße,
+Michael

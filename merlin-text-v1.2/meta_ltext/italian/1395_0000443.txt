@@ -1,0 +1,29 @@
+METADATA
+
+General:
+Author ID: 1395_0000443
+Test language: Italian
+CEFR level of test: A2
+Task : inform friends about language course - ID: 1395_010300
+Mother tongue: German
+Age: 49
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: C2
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Caro Piero,
+come vai?
+Fa un momento che non ti ho scritto, mi dispiace.
+Oggi ti scrivo di Città X - figurati: sono in Italia. In Città X, c'è una scuola di lingue straniere, allora ho la possibilità di imparare l'italiano: la lingua, mi piace tanto. Posso incontrare molti persone veramente gentili. Per la scuola, abbiamo un sacco da fare ma il professore è molto simpatico. È un signore di buon umore con i capelli grigi. Stasera andrò mangiare uno bello gelato al ristaurante.
+Un abbraccio, Maria

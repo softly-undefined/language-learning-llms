@@ -1,0 +1,30 @@
+METADATA
+
+General:
+Author ID: 1091_0000067
+Test language: German
+CEFR level of test: A2
+Task : ask friend to take care of pet - ID: 1091_0650102
+Mother tongue: Russian
+Age: 60
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B2
+Vocabulary range: B1
+Vocabulary control: A2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Liebe Maria,
+Ich fahre am Freitag nach Köln, Kanst du bitte mein Kleine und süsse Hund kümmern. Tut mir sehr leid, ich kann nicht meine Hund mitnehmen.
+Ich bin am Sonntagabend wider da.
+Vielen Dank im Voraus für Deine Hilfe. 
+Mit Fröndlischen Grüsen
+Friedrich

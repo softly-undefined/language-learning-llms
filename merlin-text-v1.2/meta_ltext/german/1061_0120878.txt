@@ -1,0 +1,30 @@
+METADATA
+
+General:
+Author ID: 1061_0120878
+Test language: German
+CEFR level of test: B1
+Task : write a letter to a friend (visit) - ID: 1061_130101
+Mother tongue: not reported
+Age: not reported
+Gender: not reported
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+                                        Stadt X 9.2.2012
+Liebe Dana
+vielen Dank für die einladung Ich habe mich sehr über deiner Brief gefreut.
+Das ist sehr gut zu horen, dass du die Prüfung bestanden gemacht. Ich will dir Gradulieren. Ich komme gern bei dir. zu dir hat man immer viel Spaß.  Kannst du mir mitbringen aus Istanbul ein schön Turkische Fussball triko. Meine ganze Familie leben in Serbien 
+Viele Grüße
+Tobias

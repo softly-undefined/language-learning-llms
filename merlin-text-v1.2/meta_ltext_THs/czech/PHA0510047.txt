@@ -1,0 +1,36 @@
+METADATA
+
+General:
+Author ID: PHA0510047
+Test language: Czech
+CEFR level of test: B2
+Task : write an essay: More people know more - ID: B2PS0201_hlava
+Mother tongue: Other
+Age: 2029
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Všechni víme, že když je více lidí, více děla je dělana dobře, protože víc hlav, víc ví. Jestli někdo nevím ještě, můžu říct, že to je pravda. Mám rád hrát intelektualní hry a často hrám v Gruzii. Mám svoje grupa a v grupě je šest lidí. Grupa se jmenuje "Alaxas, Franebulta Gundi" a dobře víme už, že víc hlav, víc ví. Vyhŕali jsme intelektualní hru v Berliněa vyhlali jsme taky peníze. Jestli nebyl tam někdo z nás, myslím, že jsme nemohli vyhrat. Jsme jaký jeden člověk, vždycký jsme spolu, pracujeme, studujeme, jíme spolu To je dobře, kdy pracuješ sám, ale víc hlav, víc ví. Někdo může myslet, že to bude chaos když je mnoho lidí, ale kdy pracujete dobře a spolu to je už není chaos. Ale te-ambiguous- jsem v České republice, a oni jsou v Gruzii. Těším se na ně, protože už tady jesem jeden, a nemůžu dělat všechno sam. Pamatujte lidí dobře, že víc hlav, víc ví.
+
+----------------
+
+Target hypothesis 1: 
+
+Všichni víme , že když je více lidí , dělá se více práce a je dělána dobře , protože víc hlav , víc ví . Jestli to někdo ještě neví , můžu říct , že to je pravda . Mám rád hraní intelektuálních her a často hraju v Gruzii . Mám svoji grupu a v grupě je šest lidí . Grupa se jmenuje " Alaxas , Franebulta Gundi " a dobře už víme , že víc hlav , víc ví . Vyhráli jsme intelektuální hru v Berlíně , vyhráli jsme taky peníze . Kdyby tam nebyl někdo z nás , myslím , že jsme nemohli vyhrát . Jsme jako jeden člověk , vždycky jsme spolu , pracujeme , studujeme , jíme spolu . To je dobře , když pracuješ sám , ale víc hlav , víc ví . Někdo může myslet , že to bude chaos , když je mnoho lidí , ale když pracujete dobře a spolu , to už není chaos . Ale teď jsem v České republice , a oni jsou v Gruzii . Těším se na ně , protože už tady jsem jeden , a nemůžu dělat všechno sám . Pamatujte si lidi dobře , že víc hlav , víc ví .
+
+----------------
+
+No target hypothesis 2 available.
+

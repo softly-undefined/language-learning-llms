@@ -1,0 +1,40 @@
+METADATA
+
+General:
+Author ID: 1091_0000095
+Test language: German
+CEFR level of test: A2
+Task : ask friend to take care of pet - ID: 1091_0650102
+Mother tongue: Spanish
+Age: not reported
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: A2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Hallo Maria,
+ich habe ein Problem, ich habe nächsten wochenende nach Stadt X gehen, aber meine hund Bello kann nicht mitnehmen. So kannst du bitte Bello spazieren gehen einmal per tag? Bello ausführen Ins morgens und am Abends, Bitte vorgessen nicht wasser giben!
+Danke Sehr
+Auf wiedersehen!
+Stefan
+
+----------------
+
+Target hypothesis 1: 
+
+Hallo Maria , ich habe ein Problem , ich werde nächstes Wochenende nach Stadt X gehen , aber meinen Hund Bello kann ich nicht mitnehmen . Also , kannst du bitte mit Bello spazieren gehen , einmal pro Tag ? Bello ausführen , morgens und am Abend ? Bitte vergiss nicht , ihm Wasser zu geben ! Danke sehr . Auf Wiedersehen ! Stefan
+
+----------------
+
+No target hypothesis 2 available.
+

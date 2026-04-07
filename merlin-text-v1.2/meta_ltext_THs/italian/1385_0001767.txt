@@ -1,0 +1,43 @@
+METADATA
+
+General:
+Author ID: 1385_0001767
+Test language: Italian
+CEFR level of test: A1
+Task : reschedule an appointment - ID: 1385_020100
+Mother tongue: German
+Age: 40
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A1
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A1
+Coherence/Cohesion: A1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Nostro appuntamente - 
+Ciao Daniele. Come stai? 
+È una settimana orribile. In ufficio c'è molto lavoro e giovedì pomeriggio non posso incontrare con te. Mio capo ha organizzato una riunione questo pomeriggio. 
+Mi dispiace!    
+Perchè tu hai tempo un altro giorno? Forse sabato sera? Vuole andare a cena con me  in un ristorante tailandese? Possiamo incontrare alle otto in fronte del ristorante. 
+Perchè tu mi rispondere sul cellulare. 
+A presto! 
+Maria
+
+----------------
+
+Target hypothesis 1: 
+
+Nostro appuntamento - Ciao Daniele , come stai ? È una settimana orribile . In ufficio c' è molto lavoro e giovedì pomeriggio non posso incontrarmi con te . Il mio capo ha organizzato una riunione questo pomeriggio . Mi dispiace ! Però tu hai tempo un altro giorno ? Forse sabato sera ? Vuole andare a cena con me in un ristorante tailandese ? Possiamo incontrarci alle otto davanti al ristorante . Rispondimi sul cellulare . A presto ! Maria
+
+----------------
+
+No target hypothesis 2 available.
+

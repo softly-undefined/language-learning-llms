@@ -1,0 +1,39 @@
+METADATA
+
+General:
+Author ID: 1031_0003383
+Test language: German
+CEFR level of test: C1
+Task : reporting about the housing situation - ID: 1031_050300
+Mother tongue: Turkish
+Age: 34
+Gender: male
+
+Rating:
+Overall CEFR rating: B2
+Grammatical accuracy: B2
+Orthography: B2
+Vocabulary range: C1
+Vocabulary control: B2
+Coherence/Cohesion: C1
+Sociolinguistic appropriateness: B2
+
+----------------
+
+Learner text: 
+
+Stadt X ist eine sehr große Stadt, dass die etwa dreiundhalb Millionen Einwohner hat. Könnte man einfach sagen Stadt X  ist ein Metropol. Hier gibt es natürlich ziemlich viele Wohnungsmarkt und jede hat eigene Regeln.
+Allerdings bei der Wohnungsmarkt für eine Wohnung mieten die wichtichste ist Einkommennachweis. Das spielt wirklich sehr große Rolle. um eine Wohnung zu mieten. Die meistens Wohnungsvermarkler achten auf nur die Lohngehalt, weil sie ein sichere Person wollen zu bezahlung. Andereseits ihre Familien Sturuktur ist auch wichtig für die Marktler. In Deutschland die meistens Familien haben Einzelkinder und die sind generel sehr ruhig. Hier giebt es auch ziemlich viele Menschen, die allein wohnen und leben. Eine normale Familie wohnen hier oft in eine zwei oder drei Zimmer Wohnung, bzw. jedes Kind braucht ein eigene Zimmer.
+Die Wohnungsvermarklern achten auch auf ihre Aufenthaltstatus. Das ist eine Garantie für die Vermarktler, weil wen Sie keine Aufenterlaunbis haben dann bedeutet das nach kurze Zeit fielleicht Sie müsse hier verlassen.
+
+----------------
+
+Target hypothesis 1: 
+
+Stadt X ist eine sehr große Stadt , die etwa dreiundhalb Millionen Einwohner hat . Man könnte einfach sagen : Stadt X ist eine Metropole . Hier gibt es natürlich ziemlich viele Wohnungsmärkte und jede hat eigene Regeln . Allerdings bei dem Wohnungsmarkt , um eine Wohnung zu mieten , ist das Wichtigste ein Einkommennachweis . Das spielt wirklich eine sehr große Rolle , um eine Wohnung zu mieten . Die meisten Wohnungsvermarkler achten nur auf das Lohngehalt , weil sie eine sichere Person wollen zur Bezahlung . Andererseits ist ihre Familienstruktur auch wichtig für die Marktler . In Deutschland haben die meisten Familien Einzelkinder und die sind generell sehr ruhig . Hier gibt es auch ziemlich viele Menschen , die allein wohnen und leben . Eine normale Familie wohnt hier oft in einer Zwei- oder Dreizimmerwohnung , bzw. jedes Kind braucht ein eigenes Zimmer . Die Wohnungsvermarkler achten auch auf ihren Aufenthaltstatus . Das ist eine Garantie für die Vermarktler , weil , wenn Sie keine Aufenthaltserlaubnis haben , dann bedeutet das nach kurzer Zeit vielleicht , Sie müssen das hier verlassen .
+
+----------------
+
+Target hypothesis 2: 
+
+Stadt X ist eine sehr große Stadt , die etwa dreieinhalb Millionen Einwohner hat . Man könnte einfach sagen , Stadt X ist eine Metropole . Hier gibt es natürlich einen ziemlich großen Wohnungsmarkt und jeder hat eigene Regeln . Allerdings ist bei diesem Wohnungsmarkt , um eine Wohnung zu mieten , das Wichtigste der Einkommensnachweis . Der spielt wirklich eine sehr große Rolle , um eine Wohnung zu mieten . Die meisten Wohnungsmakler achten nur auf das Gehalt , weil sie wegen der Bezahlung eine sichere Person wollen . Andererseits ist die Familienstruktur auch wichtig für die Makler . In Deutschland haben die meisten Familien Einzelkinder und die sind generell sehr ruhig . Hier gibt es auch ziemlich viele Menschen , die allein wohnen und leben . Eine normale Familie wohnt hier oft in einer Zwei- oder Dreizimmerwohnung , bzw. braucht jedes Kind ein eigenes Zimmer . Die Wohnungsmakler achten auch auf ihren Aufenthaltsstatus . Das ist eine Garantie für die Makler , denn wenn sie keine Aufenthaltserlaubnis haben , dann bedeutet das nach kurzer Zeit vielleicht , sie müssen die Wohnung verlassen .

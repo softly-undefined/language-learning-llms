@@ -1,0 +1,29 @@
+METADATA
+
+General:
+Author ID: 1071_0024853
+Test language: German
+CEFR level of test: A1
+Task : congratulate to birth of child - ID: 1071_030101
+Mother tongue: Italian
+Age: 24
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A1
+Coherence/Cohesion: A1
+Sociolinguistic appropriateness: A1
+
+----------------
+
+Learner text: 
+
+Hallo Jens,
+ich habe deine Novität gehort. Glückwünsche für du und deine Frau! wie heisst der Baby? Ist ein männlich oder eine weiblich?
+Wie geht der Mutter und der Baby?
+Viele grusse,
+Katharina

@@ -1,0 +1,38 @@
+METADATA
+
+General:
+Author ID: 1091_0000157
+Test language: German
+CEFR level of test: A2
+Task : ask friend to take care of pet - ID: 1091_0650102
+Mother tongue: not reported
+Age: 38
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B2
+Vocabulary range: B2
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B2
+
+----------------
+
+Learner text: 
+
+Hallo Tobias
+Ich wolte in Urlaub gehen, nach Rumänien, wegen das ich habe eine Kleine probleme mit meiner Hund. Ich fahre mit dem Auto aber ist zu Klein für meinem Hund weil wir sind 4 personen in der Auto. Habe ich dann eine frage zu dir, könte ich meine Hund bei dir lassen.? Ich fahre nexte Woche, am Montag und ich bleiben da bis Sonntag, in gesamt eine Woche. Da muss mit der Hund jeden Morgens um 07°° Uhr trausen gehen, cca 30 minute, dann um 15°° uhr wieder und danach um 21°°uhr letzte mal. Er isst was du gibst, z.B., Fleisch, Brot, Suppe u.s.w.. Er ist Groß. aber du weiss er ist freundlich. mit alle leute und Kinder. Ich wünsch dir alles gute und ich warte deine antwort.
+M.fG. Friedrich
+
+----------------
+
+Target hypothesis 1: 
+
+Hallo Tobias ! Ich wollte in Urlaub gehen , nach Rumänien , deswegen habe ich kleine Probleme mit meinem Hund . Ich fahre mit dem Auto , aber es ist zu klein für meinen Hund , weil wir sind 4 Personen im Auto . Ich habe dann eine Frage an dich , könnte ich meinen Hund bei dir lassen ? Ich fahre nächste Woche , am Montag , und ich bleibe da bis Sonntag , insgesamt eine Woche . Da musst du mit dem Hund jeden Morgen um 07 ° ° Uhr draußen gehen , ca. 30 Minuten , dann um 15 ° ° Uhr wieder und danach um 21 ° ° Uhr das letzte Mal . Er isst , was du ihm gibst , z.B.: Fleisch , Brot , Suppe usw. … Er ist groß , aber du weißt , er ist freundlich mit allen Leuten und Kindern . Ich wünsch dir alles Gute und ich warte auf deine Antwort . MfG. Friedrich
+
+----------------
+
+No target hypothesis 2 available.
+

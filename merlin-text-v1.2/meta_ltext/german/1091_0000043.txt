@@ -1,0 +1,29 @@
+METADATA
+
+General:
+Author ID: 1091_0000043
+Test language: German
+CEFR level of test: A2
+Task : letter to housing office - ID: 1091_0610301
+Mother tongue: not reported
+Age: 54
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Sehr geerte Dammen und Herren
+ch heiße Winkelmann Katharina M. geboren in Rumänien an 21.08.1958 Ich richte sie an weil ich lebe jetzt in Stadt X von 5 Monate mit Miete in eine Zimmer und jetzt ich suche gerne eine neue Wohnung mit 2 Zimmer, Küche und Badezimmer
+Ich kann noch nicht eine Wohnung kaufen, darum ich will in eine „Miete system" finden eine Wohnung. Ich brauche keine Garage, hab ich keine Auto keine Führerschein.
+Viele Grüßen
+Winkelmann

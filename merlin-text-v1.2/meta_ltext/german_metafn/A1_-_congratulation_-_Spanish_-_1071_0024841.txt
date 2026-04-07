@@ -1,0 +1,30 @@
+METADATA
+
+General:
+Author ID: 1071_0024841
+Test language: German
+CEFR level of test: A1
+Task : congratulate to birth of child - ID: 1071_030101
+Mother tongue: Spanish
+Age: 36
+Gender: female
+
+Rating:
+Overall CEFR rating: A1
+Grammatical accuracy: A1
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A1
+Coherence/Cohesion: A1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+jens und familie.
+Glückwünsche:
+Liebe jens, ich Gratulieren ihnen. das new baby Bekommen und wir is ihre name, wie gehst: sind beide?
+Sag mia bitte alles, Atwortes du meine e-mal oder ruf mich an. ich möchte dich besuchen.
+Viele Grüße
+deine freudin Maria

@@ -1,0 +1,38 @@
+METADATA
+
+General:
+Author ID: 1091_0000204
+Test language: German
+CEFR level of test: A2
+Task : letter to housing office - ID: 1091_0610301
+Mother tongue: not reported
+Age: 30
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Eva Meier
+Müllergasse 12
+12345 Stadt X-Stadt Y
+
+Wohnungsamt Stadt Z
+Bahnhofsstraß_12 
+54321 Stadt A
+                                                          Stadt Z, den 10. märz 2012
+Ihre Anziege in der Frankfurt Rundschau vom 8. märz Stadt Z.
+Sehr geehrte Damen und Herrn,
+ich habe Ihre Anziege in der Frankfurt Rundschau vom. 8 märz gelesen. und interesiere mich für die wohnung. Ich habe ein par Fragen zu Ihnen. wie hoch ist die miete? Gibt es die wohnung eine große Garage? wie große Ist die Balkon? Gibt es viel hell in der Zimmer?
+Ich hoffe auf Ihre baldige antwort.
+Mit Freundlichen Grüßen,
+Eva Meier

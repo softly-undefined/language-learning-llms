@@ -1,0 +1,29 @@
+METADATA
+
+General:
+Author ID: 1061_0120332
+Test language: German
+CEFR level of test: B1
+Task : write a letter to a friend (birthday) - ID: 1061_170900
+Mother tongue: not reported
+Age: 32
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Liebe Silke              Stadt X den 13-2-2012
+ich habe deinen Bieref bekommen. Ich komme morgen zu besuch. Meine Famiele geht es gut. begrußen dir  von meine Famiele. Ich mag nich Tiere, weil  ich keine Zeit habe. Ich gehe in den Deutsch kurs. deshalb muss ich über dienen Vorschlag absagen.
+Ich rate dir, können sie einen Tippich zum Geburstag mitbringen. ich habe einen anderen Vorschlag, wen du einverstanden bin, kannst du eine Blumen mit bringen.  Dann bis morgen.
+Viele Grüße.
+Michael

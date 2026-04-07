@@ -1,0 +1,28 @@
+METADATA
+
+General:
+Author ID: 1395_0000462
+Test language: Italian
+CEFR level of test: A2
+Task : contact a friend after a long time - ID: 1395_020300
+Mother tongue: German
+Age: 16
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: C1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Caro Francesco!
+Come stai? Io e la mia famiglia stiamo bene. Siamo andati in vacanza in danmarco. Ha fatto molto caldo e per questa siamo andati alla spiaggia quasi ogni giorno per nuotare al mare. Che cosa fai tu? Vai anche tu in vacanza con la tua famiglia? Se no, possiamo incontrarci. Ne sarei molto contenta.
+A presto
+Michele

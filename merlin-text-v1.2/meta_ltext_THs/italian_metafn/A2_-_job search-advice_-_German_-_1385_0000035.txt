@@ -1,0 +1,37 @@
+METADATA
+
+General:
+Author ID: 1385_0000035
+Test language: Italian
+CEFR level of test: A1
+Task : help a friend who is looking for work - ID: 1385_040101
+Mother tongue: German
+Age: 41
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+PUOI DIRMI DOVE LAVORI ADESSO? IN UN UFFICIO ? OPPURE IN UN NEGOZIO? E DOVE VUOI LAVORARE? NELLA TUA CITTÀ? DIRMI, CHE LAVORO FAI ADESSO? HAI CONTATTI CON I CLIENTI? SE Sì, SOLO AL TELEFONO? PUOI DIRMI CHE LAVORO TI PIACE? PREFERISCI A LAVORARE CON I MANI OPPURE CON LA TESTA?
+QUANDO PUOI COMINCARE IL NUOVO LAVORO? DIPENDE AL TIPO DEL' LAVORO. IN ESTATE CERCONO TANTE PERSONE PER AIUTARE NEGLI ALBERGHI. IN INVERNO INVECE E PIÙ FACILE A TROVARE UN LAVORO IN MONTAGNA.
+
+----------------
+
+Target hypothesis 1: 
+
+Puoi dirmi dove lavori adesso ? In un ufficio ? Oppure in un negozio ? E dove vuoi lavorare ? Nella tua città ? Puoi dirmi che lavoro fai adesso ? Hai contatti con i clienti ? Se sì , solo al telefono ? Puoi dirmi che lavoro ti piace ? Preferisci lavorare con le mani oppure con la testa ? Quando puoi cominciare il nuovo lavoro ? Dipende dal tipo di lavoro . In estate cercano tante persone per aiutare negli alberghi . In inverno invece è più facile trovare un lavoro in montagna .
+
+----------------
+
+No target hypothesis 2 available.
+

@@ -1,0 +1,40 @@
+METADATA
+
+General:
+Author ID: 1395_0000449
+Test language: Italian
+CEFR level of test: A2
+Task : contact a friend after a long time - ID: 1395_020300
+Mother tongue: German
+Age: 17
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: C1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Ciao Marco!
+Come stai? Stiamo abbastanza bene. Non ti abbiamo veduto da molto tempo. Pensiamo, che ci possiamo incontrare la prossima fine settimana, perché facciamo la vacanza a Città X, cerca di te! Se sei d'accordo, ci puoi chiamare!
+Allora, come va il lavoro? Il mio lavoro è un po' noioso, ma il lavoro di Maria è molto interessante.
+Ci chiamare!
+A presto e molti saluti, Michele e Maria
+
+----------------
+
+Target hypothesis 1: 
+
+Ciao Marco ! Come stai ? Stiamo abbastanza bene . Non ti abbiamo veduto da molto tempo . Pensiamo che ci possiamo incontrare il prossimo fine settimana , perché facciamo la vacanza a Città X , cerca di te ! Se sei d' accordo , ci puoi chiamare ! Allora , come va il lavoro ? Il mio lavoro è un po' noioso , ma il lavoro di Maria è molto interessante . Chiamaci ! A presto e molti saluti , Michele e Maria
+
+----------------
+
+No target hypothesis 2 available.
+

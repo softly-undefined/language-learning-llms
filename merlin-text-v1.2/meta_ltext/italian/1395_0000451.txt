@@ -1,0 +1,33 @@
+METADATA
+
+General:
+Author ID: 1395_0000451
+Test language: Italian
+CEFR level of test: A2
+Task : contact a friend after a long time - ID: 1395_020300
+Mother tongue: German
+Age: 17
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Ciao Viki,
+non vediamo da molto tempo, perché sei in Nuova Zealanda.
+Come stai? Oggi non sto molto bene, perché ho avuto un grande concerto ieri sera. Mia bocca sono molte dolente di suonare il sassofono.
+Vado alla scuola ancora, poco difficile...
+ma ho scritto mia ultima clausura per questo anno ieri mattina.
+Mia familia sta molto bene anche. Lex va alla scuola di cane. Ho diventato tante gentile.
+Vederemo alla fine dell'anno. Arriverò all'aeroporto di Città X. Mi prenderai?
+Tanti saluti e un grande baci
+Maria

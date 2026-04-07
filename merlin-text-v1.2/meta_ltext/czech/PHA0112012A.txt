@@ -1,0 +1,27 @@
+METADATA
+
+General:
+Author ID: PHA0112012A
+Test language: Czech
+CEFR level of test: A2
+Task : write an email to a hotel - ID: A2PS0101_hotel
+Mother tongue: French
+Age: 3039
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Dobrý den Pana ředitele hotelu,
+Já a moje kamarádka chceme jet na hory od prvního února do osmého února. Takže, máte volný dvoulůžkový pokoj a kolik budeme platit za to? Chtěli bychom taky, když ten pokoj má záchod a je se sprše a s internetem.
+Máte taky  ve svem hotelu nějaké restaurace anebo když je hodně restaurací blízko hotelu? Příjedeme autem, máte nějzké veřejné nebo soukromé parkoviště. Je ho nebezpečn? Moje kamarádka neumí lyžovat. Je možné se naučit lyžování na zač-unreadable-tku pobýtu? Znáte třeba nějaký odborník, že bude ji pomáhat? Předem, mockrát děkujeme.

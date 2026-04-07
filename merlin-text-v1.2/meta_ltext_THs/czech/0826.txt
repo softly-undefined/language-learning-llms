@@ -1,0 +1,54 @@
+METADATA
+
+General:
+Author ID: 0826
+Test language: Czech
+CEFR level of test: B1
+Task : answer to the email of Alena - ID: 1_Alena
+Mother tongue: German
+Age: not reported
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+18. -ambigous-
+Ahoj Aleno,
+
+
+
+děkuju ti mockrát za tvůj email. Těšila jsem se moc a těším se na tebe. Momentálně  učím  pro zkoušku, ale brzo bude končit semestr. Už  na diplomce a také neplánuju dovolenou. Ale příští semestr  pojedu na Slovensko. Tam  budu studovat na univerzitě. 
+Tak, těším se na návštěv.  Kdy  přije?  Mám čas a  pro tebe na nádraží.
+Doma  žvanit spolu  nebo pít píjeme kávu. Máš chuť?
+Tak, kurz  češtiny je zajímavý také. Máš  informace nebo detaile?
+Těšila bych se, kdybys mi posilala inzerát. 
+Kolik stojí kurz nebo kdy se bude konat?
+Těším se na tebe a na naše setkani.
+
+
+Zatím ahoj
+
+
+Tvoje Julie
+
+----------------
+
+Target hypothesis 1: 
+
+18. července Ahoj Aleno , děkuju ti mockrát za tvůj e-mail . Těšila jsem se moc a těším se na tebe . Momentálně se učím na zkoušku , ale brzo bude končit semestr . Pracuju už na diplomce a také neplánuju dovolenou . Ale příští semestr pojedu na Slovensko . Tam budu studovat na univerzitě . Tak těším se na návštěvu . Kdy přijedeš ? Mám čas a přijdu pro tebe na nádraží . Doma budeme žvanit spolu nebo pít kávu . Máš chuť ? Tak kurz češtiny je zajímavý také . Máš informace nebo detaily ? Těšila bych se , kdybys mi poslala inzerát . Kolik stojí kurz nebo kdy se bude konat ? Těším se na tebe a na naše setkání . Zatím ahoj , tvoje Julie
+
+----------------
+
+Target hypothesis 2: 
+
+18. července Ahoj Aleno , děkuju ti mockrát za tvůj e-mail . Těšila jsem se moc a těším se na tebe . Momentálně se učím na zkoušku , ale brzo bude končit semestr . Pracuju už na diplomce a také neplánuju dovolenou . Ale příští semestr pojedu na Slovensko . Tam budu studovat na univerzitě . Těším se na návštěvu . Kdy přijedeš ? Mám čas a přijdu pro tebe na nádraží . Doma si budeme spolu povídat a pít kávu . Máš chuť ? Kurz češtiny je také zajímavý . Máš informace a detaily ? Potěšilo by mě , kdybys mi poslala inzerát . Kolik stojí kurz a kdy se bude konat ? Těším se na Tebe a na naše setkání . Zatím ahoj , tvoje Julie

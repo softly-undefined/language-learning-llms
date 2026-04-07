@@ -1,0 +1,38 @@
+METADATA
+
+General:
+Author ID: MOS0509004
+Test language: Czech
+CEFR level of test: B2
+Task : write an essay: Everywhere well but at home the best - ID: B2PS0200_doma
+Mother tongue: Russian
+Age: 3039
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B2
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Všude dobře, doma nejlepe.
+Pro každnecho člověka dům je tam, kde se narodil. Dům je tam kde bydli tvoji rodina, tvojé maminka a tatinek. Tam kdé jsi začal chodit do žakladní školy. Tam kde bydli tvoji přatele. A je to misto, kam chceš se vratit pořad.
+Ja strašně mám rada čestovat. Mam rada se podivat na ruzné zajimovy města. Mám rada, když vidim nových lidí, rada navštěvuju všechno, co pro mě zajimové. Nekolik krat byla jsem v Česku. libi se mi včecho v Česku: kultura, města, lidi, jazyk, lidove pisničky, česky stare filmy. libi se mi přijemá atmosfeře v Česku. V Česku, vždycky jako jsem doma. Chodim na prochazky, setkam se s kamaradami, jezdim na exurze, bavim se a tak dal. Ale po některé době se začinam být smutná. Chci uvidět svou dceru, svou maminku, svich přatelé. Prostě řict, chci domů, Rusko je to země, kde jsem chtěla bych žit, pracovat, mět jsem všecho, co chtěli by normalní lidí. Na zavěr, chtěla bych řict, že je to pravda, že všude dobře, doma nejlepe ! Doma na tebe čekajt vždycky a když tebe špatně nebo lepé.  jestli že ty mˇaš nebo nemaš peněz. To nevadi! Dům je to misto, kde ty maš pokoj a štesti!
+
+----------------
+
+Target hypothesis 1: 
+
+Všude dobře , doma nejlépe . Pro každého člověka je dům tam , kde se narodil . Dům je tam , kde bydlí tvoje rodina , tvoje maminka a tatínek . Tam , kde jsi začal chodit do základní školy . Tam , kde bydlí tvoji přátelé . A je to místo , kam se chceš vracet pořád . Já mám strašně ráda cestování . Ráda se podívám na různá zajímavá města . Mám ráda , když vidím nové lidi , ráda navštěvuju všechno , co je pro mě zajímavé . Několikrát jsem byla v Česku . Líbí se mi všechno v Česku : kultura , města , lidé , jazyk , lidové písničky , staré české filmy . Líbí se mi příjemná atmosféra v Česku . V Česku jsem vždycky jako doma . Chodím na procházky , setkám se s kamarády , jezdím na exkurze , bavím se a tak dál . Ale po některé době začínám být smutná . Chci vidět svou dceru , svou maminku , své přátele . Prostě říct , chci domů , Rusko je ta země , kde bych chtěla žít , pracovat , mít všechno , co by chtěli normální lidé . Na závěr bych chtěla říct , že je to pravda , že všude dobře , doma nejlépe ! Doma na tebe čekají vždycky , i když je ti špatně nebo lépe , jestliže máš nebo nemáš peníze . To nevadí ! Dům je to místo , kde máš pokoj a štěstí !
+
+----------------
+
+No target hypothesis 2 available.
+

@@ -1,0 +1,42 @@
+METADATA
+
+General:
+Author ID: 1091_0000101
+Test language: German
+CEFR level of test: A2
+Task : ask friend to take care of pet - ID: 1091_0650102
+Mother tongue: Spanish
+Age: not reported
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Hallo Julia, Ich bin einmal.
+Ich habe ein Job Tamin in den Irak, nächst wochende, und Ich kann nicht allein MEINE Rois lassen.
+Bitte, können Sie einmal fur tag  in meine Haus gehen, fur check ob alles ist ok?
+Es hat, wasser und essen für zwei tag. und Sie haben nich problem. Aber Sie Darfen telefonieren für mich.
+Vieb Grüße
+Stefan
+
+----------------
+
+Target hypothesis 1: 
+
+Hallo Julia , ich bin einmal . Ich habe einen Jobtermin im Irak , nächstes Wochenende , und ich kann meinen Rois nicht allein lassen . Bitte , können Sie einmal pro Tag in mein Haus gehen , um zu checken , ob alles ok ist ? Er hat Wasser und Essen für zwei Tage . Und Sie haben kein Problem . Aber Sie dürfen telefonieren für mich . Viele Grüße Stefan
+
+----------------
+
+Target hypothesis 2: 
+
+Hallo Julia , ich bin erstmal weg . Ich habe nächstes Wochenende einen Jobtermin im Irak und ich kann meinen Rois nicht allein lassen . Bitte , können Sie einmal pro Tag in mein Haus gehen , um zu kontrollieren , ob alles ok ist ? Er hat Wasser und Essen für zwei Tage und Sie haben kein Problem . Aber Sie können mich anrufen . Viele Grüße Stefan

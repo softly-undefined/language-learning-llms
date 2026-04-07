@@ -1,0 +1,44 @@
+METADATA
+
+General:
+Author ID: 1061_0120353
+Test language: German
+CEFR level of test: B1
+Task : write a letter to a friend (birthday) - ID: 1061_170900
+Mother tongue: Russian
+Age: 43
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Liebe Silke
+Viele Dank von deine Briv.
+Mir geit ist gut in disem zeit ich suche arbeit von meinem Beruf. 
+Deine Kinder schön groß.
+Für Max zu seine Geburtstag
+ich habe schön gekauft eine Katze, Darum ich weis genau sein geburstag
+Viele Gruße
+S. Müller
+
+----------------
+
+Target hypothesis 1: 
+
+Liebe Silke ! Vielen Dank für deinen Brief . Mir geht es gut in dieser Zeit , ich suche Arbeit in meinem Beruf . Deine Kinder sind schön groß . Für Max habe ich zu seinem Geburtstag schön eine Katze gekauft , darum weiß ich genau seinen Geburstag . Viele Grüße S . Müller
+
+----------------
+
+Target hypothesis 2: 
+
+Liebe Silke ! Vielen Dank für deinen Brief . Mir geht es gut zurzeit , ich suche Arbeit in meinem Berufsfeld . Deine Kinder sind schon groß geworden . Für Max Geburtstag habe ich schon eine Katze gekauft , da ich sein Geburstagsdatum genau kenne . Viele Grüße S . Müller

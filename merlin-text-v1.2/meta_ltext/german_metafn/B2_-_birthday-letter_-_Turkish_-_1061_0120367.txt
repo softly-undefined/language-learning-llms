@@ -1,0 +1,30 @@
+METADATA
+
+General:
+Author ID: 1061_0120367
+Test language: German
+CEFR level of test: B1
+Task : write a letter to a friend (birthday) - ID: 1061_170900
+Mother tongue: Turkish
+Age: 44
+Gender: female
+
+Rating:
+Overall CEFR rating: B2
+Grammatical accuracy: B1
+Orthography: B2
+Vocabulary range: B2
+Vocabulary control: B2
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: B2
+
+----------------
+
+Learner text: 
+
+Lieber Silke,
+Freue mich sehr, dass es dir und deiner Familie ganz gut geht. Mir geht es auch, trotz der viele Arbeit und das Lernen, Hervorragend.
+Finde grossartig, dass der Max seine Katze bekommen hat. Du kennst ja meine Vorliebe für Haustiere.
+Die schönste geburtstags Geschenk wäre für mich, dich meine beste Freundin bei mir zuhaben. ich werde auch so bald wie möglich dich und deiner Familie wiede Besuchen.
+Bis bald
+Katharina

@@ -1,0 +1,29 @@
+METADATA
+
+General:
+Author ID: PHA0411011A
+Test language: Czech
+CEFR level of test: A2
+Task : answering on a birthday invitation - ID: A2PS0102_oslava
+Mother tongue: German
+Age: 2029
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B2
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Ahoj Martine, 
+Jak se máš? Děkuju mockrát za pozvání! Samožrejmě přijedu! Kde bude mejdan? A v kolik hodin ho začne? Bude tam taky naše kamarádka Eva? Koho jsi ještě pozval?
+Už se moc těším! 
+Měj se
+David

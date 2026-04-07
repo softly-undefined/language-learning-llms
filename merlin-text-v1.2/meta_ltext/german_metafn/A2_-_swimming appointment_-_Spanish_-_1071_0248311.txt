@@ -1,0 +1,29 @@
+METADATA
+
+General:
+Author ID: 1071_0248311
+Test language: German
+CEFR level of test: A1
+Task : arrange appointment with friend to go swimming together - ID: 1071_120302
+Mother tongue: Spanish
+Age: 31
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Liebe Daniela,
+Lange nicht gesehen! Nächten Freitag arbeite ich nicht, dann habe ich Zeit Hast du Lust auf schwimmen gehen? Es gibt ein neu Strand am Rhein. Du kann Trinken mitbringe. Ich bringe noch obst mit.
+Schreib bitte züruck!
+Viele Grüß
+Michael

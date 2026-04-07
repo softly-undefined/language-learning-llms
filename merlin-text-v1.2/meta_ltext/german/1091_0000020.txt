@@ -1,0 +1,29 @@
+METADATA
+
+General:
+Author ID: 1091_0000020
+Test language: German
+CEFR level of test: A2
+Task : offer a ticket not used to a friend - ID: 1091_0690403
+Mother tongue: Arabic
+Age: 25
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B2
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+                                stadt X 05,01'2012
+Liebe Julia,
+ich habe eine fahrkarte fur einen Wochenendausflug. Ich will nach Stadt  X fahren,  Weil ich mit freunden zum Zenturm spazern gehen. Leider Kann ich nicht fahren, weil mein Vater am Wochenende besuchen will. Mein Bus will am 07,01,2012 fahren. Es will am 7:00 Uhr fahren. ich möchte diese karte verkaufen, Wen du diese karte möchtest, rauf mir an bitte.
+Mit freundlichen grüßen
+Eva

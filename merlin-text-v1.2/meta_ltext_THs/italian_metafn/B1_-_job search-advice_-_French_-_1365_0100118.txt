@@ -1,0 +1,44 @@
+METADATA
+
+General:
+Author ID: 1365_0100118
+Test language: Italian
+CEFR level of test: B1
+Task : help a friend who is looking for work after school-leaving exam - ID: 1365_040501
+Mother tongue: French
+Age: 56
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B2
+Orthography: C1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Città X, 10.12.2010
+Caro Francesco,
+Felicitazioni per il tuo buonissimo risultato preso alla maturità linguistica. Era sicura che per te tutto andrebbe per il migliore, sei molto studioso e intelligente.
+Per il lavoro ho pensato che potresti dare dei corsi di lingua ai ragazzi che hanno bisogno per la loro scuola; davanti la mia casa c'è un officio che si occupa da questa cosa, e posso chiederlo delle informazione e mandartele.
+Anché io ho finito il mio corso di cucina e ho fatto un piccolo viaggio in Toscano, una parte d'Italia che mi piace molto per la cultura e la natura.
+Adesso devo tornare al lavoro e mi fa anche piacciere di ritrovare la mia classa di bambini.
+Spero che tu trovi quello che ti conviene.
+Tanti saluti.
+Maria
+
+----------------
+
+Target hypothesis 1: 
+
+Città X , 10.12.2010 Caro Francesco , felicitazioni per il tuo buonissimo risultato preso alla maturità linguistica . Era sicura che per te tutto sarebbe andato per il meglio , sei molto studioso e intelligente . Per il lavoro ho pensato che potresti dare dei corsi di lingua ai ragazzi che ne hanno bisogno per la loro scuola ; davanti alla mia casa c' è un ufficio che si occupa di questa cosa e posso chiedergli delle informazioni e mandartele . Anche io ho finito il mio corso di cucina e ho fatto un piccolo viaggio in Toscana , una parte d' Italia che mi piace molto per la cultura e la natura . Adesso devo tornare al lavoro e mi fa anche piacere ritrovare la mia classe di bambini . Spero che tu trovi quello che ti conviene . Tanti saluti . Maria
+
+----------------
+
+No target hypothesis 2 available.
+

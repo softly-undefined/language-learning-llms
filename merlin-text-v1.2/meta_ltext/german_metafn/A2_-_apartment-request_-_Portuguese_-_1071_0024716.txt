@@ -1,0 +1,31 @@
+METADATA
+
+General:
+Author ID: 1071_0024716
+Test language: German
+CEFR level of test: A1
+Task : ask friend for help for finding apartment - ID: 1071_020200
+Mother tongue: Portuguese
+Age: 32
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B2
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Lieber Ingo
+Wie geht es dir?
+Ich habe eine Arbeite in Neuburg gefunden und brauche eine Wohnung da.
+Könntest du mir helfen?
+Ich möchte eine Wohnung c.a. 65 m².
+Mit Freundlich Grüßen
+Maria

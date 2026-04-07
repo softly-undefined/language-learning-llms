@@ -1,0 +1,39 @@
+METADATA
+
+General:
+Author ID: PHA0411056
+Test language: Czech
+CEFR level of test: B2
+Task : write an essay: A friend in need is a friend indeed - ID: B2PS0202_pritel
+Mother tongue: Russian
+Age: 2029
+Gender: female
+
+Rating:
+Overall CEFR rating: B2
+Grammatical accuracy: B2
+Orthography: B2
+Vocabulary range: B2
+Vocabulary control: C1
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Přátelé je jedna z nejdůležitějších věcí v životě každého člověka. Mají stejnou důležitost jako rodina. Když máte štěsti, přátelé se radují s Vámi, když máte smůlu - podporují Vás.
+Jsem si jistá, že skoro v každém jazyce existuje takové přísloví: v nouzi poznáš přítele. Já osobně naprosto souhlasím s tím. Nenahodou existuje přesně takové přísloví, ne naopak. Vždyť přísloví je lidová moudrost, výsledek zkušenosti. Je nepochybné, že jen komplikované životní události můžou ukázat jaký je člověk a děláte-li správně, když ho počítáte za svého přítele.
+Co se týká mého vlastního života, tak bych chtěla uvést příklad. Když jsem studovala na univerzitě vážně jsem onemocněla. Lidé které jsem počítala za kamarády, začali se vzdalovat. To byl velký šok pro mě. Kromě toho jsem nemohla říct o nemoci rodičům, protože se mi nechtělo je zatěžovat. Potřebovala jsem podporu od kamarády, ale nedostala jsem ani dobré slovo. Vždyť když nemáš žádné problémy, jsi úspěšný člověk, lidé se s tebou budou stýkat. Ale co se stane, když budeš mít smůlu? To je otázka. Ale naštěstí jedna kamarádka přijela do města, ve kterém jsem studovala, uviděla mě a zůstala na celý měsíc. Pomáhala mi a kontrolovala můj životní stav. Řečeno bez zveličování jen díky ní dosud žiji. Přestože jsem zažila špatnou událost, jsem vděčná. že jsem měla takovou zkušenost. Protože tato situace pomohla pochopit, kdo je můj opravdový kamarád a odstranila nepotřebné lidi z mého života.
+
+----------------
+
+Target hypothesis 1: 
+
+Přátelé jsou jedna z nejdůležitějších věcí v životě každého člověka . Mají stejnou důležitost jako rodina . Když máte štěstí , přátelé se radují s Vámi , když máte smůlu , podporují Vás . Jsem si jistá , že skoro v každém jazyce existuje takové přísloví : v nouzi poznáš přítele . Já osobně naprosto souhlasím . náhodou existuje přesně takové přísloví , ne naopak . Vždyť přísloví je lidová moudrost , výsledek zkušenosti . Je nepochybné , že jen komplikované životní události můžou ukázat jaký je člověk a děláte-li správně , když ho počítáte za svého přítele . Co se týká mého vlastního života , tak bych chtěla uvést příklad . Když jsem studovala na univerzitě vážně jsem onemocněla . Lidé které jsem počítala za kamarády , začali vzdalovat . To byl velký šok . Kromě toho jsem nemohla říct o nemoci rodičům , protože se mi nechtělo je zatěžovat . Potřebovala jsem podporu od kamarádů , ale nedostala jsem ani dobré slovo . Vždyť když nemáš žádné problémy , jsi úspěšný člověk , lidé se s tebou budou stýkat . Ale co se stane , když budeš mít smůlu ? To je otázka . Ale naštěstí jedna kamarádka přijela do města , ve kterém jsem studovala , uviděla mě a zůstala na celý měsíc . Pomáhala mi a kontrolovala můj životní stav . Řečeno bez zveličování jen díky ní dosud žiji . Přestože jsem zažila špatnou událost , jsem vděčná , že jsem měla takovou zkušenost . Protože tato situace pomohla pochopit , kdo je můj opravdový kamarád a odstranila nepotřebné lidi z mého života .
+
+----------------
+
+Target hypothesis 2: 
+
+Přátelé jsou jedna z nejdůležitějších věcí v životě každého člověka . Jsou stejně důležití jako rodina . Když máte štěstí , přátelé se radují s Vámi , když máte smůlu , podporují Vás . Jsem si jistá , že skoro v každém jazyce existuje takové přísloví : v nouzi poznáš přítele . Já osobně s tím naprosto souhlasím . Ne náhodou existuje přesně takové přísloví , ne naopak . Vždyť přísloví je lidová moudrost , výsledek zkušenosti . Je nepochybné , že jen komplikované životní události můžou ukázat jaký je člověk a děláte-li správně , když ho počítáte za svého přítele . Co se týká mého vlastního života , tak bych chtěla uvést příklad . Když jsem studovala na univerzitě , vážně jsem onemocněla . Lidé , které jsem počítala za kamarády , se začali vzdalovat . To byl pro mě velký šok . Kromě toho jsem nemohla říct o nemoci rodičům , protože se mi nechtělo je zatěžovat . Potřebovala jsem podporu od kamarádů , ale nedostala jsem ani dobré slovo . Když nemáš žádné problémy , jsi úspěšný člověk , lidé se s tebou budou stýkat . Ale co se stane , když budeš mít smůlu ? To je otázka . Ale naštěstí jedna kamarádka přijela do města , ve kterém jsem studovala , uviděla mě a zůstala na celý měsíc . Pomáhala mi a kontrolovala můj životní stav . Řečeno bez zveličování , jen díky ní dosud žiji . Přestože jsem zažila špatnou událost , jsem vděčná , že jsem měla takovou zkušenost . Protože tato situace mi pomohla pochopit , kdo je můj opravdový kamarád a odtranit nepotřebné lidi z mého života .

@@ -1,0 +1,39 @@
+METADATA
+
+General:
+Author ID: PHA0411037
+Test language: Czech
+CEFR level of test: B2
+Task : write an essay: No pain no gain - ID: B2PS0202_kolace
+Mother tongue: Russian
+Age: 1519
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B2
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Práce - to je zaležitostí, které musíme dělat každý den. Rad bych rict, že mohli bychom se obejit bez práce, ale neobejdéme se bez ní. Každý člověk v svem životu musi hodně pracovat, zřejmě ne od nevídím do nevídím ale dost. Více toho existujou práce který spojovaný s nasazením života.
+Vydělavat penize ve skutečnosti je dost obtížně ale bez ně nemohli bychom představit svůj současný život.
+Předpokladám, že bez práce vopravdu nejsou koláče. Jenom ona udělala nas lidmi Než někdo teď leží a odpočiva, tak nedostane žadný "kolač. Práce podporuje a aktualizuje nas. Snažít se pracovat znamená chtěť něco změnit, zlepšit. A žeby všechno šlo musíme trpělivými. Jak řikaji v veřejnosti "Trpělivost ruže přínaší".
+Jakmile začnéme pracovat dostanéme nádhernou skušenost, která je velmi, velmi nutná. Tak budéme línými, pracovitými a svět nam dast všechno nejlepší.
+
+----------------
+
+Target hypothesis 1: 
+
+Práce - to je záležitost , kterou musíme dělat každý den . Rád bych řekl , že bychom se mohli obejít bez práce , ale neobejdeme se bez ní . Každý člověk ve svém životě musí hodně pracovat , zřejmě ne od nevidím do nevidím , ale dost . Kromě toho existujou práce , které jsou spojovány s nasazením života . Vydělávat peníze je ve skutečnosti dost obtížné , ale bez nich bychom si nemohli představit svůj současný život . Předpokládám , že bez práce opravdu nejsou koláče . Jenom ona udělala nás lidmi . Když někdo teď leží a odpočívá , tak nedostane žádný " koláč " . Práce nás podporuje a aktualizuje . Snažit se pracovat znamená chtít něco změnit , zlepšit . A aby všechno šlo , musíme být trpěliví . Jak říkají na veřejnosti : " Trpělivost růže přináší " . Jakmile začneme pracovat , dostaneme nádhernou zkušenost , která je velmi , velmi nutná . Tak budeme línými , pracovitými a svět nám dá všechno nejlepší .
+
+----------------
+
+No target hypothesis 2 available.
+

@@ -1,0 +1,29 @@
+METADATA
+
+General:
+Author ID: 1061_0120286
+Test language: German
+CEFR level of test: B1
+Task : write a letter to a friend (visit) - ID: 1061_130101
+Mother tongue: not reported
+Age: 35
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A1
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+                                      22.02.2012
+Liebe Dana,
+ich danke dir für deine Brief, am Sammstag gehe ich bei dir aus Istanbul kommen. ich hbae Glückwunsch zur bestandenen Prüfung gemacht. Ich musste viele Essen mitbringen und dann gehen wir am Meer schwimmen.
+Viele Grüße
+Maria

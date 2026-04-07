@@ -1,0 +1,44 @@
+METADATA
+
+General:
+Author ID: 1061_0120886
+Test language: German
+CEFR level of test: B1
+Task : write a letter for New Year to a friend - ID: 1061_110101
+Mother tongue: Spanish
+Age: 40
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+                                          Stadt X de 26 Marz 2012
+Lieber Michael,
+viele Dank für deine Gluckwunschkarte. Ich habe mich gefreuecht.
+Ich wünche dir auch viel Glück. In dieses neues Jahr gute Rucht, gesundheit in dein Leben.
+Ich war an Silvester mit andere Freunde verbracht. Wir haben genug gegesen und der nacht war herzlich.
+Danach von deine Ausbildung als Bäcker. Können wir etwas unternehmen. Sollten man viele wünche erzahlen fur dieses Jahr.
+Meine Arbeit mach viel Spaß, die Collegen sind nett. Ich hatte an anfang viel zu Tun. genau wie Jeder anfanger.
+Mit viele Gruße
+Julia
+
+----------------
+
+Target hypothesis 1: 
+
+Stadt X , der 26 . März 2012 Lieber Michael , vielen Dank für deine Glückwunschkarte . Ich habe mich gefreut . Ich wünsche dir auch viel Glück , in dieses neue Jahr einen guten Rutsch , Gesundheit in deinem Leben . Ich habe Silvester mit anderen Freunden verbracht . Wir haben genug gegessen und die Nacht war herzlich . Nach deiner Ausbildung als Bäcker können wir etwas unternehmen . Man sollte viele Wünsche für dieses Jahr erzählen . Meine Arbeit macht viel Spaß , die Kollegen sind nett . Ich hatte am Anfang viel zu tun , genau wie jeder Anfänger . Mit vielen Grüßen Julia
+
+----------------
+
+No target hypothesis 2 available.
+

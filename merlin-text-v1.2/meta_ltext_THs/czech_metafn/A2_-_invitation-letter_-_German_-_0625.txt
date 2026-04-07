@@ -1,0 +1,48 @@
+METADATA
+
+General:
+Author ID: 0625
+Test language: Czech
+CEFR level of test: B1
+Task : answer to the email of Alena - ID: 1_Alena
+Mother tongue: German
+Age: not reported
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+4. srpna 2006. srpna 2006
+Ahoj Mileno
+Děkuju ti za tvůj mily dopis.
+Mám se dobře, ale musím pracovat hodně. A ty, jak se máš? Doufám, ze te máš dobře.
+
+Bohužel,  nepojedu na grilovací party, protože budu na dovolenu.
+Pojedu s kameradem do Francie nebo do Belgie. Ale ve 27. srpnu. srpnu  pojedu rád. Co si přejedou?
+Středu je výborné. Budu na fakultě ve  dve hodiny o zastavka "Fritz-Foerter-Platz"? Znáš ještě restauraci "Le petit maroc" v Drášďanech? Mám velmi rád tato malou restaurací. A potom budeme chodit po městě.
+Hledám knihu "Česka gramatiku". Znáš? Těším se, když koupis knihu pro me. Samozřejmy  davam tepenízî.
+Mej se heský
+Tvůj přítel
+David
+
+----------------
+
+Target hypothesis 1: 
+
+4. srpna 2006 Ahoj Mileno Děkuju ti za tvůj milý dopis . Mám se dobře , ale musím pracovat hodně . A ty , jak se máš ? Doufám , že se máš dobře . Bohužel , nepojedu na grilovací party , protože budu na dovolené . Pojedu s kamarádem do Francie nebo do Belgie . Ale 27. srpnu pojedu rád . Co si přejedou ? Středa je výborná . Budu na fakultě ve dvě hodiny u zastávky " Fritz-Foerster-Platz " . Znáš ještě restauraci " Le Petit Maroc " v Drážďanech ? Mám velmi rád tuto malou restauraci . A potom budeme chodit po městě . Hledám knihu " Česká gramatika " . Znáš ? Těším se , že koupíš knihu pro mě . Samozřejmě dám peníze . Měj se hezky Tvůj přítel David
+
+----------------
+
+Target hypothesis 2: 
+
+4. srpna 2006 Ahoj Mileno ! Děkuju ti za tvůj milý dopis . Mám se dobře , ale musím hodně pracovat . A ty , jak se máš ? Doufám , že se máš dobře . Bohužel , nepojedu na grilovací party , protože budu na dovolené . Pojedu s kamarádem do Francie nebo do Belgie . Ale 27. srpna pojedu rád . Co si přeješ ? Středa je výborná . Budu na fakultě ve dvě hodiny u zastávky " Fritz-Foerster-Platz " . Znáš ještě restauraci " Le Petit Maroc " v Drážďanech ? Mám velmi rád tuto malou restauraci . A potom budeme chodit po městě . Hledám knihu " Česká gramatika " . Znáš ji ? Těším se , že tu knihu koupíš pro mě . Samozřejmě Ti dám peníze . Měj se hezky Tvůj přítel David

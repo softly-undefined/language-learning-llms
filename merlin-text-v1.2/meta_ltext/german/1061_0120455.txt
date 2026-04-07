@@ -1,0 +1,33 @@
+METADATA
+
+General:
+Author ID: 1061_0120455
+Test language: German
+CEFR level of test: B1
+Task : write a letter for New Year to a friend - ID: 1061_110101
+Mother tongue: Russian
+Age: 54
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B2
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Lieber Michael,                        Stadt X, 7.2.12
+vielen Dank für deine Glückwunschkarte zum neuen Jahr.
+Ich wünsche dir auch alles Gute!
+In Märzt werde ich meine neu Arbeit als Verkäuferin. Ich finde, mir gefällt Neues Arbeit. Ich werde von 01.03. arbeitet.
+Ich habe Zeit und auch Lust. Komm mir gerne besuchen!
+An Silvester habe ich verschiedene gekocht. Ich werde gegesen und getrunken Rotwein. Später sind wir auch dann in die Bahnhofsstraße gegangen und haben wir das Feuerwerk angesehen.
+Bis bald!
+Herzliche Grüße
+Julia

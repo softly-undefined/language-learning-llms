@@ -1,0 +1,36 @@
+METADATA
+
+General:
+Author ID: PHA0809010
+Test language: Czech
+CEFR level of test: B2
+Task : write an essay: Everywhere well but at home the best - ID: B2PS0200_doma
+Mother tongue: French
+Age: 1519
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Velmi ráda cestuju, poznavám cizí lidé, nové kultury a hezké místa. Jednou jsem jela do německa, na dovolenou. Bylo leto, tak jsem se tam moc těšila, protože jsem jela k jezeru. Když jsem tam přišla, bylo nádherné počasí, a můj pobyt byl hned vedle jezera. Byla jsem velmi šťastná a cítila jsem se jako v ráji! První němci z kími jsem mluvila byli milé a hned jsme se skamarádili. V tehle době jsem ještě netušila, jaké překvapení mě čeká. Začala jsem chodit s mími novími kamarádi na plaž, do kina, na proházky. Měla jsem se dobře! Všechno se mi líbilo. Jednou mě pozvali na veceři. Řikaly, že to bude speicalní německá večeře, a tak jsem souhlasila a hodně jsem se těšila. Skoušela jsem jíst co nejmíň přez den, abych mohla tuto specialní veceři vychutnat, a tak jsem měla opravdu velký hlad když jsem tam přišla. Na začátku jsme se hodně bavili, a potom přinesli jidlo ... Nemohla jsem uvěřit, jakou mají němci divnou kuchyň! Na stole byli toasty s Nutelou a se salámem, nebo se syrem  a medem ... Měla jsem hlad, tak jsme snědla všechno co mi dali, ale nemohla jsem uvěřit v tom, že němci tohle mají rádi! Po tomhle večeru se mi začelo stískát po Francii a hlavně po domaci kuchyni. Zbitek dovolené jsem trávila vetšinou s jiními francouskími turisti, a i když se mi v neměcku moc líbilo, hodně jsem se těšila domu. Tak si mislím že je -symbol-Všude dobře, doma nejlépe-symbol- 
+
+----------------
+
+Target hypothesis 1: 
+
+Velmi ráda cestuju , poznavám cizí lidi , nové kultury a hezká místa . Jednou jsem jela do Německa , na dovolenou . Bylo léto , tak jsem se tam moc těšila , protože jsem jela k jezeru . Když jsem tam přišla , bylo nádherné počasí a můj pobyt byl hned vedle jezera . Byla jsem velmi šťastná a cítila jsem se jako v ráji ! První Němci , s kými jsem mluvila , byli milí a hned jsme se skamarádili . V téhle době jsem ještě netušila , jaké překvapení mě čeká . Začala jsem chodit s mými novými kamarády na pláž , do kina , na procházky . Měla jsem se dobře ! Všechno se mi líbilo . Jednou mě pozvali na večeři . Říkali , že to bude speciální německá večeře , a tak jsem souhlasila a hodně jsem se těšila . Zkoušela jsem jíst co nejmíň přes den , abych mohla tuto speciální večeři vychutnat , a tak jsem měla opravdu velký hlad , když jsem tam přišla . Na začátku jsme se hodně bavili a potom přinesli jídlo ... Nemohla jsem uvěřit , jakou mají Němci divnou kuchyň ! Na stole byly toasty s Nutelou a se salámem nebo se sýrem a medem ... Měla jsem hlad , tak jsem snědla všechno , co mi dali , ale nemohla jsem uvěřit tomu , že Němci tohle mají rádi ! Po tomhle večeru se mi začalo stýskat po Francii a hlavně po domácí kuchyni . Zbytek dovolené jsem trávila většinou s jinými francouzskými turisty , a i když se mi v Německu moc líbilo , hodně jsem se těšila domů . Tak si myslím , že je -symbol- všude dobře , doma nejlépe -symbol- .
+
+----------------
+
+No target hypothesis 2 available.
+

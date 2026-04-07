@@ -1,0 +1,49 @@
+METADATA
+
+General:
+Author ID: 1023_0109495
+Test language: German
+CEFR level of test: B2
+Task : Au pair writes letter of complaint to Agency - ID: 1023_100303
+Mother tongue: Spanish
+Age: 51
+Gender: female
+
+Rating:
+Overall CEFR rating: B2
+Grammatical accuracy: B1
+Orthography: B2
+Vocabulary range: B2
+Vocabulary control: B2
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: B2
+
+----------------
+
+Learner text: 
+
+Eva Maria Meier Müller
+Bahnhofsstraße 123
+5432 Stadt X.
+Au-Pair-Agentur Schultz & Partner.
+Regenstr. 101.
+90451 Nürnberg
+(Bitte geben Sie mir mein Geld zurück)
+Sehr geehrte Damen und Herren.
+Mit viele Interresse habe ich in der Zeitung von 25. Sep. 2011 im Ihrem Inserat gelessen. Dort stand "Möchten Sie gern als Au-pair nach Deutschland?" Dann finden Sie hier alle Infos und jede Hilfe die Sie dafür brauche.
+Bei uns finden Sie Beratung, Vermittlung und Betreuung, günstige Konditionen, langjährige Erfahrung und einen super-guten Service." und das war fast alles falsch. Ich bin jetz seit ein Vierteljahr bei einer Gastfamilie in Deutschland gelandet! Aus grund, Deutsch verbesser. Die Familie spricht halb Deutsch, halb Italianisch, halb Spanich. Das bedeute das eine multikultifamilie ist. Mit Kinder habe ich wenig zu tun. Ich muss den ganzen Tag putzen, waschen. Bügel, mit dem Hund Spaziargang machen, weil die Kinder den ganzen Tag in die Schule sind. Ich habe tausen mal probiert Ihnen telefoniert und nimand hat das Telefon genohmen. Das bedeutet, dass ich kaine unterstutzung fon Ihnen bekommen haben. Ich brauche drin meine Situation verändere. Ich habe dies möglichkeit genohmen, wegen den sprache. Bitte geben mir so schnell wie müglich mein Geld zurück. Ich bin sicher dass ich andere Lösung finden kan, wo mein Deutsch verbessere kan.
+(Bei eine schnelle Antwort bedanken Ihnen (
+Mit freundlichen Grüssen.
+Eva Maria Müller
+
+----------------
+
+Target hypothesis 1: 
+
+Eva Maria Meier Müller Bahnhofsstraße 123 5432 Stadt X Au-Pair-Agentur Schultz & Partner Regenstr . 101 90451 Nürnberg ( Bitte geben Sie mir mein Geld zurück ) Sehr geehrte Damen und Herren . Mit viel Interesse habe ich in der Zeitung vom 25 . Sep . 2011 in Ihrem Inserat gelesen . Dort stand : " Möchten Sie gern als Au-pair nach Deutschland ? Dann finden Sie hier alle Infos und jede Hilfe , die Sie dafür brauchen . Bei uns finden Sie Beratung , Vermittlung und Betreuung , günstige Konditionen , langjährige Erfahrung und einen super-guten Service . " und das war fast alles falsch . Ich bin jetzt seit einem Vierteljahr bei einer Gastfamilie in Deutschland gelandet ! Aus dem Grund , mein Deutsch zu verbessern . Die Familie spricht halb Deutsch , halb Italienisch , halb Spanisch . Das bedeutet , dass das eine Multikultifamilie ist . Mit Kindern habe ich wenig zu tun . Ich muss den ganzen Tag putzen , waschen , bügeln , mit dem Hund einen Spaziergang machen , weil die Kinder den ganzen Tag in der Schule sind . Ich habe tausend Mal probiert mit Ihnen zu telefonieren und niemand hat das Telefon genommen . Das bedeutet , dass ich keine Unterstützung von Ihnen bekommen habe . Ich brauche es drin , meine Situation zu verändern . Ich habe diese Möglichkeit genommen wegen der Sprache . Bitte geben Sie mir so schnell wie möglich mein Geld zurück . Ich bin sicher , dass ich eine andere Lösung finden kann , wie ich mein Deutsch verbessern kann . ( Bei einer schnellen Antwort bedanke ich mich bei Ihnen . ) Mit freundlichen Grüssen . Eva Maria Müller
+
+----------------
+
+Target hypothesis 2: 
+
+Eva Maria Meier Müller Bahnhofsstraße 123 5432 Stadt X Au-Pair-Agentur Schultz & Partner Regenstr . 101 90451 Nürnberg ( Bitte geben Sie mir mein Geld zurück ) Sehr geehrte Damen und Herren ! Mit viel Interesse habe ich in der Zeitung vom 25 . Sep . 2011 Ihr Inserat gelesen . Dort stand : " Möchten Sie gern als Au-pair nach Deutschland ? Dann finden Sie hier alle Infos und jede Hilfe , die Sie dafür brauchen . Bei uns finden Sie Beratung , Vermittlung und Betreuung , günstige Konditionen , langjährige Erfahrung und einen super-guten Service . " Das war jedoch fast alles falsch . Ich bin jetzt seit einem Vierteljahr bei einer Gastfamilie in Deutschland ! Hauptsächlich aus dem Grund , mein Deutsch zu verbessern . Die Familie spricht halb Deutsch , halb Italienisch , halb Spanisch . Das bedeutet , dass das eine Multikultifamilie ist . Mit den Kindern habe ich wenig zu tun . Ich muss den ganzen Tag putzen , waschen , bügeln oder mit dem Hund einen Spaziergang machen , weil die Kinder den ganzen Tag in der Schule sind . Ich habe tausend mal probiert mit Ihnen zu telefonieren und niemand hat das Telefon abgenommen . Das bedeutet , dass ich keine Unterstützung von Ihnen bekommen habe . Ich muss dringend meine Situation verändern . Ich habe diese Möglichkeit wahrgeommen , wegen der Sprache . Bitte geben Sie mir so schnell wie möglich mein Geld zurück . Ich bin sicher , dass ich eine andere Lösung finden kann , wie ich mein Deutsch verbessern kann . ( Für eine schnelle Antwort bedanke ich mich bei Ihnen . ( Mit freundlichen Grüssen . Eva Maria Müller

@@ -1,0 +1,44 @@
+METADATA
+
+General:
+Author ID: 1022
+Test language: Czech
+CEFR level of test: B1
+Task :  - ID: 3_Jana
+Mother tongue: German
+Age: not reported
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Ahoj Jano, 
+jak se maš? Mám se dobře ale mám moc prace s diplomkou.
+Děkuju moc za tvůj mail. Tak budeš studovat dálkově v Praze. To je přikvápeni. Co budeš studovat  tam? Angličky jazyk?
+Já ukončim studium přišti rok. Musím psal diplomovou prací a pak budu začinat prace v škole. Budu učit angličký a francouzský jazyk. Ale předtim chci cestovat. Ve letě 2011 pojedu na navstevu v Americe na dvě měsice.
+Libi se ti ten kurz angličtina? Učis se tam moc? Setkala jsi zajímavý lidi?Mají taky kurz čeština v Brně v letě? Chtěla bych přijet tam. Moc rada bych se s tebou setkala často.
+Prosimtě, můžes mi poslat odkaz na škole v Brně aby měla vic informace? Doufám že uvidime se co nejdřive.
+Poslám ti některí fotky který delali jsme minulý tyden. Šli jsme na vylét na Sazavou s Tomašem. Bylo moc krasný.
+Měj se hezký. Zdravi tě taky Tomaš.
+ Martin
+
+----------------
+
+Target hypothesis 1: 
+
+Ahoj Jano , jak se máš ? Mám se dobře , ale mám moc práce s diplomkou . Děkuju moc za tvůj mail . Tak budeš studovat dálkově v Praze . To je překvapení . Co tam budeš studovat ? Anglický jazyk ? Já ukončím studium příští rok . Musím psát diplomovou práci a pak začnu pracovat ve škole . Budu učit anglický a francouzský jazyk . Ale předtím chci cestovat . V létě 2011 pojedu na návštěvu do Ameriky na dva měsíce . Líbí se ti ten kurz angličtiny ? Učíš se tam moc ? Setkala ses se zajímavými lidmi ? Mají taky kurz češtiny v Brně v létě ? Chtěla bych tam přijet . Moc ráda bych se s tebou setkávala často . Prosím tě , můžeš mi poslat odkaz na školu v Brně , abych měla víc informací ? Doufám , že se uvidíme co nejdříve . Posílám ti některé fotky , které jsme dělali minulý týden . Šli jsme na výlet na Sázavu s Tomášem . Bylo moc krásně . Měj se hezky . Zdraví tě taky Tomáš . Martin
+
+----------------
+
+No target hypothesis 2 available.
+

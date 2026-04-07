@@ -1,0 +1,41 @@
+METADATA
+
+General:
+Author ID: 1365_0100146
+Test language: Italian
+CEFR level of test: B1
+Task : inform oneself about language course - ID: 1365_050401
+Mother tongue: German
+Age: 51
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: C1
+Vocabulary range: B1
+Vocabulary control: B2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Buongiorno,
+Ho visto il suo annuncio sul giornale di ieri. Mi interessa studiare l'italiano perchè lo utilizo per il mio lavoro. Mi interessano i corsi estivi al mare. Vorrei stare 3 settimane e mi piacerebbe vivere in appartamenti con altri studenti.
+Vi prego di inviarmi una lista dei prezzi per il corso e l'appartamento.
+Vi ringrazio per i documenti.
+Cordiali saluti e a presto!
+Maria Rossi
+
+----------------
+
+Target hypothesis 1: 
+
+Buongiorno , ho visto il suo annuncio sul giornale di ieri . Mi interessa studiare l' italiano perché lo utilizzo per il mio lavoro . Mi interessano i corsi estivi al mare . Vorrei stare 3 settimane e mi piacerebbe vivere in appartamenti con altri studenti . Vi prego di inviarmi una lista dei prezzi per il corso e l' appartamento . Vi ringrazio per i documenti . Cordiali saluti e a presto ! Maria Rossi
+
+----------------
+
+No target hypothesis 2 available.
+

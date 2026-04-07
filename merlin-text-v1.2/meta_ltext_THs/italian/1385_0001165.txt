@@ -1,0 +1,41 @@
+METADATA
+
+General:
+Author ID: 1385_0001165
+Test language: Italian
+CEFR level of test: A1
+Task : reschedule an appointment - ID: 1385_020100
+Mother tongue: German
+Age: 36
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Ciao Daniele,
+è una settimana orribile. In ufficio c'è molto lavoro e giovedì pomeriggio no posso incontrarti perchè c'è una riunione organizzata del mio capo e così non ho tempo di vederti. 
+Forse possiamo incontrarci sabato sera? Ti va di andare a cena in un ristorante tailandese? Conosco un veramente buonissimo!
+Fammi sapere se hai tempo e voglia. 
+Un abbraccio
+Michele 
+
+----------------
+
+Target hypothesis 1: 
+
+Ciao Daniele , è una settimana orribile . In ufficio c' è molto lavoro e giovedì pomeriggio non posso incontrarti perché c' è una riunione organizzata dal mio capo e così non ho tempo di vederti . Forse possiamo incontrarci sabato sera ? Ti va di andare a cena in un ristorante tailandese ? Ne conosco uno veramente buonissimo ! Fammi sapere se hai tempo e voglia . Un abbraccio Michele
+
+----------------
+
+No target hypothesis 2 available.
+

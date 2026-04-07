@@ -1,0 +1,39 @@
+METADATA
+
+General:
+Author ID: 1091_0000154
+Test language: German
+CEFR level of test: A2
+Task : ask friend to take care of pet - ID: 1091_0650102
+Mother tongue: not reported
+Age: 30
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Meine Liebe Maria,
+Tut mir Leid weil schön Lange nicht geschrieben habe aber für diese versPätung habe ich ein Gründ, ich habe ein wunderbarer job gefunden daswegen ich hatte kein Zeit für nemand Zuschreiben oder Zu Telefonieren. und Ich habe ein gute Leistung in meinen Arbeit geleistet deswegen die haben mir eineReise nach Frankreich geschänkt und ich bin sehr froh darüber aber Ich habe eine schwärigkeit mit meine Katze weil ich nicht mit mir nehmen kann weil einer mit Arbeiterm, er ist elärgisch von den Haaren Kätzen. und ich weiß du Liebst  Kätzen und hast du auch eine, aber Ich glaube dir wenn mir sagst, mit denen zwei  Kätzen zu hause ist es schwer aber wenn du mir diese gefällen machen, Ich werde sehr fröh und wie wissen Ich bin neu in diese stadt gezogen wegen mein Arbeit und ich habe noch nicht viel kontakt mit den Anderen aber Ich kann nicht beschweren weil in diese Stadt sehr schön zu leben, die ist klein aber sehr gemütlich, sie sollen wissen ich fahre nächte woche am Samstag nur für ein wöche, und ich weiß du hast erfahrung mit den Kätzen deswegen ich brauche dir nicht wie läufst du mit meiner Katze aber Ich habe ein bitte, mein katze sie Liebt sehr viel Milch. sie trinkt fast in die tag 5 mal aber mach kein sogen Ich bringe die alle was braucht meine Katze, wenn für sie ok schreib mir so schnell wie möglich Zurück. 
+Mit vielen Größen von Stadt X
+dein Eva
+
+----------------
+
+Target hypothesis 1: 
+
+Meine liebe Maria , tut mir leid , weil ich schön lange nicht geschrieben habe , aber für diese Verspätung habe ich einen Grund . Ich habe einen wunderbaren Job gefunden , deswegen hatte ich keine Zeit , zu schreiben oder zu telefonieren . Und ich habe eine gute Leistung in meiner Arbeit geleistet , deswegen haben die mir eine Reise nach Frankreich geschenkt , und ich bin sehr froh darüber , aber ich habe eine Schwierigkeit mit meiner Katze , weil ich sie nicht mit mir nehmen kann , weil ein Mitarbeiter allergisch ist gegen Katzenhaare . Und ich weiß , du liebst Katzen und du hast auch eine , aber ich glaube dir , wenn du mir sagst , mit den zwei Katzen zu Hause ist es schwer . Aber wenn du mir diese Gefallen machst , werde ich sehr froh , und wir wissen , ich bin neu in diese Stadt gezogen wegen meiner Arbeit und ich habe noch nicht viel Kontakt mit den anderen . Aber ich kann mich nicht beschweren , weil es sehr schön ist , in dieser Stadt zu leben , sie ist klein , aber sehr gemütlich . Sie sollen wissen , ich fahre nächste Woche am Samstag nur für eine Woche und ich weiß , du hast Erfahrung mit den Katzen , deswegen brauche ich dir nicht sagen , wie du mit meiner Katze läufst , aber ich habe eine Bitte , meine Katze liebt sehr viel Milch . Sie trinkt am Tag fast 5 Mal , aber mach dir keine Sorgen , ich bringe dir alles , was meine Katze braucht . Wenn es für sie ok ist , schreib mir so schnell wie möglich zurück . Mit vielen Grüßen aus Stadt X deine Eva
+
+----------------
+
+No target hypothesis 2 available.
+

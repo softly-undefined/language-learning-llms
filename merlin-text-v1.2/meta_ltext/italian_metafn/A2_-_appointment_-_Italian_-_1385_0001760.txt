@@ -1,0 +1,29 @@
+METADATA
+
+General:
+Author ID: 1385_0001760
+Test language: Italian
+CEFR level of test: A1
+Task : reschedule an appointment - ID: 1385_020100
+Mother tongue: Italian
+Age: 16
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A1
+
+----------------
+
+Learner text: 
+
+Ciao Daniele
+Scusami,
+è una settimana orribile. In ufficio c'è molto lavoro e giovedi pomeriggio non posso incontrarti, perce ho una riunione con il capo. 
+Ma possiamo andare sabato sere in un ristorante tailandese, se vuoi? 
+Ciao 

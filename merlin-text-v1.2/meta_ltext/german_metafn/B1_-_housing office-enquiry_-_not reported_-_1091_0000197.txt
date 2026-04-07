@@ -1,0 +1,39 @@
+METADATA
+
+General:
+Author ID: 1091_0000197
+Test language: German
+CEFR level of test: A2
+Task : letter to housing office - ID: 1091_0610301
+Mother tongue: not reported
+Age: 15
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+                                Stadt X, 10.03.12
+Die Wohn Amt GmBH
+Müllergasse 12
+1234 Stadt X
+ 
+Stefan Schmidt
+Winkelsweg 123
+12345 Stadt X
+ 
+Ein Wohnung für Meine Familie
+Sehr geerhte Damen und Herren,
+ich habe Ihre Firma in der Sendung vom 29. Februar gelernt und interessiere mich für eine 3-Zimmer Wohnung, mit Einbauküche und Gäste-WC. Ich möchte mit meiner Frau zusamen wohnen, ist eine 3-Zimmer Wonung Okay? Ich möchte auch wissen, wie hoch die Miete ist. Kann mann die Miete pro-jahr bezahlen? Hat die Wohnung einen Balkon? Ich liebe gern einen Balkon mit vielen Topfpflanzen
+Können wir einen Besichtigungstermin vereinbaren?
+Mit freundlichen Grüßen,
+UNTERSCHRIFT

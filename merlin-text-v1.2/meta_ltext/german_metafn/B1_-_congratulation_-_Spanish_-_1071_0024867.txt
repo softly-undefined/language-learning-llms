@@ -1,0 +1,28 @@
+METADATA
+
+General:
+Author ID: 1071_0024867
+Test language: German
+CEFR level of test: A1
+Task : congratulate to birth of child - ID: 1071_030101
+Mother tongue: Spanish
+Age: 33
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: A2
+Orthography: B2
+Vocabulary range: B1
+Vocabulary control: A2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Lieber Jens,                             Stadt X, 08.03.2012
+ich bin sehr Glück für euch. In diesem toll Tag,  möchte ich dir und deiner Frau gratulieren, Habe ich richtig verstanden? Bist du auf drei schönes zwilingers Vater geworden? Toll! Und wie geht es der Mutter? Haben sie jetzt die Kinder genommen? Ruft mich an, wenn kann ich dir helfen. Glückwünsche noch mal!
+Liebe Grüße
+Michael ddd

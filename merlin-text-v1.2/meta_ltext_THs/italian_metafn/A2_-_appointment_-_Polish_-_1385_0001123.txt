@@ -1,0 +1,42 @@
+METADATA
+
+General:
+Author ID: 1385_0001123
+Test language: Italian
+CEFR level of test: A1
+Task : reschedule an appointment - ID: 1385_020100
+Mother tongue: Polish
+Age: 52
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+CARO DANIELE,
+COME STAI?
+È UNA SETTIMANA ORRIBILE. IN UFFICIO C'è MOLTO LAVORO E GIOVEDI POMERIGGIO NON POSSO INCONTRARTI.
+PROPORRO UN ALTRO GIORNO PER IL NOSTRO APPUNTAMENTO. FORSE SABATO SERA? FAMMI SAPERE SUBITO.
+CHE NE DICI DI ANDARE A CENA IN UN RISTORANTE TAILANDESE?
+SALUTI! A PRESTO!
+Maria
+
+----------------
+
+Target hypothesis 1: 
+
+Caro Daniele , come stai ? È una settimana orribile . In ufficio c' è molto lavoro e giovedì pomeriggio non posso incontrarti . Propongo un altro giorno per il nostro appuntamento . Forse sabato sera ? Fammi sapere subito . Che ne dici di andare a cena in un ristorante tailandese ? Saluti , a presto ! Maria
+
+----------------
+
+No target hypothesis 2 available.
+

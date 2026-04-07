@@ -1,0 +1,32 @@
+METADATA
+
+General:
+Author ID: 1395_0000452
+Test language: Italian
+CEFR level of test: A2
+Task : contact a friend after a long time - ID: 1395_020300
+Mother tongue: German
+Age: 17
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Ciao la mia cara Letizia, -image-
+Abbiamo vacanze! Bellissimo!
+Come stai e dove vai in vacanza?
+Allora, sono in Italia con il mio curso d'italiano, in Città X, come tu e ta famiglia.
+Forse ci possiamo incontrare in una gelateria e parliamo...che cosa pensi? Ti telefonerei!
+Tanti saluti!
+Bacio,
+Maria-image-

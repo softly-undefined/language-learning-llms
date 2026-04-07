@@ -1,0 +1,30 @@
+METADATA
+
+General:
+Author ID: 1091_0000047
+Test language: German
+CEFR level of test: A2
+Task : letter to housing office - ID: 1091_0610301
+Mother tongue: not reported
+Age: 36
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: B1
+Orthography: B2
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+                          Stadt X, 04.01.2012
+Sehr geehrte Damen und Herren,
+ich suche ein Wohnung. Ich habe eins kind und möchte ich 3 zimmer und Balkon wenn Sie ein Garage auch gut.
+Wie groß das Wohnung und wie teuer. können Sie mir bitte schreiben auf (SMS) die Handy 0345-11111111.
+Mit freundlichen Grüßen
+E. Schmidt

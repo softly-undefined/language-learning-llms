@@ -1,0 +1,28 @@
+METADATA
+
+General:
+Author ID: 1071_0248327
+Test language: German
+CEFR level of test: A1
+Task : ask friend for help for finding apartment - ID: 1071_020200
+Mother tongue: not reported
+Age: 41
+Gender: female
+
+Rating:
+Overall CEFR rating: A1
+Grammatical accuracy: A1
+Orthography: A1
+Vocabulary range: A2
+Vocabulary control: A1
+Coherence/Cohesion: A1
+Sociolinguistic appropriateness: A1
+
+----------------
+
+Learner text: 
+
+Hallo Ingo
+Ich habe eine Arbeit gefunden. Wohnung in Neuburg Ich brauchen ein Wohnung
+Am 20 Juli ziehe Ich in die mein Wohnung ein Ich mein Wohnung Große eine Zimer, eine Schlozimer, eine Kinderzimer, eine Kuche ein Bad.
+Vielen Dank

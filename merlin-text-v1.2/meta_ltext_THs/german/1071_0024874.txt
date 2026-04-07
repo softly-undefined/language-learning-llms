@@ -1,0 +1,39 @@
+METADATA
+
+General:
+Author ID: 1071_0024874
+Test language: German
+CEFR level of test: A1
+Task : congratulate to birth of child - ID: 1071_030101
+Mother tongue: Turkish
+Age: 38
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Lieber Jens,                               08.03.2012
+Tut mir leid. Ich war krank, ich sehe deine e-mail jetzt. Viel Glück zu deine Baby. Wie viele kg ist geboren? Was ist des Babys Name? Wie geht es der Mutter und dem Babby? Ich warte daine antwort 
+Friedrich
+
+----------------
+
+Target hypothesis 1: 
+
+Lieber Jens , 08.03.2012 tut mir leid . Ich war krank , ich sehe deine E-Mail jetzt . Viel Glück für dein Baby . Mit wievielen kg ist es geboren ? Was ist des Babys Name ? Wie geht es der Mutter und dem Baby ? Ich warte auf deine Antwort Friedrich
+
+----------------
+
+Target hypothesis 2: 
+
+08.03.2012 Lieber Jens , tut mir leid . Ich war krank und sehe deine E-Mail jetzt . Viel Glück für dein Baby . Mit wievielen kg ist es geboren ? Wie ist des Babys Name ? Wie geht es der Mutter und dem Baby ? Ich warte auf deine Antwort Friedrich

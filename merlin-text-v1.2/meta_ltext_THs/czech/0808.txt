@@ -1,0 +1,42 @@
+METADATA
+
+General:
+Author ID: 0808
+Test language: Czech
+CEFR level of test: B1
+Task : answer to the email of Alena - ID: 1_Alena
+Mother tongue: German
+Age: not reported
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+29.leden2008 
+Milá Aleno,
+děkuji Ti mockrát za Tvůj email! Minulý týden jsem napsala diplomce a teď mám čás a můžu planovat dovolenou. Konečně! Inzerát je moc zajímavý! Bych těšla mě, kdybych přijela v létě do tebe! Kdy začíná prázdninový kurz a kdy končí? Kolik stojí? Posláš mně inzerát, prosím? Je výborné, že máš pohovor blízko Drážďan! 13. 0213. 02. mám čás a můžu jít pro tebe na nádraží.  Kdy přijedeš? Co chceš dělat v Drážďanech? Mám ideu: Budeme jít do mně domů a pozvu tě na svačinu. Potom budeme jít na procházku v parku a večer budeme jít do restaurace a potom na party u Petra. Co říkáš? 
+Těším se moc na tvoje návštevu! 
+Zatím ahoj, 
+Tvoje Dana
+
+----------------
+
+Target hypothesis 1: 
+
+29.leden2008 Milá Aleno , děkuji Ti mockrát za Tvůj e-mail ! Minulý týden jsem napsala diplomku a teď mám čas a můžu plánovat dovolenou . Konečně ! Inzerát je moc zajímavý ! Těšila bych se , kdybych přijela v létě k Tobě ! Kdy začíná prázdninový kurz a kdy končí ? Kolik stojí ? Pošleš mně inzerát , prosím ? Je výborné , že máš pohovor blízko Drážďan ! 13. 02. mám čas a můžu pro Tebe jít na nádraží . Kdy přijedeš ? Co chceš dělat v Drážďanech ? Mám ideu : půjdeme ke mně domů a pozvu Tě na svačinu . Potom půjdeme na procházku do parku a večer půjdeme do restaurace a potom na party u Petra . Co říkáš ? Těším se moc na Tvoji návštěvu ! Zatím ahoj , Tvoje Dana
+
+----------------
+
+Target hypothesis 2: 
+
+29.leden2008 Milá Aleno , děkuji Ti mockrát za Tvůj e-mail ! Minulý týden jsem napsala diplomku a teď mám čas a můžu plánovat dovolenou . Konečně ! Inzerát je moc zajímavý ! Těšila bych se , kdybych přijela v létě k Tobě ! Kdy začíná prázdninový kurz a kdy končí ? Kolik stojí ? Pošleš mně inzerát , prosím ? Je výborné , že máš pohovor blízko Drážďan ! 13. 02. mám čas a můžu pro Tebe jít na nádraží . Kdy přijedeš ? Co chceš dělat v Drážďanech ? Mám ideu : půjdeme ke mně domů a pozvu Tě na svačinu . Potom půjdeme na procházku do parku a večer půjdeme do restaurace a potom na party u Petra . Co říkáš ? Těším se moc na Tvoji návštěvu ! Zatím ahoj , Tvoje Dana

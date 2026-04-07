@@ -1,0 +1,47 @@
+METADATA
+
+General:
+Author ID: 0916
+Test language: Czech
+CEFR level of test: B1
+Task : answer to the email of Jana - ID: 2_Jana
+Mother tongue: German
+Age: not reported
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Ahoj Jana
+Já jsem se moc těšil  z  dopis.
+Dekuju, že jsi mi pozvala. Jak se máš? Mám se velmi dobře. Rád chci prijet do Prahy. Já  dlouhý nejsem nríšel do Prahy
+ Teď mám taky moc  zkoušky Mam zkoušku z mathematiky , z informatiky a z  angličtiny. Ale ony nejsou  tězký.
+V brěznu mám čas a bych príšel celý vikend. A  moc rád chci prohlížet Prahu. Praha je moc hezky  mesto.
+Dobře, můžeš  řikat mi cesta do tvého byta. Bohužel nevím. Vím ulice ale nevím číslo od tvého duma.
+Který metro potřebuju. A kolik stoji jízdenka za metro. Myslím, že není drahý.  
+Můžu prinášet něco? A co  přát si?
+Tento rok nemám dovolenou protože mám moc prace, ale příští rok budu cestovat do Australie zá  osm týden!
+Dobrý dovolená v Italie a měj se hezky
+Tvoje Sabine.
+
+----------------
+
+Target hypothesis 1: 
+
+Ahoj Jano ! Já jsem se moc těšila z dopisu . Děkuju , že jsi mě pozvala . Jak se máš ? Mám se velmi dobře . Ráda přijedu do Prahy . Já jsem dlouho nepřišla do Prahy . Teď mám taky moc zkoušek . Mám zkoušku z matematiky , z informatiky a z angličtiny . Ale ony nejsou těžké . V březnu mám čas a přišla bych na celý víkend . A moc ráda si prohlédnu Prahu . Praha je moc hezké město . Dobře , můžeš mi říct cestu do tvého bytu ? Bohužel ji nevím . Vím ulici , ale nevím číslo tvého domu . Které metro potřebuju ? A kolik stojí jízdenka na metro ? Myslím , že není drahé . Můžu něco přinést ? A co si přeješ ? Tento rok nemám dovolenou , protože mám moc práce , ale příští rok budu cestovat do Austrálie , na osm týdnů ! Dobrou dovolenou v Itálii a měj se hezky . Tvoje Sabine
+
+----------------
+
+Target hypothesis 2: 
+
+Ahoj Jano ! Já jsem se moc těšila z dopisu . Děkuju , že jsi mě pozvala . Jak se máš ? Mám se velmi dobře . Ráda přijedu do Prahy . Já jsem dlouho nepřišla do Prahy . Teď mám taky moc zkoušek . Mám zkoušku z matematiky , z informatiky a z angličtiny . Ale ony nejsou těžké . V březnu mám čas a přijela bych na celý víkend . A moc ráda si prohlédnu Prahu . Praha je moc hezké město . Dobře , můžeš mi říct cestu do tvého bytu ? Bohužel ji neznám . Znám ulici , ale neznám číslo tvého domu . Které metro potřebuju ? A kolik stojí jízdenka na metro ? Myslím , že není drahé . Můžu něco přinést ? A co si přeješ ? Tento rok nemám dovolenou , protože mám moc práce , ale příští rok budu cestovat do Austrálie , na osm týdnů ! Dobrou dovolenou v Itálii a měj se hezky . Tvoje Sabine

@@ -1,0 +1,29 @@
+METADATA
+
+General:
+Author ID: 1091_0000039
+Test language: German
+CEFR level of test: A2
+Task : letter to housing office - ID: 1091_0610301
+Mother tongue: Russian
+Age: 61
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Sehr geehrte Damen und Herren
+Für meine Familie die besteht drei Zimmer Erwachsene und Kind Suche ich Die Zimmer Wohnung mit ainem balkon der im Hof besteht Die Miete muss mhrr als Drei hundert (300) seain 
+Mit froidlihen Grussen
+Herr Winkelmann
+P.S. und Garage.

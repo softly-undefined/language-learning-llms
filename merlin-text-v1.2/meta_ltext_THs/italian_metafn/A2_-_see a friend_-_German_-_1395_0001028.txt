@@ -1,0 +1,39 @@
+METADATA
+
+General:
+Author ID: 1395_0001028
+Test language: Italian
+CEFR level of test: A2
+Task : go see a friend - ID: 1395_040101
+Mother tongue: German
+Age: 16
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+     Ciao Allessandro,
+come stai? Vorrei raccontarti della mia famiglia. Ho tre fratelli ed una sorella gemella che si chiamano Maria, Michele, Francesco e Stefano. Ho una grande casa con sei camere, due bagni, una cucina e un salotto. Ognuno ha una camera sua. Ho nessun animal perché Maria è allergica. Abito a Città X e oggi è la festa "Eurovision Song Contest". È una bella città. Faccio molto sport per esempio tennis, calcio e sciare. Vorrei incontrarti in Italia. Vorrei anche sapere: Com'è la tua città?, come sta la tua famiglia? e che cosa possiamo fare quando arrivo? Puoi spedirmi anche una lettera perché ho voglia di conoscerti. 
+               Ci vediamo, 
+                              Federico
+
+----------------
+
+Target hypothesis 1: 
+
+Ciao Alessandro , come stai ? Vorrei raccontarti della mia famiglia . Ho tre fratelli ed una sorella gemella che si chiamano Maria , Michele , Francesco e Stefano . Ho una grande casa con sei camere , due bagni , una cucina e un salotto . Ognuno ha una camera sua . Non ho nessun animale perché Maria è allergica . Abito a Città X e oggi è la festa " Eurovision Song Contest " . È una bella città . Faccio molto sport , per esempio tennis , calcio e sci . Vorrei incontrarti in Italia . Vorrei anche sapere : com' è la tua città ? Come sta la tua famiglia ? E che cosa possiamo fare quando arrivo ? Puoi spedirmi anche una lettera ? Ho voglia di conoscerti . Ci vediamo , Federico
+
+----------------
+
+No target hypothesis 2 available.
+

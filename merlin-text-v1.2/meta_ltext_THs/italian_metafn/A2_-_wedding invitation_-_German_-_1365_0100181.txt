@@ -1,0 +1,44 @@
+METADATA
+
+General:
+Author ID: 1365_0100181
+Test language: Italian
+CEFR level of test: B1
+Task : answer to an wedding invitation - ID: 1365_020300
+Mother tongue: German
+Age: 19
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B2
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Cara Bea, caro Stefano, 
+tanti auguri! Sono euphorica che volete stare insieme sempre e che i genitori annunciate il matrimonio finalmente!
+Ma ho un problemo con i figli. Napoli è molto lontano da qui e Giovanni non sarà a casa a Novembre. Forse puo chiedere i miei genitori, ma non promesso niente! 
+Ma che cosa puo regalare i miei amici i più felice? Forse mancate qualche cosa per la cucina oppure per i bambini? 
+Sono così felice! La chiesa di Santa Chiara è verramente meravigliosa! 
+Gracie molto per l'invito!
+Sarò telefonarci!
+Braccio! 
+                  Maria
+
+----------------
+
+Target hypothesis 1: 
+
+Cara Bea , caro Stefano , tanti auguri ! Sono euforica che vogliate stare sempre insieme e che i genitori annuncino finalmente il matrimonio ! Ma ho un problema con i figli . Napoli è molto lontano da qui e Giovanni non sarà a casa a novembre . Forse può chiedere ai miei genitori , ma non prometto niente ! Ma che cosa può regalare ai miei amici più felici ? Forse vi manca qualche cosa per la cucina oppure per i bambini ? Sono così felice ! La chiesa di Santa Chiara è veramente meravigliosa ! Grazie molto per l' invito ! Vi telefonerò ! Un braccio ! Maria
+
+----------------
+
+No target hypothesis 2 available.
+

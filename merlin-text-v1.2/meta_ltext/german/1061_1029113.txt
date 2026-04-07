@@ -1,0 +1,30 @@
+METADATA
+
+General:
+Author ID: 1061_1029113
+Test language: German
+CEFR level of test: B1
+Task : write a letter to a friend (visit) - ID: 1061_130101
+Mother tongue: Russian
+Age: 56
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+                                             Stadt X, den 27.02.2012
+Liebe Dana,
+viele Dank für deine Enladung.
+Ich kann dich nach deiner Rückkehr zu Hause besuchen. Ich wünsche dir viele Glück zur bestandenen Prüfung. Ich freue mich auf dich. Könntes du für mich kleinen Suvenir mitbringen? Viele Dank im Voraus. Mein Vater und meine Mutter wohnen im Stadt Y. Die Stadt ist groß und schön. Die gibt viele Museum und Tehater.
+Viele Grüße
+Julia

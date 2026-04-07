@@ -1,0 +1,28 @@
+METADATA
+
+General:
+Author ID: 1091_0000019
+Test language: German
+CEFR level of test: A2
+Task : offer a ticket not used to a friend - ID: 1091_0690403
+Mother tongue: Russian
+Age: 60
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+                     Stadt X 05.1.12
+Liebe Julia, Ich habe eine FahrKarte für einen Wochenendausflug. Leider Können ich nicht fahren, weil mein Mann KranK ist. Wen du die FahrKarte haben möchtest, schreib mich ein E-Meil.
+Mit freundlichen Grüßen
+E. Julia

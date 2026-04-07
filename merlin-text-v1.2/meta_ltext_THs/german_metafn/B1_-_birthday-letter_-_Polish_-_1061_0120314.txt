@@ -1,0 +1,43 @@
+METADATA
+
+General:
+Author ID: 1061_0120314
+Test language: German
+CEFR level of test: B1
+Task : write a letter to a friend (birthday) - ID: 1061_170900
+Mother tongue: Polish
+Age: 26
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: A2
+Orthography: B2
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+                                        24.02.12
+Liebe Silke,
+Danke uns geht es gut, Eva geht jetz in der ersten Klasse. Stefan und ich arbeiten viel weil wir brauchen viel geld.
+Ich habe im Juni eine woche Urlaub, dann vielleicht ich komme euch besuchen!
+Unsere Tochta wollte auch Tiere haben, dann haben Wir sie zum Geburtstag eine Hund geschenkt ich freu mich auch wenn ein Hund zu Hause ist.
+Ja habe ich auch bald Geburtstag, vielleicht konntest du mir ein Buch schenken oder eine CD mit schöne Musik, aber das ist nicht so wichtich. Das würde mich sehr freuen, wenn kommst Du mir seine Fammilie auf meine Geburtstag.
+Schöne Grüße
+Maria Winkelmann
+
+----------------
+
+Target hypothesis 1: 
+
+24.02.12 Liebe Silke , danke , uns geht es gut . Eva geht jetzt in die erste Klasse . Stefan und ich arbeiten viel , weil wir viel Geld brauchen . Ich habe im Juni eine Woche Urlaub , dann vielleicht komme ich euch besuchen ! Unsere Tochter wollte auch Tiere haben , dann haben wir ihr zum Geburtstag einen Hund geschenkt . Ich freue mich auch , wenn ein Hund zu Hause ist . Ja , ich habe auch bald Geburtstag , vielleicht konntest du mir ein Buch schenken oder eine CD mit schöner Musik , aber das ist nicht so wichtig . Das würde mich sehr freuen , wenn Du mit seiner Familie zu meinem Geburtstag kommst . Schöne Grüße Maria Winkelmann
+
+----------------
+
+No target hypothesis 2 available.
+

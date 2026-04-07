@@ -1,0 +1,48 @@
+METADATA
+
+General:
+Author ID: 0917
+Test language: Czech
+CEFR level of test: B1
+Task : answer to the email of Jana - ID: 2_Jana
+Mother tongue: German
+Age: not reported
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+21. července 2009
+Ahoj Jano,
+děkuji Ti mnohokrát za tvůj email.
+Těším mě z pozvání. Chci přijet do Prahy. Ale teď nemám čas, protože mám zkoušky. Jsem nervozná protože privní zkouška bude moc obtížná a musím se učit.
+V březnu mám čas.  zůstávala Bych v Praze  v sobotu a v neděli.
+a bych dívala se město.
+Bude přiješ na Hlavní nádraží v sobotu 14.3. v 9 hodin a 15 minut ale nevím cestou nebo adresou. Kdo bydlíš?
+Jaký budu přijet? Pojedu tramvajem nebo metrem? Kolik stoji jízdenku? Teším mě na oslavu. Co přeješ nebo máš jiné přání?
+Měj se hezky a měj hezkou dovolenou v Itálii.
+Pozdravuj všechny, hlavně Petře
+Uvidime se v Praze
+Sabine
+
+----------------
+
+Target hypothesis 1: 
+
+21. července 2009 Ahoj Jano , děkuji Ti mnohokrát za Tvůj e-mail . Těším se z pozvání . Chci přijet do Prahy . Ale teď nemám čas , protože mám zkoušky . Jsem nervózní , protože první zkouška bude moc obtížná a musím se učit . V březnu mám čas . Zůstala bych v Praze v sobotu a v neděli a podívala bych se na město . Přijedu na hlavní nádraží v sobotu 14. 3. v 9 hodin a 15 minut , ale nevím cestu nebo adresu . Kdo bydlíš ? Jak tam přijedu ? Pojedu tramvají , nebo metrem ? Kolik stojí jízdenka ? Těším se na oslavu . Co si přeješ , nebo máš jiné přání ? Měj se hezky a měj hezkou dovolenou v Itálii . Pozdravuj všechny , hlavně Petra . Uvidíme se v Praze . Sabine
+
+----------------
+
+Target hypothesis 2: 
+
+21. července 2009 Ahoj Jano , děkuji Ti mnohokrát za Tvůj e-mail . Těším se z pozvání . Chci přijet do Prahy . Ale teď nemám čas , protože mám zkoušky . Jsem nervózní , protože první zkouška bude moc obtížná a musím se učit . V březnu mám čas . Zůstala bych v Praze v sobotu a v neděli a podívala bych se na město . Přijedu na hlavní nádraží v sobotu 14. 3. v 9 hodin a 15 minut , ale neznám cestu nebo adresu . Kde bydlíš ? Jak tam přijedu ? Pojedu tramvají , nebo metrem ? Kolik stojí jízdenka ? Těším se na oslavu . Co si přeješ , nebo máš jiné přání ? Měj se hezky a měj hezkou dovolenou v Itálii . Pozdravuj všechny , hlavně Petra . Uvidíme se v Praze . Sabine

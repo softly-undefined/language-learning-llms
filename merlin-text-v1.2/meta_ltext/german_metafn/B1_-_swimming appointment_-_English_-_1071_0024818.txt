@@ -1,0 +1,28 @@
+METADATA
+
+General:
+Author ID: 1071_0024818
+Test language: German
+CEFR level of test: A1
+Task : arrange appointment with friend to go swimming together - ID: 1071_120302
+Mother tongue: English
+Age: 35
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B2
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Hallo Daniela! Mochtest du mit mir Schwimmen gehen? Vielliecht gehen wir ins Schwimmbad Stadt X, heute abend um sieben uhr? Du brauchst nur schwimmkleidung.
+Bis später!
+LG,
+Michael

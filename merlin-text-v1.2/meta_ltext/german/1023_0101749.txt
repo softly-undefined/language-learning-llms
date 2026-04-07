@@ -1,0 +1,39 @@
+METADATA
+
+General:
+Author ID: 1023_0101749
+Test language: German
+CEFR level of test: B2
+Task : apply for internship in sales department - ID: 1023_120301
+Mother tongue: Polish
+Age: 24
+Gender: female
+
+Rating:
+Overall CEFR rating: B2
+Grammatical accuracy: C1
+Orthography: C1
+Vocabulary range: C1
+Vocabulary control: C1
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: B2
+
+----------------
+
+Learner text: 
+
+Maria Müller
+Bahnhofsstraße 12
+21-321 Stadt X
+                                                        Stadt X, den 12 März, 2010
+Computer-Spezialist
+Odenwaldstraße 5
+53119 Bonn
+Sehr geehrte Damen und Herren,
+im Folgenden sende ich Ihnen die gewünscht Begrundung für meine Bewerbung.
+Für mich als Informatik-Studentin sind Deutschkenntnisse sehr wichtig. Heutzutage studiere ich an der Stadt X Ökonomie Hochschule und muss über riechen Wortschatz über IT-System verfügen. Im Studium lese ich oft deutsche Wirtschaftstexte, deshalb möchte ich meine Deutschkenntnisse verbreiten.
+Ich interessiere mich für die Datenverarbeitung. Ich möchte auch Kontakte mit Kunden knüpfen, um viele Leute kennen zu lernen. Ich mag auch in Teamwork arbeiten.
+In Ihrer Firma möchte ich meine Fähigkeit trainieren, um in der Zukunft in der Computerbranche tätig zu werden. Diese Praktikum möchte ich am Anfang des Aprils, beginnen und 40-45 Stunden pro Woche arbeiten. Wegen meiner beruflichen Zukunft möchte ich dieses Praktikum in Deutschland machen.
+Ich hoffe, diese Informationen sind ausreichend für sie. Falls erforderlich sende ich Ihnen gerne weitere Informationen zu.
+Mit freundlichen Grüßen
+Maria Müller

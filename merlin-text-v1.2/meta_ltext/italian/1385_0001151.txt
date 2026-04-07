@@ -1,0 +1,31 @@
+METADATA
+
+General:
+Author ID: 1385_0001151
+Test language: Italian
+CEFR level of test: A1
+Task : help a friend who is looking for work - ID: 1385_040101
+Mother tongue: Polish
+Age: 27
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+... Puoi scrivere dove lavori adesso e perchè questo lavoro non ti piace.
+Io adesso lavoro in ufficio e posso chiamare il mio capo, se c'è qualche posto libero nella sua dità.
+Vorrei sapere anche che tipo di lavoro vuoi fare? Vorresti lavorare in ufficcio o in magazzino...
+E l'ultima cosa, di più importanta, quando potresti iniziare il nuovo lavoro?
+Rispondemi più presto al possibile, aspetto...
+Saluti
+Maria

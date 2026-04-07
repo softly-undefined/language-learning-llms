@@ -1,0 +1,39 @@
+METADATA
+
+General:
+Author ID: 1031_0003232
+Test language: German
+CEFR level of test: C1
+Task : write article about sticking to one's traditions and 'assimilation' in a new environment - ID: 1031_030301
+Mother tongue: Hungarian
+Age: 27
+Gender: not reported
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B2
+Vocabulary range: B2
+Vocabulary control: B1
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Meiner Meinung nach, soll man sich an der Kultur des Gastlandes orientieren.
+Ich denke, daß es immer so viele Vorteile gibt, wenn jemand nicht nur die Tradition des Heimatlands, sondern auch neue Kulture und Tradition kennenlernt.
+Es ist wichtig neue fremde Wörter aus Ausland zu hören und zu sehen, andere Feier kennenzulernen Man wird mehr sein mit Kenntniss der neuer Tradition.
+Es gibt ein Sprichwort: Wie viel Sprache man spricht, so viele verschiedene Persönlichkeit ist. Die Sprache gewöhnt sich an Tradition des Landes. Es ist immer wichtig, wenn man nach eines neues Land fährt, die Haupttradition und Gebrauch von diesem Land kennenlernt. Z.b. Es ist immer wichtig zu wissen, daß man während Ramadan keine Speise im arabischen Land bis sieben Uhr am Abend essen kann Wenn man mehr Geschichte über das Land und die Traditionen des Landes kennt, kann man mehr von dem Gastland verstehen. Die Feierntage hängen von Geschichte des Landes ab. Zum Beispiel in Ungarn feiern wir den 20. August wir die Gründung von unserer Heimat. Endlich muß ich es sagen. Das ist aber wichtig und notwendig der Kultur des Gastlandes kennen zu lernen, aufzupassen. Ich denke, wenn man die Tradition und der Kultur über eines fremdes Land kenne, macht man mehr und klüger. Und man kann sich mit einander einfacher über der ganzen Welt unterhalten, wenn sie einander berichte kennen.
+
+----------------
+
+Target hypothesis 1: 
+
+Meiner Meinung nach soll man sich an der Kultur des Gastlandes orientieren . Ich denke , dass es immer so viele Vorteile gibt , wenn jemand nicht nur die Tradition des Heimatlands , sondern auch neue Kulturen und Tradition kennenlernt . Es ist wichtig , neue fremde Wörter aus dem Ausland zu hören und zu sehen , eine andere Feier kennenzulernen . Man wird mehr sein mit der Kenntnis der neuen Tradition . Es gibt ein Sprichwort : Wie viel Sprache man spricht , so viele verschiedene Persönlichkeit ist man . Die Sprache gewöhnt sich an die Tradition des Landes . Es ist immer wichtig , wenn man in ein neues Land fährt , die Haupttradition und den Gebrauch von diesem Land kennenzulernen . Z.B. ist es immer wichtig zu wissen , dass man während des Ramadan in einem arabischen Land keine Speise bis sieben Uhr am Abend essen kann . Wenn man mehr Geschichte über das Land und die Traditionen des Landes kennt , kann man mehr von dem Gastland verstehen . Die Feierntage hängen von der Geschichte des Landes ab . Zum Beispiel feiern wir in Ungarn den 20 . August die Gründung unserer Heimat . Endlich muss ich es sagen . Das ist aber wichtig und notwendig , die Kultur des Gastlandes kennen zu lernen , aufzupassen . Ich denke , wenn man die Tradition und die Kultur eines fremden Landes kennt , macht man mehr und klüger . Und man kann sich miteinander in der ganzen Welt einfacher unterhalten , wenn sie voneinander Berichte kennen .
+
+----------------
+
+No target hypothesis 2 available.
+

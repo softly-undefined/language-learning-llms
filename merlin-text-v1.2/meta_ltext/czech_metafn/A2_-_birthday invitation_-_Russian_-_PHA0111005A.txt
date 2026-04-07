@@ -1,0 +1,29 @@
+METADATA
+
+General:
+Author ID: PHA0111005A
+Test language: Czech
+CEFR level of test: A2
+Task : answering on a birthday invitation - ID: A2PS0102_oslava
+Mother tongue: Russian
+Age: 1519
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B2
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Milá Julie, 
+děkuju za dopis a za pozvání, určitě budu v čas. 
+Chtěla bych vědět, kde budeš oslavovat své narozeniny? A co bude na začátku? Máš nějaké nápady? Ještě napíš, prosím tě, kdo bude na oslavě? A kolik bude člověk? 
+Měj se hezky.
+Eva

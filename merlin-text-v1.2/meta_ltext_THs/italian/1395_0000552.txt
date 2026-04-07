@@ -1,0 +1,41 @@
+METADATA
+
+General:
+Author ID: 1395_0000552
+Test language: Italian
+CEFR level of test: A2
+Task : go see a friend - ID: 1395_040101
+Mother tongue: German
+Age: 50
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: B1
+Orthography: B2
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Caro Carlo
+Ho trascorso una settimana di vacanza in montagna, a Città X. Mi sono rilassata un po' e insomma sto bene.
+E tu? Come stai? La tua famiglia sta meglio dopo questa influenza gravissima?
+Fra tre settimane sarò a Città X per motivi di lavoro. È da molto tempo che non ci vediamo. Mi piacerebbe incontrarti e la tua famiglia. Sarò libera martedì e mercoledì sera. Fammi sapere quando sarete liberi.
+Abiterò nel albergo vicino alla stazione. Posso andare in autobus per arrivare a casa tua?
+Cari saluti a tutti Maria
+
+----------------
+
+Target hypothesis 1: 
+
+Caro Carlo , ho trascorso una settimana di vacanza in montagna , a Città X . Mi sono rilassata un po' e , insomma , sto bene . E tu ? Come stai ? La tua famiglia sta meglio dopo questa influenza gravissima ? Fra tre settimane sarò a Città X per motivi di lavoro . È da molto tempo che non ci vediamo . Mi piacerebbe incontrare te e la tua famiglia . Sarò libera martedì e mercoledì sera . Fammi sapere quando sarete liberi . Abiterò nell' albergo vicino alla stazione . Posso andare in autobus per arrivare a casa tua ? Cari saluti a tutti Maria
+
+----------------
+
+No target hypothesis 2 available.
+

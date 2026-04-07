@@ -1,0 +1,38 @@
+METADATA
+
+General:
+Author ID: 1395_0001080
+Test language: Italian
+CEFR level of test: A2
+Task : inform friends about language course - ID: 1395_010300
+Mother tongue: Polish
+Age: 32
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Cari amici, 
+Sono attualmente a Città X per fare un corso di italiano. Penso rimanere ancora due o tre settimane. Sono molto contenta di nostra insegnante. Lei è molto competenta è simpatica. Le lezione sono interessante perché l'insegnante parla non solo della grammatica ma anché della cultura italiana. Doppo le lezione, la sera, vado mangiare con i nuovi amici italiani. Andiamo anché spesso al mare ou facciamo un giro con la bicicletta .
+Cordiali saluti di Toscana! 
+
+----------------
+
+Target hypothesis 1: 
+
+Cari amici , sono attualmente a Città X per fare un corso di italiano . Penso di rimanere ancora due o tre settimane . Sono molto contenta della nostra insegnante . Lei è molto competente e simpatica . Le lezioni sono interessanti perché l' insegnante parla non solo della grammatica ma anche della cultura italiana . Dopo le lezioni , la sera , vado a mangiare con i nuovi amici italiani . Andiamo anche spesso al mare o facciamo un giro con la bicicletta . Cordiali saluti dalla Toscana !
+
+----------------
+
+No target hypothesis 2 available.
+

@@ -1,0 +1,55 @@
+METADATA
+
+General:
+Author ID: 1023_0109151
+Test language: German
+CEFR level of test: B2
+Task : Au pair writes letter of complaint to Agency - ID: 1023_100303
+Mother tongue: other
+Age: 37
+Gender: female
+
+Rating:
+Overall CEFR rating: B2
+Grammatical accuracy: B2
+Orthography: B1
+Vocabulary range: C1
+Vocabulary control: B2
+Coherence/Cohesion: C1
+Sociolinguistic appropriateness: C1
+
+----------------
+
+Learner text: 
+
+MARIA MÜLLER
+ZENTRALPLATZ 21
+12345 STADT X
+AU-PAIR-AGENTUR SCHULTZ & PARTNER
+REGENSTR: 101.
+90451 NÜRNBERG
+                                                           STADT X, 1.09.2011
+Beschwerde über die von Ihnen vermittelte Au-Pair Stelle
+Sehr geehrte Damen und Herren,
+hiermit möchte ich mich bei Ihnen über die aktuelle Situation bei meiner Gastfamilie sowie über ihre Betreung besweren.
+Als ich die von Ihnen vermittelte Stelle angenomen habe, hatte ich die Erwartung, eine freundliche Gastfamilie mit einer angemessenen Wohnung vorzufinden und bei aftretenden Problemen Hilfe zu bekommen
+Leider wurde meine Erwartungen vollkommen entäsch
+Meine Gastfamilie fördert von mir weitaus mehr Arbeitseinsatz und, wie es für eine Au-pair Stelle üblich ist. Sowohl die Länge der geforderten Arbeitszeit liegt weit über dem normalen und von mirwateten Maß. Auch sind meine Wohverhältnisse sehr schlecht. Das Zimmer ist Schleht eingerichtet, klein und sehr dunkel.
+Auch die Verpflegung läßt zu wünschen übrig. Sowoh hinsichtlich Qualität als auch Quantitet erfinge ich das Essen hier als unzufriedend.
+Ich habe mich mit disen Problemen mermals an sie gewandt  sowoht schriftlich als auch telefonisch habe ich es wersucht.
+Ich fühle mich von Ihnen mit meine Problemen allein gelassen.
+Ich hoffe, von Ihnen einen Lösungvorshlag hinsichtlich der Problemen in meiner Gastfamilie zu bekommen sowie in der Zukunft eine bessere Betreung zu erhalten
+Mit freundlichen Grußen
+Maria Müller
+
+----------------
+
+Target hypothesis 1: 
+
+Maria Müller Zentralplatz 21 12345 Stadt X Au-pair-Agentur Schultz & Partner Regenstr . 101 . 90451 Nürnberg Stadt X , 1.09.2011 Beschwerde über die von Ihnen vermittelte Au-pair-Stelle Sehr geehrte Damen und Herren , hiermit möchte ich mich bei Ihnen über die aktuelle Situation bei meiner Gastfamilie sowie über ihre Betreuung beschweren . Als ich die von Ihnen vermittelte Stelle angenomen habe , hatte ich die Erwartung , eine freundliche Gastfamilie mit einer angemessenen Wohnung vorzufinden und bei auftretenden Problemen Hilfe zu bekommen . Leider wurden meine Erwartungen vollkommen enttäuscht . Meine Gastfamilie fördert von mir weitaus mehr Arbeitseinsatz als es für eine Au-pair-Stelle üblich ist . Die Länge der geforderten Arbeitszeit liegt weit über dem normalen und von mir erwarteten Maß . Auch sind meine Wohnverhältnisse sehr schlecht . Das Zimmer ist schlecht eingerichtet , klein und sehr dunkel . Auch die Verpflegung lässt zu wünschen übrig . Sowohl hinsichtlich der Qualität als auch der Quantität empfinde ich das Essen hier als unzufriedenstellend . Ich habe mich mit diesen Problemen mehrmals an Sie gewandt , sowohl schriftlich als auch telefonisch habe ich es versucht . Ich fühle mich von Ihnen mit meinen Problemen alleingelassen . Ich hoffe , von Ihnen einen Lösungvorschlag hinsichtlich der Probleme in meiner Gastfamilie zu bekommen sowie in der Zukunft eine bessere Betreuung zu erhalten . Mit freundlichen Grüßen Maria Müller
+
+----------------
+
+Target hypothesis 2: 
+
+Maria Müller Zentralplatz 21 12345 Stadt X Au-pair-Agentur Schultz & Partner Regenstr . 101 . 90451 Nürnberg Stadt X , 1.09.2011 Beschwerde über die von Ihnen vermittelte Au-Pair-Stelle Sehr geehrte Damen und Herren , hiermit möchte ich mich bei Ihnen über die aktuelle Situation bei meiner Gastfamilie sowie über Ihre Betreuung beschweren . Als ich die von Ihnen vermittelte Stelle angenomen habe , hatte ich die Erwartung , eine freundliche Gastfamilie mit einer angemessenen Wohnung vorzufinden und bei auftretenden Problemen Hilfe zu bekommen . Leider wurden meine Erwartungen vollkommen enttäuscht . Meine Gastfamilie fordert von mir weitaus mehr Arbeitseinsatz als es für ein AU-pair-Mädchen üblich ist . Die Länge der geforderten Arbeitszeit liegt weit über dem normalen und von mir erwarteten Durchschnitt . Auch sind meine Wohnverhältnisse sehr schlecht . Das Zimmer ist schlecht eingerichtet , klein und sehr dunkel . Auch die Verpflegung lässt zu wünschen übrig . Sowohl hinsichtlich der Qualität als auch der Quantität empfinde ich das Essen hier als unbefriedigend . Ich habe mich mit diesen Problemen mehrmals an Sie gewandt , sowohl schriftlich als auch telefonisch habe ich es versucht . Ich fühle mich von Ihnen mit meinen Problemen allein gelassen . Ich hoffe , von Ihnen einen Lösungsvorshlag hinsichtlich der Probleme in meiner Gastfamilie zu bekommen sowie in Zukunft eine bessere Betreuung zu erhalten . Mit freundlichen Grüßen Maria Müller

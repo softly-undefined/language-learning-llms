@@ -1,0 +1,39 @@
+METADATA
+
+General:
+Author ID: 1385_0001152
+Test language: Italian
+CEFR level of test: A1
+Task : help a friend who is looking for work - ID: 1385_040101
+Mother tongue: Polish
+Age: 36
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Cara Maria!
+Grazie per la tua email. Vorrei aiutarti, ma ho bisogno di qualche informazione in più. Puoi dirmi dove lavori adesso e che fai? Vorrei sapere che tipo di lavoro ti interessa? Ti piace lavorare in un ufficio o in un negozio? E voglio sapere quando vorresti cominciare a lavorare. Ho visto tre notizie nuove nella agenzia di lavoro vicino mia casa. Forse ti piacerebbero?
+Tanti bacci!
+ Eva
+
+----------------
+
+Target hypothesis 1: 
+
+Cara Maria , grazie per la tua email . Vorrei aiutarti , ma ho bisogno di qualche informazione in più . Puoi dirmi dove lavori adesso e che fai ? Vorrei sapere , che tipo di lavoro ti interessa ? Ti piace lavorare in un ufficio o in un negozio ? E voglio sapere quando vorresti cominciare a lavorare . Ho visto tre notizie nuove nell' agenzia di lavoro vicino casa mia . Forse ti piacerebbero ? Tanti baci ! Eva
+
+----------------
+
+No target hypothesis 2 available.
+

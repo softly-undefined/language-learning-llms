@@ -1,0 +1,30 @@
+METADATA
+
+General:
+Author ID: 1091_0000051
+Test language: German
+CEFR level of test: A2
+Task : letter to housing office - ID: 1091_0610301
+Mother tongue: Arabic
+Age: 66
+Gender: male
+
+Rating:
+Overall CEFR rating: A1
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+                                                 Stadt X 04.01.2012
+Sehr geehrte Damen und Herren,
+Ich suches eine Wohneng
+Ich möchte wohen mit 3 Zimmer und ein Balkon und ein Garage. und Ich habe Garten. uber wohen. und Ich habe Gruß Keller. Ich möchte eine Schlafzimer Ich möchte ein GrußKüch 
+was kostet its 500 €
+vielGruß

@@ -1,0 +1,39 @@
+METADATA
+
+General:
+Author ID: 1091_0000156
+Test language: German
+CEFR level of test: A2
+Task : ask friend to take care of pet - ID: 1091_0650102
+Mother tongue: not reported
+Age: 48
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B2
+Vocabulary control: B2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B2
+
+----------------
+
+Learner text: 
+
+Liebe Maria,
+Am Nächsten Woche werde ich nach Köln fahren mit meine Familie. Wir werden unsere Eltern besuchen am 13 Janaur weil es der Geburtstag von meine Mutter ist. Aber ich habe einen Hund ins Haus, hier. Niemand ist in meinem Haus während ich und familie nach Köln für 2 Tage fahren. Könnten Sie bitte einen Hund das Essen flüttern. Das Essen des Hunds ist in der Garage. Ich werde zu Haus zurückfahren am Sonntag 15 Janaur. Bevor ich nach Köln fahre, besuche ich ihrem Haus und gebe Sie der Schlüssel meines Haus. Ich bedanke mich für Ihre Hilfe.
+Mit freundlichen Grüßen,
+Katharina Meier
+
+----------------
+
+Target hypothesis 1: 
+
+Liebe Maria , nächste Woche werde ich nach Köln fahren mit meiner Familie . Wir werden unsere Eltern besuchen , am 13. Januar , weil es der Geburtstag von meiner Mutter ist . Aber ich habe einen Hund hier im Haus . Niemand ist in meinem Haus , während ich und meine Familie für 2 Tage nach Köln fahren . Könnten Sie bitte einem Hund das Essen füttern . Das Essen des Hundes ist in der Garage . Ich werde am Sonntag , 15. Januar , nach Hause zurückfahren . Bevor ich nach Köln fahre , besuche ich Ihr Haus und gebe Ihnen den Schlüssel meines Hauses . Ich bedanke mich für Ihre Hilfe . Mit freundlichen Grüßen , Katharina Meier
+
+----------------
+
+No target hypothesis 2 available.
+

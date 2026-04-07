@@ -1,0 +1,42 @@
+METADATA
+
+General:
+Author ID: 1365_0100135
+Test language: Italian
+CEFR level of test: B1
+Task : answer to an wedding invitation - ID: 1365_020300
+Mother tongue: German
+Age: 47
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: C1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Cara Beatrice, caro Stefano,
+sono molto contenta di sentire che vi sposerete il 20 Novembre nella chiesa di Santa Chiara. Benissimo! Tanti auguri per il vostro matrimonio e futuro.
+Grazie per il vostro invito. Verrò volentieri. E naturalmente vorrei comprare un bel regalo per voi. Avete una lista di nozze? Che cosa desiderete? Mi fate sapere per favore.
+Non vedo l'ora di rivedervi e sono in attesa della vostra risposta.
+Ancora una volta: Tanti auguri!
+Cari saluti,
+Maria
+
+----------------
+
+Target hypothesis 1: 
+
+Cara Beatrice , caro Stefano , sono molto contenta di sentire che vi sposerete il 20 novembre nella Chiesa di Santa Chiara . Benissimo ! Tanti auguri per il vostro matrimonio e futuro . Grazie per il vostro invito . Verrò volentieri . E naturalmente vorrei comprare un bel regalo per voi . Avete una lista di nozze ? Che cosa desiderate ? Fatemi sapere per favore . Non vedo l' ora di rivedervi e sono in attesa della vostra risposta . Ancora una volta : tanti auguri ! Cari saluti , Maria
+
+----------------
+
+No target hypothesis 2 available.
+

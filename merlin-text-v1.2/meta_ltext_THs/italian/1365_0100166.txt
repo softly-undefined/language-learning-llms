@@ -1,0 +1,39 @@
+METADATA
+
+General:
+Author ID: 1365_0100166
+Test language: Italian
+CEFR level of test: B1
+Task : answer to an wedding invitation - ID: 1365_020300
+Mother tongue: German
+Age: 20
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: B1
+Orthography: B2
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Cara Beatrice, caro Stefano, 
+primo voglio gratulare del matrimonio. "Congratulazione". In più, grazie mille per l'invito dopo la cerimonia al ristorante "Da Ciro". Devo dire, che andare non è possibile per me, perchè al 20. Novembre sono in Germania con la mia famiglia. Vogliamo fare di ski e anche visitare gli amici. Ma sono securo che troviamo un regalo benissimo. Penso che il matrimonio e un giorno incredibile, anche senza me. Sono molto triste, perchè non può vedere il vestito di Beatrice. 
+Desidero vostro un giorno perfetto. 
+Tanti saluti e bacci, Maria  
+
+----------------
+
+Target hypothesis 1: 
+
+Cara Beatrice , caro Stefano , primo voglio gratularmi del matrimonio . Congratulazione . In più , grazie mille per l' invito per dopo la cerimonia al ristorante " Da Ciro " . Devo dire che andare non è possibile per me , perché il 20 novembre sarò in Germania con la mia famiglia . Vogliamo fare dello sci e anche visitare gli amici . Ma sono sicuro che troveremo un regalo bellissimo . Penso che il matrimonio sarà un giorno incredibile , anche senza di me . Sono molto triste , perché non posso vedere il vestito di Beatrice . Desidero per voi un giorno perfetto . Tanti saluti e baci , Maria
+
+----------------
+
+No target hypothesis 2 available.
+

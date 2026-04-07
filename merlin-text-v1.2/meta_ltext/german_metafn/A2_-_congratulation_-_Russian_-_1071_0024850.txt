@@ -1,0 +1,28 @@
+METADATA
+
+General:
+Author ID: 1071_0024850
+Test language: German
+CEFR level of test: A1
+Task : congratulate to birth of child - ID: 1071_030101
+Mother tongue: Russian
+Age: 54
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A1
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A1
+Coherence/Cohesion: A1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Hallo Jens,
+Diene Glückwünsche schon fertig. Du hast shon ein Fater. Ich gratulieren. Grüße dir. Wer hat geboren der Junge oder das Mätchan Wie Name deine Kind? Wie es der Mutter und des Baby geht? Ich wünsche viele Gesund ihre Familie. Ich treffen denke uns durf einen Woche.
+mit freindlichen
+GrüßeMaria

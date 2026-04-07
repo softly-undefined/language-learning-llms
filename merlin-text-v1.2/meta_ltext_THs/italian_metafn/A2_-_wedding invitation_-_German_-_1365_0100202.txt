@@ -1,0 +1,44 @@
+METADATA
+
+General:
+Author ID: 1365_0100202
+Test language: Italian
+CEFR level of test: B1
+Task : answer to an wedding invitation - ID: 1365_020300
+Mother tongue: German
+Age: 17
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B2
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+                                   Cari Beatrice e Stefano, 
+I miei migliori auguri per il vostro Matrimonio! Credo che abbiate una bella vita pieno di felicità e amore. 
+Vi ringrazio molto per mio invito e sicuramente vengo anch'io con molto piacere. 
+Una cosa cosi bella e importante non posso lasciare perdere.
+L'ultima cosa è chè volevo chiedervi, se avete una lista matrimonia. 
+
+Ancora i miei migliori auguri e tutta la felicità. 
+              Cari saluti 
+                      Maria
+
+----------------
+
+Target hypothesis 1: 
+
+Cari Beatrice e Stefano , i miei migliori auguri per il vostro matrimonio ! Credo che abbiate una bella vita piena di felicità e amore . Vi ringrazio molto per il mio invito e sicuramente vengo anch' io con molto piacere . Non posso lasciare perdere una cosa così bella e importante . L' ultima cosa è che volevo chiedervi se avete una lista di matrimonio . Ancora i miei migliori auguri e tutta la felicità . Cari saluti Maria
+
+----------------
+
+No target hypothesis 2 available.
+

@@ -1,0 +1,31 @@
+METADATA
+
+General:
+Author ID: 1385_0001178
+Test language: Italian
+CEFR level of test: A1
+Task : reschedule an appointment - ID: 1385_020100
+Mother tongue: German
+Age: 33
+Gender: male
+
+Rating:
+Overall CEFR rating: A1
+Grammatical accuracy: A1
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A1
+Coherence/Cohesion: 0
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Andiamo a cena in un ristorante tailandese? 
+Come stai é sabato sera? E proporre una altro giorno?  
+Come lavorare tu a venerdi sera? 
+Quando finisci lavorare e Venerdi pomeriggio?
+Puoi chiamarlo   sul cellulare.
+Buona serata 
+Ciao 

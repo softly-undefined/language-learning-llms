@@ -1,0 +1,49 @@
+METADATA
+
+General:
+Author ID: 1023_0109609
+Test language: German
+CEFR level of test: B2
+Task : ask for information at Au pair Agency - ID: 1023_080401
+Mother tongue: French
+Age: 38
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B2
+Vocabulary range: B2
+Vocabulary control: B2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Julia Müller
+Zentralplatz 10
+12345 Stadt X
+                                                 Stadt X, den 10.10.2011
+Internationale Au-pair
+Vermittlung
+Bahnhofstr. 101
+65185 Wiesbaden
+Betreff: Aupairs Global
+Sehr geehrte Damen und Herren
+hiermit habe ich diese Anzeige gelesen und es Interresiert mich so sehr. Ich möchte schon eine Au-pair Stelle in Deutschland haben. Ich liebe Deustchland, Ich mache die formalitäte von mein Aufenthalts an. In meine Heimat habe ich Deutsche kurs gemacht aber Ich denke ist nicht genug, Ich muss noch dort in dieser familie Deutsch lernen, weil es sehr wichtige für mich. Ich habe immer getraum in andere land zu gehen besonders. Deutschland, Ich liebe Kinder, mit dem kann mein Sprache verbessern. Ich helfe Sie gern und betreuung sie auch. Ich habe viel Zeit Zu machen, egal wann Ich frage, ab wann kann ich fliegen. bis jetzt bin ich frei
+Ich hoffe, dass klar
+Mit Freundlichen Grüßen
+Julia Müller
+
+----------------
+
+Target hypothesis 1: 
+
+Julia Müller Zentralplatz 10 12345 Stadt X Stadt X , den 10.10.2011 Internationale Au-pair-Vermittlung Bahnhofstr . 101 65185 Wiesbaden Betreff : Aupairsglobal Sehr geehrte Damen und Herren , hiermit habe ich diese Anzeige gelesen und es interessiert mich so sehr . Ich möchte schon eine Au-pair-Stelle in Deutschland haben . Ich liebe Deutschland . Ich mache die Formalitäten von meinem Aufenthalt an . In meiner Heimat habe ich einen Deutschekurs gemacht , aber ich denke , das ist nicht genug . Ich muss noch dort , in dieser Familie Deutsch lernen , weil es sehr wichtig für mich ist . Ich habe immer davon geträumt , in ein anderes Land zu gehen , besonders Deutschland . Ich liebe Kinder , mit denen kann ich meine Sprache verbessern . Ich helfe ihnen gern und betreue sie auch . Ich habe viel Zeit , das zu machen , egal wann . Ich frage , ab wann ich fliegen kann . Bis jetzt bin ich frei . Ich hoffe , dass es klar ist . Mit freundlichen Grüßen Julia Müller
+
+----------------
+
+No target hypothesis 2 available.
+

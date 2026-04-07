@@ -1,0 +1,29 @@
+METADATA
+
+General:
+Author ID: 1061_1029111
+Test language: German
+CEFR level of test: B1
+Task : write a letter to a friend (visit) - ID: 1061_130101
+Mother tongue: Russian
+Age: 39
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B2
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B2
+
+----------------
+
+Learner text: 
+
+                                   Stadt X, 28.02.2012
+Liebe Dana,
+danke für dein Brief, und Herzlichen Glückwunsch zu deinem bestanden Prüfung! Ich frohe mich dass dir in Istanbul so gefällt. Es ist schön, wenn man Verwandte im Ausland hat, dann man kann auch bischen länger bleiben. Aber du weis, dass ich auch in Russland Verwandte habe und kann für zwei Monate hin fahren. Könntest du, vielleicht eine schöne Postkarte für mich verschicken. Ich werde mich sehr frohen. Ja, im Mai werde ich Zeit haben dich zu besuchen, weil mein Prüfung am 28.04.2012 stat findet. Wenn du auch Zeit hast, dann antworte mir.
+Viele Grüße
+Maria

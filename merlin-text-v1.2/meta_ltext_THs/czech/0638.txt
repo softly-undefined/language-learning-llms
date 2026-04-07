@@ -1,0 +1,48 @@
+METADATA
+
+General:
+Author ID: 0638
+Test language: Czech
+CEFR level of test: B1
+Task : answer to the email of Alena - ID: 1_Alena
+Mother tongue: German
+Age: not reported
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+4. srpen 2006
+Milá Mileno,
+
+děkuju ti mockrát za Tvůj dopis nebo e-mail. Už jsem ti dlouho nepsal, protože v poslední dobou jsem měl moc prace.
+Teď musim psat seminařní praci. Bohužel, nebudu mít čas na grilovací party, protože budu o dovolené.
+Pojedu za 2 tydný do Ṡvýcarska. Ale 14 dní pozdějí, 27.8.06 bych měl čas a přijdu. Těším se na svatbu. Ale kde je hrad Křivoklat?
+Co si přejete?
+Příští středu budu mít čas. Těším se velmí na naše setkání. Chtěl bych se setkat v jednu hodinu odpoledne v kavarně u nadraži. To je dobré? Souhlasiš? Jinak hledám dobrou gramatiku českéko jazyku.
+Chtěl tě bych ptát jestli znáš jednou. Asi bys mohl koupit jednou dobrou gramatiku.
+Samozřejmý budu ji platit. Přeju Ti všechno nejlepší.
+S pozdravý
+David
+
+----------------
+
+Target hypothesis 1: 
+
+4. srpen 2006 Milá Mileno , děkuju ti mockrát za tvůj dopis nebo e-mail . Už jsem ti dlouho nepsal , protože poslední dobou jsem měl moc práce . Teď musím psát seminární práci . Bohužel nebudu mít čas na grilovací party , protože budu na dovolené . Pojedu za 2 týdny do Švýcarska . Ale 14 dní později , 27.8.2006 bych měl čas a přijdu . Těším se na svatbu . Ale kde je hrad Křivoklát ? Co si přejete ? Příští středu budu mít čas . Těším se velmi na naše setkání . Chtěl bych se setkat v jednu hodinu odpoledne v kavárně u nádraží . Je dobré ? Souhlasíš ? Jinak hledám dobrou gramatiku českého jazyka . Chtěl tě ptát jestli znáš jednu . Asi bys mohl koupit jednu dobrou gramatiku . Samozřejmě ji zaplatím . Přeju ti všechno nejlepší . S pozdravy David
+
+----------------
+
+Target hypothesis 2: 
+
+4. srpen 2006 Milá Mileno , děkuju ti mockrát za tvůj dopis nebo e-mail . Už jsem ti dlouho nepsal , protože poslední dobou jsem měl moc práce . Teď musím psát seminární práci . Bohužel nebudu mít čas na grilovací party , protože budu na dovolené . Pojedu za 2 týdny do Švýcarska . Ale o 14 dní později , 27.8.2006 bych měl čas a přijdu . Těším se na svatbu . Ale kde je hrad Křivoklát ? Co si přejete ? Příští středu budu mít čas . Těším se velmi na naše setkání . Chtěl bych se setkat v jednu hodinu odpoledne v kavárně u nádraží . Je to dobré ? Souhlasíš ? Jinak hledám dobrou gramatiku českého jazyka . Chtěl bych se tě ptát jestli nějakou znáš . Asi bys mohl koupit jednu dobrou gramatiku . Samozřejmě ji zaplatím . Přeju ti všechno nejlepší . S pozdravy David

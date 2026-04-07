@@ -1,0 +1,40 @@
+METADATA
+
+General:
+Author ID: PHA0610018
+Test language: Czech
+CEFR level of test: B2
+Task : write an essay: More people know more - ID: B2PS0201_hlava
+Mother tongue: Russian
+Age: 3039
+Gender: female
+
+Rating:
+Overall CEFR rating: B2
+Grammatical accuracy: B1
+Orthography: B2
+Vocabulary range: B2
+Vocabulary control: B2
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Vyjádření "Víc hlav víc ví" znamená, že při příjetí nejlepšího řešení nějakého problemu většinou je nutná přítomnost několika lidí, přemyšlejících o něm. Myslím si, že ten výraz spravědlivý a je aktuální zejnena v dnešní době. Přítomnost jiného názoru skoro vždy pomáhá podívat se na otázku s jiné stránky a jiného hledíska.
+Existují lidé samostatní, kteří si zvykli spoléhat jenom na svůj názor. Podle mne by se měl s někým člověk o některých případéch poradit, protože každý se přece může zmylít. Často však začínáme litovat o něčem příliš pozdě, kdy už ňičí rada nepomůže.
+Dnes, kdy lidstvo řeší obrovské množství světových otázek měli by rozhodující brát v úvahu mínění všech, koho se přímo problém týče. Bohužel se často v moderním světě stává, že někdo něco udělá, a ostatní pak stradají. Stejně jako někde vláda, sněmovna nebo prezident musí počítat s míněním národu a jeho reakcí na nějaký konkretní zákon nebo všeobecnou činnost.
+Není zbýtečně také aby i v rodine každy její příslušník měl svůj hlás. Myslím si, že by se už od mála člověk měl učit  vyjádřovat svůj názor, a dospelí členové rodiny by měli ten názor včas uslýšet.
+
+----------------
+
+Target hypothesis 1: 
+
+Vyjádření " Víc hlav víc ví " znamená , že při přijetí nejlepšího řešení nějakého problému je většinou nutná přítomnost několika lidí přemýšlejících o něm . Myslím si , že ten výraz je spravedlivý a je aktuální zejména v dnešní době . Přítomnost jiného názoru skoro vždy pomáhá podívat se na otázku z jiné stránky a jiného hlediska . Existují lidé samostatní , kteří si zvykli spoléhat jenom na svůj názor . Podle mne by se měl s někým člověk o některých případech poradit , protože každý se přece může zmýlit . Často však začínáme litovat něčeho příliš pozdě , když už ničí rada nepomůže . Dnes , kdy lidstvo řeší obrovské množství světových otázek , by měli rozhodující brát v úvahu mínění všech , koho se přímo problém týče . Bohužel se často v moderním světě stává , že někdo něco udělá a ostatní pak strádají . Stejně jako někde vláda , sněmovna nebo prezident musí počítat s míněním národu a jeho reakcí na nějaký konkrétní zákon nebo všeobecnou činnost . Není také zbytečné , aby i v rodině každý její příslušník měl svůj hlas . Myslím si , že by se už od mala člověk měl učit vyjadřovat svůj názor a dospělí členové rodiny by měli ten názor včas uslyšet .
+
+----------------
+
+Target hypothesis 2: 
+
+Vyjádření " Víc hlav víc ví " znamená , že při přijetí nejlepšího řešení nějakého problému je většinou nutná přítomnost několika lidí přemýšlejících o něm . Myslím si , že ten výraz je spravedlivý a je aktuální zejména v dnešní době . Přítomnost jiného názoru skoro vždy pomáhá podívat se na otázku z jiné stránky a jiného hlediska . Existují lidé samostatní , kteří si zvykli spoléhat jenom na svůj názor . Podle mne by se měl s někým člověk o některých případech poradit , protože každý se přece může zmýlit . Často však začínáme litovat něčeho příliš pozdě , když už ničí rada nepomůže . Dnes , kdy lidstvo řeší obrovské množství světových otázek , by měli ti , kteří rozhodují , brát v úvahu mínění všech , koho se přímo problém týče . Bohužel se často v moderním světě stává , že někdo něco udělá a ostatní pak strádají . Stejně jako někde vláda , sněmovna nebo prezident musí počítat s míněním národu a jeho reakcí na nějaký konkrétní zákon nebo všeobecnou činnost . Není také zbytečné , aby i v rodině každý její příslušník měl svůj hlas . Myslím si , že by se už od mala člověk měl učit vyjadřovat svůj názor a dospělí členové rodiny by měli ten názor včas vyslechnout .

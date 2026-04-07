@@ -1,0 +1,37 @@
+METADATA
+
+General:
+Author ID: 1091_0000254
+Test language: German
+CEFR level of test: A2
+Task : offer a ticket not used to a friend - ID: 1091_0690403
+Mother tongue: Russian
+Age: 42
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: B1
+Orthography: B2
+Vocabulary range: B1
+Vocabulary control: B2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B2
+
+----------------
+
+Learner text: 
+
+Ich habe eine Fahrkarte für Konzert in Stadt X gekauft. Leider ich kan man nicht fahren weil ich fahre in Urlaub Ich frage meinen Freundin Julia brauchen tiket für konzert. und Sie sagen mir gut Konzert wurde 18 märz. und ich zürük fahren 28 märz
+
+----------------
+
+Target hypothesis 1: 
+
+Ich habe eine Fahrkarte für ein Konzert in Stadt X gekauft . Leider kann ich nicht fahren , weil ich fahre in den Urlaub . Ich frage meine Freundin Julia , ob sie ein Ticket für ein Konzert braucht . Und Sie sagen mir , ob das Konzert am 18 . März gut wurde . Und ich fahre am 28 . März zurück .
+
+----------------
+
+Target hypothesis 2: 
+
+Ich habe eine Fahrkarte für ein Konzert in Stadt X gekauft . Leider ich kann ich nicht fahren , weil ich in den Urlaub fahre . Ich frage meine Freundin Julia , ob sie ein Ticket für das Konzert braucht . Sie wird mir zusagen . Das Konzert wäre am 18 . März und ich komme am 28 . März zurück .

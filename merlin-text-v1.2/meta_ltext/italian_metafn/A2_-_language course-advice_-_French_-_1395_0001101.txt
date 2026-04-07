@@ -1,0 +1,32 @@
+METADATA
+
+General:
+Author ID: 1395_0001101
+Test language: Italian
+CEFR level of test: A2
+Task : inform friends about language course - ID: 1395_010300
+Mother tongue: French
+Age: 39
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Cari amici, 
+Buongiorno da Città X dove seguito un corso d'italiano. Il corso è interesantissimo e io imparo molto più veloce que prima a casa. 
+Nel corso c'è una buona atmosfera perché sono con gente que arrivanno de tutto il mondo. La sera doppo il corso andiamo al ristorante, al cinema o al bar. 
+Ci vediamo presto perché per me è la ultima settimana, qui a Città X. 
+ 
+Ciao 
+A presto
+Michele 

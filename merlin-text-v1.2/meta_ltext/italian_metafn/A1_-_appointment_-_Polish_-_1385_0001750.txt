@@ -1,0 +1,28 @@
+METADATA
+
+General:
+Author ID: 1385_0001750
+Test language: Italian
+CEFR level of test: A1
+Task : reschedule an appointment - ID: 1385_020100
+Mother tongue: Polish
+Age: 51
+Gender: female
+
+Rating:
+Overall CEFR rating: A1
+Grammatical accuracy: A1
+Orthography: A1
+Vocabulary range: 0
+Vocabulary control: A1
+Coherence/Cohesion: A1
+Sociolinguistic appropriateness: A1
+
+----------------
+
+Learner text: 
+
+Ciao Marta
+Come stai? 
+Scrivo da te perche nostro apunntamento non niente. Perche mio capo ha organizzato una riunione io posso essere. Alora possiamo incontro domenica 
+Scusi bracci addbracci Maria

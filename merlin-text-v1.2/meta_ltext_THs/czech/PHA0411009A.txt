@@ -1,0 +1,38 @@
+METADATA
+
+General:
+Author ID: PHA0411009A
+Test language: Czech
+CEFR level of test: A2
+Task : answering on a birthday invitation - ID: A2PS0102_oslava
+Mother tongue: Russian
+Age: 4049
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Ahoj Davide! 
+Jsem rád, že dneska jsem dostal tvůj e-mail. Omlouvám se, že neodpověděl hned - měl jsem hodně práce. Nejdřív přeju Ti všechno nejlepší, hodně šťestí a zdraví. Dneska večer určitě budu. Pak ještě chtěl bych zeptat kde a kdy se dneska sejdeme? Jak obvykle v restauraci "U Fleku" v 19.00? Kdo bude ještě? Bude Anna?
+Těším se na naši schůzku
+
+----------------
+
+Target hypothesis 1: 
+
+Ahoj Davide ! Jsem rád , že jsem dneska dostal Tvůj e-mail . Omlouvám se , že jsem neodpověděl hned - měl jsem hodně práce . Nejdřív Ti přeju všechno nejlepší , hodně štěstí a zdraví . Dneska večer určitě budu . Pak bych se ještě chtěl zeptat , kde a kdy se dneska sejdeme . Jak obvykle v restauraci " U Fleků " v 19.00 ? Kdo tam ještě bude ? Bude tam Anna ? Těším se na naši schůzku .
+
+----------------
+
+No target hypothesis 2 available.
+

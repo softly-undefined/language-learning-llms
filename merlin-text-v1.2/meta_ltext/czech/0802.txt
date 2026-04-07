@@ -1,0 +1,33 @@
+METADATA
+
+General:
+Author ID: 0802
+Test language: Czech
+CEFR level of test: B1
+Task : answer to the email of Alena - ID: 1_Alena
+Mother tongue: German
+Age: not reported
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+29.01.08
+Ahoj Alena,
+jak se máš? Dlouho jsi nenapsala. Já se mám docela dobře. Studuju elektrotechnika v Drážďanech. Už pracuji na diplomce a neplánuji dovolenou. Mám moc práce a nemám moc čas. Píšu tě teprve dnes. Těším se na tě návštěvu. Kdy přijízdeš? Sejdeme se raději na nádraží. Potom budeme jít domů. Co říkáš? Potom chceš jít do města. 
+Kolik stojí kurs česky na universitě. Kdy je kurs. Můžeš poslat inzerát? 
+Tím končím, je už pozdě večer. Musim ráno brzo vstát. Moc ráda bych se s tebou setkala. 
+ Pozdravuj všechny.  Zatím ahoj. 
+ 
+Srdečně tě zdravím 
+ Dana

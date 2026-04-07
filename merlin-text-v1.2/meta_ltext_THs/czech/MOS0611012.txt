@@ -1,0 +1,40 @@
+METADATA
+
+General:
+Author ID: MOS0611012
+Test language: Czech
+CEFR level of test: B2
+Task : write an essay: A friend in need is a friend indeed - ID: B2PS0202_pritel
+Mother tongue: Russian
+Age: 2029
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B2
+Vocabulary range: B2
+Vocabulary control: B1
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Každý člověk má mnoho kamaradů a dobrých známých. Ale co znamená skuteční přítel?
+Je dobré prísloví v nouzi poznáš přítele. To znamená, že skuteční přítel pomužet vždycky pomůže svemu kamarádovi.
+Během žívota se člověk seznámí s ryznými lidmi v škole, v práce, nebo na dovolené. S nekterými lídmi člověk komunikuje jen v práce, jiných zve do kavárny nebo zve je na navštěvu. Ale když člověk prosí o pomoci, tak muže dostat odmitnutí. Protože nekteří kamarádi nechtěji mít přatelům s problemy. Ale člověk často dostává pomoc jenom od nejakého známého. Pak člověk chápá, kdo je jeho skutečni přítel.
+V svem žívotě jsem měla mnoho kamarádu ve škole a v práce, ale když jsme začinaly pracovat v ruzných místech, začinaly jsme komunikovat mín. Často byvalo, že mé starý kamarádky nechtěly mi pomahat, protože měly sve rodiny a svy problemy. Je takový život.
+Myslím, že můj skutečný přítel je můj manžel. Je vždycky mi pomahá, deláme všechno spolu. Jsem si jístá, ze můj manžel bude se mnou vždycky, v štěstí a v neštěstí.
+
+----------------
+
+Target hypothesis 1: 
+
+Každý člověk má mnoho kamarádů a dobrých známých . Ale co znamená skutečný přítel ? Je dobré přísloví : V nouzi poznáš přítele . To znamená , že skutečný přítel vždycky pomůže svému kamarádovi . Během života se člověk seznámí s různými lidmi ve škole , v práci nebo na dovolené . S některými lidmi člověk komunikuje jen v práci , jiné zve do kavárny nebo je zve na návštěvu . Ale když člověk prosí o pomoc , tak může dostat odmítnutí . Protože někteří kamarádi nechtějí mít přátele s problémy . Ale člověk často dostává pomoc jenom od nějakého známého . Pak člověk chápe , kdo je jeho skutečný přítel . Ve svém životě jsem měla mnoho kamarádů ve škole a v práci , ale když jsme začínali pracovat v různých místech , začínali jsme komunikovat míň . Často bývalo , že mé staré kamarádky mi nechtěly pomáhat , protože měly své rodiny a své problémy . Takový je život . Myslím , že můj skutečný přítel je můj manžel . Vždycky mi pomáhá , děláme všechno spolu . Jsem si jistá , že můj manžel bude se mnou vždycky , ve štěstí a v neštěstí .
+
+----------------
+
+No target hypothesis 2 available.
+

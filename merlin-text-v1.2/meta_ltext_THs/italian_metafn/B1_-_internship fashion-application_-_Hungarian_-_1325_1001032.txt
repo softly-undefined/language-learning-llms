@@ -1,0 +1,52 @@
+METADATA
+
+General:
+Author ID: 1325_1001032
+Test language: Italian
+CEFR level of test: B2
+Task : apply for internship in fashion sector - ID: 1325_020401-1
+Mother tongue: Hungarian
+Age: 26
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: C1
+Vocabulary range: B2
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Michele Rossi                                     Agenzia Lavoro Interinale 
+Strada Maggiore 1                                Via Dante Alighieri, 40 
+Sigla paese X 1234 Città X            I - 42010 Reggio Emilia 
+Paese X                                               ITALIA 
+
+Oggetto: domanda di lavoro 
+                                                                Città X, 19 novembre 2011 
+Spettabile Agenzia Lavoro Interinale, 
+ 
+Vorrei informarmi se c'e la possibilità lavorare per i neolaureati della metà di giungo X al fino di agosto con un contratto di lavoro. 
+Sono Michele Rossi. Ho 22 anni. Sono nato a Città Y nel 1987. Qui ho superato l'esame di maturità nel 2006. Vivo a Città X dal 2007. 
+Ho finito la Facoltà di Lettere dell' Università di Università X nel 2011. Adesso cerco di lavoro. Ho scelto Voi perchè ho gia lavorato da Agenzia Lavoro Interinale qualche anno fa percio un po' di esperienza. Parlo l'inglese e francese oltre all'italiano. Posso comunicare bene con la gente. Volentieri lavorerei -symbol- 6 o 8 ore al giorno se serve al fine setimana. 
+Volentieri sarei -symbol- una stagista da Voi. Conosco i diversi tipi di lavoro: tenere i contatti con i clienti, utilizzare programmi informatici per la gestione del personale, condurre ricerche di mercato, assistere il personale in ufficio. Sperò che sarà possibilità presentarmi anche personalmente. 
+Aspetta la vostra risposta. 
+Il mio indirizzo di e-mail: michele.rossi@internet.it. Il mio numero di telefono: 0345-11111111. 
+Cordiali saluti, 
+Michele Rossi
+
+----------------
+
+Target hypothesis 1: 
+
+Michele Rossi Agenzia Lavoro Interinale Strada Maggiore 1 Via Dante Alighieri , 40 Sigla paese X 1234 Città X I - 42010 Reggio Emilia Paese X ITALIA Oggetto : domanda di lavoro Città X , 19 novembre 2011 Spettabile Agenzia Lavoro Interinale , vorrei informarmi se c' è la possibilità di lavorare per i neolaureati dalla metà di giugno X alla fine di agosto con un contratto di lavoro . Sono Michele Rossi . Ho 22 anni . Sono nato a Città Y nel 1987 . Qui ho superato l' esame di maturità nel 2006 . Vivo a Città X dal 2007 . Ho finito la Facoltà di Lettere dell' Università di Università X nel 2011 . Adesso cerco lavoro . Ho scelto Voi perché ho già lavorato all' Agenzia Lavoro Interinale qualche anno fa , perciò ho un po' di esperienza . Parlo l' inglese e il francese oltre all' italiano . Posso comunicare bene con la gente . Lavorerei volentieri -symbol- 6 o 8 ore al giorno e , se serve , il fine settimana . Sarei volentieri una stagista da Voi . Conosco i diversi tipi di lavoro : tenere i contatti con i clienti , utilizzare programmi informatici per la gestione del personale , condurre ricerche di mercato , assistere il personale in ufficio . Spero che ci sarà la possibilità di presentarmi anche personalmente . Aspetta la vostra risposta . Il mio indirizzo e-mail è : michele.rossi@internet.it . Il mio numero di telefono è : 0345-11111111 . Cordiali saluti , Michele Rossi
+
+----------------
+
+No target hypothesis 2 available.
+

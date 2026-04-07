@@ -1,0 +1,41 @@
+METADATA
+
+General:
+Author ID: 1061_0120349
+Test language: German
+CEFR level of test: B1
+Task : write a letter to a friend (birthday) - ID: 1061_170900
+Mother tongue: not reported
+Age: 38
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+                                                   28.02.2012
+Lieber Silke,
+ich habe deine Breif bekommen, ich freuch mich du das mir geschriben hast. ich möchte gerne kommen bei dir und was möchtes du zum Geburtstag mögen du eine Tiere, wen du möchte eine Tiere ich Schencke du gerne zum Geburtstag.
+Viele Grüßen
+Julia
+
+----------------
+
+Target hypothesis 1: 
+
+28.02.2012 Liebe Silke , ich habe deinen Brief bekommen , ich freue mich , dass du mir geschrieben hast . Ich möchte gerne zu dir kommen und was möchtest du zum Geburtstag ? Magst du ein Tier , wenn du ein Tier möchtest , schenke ich dir gerne eines zum Geburtstag . Viele Grüße Julia
+
+----------------
+
+Target hypothesis 2: 
+
+28.02.2012 Liebe Silke , ich habe deinen Brief bekommen . Ich freue mich , dass du mir geschrieben hast . ich möchte gerne zu dir kommen ; was möchtest du zum Geburtstag ? Magst du Tiere ? Wenn du ein Tier möchtest , schenke ich dir gerne eines zum Geburtstag . Viele Grüße Julia

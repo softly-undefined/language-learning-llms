@@ -1,0 +1,40 @@
+METADATA
+
+General:
+Author ID: 1385_0001724
+Test language: Italian
+CEFR level of test: A1
+Task : reschedule an appointment - ID: 1385_020100
+Mother tongue: German
+Age: 39
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Città X, 9 luglio 2011 
+Caro Daniele, 
+come stai? Non sto bene, è una settimana orribile. In ufficio c'è molto lavoro e giovedi non posso venire alla nostro appuntamento. Siccome il mio capo ha organizzato una riunione, non ho tempo per incontrare con te. Ma forse tu hai tempo prossimo sabato sera. Hai voglia di andare a cena in un ristorante tailandese? Conosco un ristorante dove si mangia bene. Per favore dirmi, se hai tempo. 
+Ciao e tanti saluti 
+Michele 
+
+----------------
+
+Target hypothesis 1: 
+
+Città X , 9 luglio 2011 Caro Daniele , come stai ? Io non sto bene , è una settimana orribile . In ufficio c' è molto lavoro e giovedì non posso venire al nostro appuntamento . Siccome il mio capo ha organizzato una riunione , non ho tempo per incontrarmi con te . Ma forse tu hai tempo il prossimo sabato sera . Hai voglia di andare a cena in un ristorante tailandese ? Conosco un ristorante dove si mangia bene . Per favore dimmi se hai tempo . Ciao e tanti saluti Michele
+
+----------------
+
+No target hypothesis 2 available.
+

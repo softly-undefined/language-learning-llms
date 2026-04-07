@@ -1,0 +1,10 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.venv/
+
+data-analysis/.mplconfig/
+data-analysis/_tmp_*.png

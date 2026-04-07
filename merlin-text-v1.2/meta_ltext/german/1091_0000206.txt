@@ -1,0 +1,35 @@
+METADATA
+
+General:
+Author ID: 1091_0000206
+Test language: German
+CEFR level of test: A2
+Task : letter to housing office - ID: 1091_0610301
+Mother tongue: not reported
+Age: 46
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Frankfurt Rundschau                                      Stadt X, 10.03.12
+Bahnhofsstr 123
+Michael Müller
+Akademie Klausenhof
+Winkelsg. 321.
+Sehr geehrte Dammen und Herren.
+Wohnung Anziege.
+Ich suche ein neue 2Zimmer Wonung. Ich lebe jetzt in Stadt X aber möchte ich nachste Monat im Stadt Y zeihen. I suche ein Wohnung mit ein Balkon und Garage weil ich habe Kinder und liebe Spatz.
+Ich mochte ein Bisichtigungstermin vereiban mit euch. Ich warte Antwort bitte.
+Mit freundlichen Grußen
+Michael Müller

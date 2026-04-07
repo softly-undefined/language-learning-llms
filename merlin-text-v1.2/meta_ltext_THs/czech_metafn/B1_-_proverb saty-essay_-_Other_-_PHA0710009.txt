@@ -1,0 +1,38 @@
+METADATA
+
+General:
+Author ID: PHA0710009
+Test language: Czech
+CEFR level of test: B2
+Task : write an essay: Clothes make the man - ID: B2PS0201_saty
+Mother tongue: Other
+Age: 4049
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B2
+Orthography: B1
+Vocabulary range: B2
+Vocabulary control: B1
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+To je zajimava témata, protože každý člověk ma na to svůj názor. Muj názor je takový že jak se řika v Rusku n-ambiguous- šaty dělaji člověka a dobři skutky.
+Hodně lidi dobře se oblikaji a dělaji špatne věci, nikdy hodně porušuji jak zakon, tak i dustojnost člověka.
+Nerikam že člověk má byt špatně oblečený nebo neudržovát sebe v čistotě a pořadku. Šaty to je jenom věc, je dulezite jake člověk manám hodně lidi, jaki nemaji toho moc a pomohou vždycky, a jsou takové jak-unreadable- pěkně oblečeni, maji spoustu peněz a nedali by žebrakovi ani korunu. Nikdy dobrý člověk ani nema na ten hezký oblek, ale to pro mě nic neznamena. Ja osobně vic vazim člověka jaky má dobry srdce, než hežký oblek, penize, auta, barak. To je můj nazor. Na žavěr chci napsát, že byl bych rad, kdyby vic bylo dobrych lidi, a takove, co maji obrazně dobre oblečeni změnili se, a mysleli ne na oblek a majetek a jak pomoct jinym, změnit tento svět k lepšimu, to bych ocenil. 
+
+----------------
+
+Target hypothesis 1: 
+
+To je zajímavé téma , protože každý člověk má na to svůj názor . Můj názor je takový , že jak se říká v Rusku , šaty dělají člověka a dobré skutky . Hodně lidí se dobře obléká a dělá špatné věci , někdy hodně porušují jak zákon , tak i důstojnost člověka . Neříkám , že člověk má být špatně oblečený nebo se neudržovat v čistotě a pořádku . Šaty , to je jenom věc , je důležité , jaké člověk manám hodně lidi , někteří toho nemají moc a pomohou vždycky a jsou takoví jak-unreadable- pěkně oblečení , mají spoustu peněz a nedali by žebrákovi ani korunu . Nikdy dobrý člověk ani nemá na ten hezký oblek , ale to pro mě nic neznamená . Já osobně víc vážím člověka podle toho , jak má dobré srdce , než hezký oblek , peníze , auta , barák . To je můj názor . Na závěr chci napsat , že bych byl rád , kdyby bylo víc dobrých lidí , a takových , co mají obrazně dobré oblečení , aby se změnili a mysleli ne na oblek a majetek , ale jak pomoct jiným změnit tento svět k lepšímu , to bych ocenil .
+
+----------------
+
+No target hypothesis 2 available.
+

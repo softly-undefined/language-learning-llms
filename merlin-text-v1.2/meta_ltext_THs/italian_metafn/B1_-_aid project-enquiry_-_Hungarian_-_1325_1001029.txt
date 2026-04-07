@@ -1,0 +1,43 @@
+METADATA
+
+General:
+Author ID: 1325_1001029
+Test language: Italian
+CEFR level of test: B2
+Task : inform oneself about an aid project - ID: 1325_030300-1
+Mother tongue: Hungarian
+Age: 34
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: C1
+Vocabulary range: B2
+Vocabulary control: B2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Città X, 10 gennaio 2011
+Spettabile "Solidarietà Viva",
+quando ho letto la Vostra propaganda per andare al Americana Latina, ho pensato offrire il mio aiuto al Vostro istituto.
+Sono Michele Rossi, monaco-sacerdote benedettino nel monastero di S. Mauro in Ungheria. Adesso lavoro come insegnante nella scuola dell Monastero, e come un condottore dell corale della chiesa. L'anno scolastico sempre finisce verso le 30 giugno, e comincia l'altro anno scolastico per i professori al 25 agosto. Tra questi due terminazioni sono assolutamente libero.
+In genere durante l'estate organizziamo diverse spece dei programmi ai nostri alunni, ma in quest'anno ho pensato fare un lavoro sociale. Adesso ho 34 anni, da 10 anni sono insegnante, ho tante esperienze dall lavoro dei giovani. Ma se bisogna, faro anche altri lavori. Non ho paura anche i lavori fondamentali.
+Fino di questo momento ho lavorato soltanto in Europa, e soltanto con i miei alunni, chi vengono dall condizioni ordinati. Vorrei offrire il mio aiuto, per aiutare al Vostro Instituto, pratticamente ai abitanti di America latina e per formare la mia personalità, per conoscere altre paese, altre culture.
+Nellattesa della Vostra risposta: 
+Michele Rossi
+
+----------------
+
+Target hypothesis 1: 
+
+Città X , 10 gennaio 2011 Spettabile " Solidarietà Viva " , quando ho letto la Vostra propaganda per andare in Americana Latina , ho pensato di offrire il mio aiuto al Vostro istituto . Sono Michele Rossi , monaco-sacerdote benedettino nel monastero di S. Mauro in Ungheria . Adesso lavoro come insegnante nella scuola del Monastero e come conduttore della corale della chiesa . L' anno scolastico finisce sempre verso il 30 giugno e per i professori l' altro anno scolastico comincia il 25 agosto . Tra queste due terminazioni sono assolutamente libero . In genere durante l' estate organizziamo diverse specie di programmi per i nostri alunni , ma quest' anno ho pensato di fare un lavoro sociale . Adesso ho 34 anni , da 10 anni sono insegnante , ho tante esperienze di lavoro con i giovani . Ma se bisogna , farò anche altri lavori . Non ho paura dei lavori fondamentali . Fino a questo momento ho lavorato soltanto in Europa e soltanto con i miei alunni che vengono dalle condizioni ordinate . Vorrei offrire il mio aiuto per aiutare il Vostro istituto , praticamente gli abitanti dell' America latina , e per formare la mia personalità , per conoscere altri paesi , altre culture . Nell' attesa della Vostra risposta Michele Rossi
+
+----------------
+
+No target hypothesis 2 available.
+

@@ -1,0 +1,39 @@
+METADATA
+
+General:
+Author ID: 1395_0001114
+Test language: Italian
+CEFR level of test: A2
+Task : go see a friend - ID: 1395_040101
+Mother tongue: German
+Age: 42
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: A1
+Vocabulary control: A2
+Coherence/Cohesion: A1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Caro Franco, 
+vorrei andare a ti trovare in Italia. Quando hai il tempo per la mia visita? Non conosco Città X la citta a cui tu abiti. Com'è Città X? Ci sono le chiese e c'è  qualcos'altro che posso visitare? La tua famiglia anche abita a Città X. Come sta la tua famiglia? Va bene? Che cosa possiamo fare la sera? C'e un theatro o un cinema a Città X? E c'è la possibilità di fare shopping anche alla sera? In Germania non è possibile di fare shopping alla sera;-(
+A presto e tanti saluti
+ Maria
+
+----------------
+
+Target hypothesis 1: 
+
+Caro Franco , vorrei andare a trovarti in Italia . Quando hai tempo per la mia visita ? Non conosco Città X , la città in cui tu abiti . Com' è Città X ? Ci sono le chiese e c' è qualcos' altro che posso visitare ? La tua famiglia anche abita a Città X . Come sta la tua famiglia ? Va bene ? Che cosa possiamo fare la sera ? C' è un teatro o un cinema a Città X ? E c' è la possibilità di fare shopping anche la sera ? In Germania non è possibile fare shopping la sera ;-( . A presto e tanti saluti Maria
+
+----------------
+
+No target hypothesis 2 available.
+

@@ -1,0 +1,42 @@
+METADATA
+
+General:
+Author ID: 1365_0100299
+Test language: Italian
+CEFR level of test: B1
+Task : cook with teacher - ID: 1365_050402
+Mother tongue: German
+Age: 39
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B2
+Orthography: C2
+Vocabulary range: B1
+Vocabulary control: B2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+                                                                              Città X, 5 Gennaio 2012 
+Caro Mauro, 
+Te ringrazio per la tua lettera.  Sono felice di aver ricevuto un segno di vite! Que buona idea di imparare a cucinare. Sapere cucinare è sempre utile ... Quante volte avranno luogo queste serate? Ci sono molte persone interessante? Da quali paese sono i piatti? 
+A me mi piace d'appertutto la cucina tailandese perchè è molto semplice da fare ed è una cucina sana. Hai mai fatto un curry verde con gamberoni? Te lo suggero da fare. Il mio piatto preferito del mio paese è il "Zürcher Geschnetzeltes", ti manderò un elenco degli ingredienti necessari. 
+Spero di vederti presto così possiamo cucinare insieme! 
+Cordiali saluti 
+ Maria
+
+----------------
+
+Target hypothesis 1: 
+
+Città X , 5 gennaio 2012 Caro Mauro , ti ringrazio per la tua lettera . Sono felice di aver ricevuto un segno di vita ! Che buona idea imparare a cucinare . Saper cucinare è sempre utile ... Quante volte avranno luogo queste serate ? Ci sono molte persone interessate ? Di quali paesi sono i piatti ? A me piace dappertutto la cucina tailandese perché è molto semplice da fare ed è una cucina sana . Hai mai fatto un curry verde con gamberoni ? Te lo suggerisco da fare . Il mio piatto preferito del mio paese è il " Zürcher Geschnetzeltes " , ti manderò l' elenco degli ingredienti necessari . Spero di vederti presto così possiamo cucinare insieme ! Cordiali saluti Maria
+
+----------------
+
+No target hypothesis 2 available.
+

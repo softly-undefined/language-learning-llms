@@ -1,0 +1,40 @@
+METADATA
+
+General:
+Author ID: 1365_0100100
+Test language: Italian
+CEFR level of test: B1
+Task : inform oneself about language course - ID: 1365_050401
+Mother tongue: German
+Age: 47
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: C1
+Vocabulary range: B1
+Vocabulary control: B2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Gentili Signori,
+per caso ho letto oggi al giornale il vostro annuncio e i vostro corsi mi interressono molto perchè iniziavo ad imparare la lingua italiana tre anni fa. Per me una causa importante di ri rispondere è la combinazione di un corso d'italiano e delle possibilità culturale a Roma. Da molti anno la cultara anticha dell'imperio romano mi interressa e spero che abbia con il vostro corso la possibilità di approfondire le due parte.
+Mi piacerei un corso di due o tre settimane a Roma e, se possibile, di abitare in casa privata Credo che sia la migliore possibilità di studiare la lingua, perchè potrei parlare l'italiano anche dopo il corso regolare. Se non sarei possibile di abitare in casa privata, preferirei un alloggio in un appartamento con altri studenti per la causa stessa. 
+Ancoro ho bisogno dei loro prezzi a) per un corso di due ed un di tre settimane in Luglio o Augosto e b) per il alloggio per il tempo stesso a casa privata o in appartamento con altri studenti.
+In attesa di una risposta, ringrazio e invio cordiali saluti. MicheleRossi
+
+----------------
+
+Target hypothesis 1: 
+
+Gentili Signori , per caso ho letto oggi nel giornale il vostro annuncio e i vostri corsi mi interessano molto perché ho iniziato ad imparare la lingua italiana tre anni fa . Per me una causa importante per rispondere è la combinazione di un corso d' italiano e della possibilità culturale a Roma . Da molti anni mi interessa la cultura antica dell' Impero Romano e spero di avere con il vostro corso la possibilità di approfondire le due parti . Mi piacerebbe un corso di due o tre settimane a Roma e , se possibile , abitare in una casa privata . Credo che sia la migliore possibilità di studiare la lingua , perché potrei parlare l' italiano anche dopo il corso regolare . Se non fosse possibile abitare in una casa privata , preferirei un alloggio in un appartamento con altri studenti per la stessa causa . Ho bisogno ancora dei loro prezzi a) per un corso di due ed uno di tre settimane in luglio o agosto e b) per l' alloggio per lo stesso tempo in una casa privata o in appartamento con altri studenti . In attesa di una risposta , ringrazio e invio cordiali saluti . Michele Rossi
+
+----------------
+
+No target hypothesis 2 available.
+

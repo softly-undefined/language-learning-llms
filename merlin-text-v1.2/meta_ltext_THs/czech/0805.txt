@@ -1,0 +1,44 @@
+METADATA
+
+General:
+Author ID: 0805
+Test language: Czech
+CEFR level of test: B1
+Task : answer to the email of Alena - ID: 1_Alena
+Mother tongue: German
+Age: not reported
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+ 29.01.08
+Ahoj Aleno,
+děkuji Ti mockrát za Tvůj  email. Mám  moc černé svědomí, že jsem Ti nepsala už dlouho. Ale nemám čas, protože ještě pracuju na diplomce a  také jdu na brigádu. Tak, neplánuju dovolenou. :-( 
+Ale studium je dobrý. Jsem brzy na konci. Máš pohovor? To je fajn. Doufám, že dostaneš stáž. 
+Těší mě, že pojedeš  brzy do Drážďan. Ovšem, mám čas. Asi chtěla bys pojet k mne odpoledne? Mohli bychom pít kávu? Máš chuť Už víš, kdy přijedeš? Protože chci docházet pro auto na nádraží. 
+Co říkáš je zajimavé. Víš, kdy je kurz jázyky a kolik to stojí? 
+Mám ještě jednu otázku. Mohla bys poslat inzerát? Buď tak lásková. 
+Těším se na naše setkání. 
+Tvoje  Dano.  
+
+----------------
+
+Target hypothesis 1: 
+
+29.01.08 Ahoj Aleno , děkuji Ti mockrát za Tvůj e-mail . Mám moc černé svědomí , že jsem Ti už dlouho nepsala . Ale nemám čas , protože ještě pracuju na diplomce a také chodím na brigádu . Tak , neplánuju dovolenou . :-( Ale studium je dobré . Budu brzy na konci . Máš pohovor ? To je fajn . Doufám , že dostaneš stáž . Těší mě , že pojedeš brzy do Drážďan . Ovšem , mám čas . Asi bys chtěla pojet ke mně odpoledne ? Mohly bychom pít kávu ? Máš chuť ? Už víš , kdy přijedeš ? Protože chci dojít pro auto na nádraží . Co říkáš , je zajímavé . Víš , kdy je kurz jazyka a kolik to stojí ? Mám ještě jednu otázku . Mohla bys mi poslat inzerát ? Buď tak laskavá . Těším se na naše setkání . Tvoje Dana .
+
+----------------
+
+No target hypothesis 2 available.
+

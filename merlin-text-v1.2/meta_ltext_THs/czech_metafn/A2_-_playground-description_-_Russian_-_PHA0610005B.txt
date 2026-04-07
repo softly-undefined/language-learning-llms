@@ -1,0 +1,36 @@
+METADATA
+
+General:
+Author ID: PHA0610005B
+Test language: Czech
+CEFR level of test: A2
+Task : describe a photo: playground - ID: A2PS0201_hriste
+Mother tongue: Russian
+Age: 1519
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A1
+Orthography: A2
+Vocabulary range: A1
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Na fotografii jsou muz a eho manželka se svimi dětmi. Mate prohazku v parku. Ten muž ma na sobě černu bluzu. Zena ma na sobě růžovu bluzu a černy kalhoty. Děti mají na sobě bily buzy a bily kalhoty. Muž mluvit manželke o veceří. A cholka myslit na bonbony. Tady je leto a všechny rady spolu tratit čas v parku.
+
+----------------
+
+Target hypothesis 1: 
+
+Na fotografii jsou muž a jeho manželka se svými dětmi . Máte procházku v parku . Ten muž má na sobě černou blůzu . Žena má na sobě růžovou blůzu a černé kalhoty . Děti mají na sobě bílé blůzy a bílé kalhoty . Muž mluví k manželce o večeři . A holka myslí na bonbony . Tady je léto a všichni rádi spolu tratí čas v parku .
+
+----------------
+
+No target hypothesis 2 available.
+

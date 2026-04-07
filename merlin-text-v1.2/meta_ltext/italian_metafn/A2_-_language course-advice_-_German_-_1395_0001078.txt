@@ -1,0 +1,29 @@
+METADATA
+
+General:
+Author ID: 1395_0001078
+Test language: Italian
+CEFR level of test: A2
+Task : inform friends about language course - ID: 1395_010300
+Mother tongue: German
+Age: 46
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A1
+Orthography: B1
+Vocabulary range: A1
+Vocabulary control: A2
+Coherence/Cohesion: A1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Ciao Mario                                                                      25/6/2011 
+sono in Città X per imparare la lingua italiana. Faccio un corso di italiano per parlare. La mia insegnante è Maria Rossi. Lei ha 28 anni e fa un bel lavoro con la nostra classa. Nel mio corso siamo solo tre studenti. Barbara, lei ha 22 anni e viene da germania. Peter, lui ha 23 anni e viene da svizzera e io. Ho imparato gia un po' di parlare l'italiano. 
+ 
+Tanti saluti di Città X
+Maria 

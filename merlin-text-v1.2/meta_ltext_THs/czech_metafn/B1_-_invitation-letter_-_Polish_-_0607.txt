@@ -1,0 +1,43 @@
+METADATA
+
+General:
+Author ID: 0607
+Test language: Czech
+CEFR level of test: B1
+Task : answer to the email of Alena - ID: 1_Alena
+Mother tongue: Polish
+Age: not reported
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B2
+Vocabulary range: B1
+Vocabulary control: B2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Ahoj Aleno!
+Děkuji Ti mnohokrát za Tvůj dopis. Měla jsem velkou radost z Tvého dopisu. Ptaš; co studium? Mám přístí týden zkoušku a myslím jenom na studium; nemám čas, protože musím se nazkoušku připravovat.
+Těším se už na Tvou návštěvu v Drážďanech a chtěla bych Tě pozvat na oběd a kávu k mne. Doufam, že budeš mít chuť na něco německého. Kdy přijedeš , abych mohla pro Tebe jít na nádraží?
+V posledním dopise jsi mi psala, že jsi našla zajímavý inzerát. Můžeš mi ho poslat? Kdy začíná ten kurz češtiny a kolik stojí? Těším se na naše stkání. Tím končím, protože je už pozdě večer a musím  ještě něco studovat.
+Pozdravuj Davida!
+Měj se dobře!
+Srdečně tě zdravím.
+Dana
+
+----------------
+
+Target hypothesis 1: 
+
+Ahoj Aleno ! Děkuji Ti mnohokrát za Tvůj dopis . Měla jsem velkou radost z Tvého dopisu . Ptáš se , co studium ? Mám příští týden zkoušku a myslím jenom na studium ; nemám čas , protože se musím na zkoušku připravovat . Těším se už na Tvou návštěvu v Drážďanech a chtěla bych Tě pozvat na oběd a kávu ke mně . Doufám , že budeš mít chuť na něco německého . Kdy přijedeš , abych mohla pro Tebe jít na nádraží ? V posledním dopise jsi mi psala , že jsi našla zajímavý inzerát . Můžeš mi ho poslat ? Kdy začíná ten kurz češtiny a kolik stojí ? Těším se na naše setkání . Tím končím , protože je už pozdě večer a ještě musím něco studovat . Pozdravuj Davida ! Měj se dobře ! Srdečně Tě zdravím . Dana
+
+----------------
+
+No target hypothesis 2 available.
+

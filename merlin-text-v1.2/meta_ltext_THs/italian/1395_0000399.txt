@@ -1,0 +1,39 @@
+METADATA
+
+General:
+Author ID: 1395_0000399
+Test language: Italian
+CEFR level of test: A2
+Task : contact a friend after a long time - ID: 1395_020300
+Mother tongue: German
+Age: 18
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Ciau Raissa
+29.5.2010
+Come va? Io sto molto bene. Per fortuna il mio frattelo sta meglio. Lui ha ancora mal di schiena, ma non troppo. Io penso che lui viene mai piu con noi in vacanza. Ma io credo tra 1 anno lui riede di  questo vacanza. Comera il tuo nuovo posto di lavoro. La mia signora é un po noiosa. Quando a incontriamo? Al prossimo Tanti saluti Maria
+
+----------------
+
+Target hypothesis 1: 
+
+Ciao Raissa 29.5.2010 Come va ? Io sto molto bene . Per fortuna mio fratello sta meglio . Lui ha ancora mal di schiena , ma non troppo . Io penso che lui non verrà mai più con noi in vacanza . Ma io credo che tra 1 anno lui riederà di questa vacanza . Com' era il tuo nuovo posto di lavoro ? La mia signora è un po' noiosa . Quando ci incontriamo ? Alla prossima ! Tanti saluti Maria
+
+----------------
+
+Target hypothesis 2: 
+
+Ciao Raissa 29.5.2010 Come va ? Io sto molto bene . Per fortuna mio fratello sta meglio . Lui ha ancora mal di schiena , ma non troppo . Io penso che lui non verrà mai più con noi in vacanza . Ma io credo che tra 1 anno lui riderà di questa vacanza . Com' è il tuo nuovo posto di lavoro ? La mia coordinatrice è un po' noiosa . Quando ci incontriamo ? Alla prossima ! Tanti saluti Maria

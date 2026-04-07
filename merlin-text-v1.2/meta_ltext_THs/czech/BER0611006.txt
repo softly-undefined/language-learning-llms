@@ -1,0 +1,39 @@
+METADATA
+
+General:
+Author ID: BER0611006
+Test language: Czech
+CEFR level of test: B2
+Task : write an essay: No pain no gain - ID: B2PS0202_kolace
+Mother tongue: Other
+Age: 2029
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B2
+Vocabulary range: B1
+Vocabulary control: B2
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Mnoho příslovích o jídlu existuje. Jedno z nich je třeba "Bez práce nejsou koláče".
+Líbí se mi toto přísloví, protože v japonštině taky existuje takové přísloví, které vyjádří skoro stejný význam, ale tam není konkretní vyjádření jako koláč. V japonštině se říká, "Člověk, který nepracuje, nemá jíst". Myslím, že japonské je lehčí rozumět tomu, co to znamená než české, ale není moc zajímavé. Když jsem se učila toto přísloví, přemýšlela jsem, proč tam je "koláč", jestli koláč je nejoblíbenější jídlo pro Čechy apod. Baví se mi taky přemýšlení o tom, že kdyby v japonštině vyjadřil to přísloví něčím konkretnim, co by tam bylo, třeba rýže nebo ryba.
+Je to jasné, co znamená "Bez práce nejsou koláče". Znamená to, že člověk, který nepracuje, nemůže dostat peníze, a proto nemůže jíst nic. A taky možná může říct, že člověk nemá být líný a musí pracovat, aby žil.
+Toto přísloví není moc zvláštní. Myslím, že je to obyčejný a normální, ale na rozdíl od vyjádření japonštiny a češtiny, je to pro mě vtipné přísloví.
+
+----------------
+
+Target hypothesis 1: 
+
+Mnoho přísloví o jídlu existuje . Jedno z nich je třeba " Bez práce nejsou koláče . " . Líbí se mi toto přísloví , protože v japonštině taky existuje takové přísloví , které vyjádří skoro stejný význam , ale není tam konkretní vyjádření jako koláč . V japonštině se říká : " Člověk , který nepracuje , nemá jíst . " . Myslím , že v japonském je lehčí rozumět tomu , co to znamená , než v českém , ale není to moc zajímavé . Když jsem se učila toto přísloví , přemýšlela jsem , proč tam je " koláč " , jestli koláč je nejoblíbenější jídlo pro Čechy apod. Baví mě taky přemýšlení o tom , že kdyby v japonštině vyjádřil to přísloví něčím konkretním , co by tam bylo , třeba rýže nebo ryba . Je to jasné , co znamená " Bez práce nejsou koláče . " . Znamená to , že člověk , který nepracuje , nemůže dostat peníze , a proto nemůže jíst nic . A taky možná může říct , že člověk nemá být líný a musí pracovat , aby žil . Toto přísloví není moc zvláštní . Myslím , že je to obyčejné a normální , ale na rozdíl od vyjádření japonštiny a češtiny je to pro mě vtipné přísloví .
+
+----------------
+
+No target hypothesis 2 available.
+

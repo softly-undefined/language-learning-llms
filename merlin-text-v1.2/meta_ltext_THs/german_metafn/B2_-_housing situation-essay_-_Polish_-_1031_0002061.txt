@@ -1,0 +1,40 @@
+METADATA
+
+General:
+Author ID: 1031_0002061
+Test language: German
+CEFR level of test: C1
+Task : reporting about the housing situation - ID: 1031_050300
+Mother tongue: Polish
+Age: 19
+Gender: female
+
+Rating:
+Overall CEFR rating: B2
+Grammatical accuracy: B2
+Orthography: C1
+Vocabulary range: B2
+Vocabulary control: B2
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: B2
+
+----------------
+
+Learner text: 
+
+Man hat immer einen großen Wert darauf gelegt, wo man wohnt. Ich will Ihnen zeigen, wo kann man eine Wohnung kaufen oder mieten und wie viel es kosten. Am meisten Personen in meiner Stadt wohnen in einer 3 oder 4-Zimmer Wohnung. Die Wohnungen sind zwar groß aber sie kosten auch ganz viel. In Stadt X die Lohnen sind höher als in den anderen Städten Polens aber entsprechend für die Kosten.
+Die Kosten hängen davon ab, was man kaufen oder mieten will und wo. Die Wohnungen im Zentrum sind die teuerste und man muss darauf beachten, ob sich diese Wohnung in einem neuen oder alten Hochhaus befindet. Aber die schwierigste ist eine große Wohnung günstig kaufen. Viele wollen es verkaufen  aber auf zu hohem Preis. Am besten ist die Angebote im Internet suchen und dann vergleichen.
+Viele Familien wonnen in einem Haus, aber nicht im Zentrum sondern 20-30 Minuten entfernt, sodass man schnell mit der Verkehr zum Ort fahen kann. Einzelpersonen leben in den Wohnungen neben Zentrum, wo sie alles nah haben Die Preisen sind nicht niedrig, aber jeden kann etwas Entsprechendes für sich selbst finden. 
+Meiner Meinung nach die wichtigste ist sich zu sagen, wie viel Geld man bezahlen kann und dann etwas suchen. Natürlich man muss auch wissen, ob man einen ruhigen Platz sucht oder nicht. Dann wird man zufrieden.
+
+----------------
+
+Target hypothesis 1: 
+
+Man hat immer einen großen Wert darauf gelegt , wo man wohnt . Ich will Ihnen zeigen , wo man eine Wohnung kaufen oder mieten kann und wie viel es kostet . Am meisten Personen in meiner Stadt wohnen in einer 3- oder 4-Zimmer-Wohnung . Die Wohnungen sind zwar groß , aber sie kosten auch ganz viel . In Stadt X sind die Löhne höher als in den anderen Städten Polens , aber entsprechend den Kosten . Die Kosten hängen davon ab , was man kaufen oder mieten will und wo . Die Wohnungen im Zentrum sind die teuersten und man muss darauf achten , ob sich diese Wohnung in einem neuen oder alten Hochhaus befindet . Aber die Schwierigkeit ist , eine große Wohnung günstig zu kaufen . Viele wollen es verkaufen , aber zu einem hohen Preis . Am besten ist es , die Angebote im Internet zu suchen und dann zu vergleichen . Viele Familien wohnen in einem Haus , aber nicht im Zentrum , sondern 20-30 Minuten entfernt , sodass man schnell mit dem Verkehr zum Ort fahen kann . Einzelpersonen leben in den Wohnungen neben dem Zentrum , wo sie alles in der Nähe haben . Die Preise sind nicht niedrig , aber jeder kann etwas Entsprechendes für sich selbst finden . Meiner Meinung nach ist das Wichtigste , sich zu sagen , wie viel Geld man bezahlen kann und dann etwas zu suchen . Natürlich muss man auch wissen , ob man einen ruhigen Platz sucht oder nicht . Dann wird man zufrieden .
+
+----------------
+
+Target hypothesis 2: 
+
+Man hat immer einen großen Wert darauf gelegt , wo man wohnt . Ich will Ihnen zeigen , wo man eine Wohnung kaufen oder mieten kann und wie viel es kostet . Am meisten Personen in meiner Stadt wohnen in einer 3 - oder 4-Zimmer-Wohnung . Die Wohnungen sind zwar groß , aber sie kosten auch ganz viel . In Stadt X sind die Löhne höher als in den anderen Städten Polens , aber entsprechend den Kosten . Die Kosten hängen davon ab , was man kaufen oder mieten will und wo . Die Wohnungen im Zentrum sind die teuersten und man muss darauf achten , ob sich diese Wohnung in einem neuen oder alten Hochhaus befindet . Aber die Schwierigket besteht darin , eine große Wohnung günstig zu kaufen . Viele wollen eine verkaufen , aber zu einem hohen Preis . Am besten ist es , die Angebote im Internet zu durchsuchen und dann zu vergleichen . Viele Familien wohnen in einem Haus , aber nicht im Zentrum , sondern 20-30 Minuten entfernt , sodass man schnell mit den Verkehrsmitteln ins Zentrum fahren kann . Einzelpersonen leben in den Wohnungen neben dem Zentrum , wo sie alles in der Nähe haben . Die Preise sind nicht niedrig , aber jeder kann etwas Entsprechendes für sich selbst finden . Meiner Meinung nach ist das Wichtigste , sich zu fragen , wie viel Geld man bezahlen kann und dann etwas zu suchen . Natürlich muss man auch wissen , ob man einen ruhigen Platz sucht oder nicht . Dann wird man zufrieden gestellt .

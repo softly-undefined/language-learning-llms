@@ -1,0 +1,32 @@
+METADATA
+
+General:
+Author ID: 1091_0000057
+Test language: German
+CEFR level of test: A2
+Task : ask friend to take care of pet - ID: 1091_0650102
+Mother tongue: not reported
+Age: 43
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: B1
+Orthography: B2
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+                              Stadt X, 06.01.2012
+Liebe Julia,
+ich fahre für ein paar Tage nach stadt X.
+kannst du mein Hund aufpasen.
+ich gehe vondreitag besuch Bruden.
+Vielen Dank voraus für Ihre Hilfe.
+Liebe Grüße 
+Eva Schmidt

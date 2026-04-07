@@ -1,0 +1,32 @@
+METADATA
+
+General:
+Author ID: 1061_0120487
+Test language: German
+CEFR level of test: B1
+Task : write a letter for New Year to a friend - ID: 1061_110101
+Mother tongue: English
+Age: 40
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B2
+
+----------------
+
+Learner text: 
+
+                                                           Stadt X, 8.3.2012
+Liebe Michael,
+vielen Dank für dein Brief. Es war sehr schön, mir über dein Silversternacht zu hören. 
+Ich wünche dir alles Gut mit deiner Ausbildung. Kannst du bitte mir drei oder vier Schokolade Croissant schicken?
+Mein Arbeit ist sehr gut. Ich habe Kunden von Morgen bis Nacht. Meistens sind sehr nett, und ich mag der arbeit. Trotzdem, ich würde lieber mit dir ein Kurz Urlaub machen. Kannst du im Sommer anreise? Es ist sehr warm mit nicht so viel regen. Ich weiß, dass du hast ein Paar Tage Luxembourg geträumt. Wir kann dann nach Stadt Y und Stadt Z gehen. Ah, und mein Silvester war nicht so schön. Ich war krank und hat immer Tag ins Bett gebleibt.
+Bitte schreibe mir weider wann du kannst hier für Urlaub kommen.
+Liebe Grüße
+Julia 

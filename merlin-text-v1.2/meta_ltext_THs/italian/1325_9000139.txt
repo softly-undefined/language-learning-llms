@@ -1,0 +1,47 @@
+METADATA
+
+General:
+Author ID: 1325_9000139
+Test language: Italian
+CEFR level of test: B2
+Task : complaining against a hotel - ID: 1325_030300-2
+Mother tongue: German
+Age: 19
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: C1
+Vocabulary range: B2
+Vocabulary control: B2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Residence del Lago 
+Canton Ticino
+Italia 
+Egredi Residence del Lago
+il mio soggiorno l'ultima settimana non è stato così grandioso come me lo avevo immagginato. Già il nome dell'albergho non è realtà. Una Residence normalmente non è vecchia come la Sua e il lago non dovrebbe essere neanche così lontano con solo pochi collegamenti. Per noi è stato un disastro ad andare al lago. In più la stanza è stata caldissima perchè l'aria condizionata non funzionava e fuori sono stati 35° C. 
+Poi la piscina è stata troppo piccola per tutta la gente e così è stata sempre sovraffollata. Se si cercava un'alternativa, non si è trovata ciò che i campi da tennis sono stati in riparazione e l'animazione c'era solo una sera la settimana. 
+La mia famiglia gioca volentieri a pallavolo, però non c'era nessun possibilità nella Residence. La nostra giornata è stata noiosa, giorno per giorno. 
+Caro Residence, per il futuro cambiate la vostra informaziona e scrivete la realtà. Così la gente sa, cosa la trova lì. 
+Grazie e tanti saluti. 
+Maria Rossi
+Città X
+Paese X       
+
+----------------
+
+Target hypothesis 1: 
+
+Residence del Lago Canton Ticino Italia Egregio Residence del Lago , il mio soggiorno l' ultima settimana non è stato così grandioso come me lo ero immaginato . Già il nome dell' albergo non è realtà . Un residence normalmente non è vecchio come il Suo e il lago non dovrebbe essere neanche così lontano con solo pochi collegamenti . Per noi è stato un disastro andare al lago . In più la stanza era caldissima perché l' aria condizionata non funzionava e fuori c' erano 35 ° C . Poi la piscina era troppo piccola per tutta la gente e così era sempre sovraffollata . Se si cercava un' alternativa , non si trovava ciò perché i campi da tennis erano in riparazione e l' animazione c' era solo una sera la settimana . La mia famiglia gioca volentieri a pallavolo , però non c' era nessuna possibilità nel residence . La nostra giornata è stata noiosa , giorno per giorno . Caro Residence , per il futuro cambiate la vostra informazione e scrivete la realtà . Così la gente sa cosa troverà lì . Grazie e tanti saluti . Maria Rossi Città X Paese X
+
+----------------
+
+No target hypothesis 2 available.
+

@@ -1,0 +1,40 @@
+METADATA
+
+General:
+Author ID: 1395_0001060
+Test language: Italian
+CEFR level of test: A2
+Task : contact a friend after a long time - ID: 1395_020300
+Mother tongue: German
+Age: 28
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Cara Antonella,
+Come va? Che fai? Non ti ho visto per un anno! Io sto benissimo! Sono andata a Città X in vacanza con Marco per due settimane il mese scorso. Siamo andati a trovare Giulia. Abita in una carina casa al mare. Era fantastico, c'era sempre il sole! Erano spesso sulla spiaggia e siamo andati in disco la sera. 
+Vorrei invitarti da noi a casa a Città X. Che ne pensi? La domenica, il 5 agosto per la cena? Puoi mi chiamare sul cellulare per la risposta. Devi mi dire tutto che fai!
+Un bacio e a presto,
+ Maria
+
+----------------
+
+Target hypothesis 1: 
+
+Cara Antonella , come va ? Che fai ? Non ti ho visto per un anno ! Io sto benissimo ! Sono andata a Città X in vacanza con Marco per due settimane il mese scorso . Siamo andati a trovare Giulia . Abita in una casa carina al mare . È stato fantastico , c' era sempre il sole ! Eravamo spesso in spiaggia e andavamo in discoteca la sera . Vorrei invitarti a casa da noi a Città X . Che ne pensi ? Domenica 5 agosto per cena ? Puoi chiamarmi sul cellulare per la risposta . Devi dirmi tutto quel che fai ! Un bacio e a presto , Maria
+
+----------------
+
+No target hypothesis 2 available.
+

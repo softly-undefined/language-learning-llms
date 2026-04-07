@@ -1,0 +1,28 @@
+METADATA
+
+General:
+Author ID: 1385_0001738
+Test language: Italian
+CEFR level of test: A1
+Task : reschedule an appointment - ID: 1385_020100
+Mother tongue: Polish
+Age: 28
+Gender: male
+
+Rating:
+Overall CEFR rating: A1
+Grammatical accuracy: 0
+Orthography: A1
+Vocabulary range: A1
+Vocabulary control: A1
+Coherence/Cohesion: A1
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+CIAO DANIELE 
+COME STAI? IN UFFICIO C'È MOLTO LAVORO E GIOVEDI POMERIGGIO NON POSSO CON TE. FARSE APPUNTAMENTO A SABATO DI SERA. IO PROPORIO TU ANDARE A CENA IN RISTORANTE TAILANDESE. 
+                                SALUTE  
+                                            Maria

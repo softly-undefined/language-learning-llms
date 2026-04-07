@@ -1,0 +1,41 @@
+METADATA
+
+General:
+Author ID: PHA0111004A
+Test language: Czech
+CEFR level of test: A2
+Task : answering on a birthday invitation - ID: A2PS0102_oslava
+Mother tongue: Russian
+Age: 1519
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B2
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Ahoj Evo! 
+Děkuju za pozvání, ráda přijdu. 
+Přeju tě hodňe šťestí, lasky a všechno nejlepší.
+Kde a v kolik hodin začiná party? Oslava bude jen pro kamarády a nebo tam bude i irodína? Tvůj spolužak David přijde?
+Měj se hezky, Marie
+
+----------------
+
+Target hypothesis 1: 
+
+Ahoj Evo ! Děkuju za pozvání , ráda přijdu . Přeju ti hodně štěstí , lásky a všechno nejlepší . Kde a v kolik hodin začne party ? Oslava bude jen pro kamarády , anebo tam bude i rodina ? Tvůj spolužák David přijde ? Měj se hezky , Marie
+
+----------------
+
+Target hypothesis 2: 
+
+Ahoj Evo ! Děkuju za pozvání , ráda přijdu . Přeju ti hodně štěstí , lásky a všechno nejlepší . Kde a v kolik hodin začne party ? Oslava bude jen pro kamarády , anebo tam bude i rodina ? Tvůj spolužák David přijde ? Měj se hezky , Marie

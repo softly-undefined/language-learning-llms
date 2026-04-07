@@ -1,0 +1,39 @@
+METADATA
+
+General:
+Author ID: PHA0411038
+Test language: Czech
+CEFR level of test: B2
+Task : write an essay: No pain no gain - ID: B2PS0202_kolace
+Mother tongue: Other
+Age: 1519
+Gender: male
+
+Rating:
+Overall CEFR rating: B2
+Grammatical accuracy: B2
+Orthography: B2
+Vocabulary range: B2
+Vocabulary control: B2
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Všichni z nás vědí teorie Darwinu, která řiká, že práce převrátilo opice v člověka.
+V nějakém významu s tím souhlasím, aniž bych nepodporoval této teorie. Předevšim s tím, že práce se pomáhá lidí udržet na úrovni jistého rozumného člověka "homo sapiens". Z jiného pohledu práce také nám přínáší peníze i jídlo, ktere všichni konzumenti ve světě potřebují jako vzduch a vodu. Když se zabyváš pravě tím, co miluješ, ziskáváš od práce spoustu pozitivních, kladných. emoci. Zejména v dnešní krizové době, kdy všechno je nejístě, a proto v okolí vladá chaos, práce může pomoct nám odvest pozornost od těch potíží, které nás obklopuje. Ano, samozřejmě, dobrá práce se musí střidat s dobrým odpočinkem. Pravě schopnost srdce fungovat samostatně a v průběhu celého života ovlivňuje i to, že jeho práce se vždy střidá s odpočinkem. Navíc, vědci uvědomují, že doba odpočinku srdce je o něco delší než doba práce
+Na konec chcí řict, že pracovitý člověk vždy bude mít chleb, popř. maso, na stole, poctu ze strány lidí, obklopující jeho, a nejvyznamější, podle mého názora, bude mít pro co žít.
+
+----------------
+
+Target hypothesis 1: 
+
+Všichni z nás vědí teorii Darwina , která říká , že práce převrátila opice v člověka . V nějakém významu s tím souhlasím , aniž bych podporoval tuto teorii . Především s tím , že práce pomáhá lidi udržet na úrovni jistého rozumného člověka " homo sapiens " . Z jiného pohledu práce také přináší peníze i jídlo , které všichni konzumenti ve světě potřebují jako vzduch a vodu . Když se zabýváš právě tím , co miluješ , ziskáváš od práce spoustu pozitivních , kladných emocí . Zejména v dnešní krizové době , kdy všechno je nejisté , a proto v okolí vládne chaos , práce může pomoct odvést pozornost od těch potíží , které nás obklopují . Ano , samozřejmě , dobrá práce se musí střídat s dobrým odpočinkem . Právě schopnost srdce fungovat samostatně a v průběhu celého života ovlivňuje i to , že jeho práce se vždy střídá s odpočinkem . Navíc vědci uvědomují , že doba odpočinku srdce je o něco delší než doba práce Na konec chci říct , že pracovitý člověk vždy bude mít chléb , popř. maso , na stole , poctu ze strany lidí , obklopujících ho , a nejvýznamnější podle mého názoru , bude mít pro co žít .
+
+----------------
+
+Target hypothesis 2: 
+
+Všichni z nás znají Darwinovu teorii , která říká , že práce převrátila opice v člověka . V nějakém významu s tím souhlasím , aniž bych podporoval tuto teorii . Především s tím , že práce pomáhá lidi udržet na úrovni jistého rozumného člověka " homo sapiens " . Z jiného pohledu práce také přináší peníze i jídlo , které všichni konzumenti ve světě potřebují jako vzduch a vodu . Když se zabýváš právě tím , co miluješ , ziskáváš od práce spoustu pozitivních , kladných emocí . Zejména v dnešní krizové době , kdy všechno je nejisté , a proto v okolí vládne chaos , práce může pomoct odvést pozornost od těch potíží , které nás obklopují . Ano , samozřejmě , dobrá práce se musí střídat s dobrým odpočinkem . Právě schopnost srdce fungovat samostatně a v průběhu celého života ovlivňuje i to , že jeho práce se vždy střídá s odpočinkem . Navíc vědci uvědomují , že doba odpočinku srdce je o něco delší než doba práce . Nakonec chci říct , že pracovitý člověk vždy bude mít chléb , popř. maso , na stole , poctu ze strany lidí , obklopujících ho , a nejvýznamnější podle mého názoru , bude mít pro co žít .

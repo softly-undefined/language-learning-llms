@@ -1,0 +1,30 @@
+METADATA
+
+General:
+Author ID: 1395_0000575
+Test language: Italian
+CEFR level of test: A2
+Task : inform friends about language course - ID: 1395_010300
+Mother tongue: French
+Age: 51
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Cari amici,
+adesso, io sono andati in Sardegna tra due mesi per imparare l'italiano. La nostra insegnante si chiama Maria e è molto simpatica.
+Nel corso ci sono dieci altri studenti che vieni de tutta l'Europa per imparare l'Italiano.
+Quando non c'è lezione, andiamo alla spiaggia, perché la mia camara è solo a cinque minuti à piedi del mare
+Ci vediamo.
+Michele

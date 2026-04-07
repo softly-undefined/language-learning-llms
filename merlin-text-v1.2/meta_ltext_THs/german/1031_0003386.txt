@@ -1,0 +1,37 @@
+METADATA
+
+General:
+Author ID: 1031_0003386
+Test language: German
+CEFR level of test: C1
+Task : reporting about the housing situation - ID: 1031_050300
+Mother tongue: Russian
+Age: 34
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B2
+Vocabulary range: B2
+Vocabulary control: B2
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Ich möchte einen Bericht über den Wohnungsmarkt in Stadt X beschreiben. Zur Zeit muss man mehr Geld als früher haben, um eine Wohnung zu mieten. oder kaufen. Die Mietkosten in der Stadt hoher geworden. Daswegen gibts möglichkeit billiger Wohnung finden, aber im schlechten Bezirken, d.h. gefährliche Teile des Stadt. Oder, die Leute, die Lust haben selbe eine Wohnung renovieren, haben möglichkeit bedürfnissrenovierung Wohnung finden. Ich finde diese Idee auch nicht schlecht, weil du selbe Kreativität und eigene Fantasie zeigen kann. 
+Für die Jungefamilien mit kleine Kindern, kann ich der Bezirk wie Stadtteil X vorschlagen. In diesem Bezirk gibt´s viele moderne, grüne Spielplätze, Parks und alles für die Aktivität. Und da wohnen viele Jungere Familien. Auch kann man da viele Schönes Bars, Restaurants und Diskos finden. Für die ältere Leute können die Bezirke wie Stadtteil Y und Stadtteil Z ideal passen. Diese Stadtteile sind grün, ruhig und gemütlich, mit vielen Parks und kleinen Laden, wo man sich entspannt kann Stadt X ist sehr groß und jede kann ein passende eigene Bezirk finden. und passende Wohnung oder Haus. Ob man Jung oder alt, Reich oder Arm, allein oder mit Großefamilie. ist.
+
+----------------
+
+Target hypothesis 1: 
+
+Ich möchte einen Bericht über den Wohnungsmarkt in Stadt X beschreiben . Zur Zeit muss man mehr Geld als früher haben , um eine Wohnung zu mieten oder zu kaufen . Die Mietkosten in der Stadt sind höher geworden . Deswegen gibts die Möglichkeit , billiger eine Wohnung zu finden , aber in schlechten Bezirken , d.h. gefährliche Teile der Stadt . Oder die Leute , die Lust haben , selber eine Wohnung zu renovieren , haben die Möglichkeit , eine Bedürfnisrenovierungwohnung zu finden . Ich finde diese Idee auch nicht schlecht , weil du selber Kreativität und eigene Fantasie zeigen kannst . Für die Jungefamilien mit kleinen Kindern , kann ich einen Bezirk wie Stadtteil X vorschlagen . In diesem Bezirk gibt´s viele moderne , grüne Spielplätze , Parks und alles für die Aktivität . Und da wohnen viele jüngere Familien . Auch kann man da viele schöne Bars , Restaurants und Diskos finden . Für die älteren Leute können die Bezirke wie Stadtteil Y und Stadtteil Z ideal passen . Diese Stadtteile sind grün , ruhig und gemütlich , mit vielen Parks und kleinen Läden , wo man sich entspannen kann . Stadt X ist sehr groß und jede kann einen passenden eigenen Bezirk finden und eine passende Wohnung oder ein Haus . Ob man jung oder alt , reich oder arm , allein oder mit einer Großefamilie ist .
+
+----------------
+
+No target hypothesis 2 available.
+

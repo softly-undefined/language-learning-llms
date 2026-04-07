@@ -1,0 +1,41 @@
+METADATA
+
+General:
+Author ID: 1091_0000025
+Test language: German
+CEFR level of test: A2
+Task : letter to housing office - ID: 1091_0610301
+Mother tongue: Russian
+Age: 61
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+                     Stadt X, 04.01.2012
+Sehr geerte Damen und Herren
+Ich  suhe eine Wonung, ein Zimmer 45 kb.m².  mit Badewanne, der Balkon und GroBe Kühe.
+Ich danke Ihnen im varaus
+mit freundlich Grüßen.
+
+----------------
+
+Target hypothesis 1: 
+
+Stadt X , 04.01.2012 Sehr geehrte Damen und Herren , ich suche eine Wohnung , ein Zimmer mit 45 m ² , mit Badewanne , dem Balkon und großer Küche . Ich danke Ihnen im Voraus . Mit freundlichen Grüßen
+
+----------------
+
+Target hypothesis 2: 
+
+Stadt X , 04.01.2012 Sehr geehrte Damen und Herren , ich suhe eine Wohnung mit einem 45 m ² großen Zimmer , mit einer Badewanne , einem Balkon und einer großen Küche . Ich danke Ihnen im Voraus . Mit freundlichen Grüßen

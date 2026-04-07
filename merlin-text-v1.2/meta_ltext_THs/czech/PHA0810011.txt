@@ -1,0 +1,39 @@
+METADATA
+
+General:
+Author ID: PHA0810011
+Test language: Czech
+CEFR level of test: B2
+Task : write an essay: More people know more - ID: B2PS0201_hlava
+Mother tongue: Russian
+Age: 3039
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B2
+Vocabulary control: B1
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Ja si myslem že každé přísloví kdysi bylo řečeno člověkem podle vlástní zkušeností. Možna nekdo se snažil márně pochopit nebo dozvědet něco, jak prišel druhý a hned "hádanka" byla rozlouštěna. Víc hlav víc ví, a nejen ví a taky myslí, vidí, slyší.
+Pro to malokdy vyzkumné timy se skladají z jednoho člověka. Ja bych řekl že když něco údelano jedním člověkem to vzdy budou existovat jiné kdo bude pochybovat ve spravností rešeni. Ale na jinu stranu často da se slyšet o kritice timové prací taky.
+Jsem komandní hráč, mne nebaví dělat úkoly samostatně. Za prvé kvuli tomu že mi se nelíbí monotonní a jednoduchá prace, zadruhé timová prace probíha rychlejí a zajimavější, a výkon mnohem lepší. Každy hráč muže příspět k vysledků.
+Taky o spravností toho to přísloví da se posoudit tim že vždy do jakékoliv expedice nebo vyzkumné prací posílají vzdy vic než jednoho člověka. Posadka kosmické lodi se skláda z odbornikí v ruzných oborech a tim se usnadnuje pobyt lidí ve vesmiru. To je jen jediný přiklad ze mnoha, ktery muže svědčit o bezpochybnosti slov řečených kdysi nekym.
+
+----------------
+
+Target hypothesis 1: 
+
+Já si myslím , že každé přísloví kdysi bylo řečeno člověkem podle vlastní zkušenosti . Možná se někdo snažil marně pochopit nebo dozvědět něco , když přišel druhý a " hádanka " hned byla rozluštěna . Víc hlav víc ví a nejen ví a taky myslí , vidí , slyší . Proto se málokdy výzkumné týmy skládají z jednoho člověka . Já bych řekl , že když je něco uděláno jedním člověkem , to vždy budou existovat jiní , kdo budou pochybovat o správnosti řešení . Ale na jinou stranu se často dá slyšet taky o kritice týmové práce . Jsem komandní hráč , mne nebaví dělat úkoly samostatně . Za prvé kvůli tomu , že se mi nelíbí monotónní a jednoduchá práce , zadruhé týmová práce probíhá rychleji a zajímavěji a výkon je mnohem lepší . Každý hráč může přispět k výsledku . Taky se správnost tohoto přísloví dá posoudit podle toho , že vždy do jakékoliv expedice nebo výzkumné práce posílají vždy víc než jednoho člověka . Posádka kosmické lodi se skláda z odborníků v různých oborech a tím se usnadňuje pobyt lidí ve vesmíru . To je jen jediný příklad ze mnoha , který může svědčit o bezpochybnosti slov , řečených kdysi někým .
+
+----------------
+
+No target hypothesis 2 available.
+

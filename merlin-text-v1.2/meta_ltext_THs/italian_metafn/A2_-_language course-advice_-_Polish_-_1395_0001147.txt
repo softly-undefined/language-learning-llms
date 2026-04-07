@@ -1,0 +1,39 @@
+METADATA
+
+General:
+Author ID: 1395_0001147
+Test language: Italian
+CEFR level of test: A2
+Task : inform friends about language course - ID: 1395_010300
+Mother tongue: Polish
+Age: 58
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: B1
+Vocabulary control: A2
+Coherence/Cohesion: A1
+Sociolinguistic appropriateness: A1
+
+----------------
+
+Learner text: 
+
+Carissimi,
+Innanzi tutto come state? Sono arrivato qui a Città X la settimana prossima. Finalmente qui e posso studiare italiano. Sono molto fortunata! Vorrei conoscere anche la storia dell'Italia e sopratutto la gente. La nostra insegnante é giovane, alta ed elegante saggia. Nel corso con me ci sono le raggazze e i raggazzi dalla Polonia  insieme dodici persone.  Conosco poco l'italiano. Vorrei conescerlo meglio. Quando non c'era lezione abbiamo il tempo libero, andarramo spesso al cinema a teatro in bibliodeca. Ora vi lascio, devo andare in corso. Perche non venite a trovarmi?            Ci vediamo presto, spero
+Maria 
+
+----------------
+
+Target hypothesis 1: 
+
+Carissimi , innanzi tutto come state ? Sono arrivato qui a Città X la settimana prossima . Finalmente sono qui e posso studiare italiano . Sono molto fortunata ! Vorrei conoscere anche la storia dell' Italia e soprattutto la gente . La nostra insegnante è giovane , alta ed elegante , saggia . Nel corso con me ci sono le ragazze e i ragazzi dalla Polonia , insieme dodici persone . Conosco poco l' italiano . Vorrei conoscerlo meglio . Quando non c' è lezione , abbiamo tempo libero . Andiamo spesso al cinema , a teatro o in biblioteca . Ora vi lascio , devo andare al corso . Perché non venite a trovarmi ? Ci vediamo presto , spero . Maria
+
+----------------
+
+Target hypothesis 2: 
+
+Carissimi , innanzi tutto come state ? Sono arrivata qui a Città X la settimana scorsa . Finalmente sono qui e posso studiare l' italiano . Sono molto fortunata ! Vorrei conoscere anche la storia dell' Italia e soprattutto la gente . La nostra insegnante è giovane , alta ed elegante , saggia . Nel corso con me ci sono ragazze e ragazzi dalla Polonia , in tutto dodici persone . Conosco poco l' italiano . Vorrei conoscerlo meglio . Quando non c' è lezione , abbiamo tempo libero . Andiamo spesso al cinema , a teatro o in biblioteca . Ora vi lascio , devo andare al corso . Perché non venite a trovarmi ? Ci vediamo presto , spero . Maria

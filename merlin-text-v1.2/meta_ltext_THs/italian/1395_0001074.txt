@@ -1,0 +1,41 @@
+METADATA
+
+General:
+Author ID: 1395_0001074
+Test language: Italian
+CEFR level of test: A2
+Task : go see a friend - ID: 1395_040101
+Mother tongue: German
+Age: 41
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Caro Paolo, 
+non abbiamo vederci par anni! Come stai, é come stanno i tuoi? Senti, io penso a andare a trovarti, per vedere la tua cittá famosa. Ma é famoso da vero? Che cosa si puó fare da sera? 
+Andró al 7 agosto, non lo so quanto tempo posso stare. Posso stare a casa tua? Come va li, c'e una ferma di metropolitana qua vicino? Quanto tempo potrei rimanere? Penso a andare a Città X poi ... 
+Rispostimi presto, devo prenotare il volo. Mille grazie!
+Tanti saluti e a presto!
+Michele 
+
+----------------
+
+Target hypothesis 1: 
+
+Caro Paolo , non ci siamo visti per anni ! Come stai e come stanno i tuoi ? Senti , io penso di andare a trovarti per vedere la tua famosa città . Ma é famoso davvero ? Che cosa si può fare di sera ? Andrò il 7 agosto , non lo so quanto tempo posso stare . Posso stare a casa tua ? Come va lì , c' è una fermata di metropolitana qua vicino ? Quanto tempo potrei rimanere ? Penso di andare a Città X poi ... Rispondimi presto , devo prenotare il volo . Mille grazie ! Tanti saluti e a presto ! Michele
+
+----------------
+
+No target hypothesis 2 available.
+

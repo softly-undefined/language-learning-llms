@@ -1,0 +1,42 @@
+METADATA
+
+General:
+Author ID: 1031_0003388
+Test language: German
+CEFR level of test: C1
+Task : reporting about the housing situation - ID: 1031_050300
+Mother tongue: Russian
+Age: 35
+Gender: female
+
+Rating:
+Overall CEFR rating: B2
+Grammatical accuracy: B2
+Orthography: B2
+Vocabulary range: C1
+Vocabulary control: B2
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: C1
+
+----------------
+
+Learner text: 
+
+Ich möchte einen Bericht über den Wohnungsmarkt in Stadt X geben. Es gibt sehr viele verschiedene Moglichkeiten sovoll für Familien, als auch für Einzelpersonen. Aber bevor man sich auf etwas entscheidet oder irgendwelchen Objekt auswählt, soll man alle Varianten durchgehen. Eine sehr gute und preiswerte Möglichkeit für Einzelpersonen ist ein Wohngemeinschaft, dass heisst, mehrere Personen mieten eine große Wohnung und die Monatsmiete wird geteilt.
+Für die Familien gibt es Gelegenheit eine Wohnung oder ein Haus mieten oder kaufen. Aber die Preisunterschied ist zwischen verschiedenen Bezirken sehr groß, deshalb ist es empfelenswert sich zuerst die Preisen zu erkundigen. Es hängt auch von Stadtteil, wo das Objekt sich befindet, weil es in Stadt X, wie auch in anderen Städten, teuere, sogenannte prestige, und auch billigere Bezirke gibt.
+Durchschnittliche Monatsmiete für Dreizimmerwohnung in Stadt X-Centrum liegt ungefähe bei 700,00 Euro, für ein Haus für vier Personen variieren die Preise von 900,00 bis 1100 Euro monatlich
+Wenn man ein Haus oder eine Wohnung kaufen möchte, soll man beachten, dass die Kaufpreis sehr oft künstlich erhöht wird. Es lohnt sich, sich vorher beraten zu lassen.
+Man soll auch auf die Objektlage achten, weil es in Berlin vile einkaufs- und verkehrsgunstige Strassen vorhanden.
+Wenn Sie irgendwelchen Fragen haben, oder eine Beratung brauchen, können Sie mich jeder Zeit kontaktieren. Ich würde Ihnen gerne helfen.
+
+----------------
+
+Target hypothesis 1: 
+
+Ich möchte einen Bericht über den Wohnungsmarkt in Stadt X geben . Es gibt sehr viele verschiedene Möglichkeiten , sowohl für Familien als auch für Einzelpersonen . Aber bevor man sich für etwas entscheidet oder irgendein Objekt auswählt , soll man alle Varianten durchgehen . Eine sehr gute und preiswerte Möglichkeit für Einzelpersonen ist eine Wohngemeinschaft , das heißt , mehrere Personen mieten eine große Wohnung und die Monatsmiete wird geteilt . Für die Familien gibt es Gelegenheit , eine Wohnung oder ein Haus zu mieten oder zu kaufen . Aber der Preisunterschied ist zwischen verschiedenen Bezirken sehr groß , deshalb ist es empfehlenswert , sich zuerst nach den Preisen zu erkundigen . Es hängt auch vom Stadtteil ab , wo das Objekt sich befindet , weil es in Stadt X , wie auch in anderen Städten , teure , sogenannte Prestige- , und auch billigere Bezirke gibt . Eine durchschnittliche Monatsmiete für eine Dreizimmerwohnung in Stadt X-Zentrum liegt ungefähr bei 700,00 Euro , für ein Haus für vier Personen variieren die Preise von 900,00 bis 1100 Euro monatlich . Wenn man ein Haus oder eine Wohnung kaufen möchte , soll man beachten , dass der Kaufpreis sehr oft künstlich erhöht wird . Es lohnt sich , sich vorher beraten zu lassen . Man soll auch auf die Objektlage achten , weil in Berlin viele einkaufs- und verkehrsgünstige Straßen vorhanden sind . Wenn Sie irgendwelche Fragen haben oder eine Beratung brauchen , können Sie mich jederzeit kontaktieren . Ich würde Ihnen gerne helfen .
+
+----------------
+
+Target hypothesis 2: 
+
+Ich möchte einen Bericht über den Wohnungsmarkt in Stadt X geben . Es gibt sehr viele verschiedene Möglichkeiten , sowohl für Familien als auch für Einzelpersonen . Aber bevor man sich für etwas entscheidet oder irgendein Objekt auswählt , sollte man alle Varianten durchgehen . Eine sehr gute und preiswerte Möglichkeit für Einzelpersonen ist eine Wohngemeinschaft , das heisst , mehrere Personen mieten eine große Wohnung und die Monatsmiete wird geteilt . Für Familien gibt es die Möglichkeit , eine Wohnung oder ein Haus zu mieten oder zu kaufen . Aber der Preisunterschied ist zwischen den verschiedenen Bezirken sehr groß , deshalb ist es empfehlenswert , sich zuerst nach den Preisen zu erkundigen . Es hängt auch vom Stadtteil ab , wo sich das Objekt befindet , weil es in Stadt X , wie auch in anderen Städten , teuere , sogenannte Prestige- und auch billigere Bezirke gibt . Die durchschnittliche Monatsmiete für eine Dreizimmerwohnung in Stadt X-Zentrum liegt ungefähr bei 700,00 Euro , für ein Haus für vier Personen variieren die Preise von 900,00 bis 1100 Euro monatlich . Wenn man ein Haus oder eine Wohnung kaufen möchte , sollte man beachten , dass der Kaufpreis sehr oft künstlich erhöht wird . Es lohnt sich , sich vorher beraten zu lassen . Man sollte auch auf die Objektlage achten , weil in Berlin viele Einkaufs- und verkehrsgunstige Strassen vorhanden sind . Wenn Sie irgendwelche Fragen haben oder eine Beratung brauchen , können Sie mich jederzeit kontaktieren . Ich würde Ihnen gerne helfen .

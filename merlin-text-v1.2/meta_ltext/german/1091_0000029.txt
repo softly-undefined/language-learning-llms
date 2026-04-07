@@ -1,0 +1,31 @@
+METADATA
+
+General:
+Author ID: 1091_0000029
+Test language: German
+CEFR level of test: A2
+Task : letter to housing office - ID: 1091_0610301
+Mother tongue: Russian
+Age: 57
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: B1
+Orthography: B2
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B2
+
+----------------
+
+Learner text: 
+
+                                       Stadt X, 04.01.2012
+Sehr geehrte Damen und Herren,
+ich suche eine Zweizimmerwohnung mit groß und hell Wohnzimmer und mit dem Balkon richtung nach Süd. Ich brauche Wohnung ab 60m² mit schöner Küche und ein Bad und eine Gästetualette
+Ich danke Ihnen im voraus 
+Mit freundlichen Grüßen
+Müller 
+P.S: Kontakt Telefon 0345-11111111

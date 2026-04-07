@@ -1,0 +1,42 @@
+METADATA
+
+General:
+Author ID: PHA0509019
+Test language: Czech
+CEFR level of test: B2
+Task : write an essay: Everywhere well but at home the best - ID: B2PS0200_doma
+Mother tongue: Slovak
+Age: 2029
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B2
+Orthography: B1
+Vocabulary range: B2
+Vocabulary control: B1
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+VŠUDE DOBŘE, DOMA NEJLÉPE.
+S myšlenkou všude doma, doma nejlépe jsem úplně ztotožnena. Myslím si, že každý člověk, (dítě, žena, muž) když mají tam odkud pochází rodinné zázemí, je jim tam dobře, tak se určite rádi vracejí domů.
+Ráda bych Vám vypravila  co se dělo, když jsme já, manžel a náš šestiletý syn, byli na dovolené v Chorvatsku. Z vlastní zkušeností vím, že na dovolenou k moři, se těší každý. Naplánovali jsme si dovlenou na dva týdny a  šli jsme tam vlastním autem, protože jsme usůdili, že nechceme být na nikom závislý a program si tam uděláme sami. Když jsme dorazili, počasí bylo překrásné a vydřelo,  i na cestu zpátky. Ubytovali jsme se v malém obytnem domů, kde jsme bydleli s paní, která nám to přenajala na 2 týdni. Když přijelo na začátku k placení, řekla jsem manželovi, ať zaplatí jenom jeden týden, protože ješte nevíme jaké budé počasí, atď....
+Manžel souhlasil, a já když si na to teď spomínám, tak  jme udělali dobře.
+Začátek dovolenky probíhal úplne normálne. Prvý, co jsme udělali bylo, že jsme se šli vykoupat do moře. Syn ješte neuměl plavat a tak měl kolo. Moc se nám to líbilo. Každý den jsme měli stejný, manžel se opaloval, pak se hrál se synem ve vode, pak byla přecházka, pak najíst a na „barák." Bylo to ze začátku zábavný, ale  po týdnu opalování a nic nerobění, jsme se všichni tři zhodli, že dovolené stačilo, a  jedeme domů. Byli jsme krásně opálení, krásne odpočinutí, a taky už i znuděni. Bavili jsme se  o tom,  že jsme měli zvít na dovolenou někoho z rodiny, hlavně  s dětma. Na dovolené jsme pořád chodili celá rodina, sestřy s manželmi a dětmi.  Musím přiznat, že jsme se nenudili a syn měl o zábavu postarané. Možná jsem  nenapsala ten nejvodnejší příběh, ale celá rodina jsme usůdili, že doma je nejlépe a tak jsme se vrátili domů. Neříkam, že to byla špatná dovolená , nebo zě si s manželem nemáme co říct, ale po dobu kdy pracujeme, se s rodinou nepotkáváme cašto, a proto jsme to řešili společnou dovolenou. Když se nás ptali, jaká byla dovolená tak jsme se pochválili, že byla hezká ale dlouha.
+Nakonec jsme udělali dobře, že jsme šli domů a týden, který nám zůstal volnej, jsme se sešli s rodinou, s dětmi  doma a bylo to moc hezké a příjemné.
+To byl můj příběh z dovolené, na keré jsme zjistili  že všude je dobře a v Chorvatsku taky, ale doma je nejlépe.
+
+----------------
+
+Target hypothesis 1: 
+
+VŠUDE DOBŘE , DOMA NEJLÉPE . S myšlenkou všude doma , doma nejlépe jsem úplně ztotožněna . Myslím si , že každý člověk ( dítě , žena , muž ) , když má tam , odkud pochází , rodinné zázemí , je mu tam dobře , tak se určitě rád vrací domů . Ráda bych Vám vyprávěla , co se dělo , když jsme já , manžel a náš šestiletý syn byli na dovolené v Chorvatsku . Z vlastní zkušenosti vím , že na dovolenou k moři se těší každý . Naplánovali jsme si dovolenou na dva týdny a šli jsme tam vlastním autem , protože jsme usoudili , že nechceme být na nikom závislí a program si tam uděláme sami . Když jsme dorazili , počasí bylo překrásné a vydrželo i na cestu zpátky . Ubytovali jsme se v malém obytném domě , kde jsme bydleli s paní , která nám to pronajala na 2 týdny . Když přišlo na začátku k placení , řekla jsem manželovi , ať zaplatí jenom za jeden týden , protože ještě nevíme , jaké bude počasí atd. .... Manžel souhlasil , a já když si na to teď vzpomínám , tak jsme udělali dobře . Začátek dovolené probíhal úplně normálně . První , co jsme udělali , bylo , že jsme se šli vykoupat do moře . Syn ještě neuměl plavat , a tak měl kolo . Moc se nám to líbilo . Každý den jsme měli stejný , manžel se opaloval , pak se hrál se synem ve vodě , pak byla přecházka , pak najíst a na " barák " . Bylo to ze začátku zábavné , ale po týdnu opalování a nic nerobění jsme se všichni tři shodli , že dovolené stačilo a že jedeme domů . Byli jsme krásně opálení , krásně odpočinutí a taky už i znudění . Bavili jsme se o tom , že jsme měli vzít na dovolenou někoho z rodiny , hlavně s dětmi . Na dovolené jsme pořád chodili celá rodina , sestry s manžely a dětmi . Musím přiznat , že jsme se nenudili a syn měl o zábavu postarané . Možná jsem nenapsala ten nejvhodnější příběh , ale celá rodina jsme usoudili , že doma je nejlépe , a tak jsme se vrátili domů . Neříkám , že to byla špatná dovolená , nebo že si s manželem nemáme co říct , ale po dobu , kdy pracujeme , se s rodinou nepotkáváme často , a proto jsme to řešili společnou dovolenou . Když se nás ptali , jaká byla dovolená , tak jsme se pochválili , že byla hezká , ale dlouhá . Nakonec jsme udělali dobře , že jsme šli domů a v týdnu , který nám zůstal volný , jsme se sešli s rodinou , s dětmi doma a bylo to moc hezké a příjemné . To byl můj příběh z dovolené , na které jsme zjistili , že všude je dobře , a v Chorvatsku taky , ale doma je nejlépe .
+
+----------------
+
+No target hypothesis 2 available.
+

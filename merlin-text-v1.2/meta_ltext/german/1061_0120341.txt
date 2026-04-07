@@ -1,0 +1,35 @@
+METADATA
+
+General:
+Author ID: 1061_0120341
+Test language: German
+CEFR level of test: B1
+Task : write a letter to a friend (visit) - ID: 1061_130101
+Mother tongue: not reported
+Age: 35
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+                         Stadt X den 12.3.2012
+                         Bahnhofsstraße 12
+                         12345
+Liebe Dana
+ich freue mich, dass deine E-mail ankommen. Ich gratuliere dein Prüfung Ich wünsche eine schöne Kette. weil dort günstiga sind.
+wo lebt ihre Freundin.
+ich möchte auch ihre Adresse haben, weil wir machen in, Sommer urlaub.
+Wie war das Wetter und hastu meine Tante besucht.
+Ich freue mich, dich zu besuchen.
+Viele Grüße
+Deine Maria

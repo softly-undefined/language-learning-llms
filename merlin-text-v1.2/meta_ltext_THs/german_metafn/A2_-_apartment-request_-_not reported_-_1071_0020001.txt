@@ -1,0 +1,41 @@
+METADATA
+
+General:
+Author ID: 1071_0020001
+Test language: German
+CEFR level of test: A1
+Task : ask friend for help for finding apartment - ID: 1071_020200
+Mother tongue: not reported
+Age: not reported
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Hallo Ingo,
+Ich bin Meier Michael. Ich suche eine neubauWohnung. Ich suche 3 Zimmer Wohnung mit balkon und mit Terasse Garage. Ich will zum 1. März wohnen. Kannst du bei mir hiffen. Kannst du im anzeigen lesen. oder kannst du eine frei wohnung. Darf ich nicht teuer sein. Bitte geben Sie antwort.
+Vielen Dank
+Tschüss
+Dein Freund                Meier Michael
+
+----------------
+
+Target hypothesis 1: 
+
+Hallo Ingo , ich bin Meier Michael . Ich suche eine Neubauwohnung . Ich suche eine Dreizimmerwohnung mit Balkon , mit Terrasse und Garage . Ich will zum 1 . März dort wohnen . Kannst du mir helfen ? Kannst du in Anzeigen lesen oder kannst du eine freie Wohnung suchen ? Ich darf nicht teuer sein . Bitte geben Sie eine Antwort . Vielen Dank , tschüss Dein Freund Meier Michael
+
+----------------
+
+Target hypothesis 2: 
+
+Hallo Ingo , hier ist Michael Meier . Ich suche eine Neubauwohnung . Ich suche eine Dreizimmerwohnung mit Balkon , Terasse und Garage . Ich will zum 1 . März einziehen . Kannst du mir helfen ? Kannst du Anzeigen lesen oder kannst du eine freie Wohnung suchen ? Sie darf nicht teuer sein . Bitte sende mir eine Antwort . Vielen Dank , tschüss Dein Freund Michael Meier

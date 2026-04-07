@@ -1,0 +1,31 @@
+METADATA
+
+General:
+Author ID: 1071_0242023
+Test language: German
+CEFR level of test: A1
+Task : arrange appointment with friend to go swimming together - ID: 1071_120302
+Mother tongue: not reported
+Age: 57
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Liebe Anna,
+Wie geht es Dir? Mir geht es gut.
+Ich möchte am Samstag mit Dir schwimmen gehen Freibad mit Dir. Soll Ihr etwas mit bringen_ Vielleicht Brot Kuchen und Wasser?
+Dank Dir für die Einladung.
+Herzliche Grüße - Deine Freundin.
+Tschüss
+Julia

@@ -1,0 +1,25 @@
+METADATA
+
+General:
+Author ID: PHA0610006B
+Test language: Czech
+CEFR level of test: A2
+Task : describe a photo: playground - ID: A2PS0201_hriste
+Mother tongue: Russian
+Age: 2029
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Na fotografii je rodína, která trvá svůj vikend. Vidím otce, matku a dětí. Rodina je na hřiští pro dětí. Matka a otec se popovídají a děti si hrají. Jsou spokojený. Myslí na to, co budou dělat v příští týden. Mluví o dětech, o počasí, a o příští dovolene. Chcí mít svou dovolenu u moři, v Řecko. Budou mít dovolenu v lete, a dnes je jen jaří. Ale je teplo a slunečno, jako je v lete. Próto mají lehký oblek. Cítí se moc hezkě. Rády hrají venku.

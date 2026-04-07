@@ -1,0 +1,43 @@
+METADATA
+
+General:
+Author ID: 1365_0100165
+Test language: Italian
+CEFR level of test: B1
+Task : help a friend who is looking for work after school-leaving exam - ID: 1365_040501
+Mother tongue: German
+Age: 52
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B2
+Orthography: C1
+Vocabulary range: B2
+Vocabulary control: B2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+                                                                                                                Città X, 14.05.2011
+Caro Francesco, 
+congratulo con te per avere superato l'esame, ed inoltre con il massimo dei voti! Durante i mesi precedenti mi sono preparato all'esame, a cui sono iscritto. La settimana prossima quando a luogo l'esame caprema di più. Non sono sicuro di superare il mio esame con la stessa bravezza che te. Dopo avere finiti i miei studi penso di cercare un posto di lavoro all'estero. Ma adesso vogliamo vedere se troviamo un lavoro per te. Già ho un'idea. Ho sentito che per i corsi vengono cercate delle persone, che sono capaci di insegnare diverse lingue come l'Italiano, il Francese etc. E con la tua maturità linguistica saresti un candidato perfetto!
+Che ne dici? 
+Farmi sapere!
+Tanti cordiali saluti, 
+Paolo    
+
+----------------
+
+Target hypothesis 1: 
+
+Città X , 14.05.2011 Caro Francesco , mi congratulo con te per aver superato l' esame e inoltre con il massimo dei voti ! Durante i mesi precedenti mi sono preparato per l' esame a cui sono iscritto . La settimana prossima , quando avrà luogo l' esame , capirò di più . Non sono sicuro di superare il mio esame con la stessa bravezza tua . Dopo aver finito i miei studi penso di cercare un posto di lavoro all' estero . Ma adesso vogliamo vedere se troviamo un lavoro per te . Ho già un' idea . Ho sentito che per i corsi vengono cercate delle persone che siano capaci di insegnare diverse lingue come l' italiano , il francese etc . E con la tua maturità linguistica saresti un candidato perfetto ! Che ne dici ? Fammi sapere ! Tanti cordiali saluti , Paolo
+
+----------------
+
+Target hypothesis 2: 
+
+Città X , 14.05.2011 Caro Francesco , mi congratulo con te per aver superato l' esame e inoltre con il massimo dei voti ! Durante i mesi passati mi sono preparato per l' esame a cui mi sono iscritto . La settimana prossima , quando avrà luogo l' esame , capirò di più . Non sono sicuro di superare il mio esame con la stessa bravura tua . Dopo aver finito i miei studi penso di cercare un posto di lavoro all' estero . Ma adesso vogliamo vedere se troviamo un lavoro per te . Ho già un' idea . Ho sentito che per i corsi vengono cercate delle persone che siano capaci di insegnare diverse lingue come l' italiano , il francese etc . E con la tua maturità linguistica saresti un candidato perfetto ! Che ne dici ? Fammi sapere ! Tanti cari saluti , Paolo

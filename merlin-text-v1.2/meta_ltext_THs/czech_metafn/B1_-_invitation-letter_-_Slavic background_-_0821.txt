@@ -1,0 +1,43 @@
+METADATA
+
+General:
+Author ID: 0821
+Test language: Czech
+CEFR level of test: B1
+Task : answer to the email of Alena - ID: 1_Alena
+Mother tongue: Slavic background
+Age: not reported
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: A2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Ahoj Aleno,
+jsem moc ráda že přijedeš.
+Já budu mit čas 13.dubna, tak že se můžeme setkát odpoledne. Napiš mi, prosím, kdy přijedeš na nádraží (v kolik hodin?) a ja přidu po tebe. Já mám teď zkoušky. Dneska budu mít poslední zkoušku z češtiny. Diplomku budu psát v přišti semestr, protože chci ještě jít nikám na dovolenu
+Kdyz přijedeš do města X tak vem ze s sebou fotky ze sve dovolen. Je to moc zajímavý pro mně.
+Ještě se chc-ambiguous-  zept-ambiguous-t o prázdninovych kurzach z  češtiny na vaše universitě. Ve které dobe to bude a kolik to bude stát? Napíš mi, prosím! Bylo by výborné! Když budeš mít čas tak můžeš m-unreadable- poslt na můj e-mail tu internetovou stránku o kurzach.
+Už se těším na tvůj příjezd. Nejprve se setkáme na nádraží, potom půjdeme ke mně. Já uvářim něco dobrýho na oběd. A večer můžeme jít někm ve město na procházku a taky do kavárny na kávu nebo koktejl.
+Přeju ti všechno nejlepši na pohovoru!
+Skoro se uvidimé!
+
+----------------
+
+Target hypothesis 1: 
+
+Ahoj Aleno , jsem moc ráda , že přijedeš . Já budu mít čas 13.dubna , takže se můžeme setkat odpoledne . Napiš mi , prosím , kdy přijedeš na nádraží ( v kolik hodin ? ) a já přijdu po tebe . Já mám teď zkoušky . Dneska budu mít poslední zkoušku z češtiny . Diplomku budu psát příští semestr , protože chci ještě jít někam na dovolenou . Když přijedeš do města X , tak vezmi s sebou fotky ze své dovolené . Je to moc zajímavý pro mne . Ještě se chci zaptat na prázdninové kurzy češtiny na vaší univerzitě . Ve které době to bude a kolik to bude stát ? Napiš mi , prosím ! Bylo by to výborné ! Když budeš mít čas , tak můžeš mi poslat na můj e-mail tu internetovou stránku o kurzech . Už se těším na tvůj příjezd . Nejprve se setkáme na nádraží , potom půjdeme ke mně . Já uvařím něco dobrého na oběd . A večer můžeme jít někam do města na procházku a taky do kavárny na kávu nebo koktejl . Přeju ti všechno nejlepší na pohovoru ! Skoro se uvidíme !
+
+----------------
+
+No target hypothesis 2 available.
+

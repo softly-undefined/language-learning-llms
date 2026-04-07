@@ -1,0 +1,42 @@
+METADATA
+
+General:
+Author ID: 1061_0120319
+Test language: German
+CEFR level of test: B1
+Task : write a letter to a friend (birthday) - ID: 1061_170900
+Mother tongue: not reported
+Age: 61
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B2
+Vocabulary control: B1
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: B2
+
+----------------
+
+Learner text: 
+
+                                 Stadt X, den 24.02.12
+Liebe Silke,
+viel Dank für deine Brief. Ich bin wieder gesund und meiner Familie geht ganz gut. Maria geht schon in der Schule und Michael ist jetzt in der elften Klasse. Meine Frau hat ein paar Auftrage in Ihre Selbstängichkeit und ich habe der erste Ausstellung in Stadt Y vorbereitet. Wir arbeiten viel und haben nicht so viel Zeit. Unsere Tochter aber hat Zeit und sie vollte einen Hund haben. Deswegen hat sie einen zum Geburtstag gekrigt.
+Dein eingeladung farht uns sehr und wir konnen am 16. Juni (meine Geburtstag) zum euch kommen
+Ich wollte vom euch nur ihre freunde zum Gebustag
+Vile Gruße,
+Friedrich
+
+----------------
+
+Target hypothesis 1: 
+
+Stadt X , den 24.02.12 Liebe Silke , vielen Dank für deinen Brief . Ich bin wieder gesund und meiner Familie geht es ganz gut . Maria geht schon in die Schule und Michael ist jetzt in der elften Klasse . Meine Frau hat ein paar Aufträge in ihrer Selbstständigkeit und ich habe die erste Ausstellung in Stadt Y vorbereitet . Wir arbeiten viel und haben nicht so viel Zeit . Unsere Tochter aber hat Zeit und sie wollte einen Hund haben . Deswegen hat sie einen zum Geburtstag gekriegt . Deine Eingeladung freut uns sehr und wir können am 16 . Juni ( mein Geburtstag ) zu euch kommen . Ich wollte von euch nur ihre Freunde zum Geburtstag . Viele Grüße , Friedrich
+
+----------------
+
+No target hypothesis 2 available.
+

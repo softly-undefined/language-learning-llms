@@ -1,0 +1,43 @@
+METADATA
+
+General:
+Author ID: 1365_0100180
+Test language: Italian
+CEFR level of test: B1
+Task : answer to an wedding invitation - ID: 1365_020300
+Mother tongue: German
+Age: 19
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: C2
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Cara Beatrice e caro Stefano, 
+tanti congratulazioni per voi. 
+Mi preferito l'invito molto vorrei andare ma ho una problema perchè ho un altro invito per un matrimonio. 
+Mio fratello mammonia la sua ragazza Anna che conoscete. Ma grazie per l'invito. Davvero regola voi qualcosa. Avete un esempio per me?
+Credo qualcosa per noi gardino vi preferite forse nuove sedie e un nuovo tavolo? Vederebbe belissimo nel sua gardino nuovo. 
+Rispondete per favore. 
+Tanti saluti, Maria
+
+
+----------------
+
+Target hypothesis 1: 
+
+Cara Beatrice e caro Stefano , tante congratulazioni a voi . Mi piace molto l' invito e vorrei andare ma ho un problema perché ho un altro invito a un matrimonio . Mio fratello sposa la sua ragazza Anna che conoscete . Ma grazie per l' invito . Davvero regolo qualcosa a voi . Avete un esempio per me ? Credo qualcosa per il nostro giardino , preferite forse nuove sedie e un nuovo tavolo ? Vedrebbe benissimo nel suo giardino nuovo . Rispondete per favore . Tanti saluti , Maria
+
+----------------
+
+No target hypothesis 2 available.
+

@@ -1,0 +1,42 @@
+METADATA
+
+General:
+Author ID: PHA0111010
+Test language: Czech
+CEFR level of test: B2
+Task : write an essay: A friend in need is a friend indeed - ID: B2PS0202_pritel
+Mother tongue: Slovak
+Age: 3039
+Gender: female
+
+Rating:
+Overall CEFR rating: B2
+Grammatical accuracy: B2
+Orthography: B2
+Vocabulary range: B1
+Vocabulary control: C1
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Dobrý přítel - přítelkyně je pro každého z nás další důležitá osoba v životě po rodičích, dětech a manželovi.
+Přítelkyně je někdo koho jsme si vybrali, aby jsme s ní občas trávili volný čas, někam zašli, nebo si jenom popovídali.
+Vybrali jsme si ji i na základě trěba podobných zájmů, sympatií a dalších ukazovatelů.
+Často se říká, že v nouzi poznáš přítele. Nemusí to tak ale vždycky být.
+Někdo například nevyhledává v nouzi přítelkyni a také daná přítelkyně nemusí být pokaždé po vašém boku a být připravena vám pomoct ve všem. Ze své vlastní zkušenosti můžu říct, že když mám nějaký problém tak nevyhledávám právě jí. I ona má své problémy a starosti a nepříde mi fér otravovat jí mojima.
+Na záveř by jsem jenom dodala, že mít dobrou přítelkyni je určitě super.
+
+----------------
+
+Target hypothesis 1: 
+
+Dobrý přítel - přítelkyně je pro každého z nás další důležitá osoba v životě po rodičích , dětech a manželovi . Přítelkyně je někdo , koho jsme si vybrali , abychom s ní občas trávili volný čas , někam zašli nebo si jenom popovídali . Vybrali jsme si ji i na základě třeba podobných zájmů , sympatií a dalších ukazovatelů . Často se říká , že v nouzi poznáš přítele . Nemusí to tak ale vždycky být . Někdo například nevyhledává v nouzi přítelkyni a také daná přítelkyně nemusí být pokaždé po vašem boku a být připravena vám pomoct ve všem . Ze své vlastní zkušenosti můžu říct , že když mám nějaký problém , tak nevyhledávám právě ji . I ona má své problémy a starosti a nepřijde mi fér otravovat ji mými . Na závěr bych jenom dodala , že mít dobrou přítelkyni je určitě super .
+
+----------------
+
+Target hypothesis 2: 
+
+Dobrý přítel - přítelkyně je pro každého z nás další důležitá osoba v životě po rodičích , dětech a manželovi . Přítelkyně je někdo , koho jsme si vybrali , abychom s ní občas trávili volný čas , někam zašli nebo si jenom popovídali . Vybrali jsme si ji i na základě třeba podobných zájmů , sympatií a dalších ukazatelů . Často se říká , že v nouzi poznáš přítele . Nemusí to tak ale vždycky být . Někdo například nevyhledává v nouzi přítelkyni a také daná přítelkyně nemusí být pokaždé po vašem boku a být připravena vám pomoct ve všem . Ze své vlastní zkušenosti můžu říct , že když mám nějaký problém , tak nevyhledávám právě ji . I ona má své problémy a starosti a nepřijde mi fér otravovat ji mými . Na závěr bych jenom dodala , že mít dobrou přítelkyni je určitě super .

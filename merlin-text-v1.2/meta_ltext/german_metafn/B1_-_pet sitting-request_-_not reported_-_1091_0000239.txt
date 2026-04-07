@@ -1,0 +1,30 @@
+METADATA
+
+General:
+Author ID: 1091_0000239
+Test language: German
+CEFR level of test: A2
+Task : ask friend to take care of pet - ID: 1091_0650102
+Mother tongue: not reported
+Age: 51
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B2
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B2
+
+----------------
+
+Learner text: 
+
+Liebe Maria,
+Ich hoffe bei Dir alles ist in Ordnung. Ich muss nach Hamburg fahren weil ich habe ein Termin von 1 April bis 5 April. Ich brauche Diene Hilfe für mein Hund. Es ist ruhig und ganz liebe.
+Kannst Du mit der Hund morgens Früh zu spazieregehen? Ich gebe Dir Geld für alles. 
+Ich hoffe auf Deine bald antworht.
+Alles Liebe
+Deine Julia

@@ -1,0 +1,40 @@
+METADATA
+
+General:
+Author ID: 1385_0000036
+Test language: Italian
+CEFR level of test: A1
+Task : help a friend who is looking for work - ID: 1385_040101
+Mother tongue: German
+Age: 49
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Ciao Francesco
+Cerco, voglio fare questo per te. Puoi mi dire, dove lavori adesso in quale ufficio e in quella città? Puoi mi dire che tipo di lavoro vuole fare? Ami di essere con tante persone o vuole fare il lavoro da solo?
+Mi dica anche quando vuole cominciare il tuo nuovo lavoro. Preferisci fare le vacanze fra le due posti?
+Tanti saluti, a presto 
+Maria
+
+----------------
+
+Target hypothesis 1: 
+
+Ciao Francesco ! Certo , voglio fare questo per te . Mi puoi dire dove lavori adesso , in quale ufficio e in quale città ? Mi puoi dire che tipo di lavoro vuole fare ? Ami essere con tante persone o vuole fare il lavoro da solo ? Mi dica anche quando vuole cominciare il tuo nuovo lavoro . Preferisci fare le vacanze fra due posti ? Tanti saluti , a presto Maria
+
+----------------
+
+No target hypothesis 2 available.
+

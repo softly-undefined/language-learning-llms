@@ -1,0 +1,28 @@
+METADATA
+
+General:
+Author ID: 1395_0000448
+Test language: Italian
+CEFR level of test: A2
+Task : inform friends about language course - ID: 1395_010300
+Mother tongue: Polish
+Age: 28
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Ciao Anna!
+Come stai? Noi siamo a Città X. Io e Michele faciamo qui corso di italiano lingua e scuola. Abiamo tanto lezioni, dove scriviamo e altre dove parliamo italiano. Nostre insegnante e bella ragazza. Si chiama Maria. Lei e molto inteligente. Quando non c'è lezioni abiamo tempo libero per noi. Dalla mattina fina a sera visitiamo città. Città X e bellissima. Il tempo a Città X e molto bene, sempre sole. Monumento X e nostro migliore posto a città.
+Cordiali saluti, da presto
+Maria

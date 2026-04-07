@@ -1,0 +1,31 @@
+METADATA
+
+General:
+Author ID: 1091_0000042
+Test language: German
+CEFR level of test: A2
+Task : letter to housing office - ID: 1091_0610301
+Mother tongue: Arabic
+Age: 50
+Gender: female
+
+Rating:
+Overall CEFR rating: A1
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+sehr geherte Damen und Heren 
+ich suche eine wohnen. vor mich und meine mann
+ich hatte ferne. in Drei Zimer
+miete. 550, warm
+mit Balkon
+wen geht mit Garage
+mit Frundlaich Gürs.

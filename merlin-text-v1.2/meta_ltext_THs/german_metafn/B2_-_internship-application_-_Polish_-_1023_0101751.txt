@@ -1,0 +1,50 @@
+METADATA
+
+General:
+Author ID: 1023_0101751
+Test language: German
+CEFR level of test: B2
+Task : apply for internship in sales department - ID: 1023_120301
+Mother tongue: Polish
+Age: 18
+Gender: female
+
+Rating:
+Overall CEFR rating: B2
+Grammatical accuracy: B2
+Orthography: B2
+Vocabulary range: B2
+Vocabulary control: B2
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: B2
+
+----------------
+
+Learner text: 
+
+Julia Schmidt
+Zentralplatz 12
+54-321 Stadt X
+Computer-Spezialist
+Odenwaldstraße 5
+53119 Bonn                                             12.03.2010
+                      Bewerbung um ein Praktikum
+Sehr geehrte Damen und Herren,
+ich heiße Julia und ich studiere Informatik auf die Universität in Stadt X. Um meine Studium abzuschließen und mein zukünftigen Beruf besser kennen zu lernen weil ich bei Ihren Geschäft als Praktikantin arbeiten.
+Ich habe mich schön immer für Informatik interessiert. Als ich klein war habe ich immer mit dem Computer gespielt. Jetzt will ich ein erforgleicher IT-Systemkauffrau werden und deswegen will ich diesen Praktikum machen, um mehr Erfahrung zu haben um mein Träum zu erfühlen.
+Von diesem Praktikum erwarte ich viel über Verkaufs Metoden zu lernen und über die elektronischer Datenverarbeitung zu erfahren.
+Ich bin bereit schon mit der Arbeit anzufangen aber habe ich noch ein paar fragen über der Arbeits Stunden und Arbeitszeit. Wie viel Stunden pro Tag muss man arbeiten? Meine Arbeitszeiten sind. flexibel und ich will nur fragen wann kann ich beginnen?
+Ich warte auf Ihren antwort
+Mit freundlichen Grüßen,
+Julia Schmidt
+
+----------------
+
+Target hypothesis 1: 
+
+Julia Schmidt Zentralplatz 12 54-321 Stadt X Computer-Spezialist Odenwaldstraße 5 53119 Bonn 12.03.2010 Bewerbung um ein Praktikum Sehr geehrte Damen und Herren , ich heiße Julia und ich studiere Informatik an der Universität in Stadt X . Um mein Studium abzuschließen und meinen zukünftigen Beruf besser kennen zu lernen , arbeite ich bei Ihrem Geschäft als Praktikantin . Ich habe mich schon immer für Informatik interessiert . Als ich klein war , habe ich immer mit dem Computer gespielt . Jetzt will ich eine erfolgreiche IT-Systemkauffrau werden und deswegen will ich dieses Praktikum machen , um mehr Erfahrung zu haben , um meine Träume zu erfühlen . Von diesem Praktikum erwarte ich , viel über Verkaufsmethoden zu lernen und über die elektronische Datenverarbeitung zu erfahren . Ich bin bereit , schon mit der Arbeit anzufangen , aber ich habe noch ein paar Fragen zu den Arbeitsstunden und der Arbeitszeit . Wie viele Stunden pro Tag muss man arbeiten ? Meine Arbeitszeiten sind flexibel und ich will nur fragen : Wann kann ich beginnen ? Ich warte auf Ihre Antwort . Mit freundlichen Grüßen , Julia Schmidt
+
+----------------
+
+No target hypothesis 2 available.
+

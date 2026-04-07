@@ -1,0 +1,43 @@
+METADATA
+
+General:
+Author ID: 0907
+Test language: Czech
+CEFR level of test: B1
+Task : answer to the email of Jana - ID: 2_Jana
+Mother tongue: German
+Age: not reported
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Milá Jano, 
+Děkuju Ti mohokrat za tvůj email.  Mám se dobře ale jsem měla v minulych dnech chřipku a jsem ležela. Ale dneska jsem už zase fit. Mám taky černé svědomí že jsem Ti už dlouho nepsala. Těším se na tvoje pozvání a ráda přijede do Prahy. Teď mám taky zkoušky a hodně práce. Ale v březnu mám dost času. Chtěla bych Ti navštívit a chtěla bych bych zůstat u Tebe o víkendu. Je to možné? Ráda bych prohlédla město. -unreadable- že bude hezké počasí. Která adresa máš?  Čím metrem musím jet a kolik stojí jednu jízdenku? 
+Co se Ti přeješ k narozeninám a mám přinášet něco jiného? Máš pravdu že -unreadable- mám mluvít česky na tvou akci. Přeju Ti hezkou dovolenou a doufám, že posláš mi jednu pohlednici z Italie. 
+
+Pro dnešek končím, je už pozdě a zítra rano musím vstávát brzo. Tak, odpověz brzy a pozdravuj Martina ode mne.
+Měj se hezky a uvidíme  se v březnu.
+
+Tvoje  Sabine
+
+----------------
+
+Target hypothesis 1: 
+
+Milá Jano , děkuju Ti mohokrat za Tvůj e-mail . Mám se dobře , ale měla jsem v minulých dnech chřipku a ležela jsem . Ale dneska jsem už zase fit . Mám taky černé svědomí , že jsem Ti už dlouho nepsala . Těším se na Tvoje pozvání a ráda přijedu do Prahy . Teď mám taky zkoušky a hodně práce . Ale v březnu mám dost času . Chtěla bych Tě navštívit a chtěla bych u Tebe zůstat o víkendu . Je to možné ? Ráda bych si prohlédla město . -unreadable- že bude hezké počasí . Kterou adresu máš ? Čím metrem musím jet a kolik stojí jedna jízdenka ? Co si přeješ k narozeninám ? A mám přinést něco jiného ? Máš pravdu , že mám na Tvé akci mluvit česky . Přeju Ti hezkou dovolenou a doufám , že mi pošleš jednu pohlednici z Itálie . Pro dnešek končím , je už pozdě a zítra ráno musím vstávat brzo . Tak , odpověz brzy a pozdravuj ode mne Martina . Měj se hezky a uvidíme se v březnu . Tvoje Sabine
+
+----------------
+
+No target hypothesis 2 available.
+

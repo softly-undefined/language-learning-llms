@@ -1,0 +1,28 @@
+METADATA
+
+General:
+Author ID: 1091_0000244
+Test language: German
+CEFR level of test: A2
+Task : ask friend to take care of pet - ID: 1091_0650102
+Mother tongue: Turkish
+Age: 25
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Liebe Maria,
+wie geht es dir? Mir geht es gut aber, ich habe ein Problem. Morgen muss ich nach Köln hinfahren und ich kann nicht mein Haustier mitnehmen. Kannst du mir helfen? Es ist ein Hund. Kannst du morgen um 07:00 Uhr hier kommen? Es wird ganz einfach. Du sollst ihn nur sein Abendessen geben.
+Vielen Dank und bis bald!
+Friedrich Meier

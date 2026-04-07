@@ -1,0 +1,42 @@
+METADATA
+
+General:
+Author ID: 1365_0100289
+Test language: Italian
+CEFR level of test: B1
+Task : answer to an wedding invitation - ID: 1365_020300
+Mother tongue: German
+Age: 39
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: C2
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Cara Beatrice
+Caro Stefano
+Tanti auguri per voi due! Sole, amore, salute per tutta la vita. Che fortuna bellissima...
+Grazie mille per l'invito alla cerimonia e al ristorante. È un gran piacere per noi e sicuramente veniamo. Abbiamo già prenotato tutto il giorno e lo abbiamo marcato con un cuore rosso sul calendario. heart  
+C'è una cosa che possiamo regalarvi? C'è un sogno che volete realizzare, con che possiamo aiutarvi? C'è una cosa che manca nella casa o nella vita? Siamo contenti saperla ... 
+Aspettiamo il vostro giorno più bello del mondo e vi mandiamo tanti baci e abbracci 
+                                     Maria & Michele
+
+----------------
+
+Target hypothesis 1: 
+
+Cara Beatrice , caro Stefano , tanti auguri per voi due ! Sole , amore e salute per tutta la vita . Che bellissima fortuna ... Grazie mille per l' invito alla cerimonia e al ristorante . È un gran piacere per noi e veniamo sicuramente . Abbiamo già prenotato tutto il giorno e lo abbiamo marcato con un cuore rosso sul calendario . C' è una cosa che possiamo regalarvi ? C' è un sogno che volete realizzare ? Con che possiamo aiutarvi ? C' è una cosa che manca nella casa o nella vita ? Siamo contenti di saperla ... Aspettiamo il vostro giorno più bello del mondo e vi mandiamo tanti baci e abbracci Maria & Michele
+
+----------------
+
+No target hypothesis 2 available.
+

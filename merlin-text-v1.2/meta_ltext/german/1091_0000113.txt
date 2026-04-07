@@ -1,0 +1,28 @@
+METADATA
+
+General:
+Author ID: 1091_0000113
+Test language: German
+CEFR level of test: A2
+Task :  - ID: 1091_0690404
+Mother tongue: Russian
+Age: not reported
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Liber Michael,
+Wie gehet es dir? Ich höffe, dass du viel Zeit hast und schlage dir einen Wochenendausflug vor. Leider, kann ich nicht mit dir fahren. Am letzte Woche habe ich einen Wochenendticket eingekauft um einen Ausflug nach Stadt X am nächste Samstag mache. Aber wegen einer schwere Krankheit meiner Tochter, muss ich mich um meinen beiden Enkelinen kümmern. Vielleicht hast du Lust um dise schöne Stadt zu besuchen?
+Mit freundliche Grüße!
+Dein Stefan

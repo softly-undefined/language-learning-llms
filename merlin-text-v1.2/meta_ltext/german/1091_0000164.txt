@@ -1,0 +1,29 @@
+METADATA
+
+General:
+Author ID: 1091_0000164
+Test language: German
+CEFR level of test: A2
+Task : ask friend to take care of pet - ID: 1091_0650102
+Mother tongue: not reported
+Age: 27
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Liebe Freundin, 
+meinem Hund ist zu Hause aleine. Du Sollst Meinem Hund auf Passen. Weil, Meine Mutter auch in Urlaub ist. Ich Fahre nach Estadt X  mit Meiner Freunde.
+Wir Sind  hier zwei Tage bleiben. Kommen wir Mittwoch um 19:00 Uhr wieder.
+MtiFreundlichen Grußen
+Michael Tobias

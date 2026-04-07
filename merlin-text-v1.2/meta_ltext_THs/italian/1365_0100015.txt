@@ -1,0 +1,47 @@
+METADATA
+
+General:
+Author ID: 1365_0100015
+Test language: Italian
+CEFR level of test: B1
+Task : answer to an wedding invitation - ID: 1365_020300
+Mother tongue: English
+Age: 38
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: C1
+Vocabulary range: B1
+Vocabulary control: A2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Maria Rossi
+Città X, 62 Strada Maggiore
+Città X, 05 Agosto 2010
+Cari Gianni e Emma,
+Molti congratulazioni per il matrimonio della sua figlia Beatrice. Sono molto contento per lei e anche per voi. 
+Grazie mille per mi inviti dei matrimonio. Mi piaceberre molto a andare al matrimonio. É certo po andare alla chiesa e anche al ristorante.
+Dittami, che cosa fa per un regalo? Vorrei compare qualche cosi Beatrice e Stefano bisogna.
+Grazie ancora per l'invito.
+Tanti bacci
+Maria
+
+
+
+----------------
+
+Target hypothesis 1: 
+
+Maria Rossi Città X , 62 Strada Maggiore Città X , 05 agosto 2010 Cari Gianni e Emma , molte congratulazioni per il matrimonio di sua figlia Beatrice . Sono molto contento per lei e anche per voi . Grazie mille per l' invito al matrimonio . Mi piacerebbe molto andare al matrimonio . E certamente posso andare in chiesa e anche al ristorante . Ditemi , che cosa fa per il regalo ? Vorrei comprare qualche cosa che bisogna a Beatrice e Stefano . Grazie ancora per l' invito . Tanti baci Maria
+
+----------------
+
+No target hypothesis 2 available.
+

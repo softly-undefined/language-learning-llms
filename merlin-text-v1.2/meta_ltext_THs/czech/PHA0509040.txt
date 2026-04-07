@@ -1,0 +1,40 @@
+METADATA
+
+General:
+Author ID: PHA0509040
+Test language: Czech
+CEFR level of test: B2
+Task : write an essay: The school is the basis of the life - ID: B2PS0200_skola
+Mother tongue: Other
+Age: 3039
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B2
+Vocabulary control: B1
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Škola - základ života
+Jestli škola je zaklad života? - Určitě ano. Znalostí, ktere dostaváme v dětském věku jsou s námi po celý život, použivame je každý den a už nemůžeme se bez ních obejít. Nejenom matematika, jazyk a fizika, ale i ti nejnutnější zaklady společenského chovaní - všychno to dava nám škola. Dnešní život - je vysokotechnonogicky vyvijen každy den přinaší neco nového, co třeba, před desetí lety nedokazaly představit, dnes je samozřejmostí. Bez samovyuky, vzdělaní člověk strácí spoustů mozností a využíti.
+Vspomínám jak ve škole učily informatiku a jaký to byl nezajimavý předmět pro mě. Ten krát nikdy by nedokazal představit že dneska budu nakupovat (už vic jako polovina) přes internetové obchody. Ten krát se to by zdálo dost fantastický příbeh, a učitel je úrčitě veděcký fantázér. Ale přišel čas i musel vspomínát co to je matnice (NE FILM) a kolik bitů má Bajt, čím se líší operační pameť od základní.
+Na zaklade školního vzdělavaní probíha celý náš život a občás si vspomenem na knížku Ze školních let, či příbehy kteři nas sleduji po celý život. 
+Treba autory knih, ktere četly v detství ale nebyly pro nas v té době dost srozumitelně dnes si přečteme po jinemu a zaspominame na ,,zlate" dětstvi. 
+
+----------------
+
+Target hypothesis 1: 
+
+Škola - základ života Jestli škola je základ života ? Určitě ano . Znalosti , které dostáváme v dětském věku , jsou s námi po celý život , používáme je každý den a už se nemůžeme bez nich obejít . Nejenom matematika , jazyk a fyzika , ale i ty nejnutnější základy společenského chování - všechno to nám dává škola . Dnešní život je vysokotechnologicky vyvíjen , každý den přináší něco nového , co jsme si třeba před deseti lety nedokázali představit , dnes je samozřejmostí . Bez samovýuky , vzdělání člověk ztrácí spoustu možností a využití . Vzpomínám , jak ve škole učili informatiku a jaký to byl pro mě nezajímavý předmět . Tenkrát bych si nikdy nedokázal představit , že dneska budu nakupovat ( už víc jak polovinu ) přes internetové obchody . Tenkrát by se to zdálo jako dost fantastický příběh a učitel je určitě vědecký fantazér . Ale přišel čas a musel jsem vzpomínat , co to je matice ( NE FILM ) a kolik bitů má bajt , čím se liší operační paměť od základní . Na základě školního vzdělávání probíhá celý náš život a občas si vzpomenu na knížku Ze školních let či příběhy , které nás sledují po celý život . Třeba autory knih , které jsme četli v dětství , ale nebyly pro nás v té době dost srozumitelné , si dnes přečteme po jiném a zavzpomínáme na ,, zlaté " dětství .
+
+----------------
+
+No target hypothesis 2 available.
+

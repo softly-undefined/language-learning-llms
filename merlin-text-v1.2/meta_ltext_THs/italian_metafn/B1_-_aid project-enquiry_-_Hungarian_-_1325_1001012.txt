@@ -1,0 +1,49 @@
+METADATA
+
+General:
+Author ID: 1325_1001012
+Test language: Italian
+CEFR level of test: B2
+Task : inform oneself about an aid project - ID: 1325_030300-1
+Mother tongue: Hungarian
+Age: 22
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: C1
+Vocabulary range: B2
+Vocabulary control: B2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Maria Rossi
+Strada Maggiore 16
+12345 Città X, Ungheria
+13.08.2011
+Spett. Solidarietà Viva
+Viale Bruzzi 117
+12345 Milano, Italia
+Egregio Direttore,
+ho letto il Vostro annuncio su un giornale e Le scrivo adesso perché mi interessa molto la Vostra possibilità di lavoro. Mi chiamo Maria Rossi e abito a Città X con i miei. Ho 21 anni e frequento all'Università Calvinismo alla facoltà di storia, e faccio una specialistica dei sistemi politica. Di solito occupiamo alla cultura degli altri paesi, e le situazioni delle altre continenti. Così  studiavo e leggevo troppo dei disagi e problemi d'Africa e America Latina e so come difficile la situazione in Asia, sopratutto negli paesi arabi dove è enorme il balzo tra poveri e ricchi e anche so che il problema che in molti luoghi non c'è abbastanza acqua pulita e contro alle guerre quitidiane, è molto tipico il sottosviluppo e la mancanza dei cibi.
+Mi piace moltissimo aiutare alle innocenti e vorrei recuperare i materiali riciclabili e poi venderle nei mercatini dell'usato che il denaro guadagnato potrei dare ai poveri bambini e ragazzi che non possono liberarsi della loro pesante e triste. Vorrei fare qualcosa, perchè mi soffro molto dal pensiero che ogni giorno molti morono da fame.
+Se tutto va bene, sarò libero da prossima settimana e così posso partire per il campo di lavoro quando lo Voi dete. In anno scorso ho passato un mese in Brasilia e ho provato insegnare a leggere e scrivere i ragazzi orfani grazie all'Associazione di MV che un organizazione uguale alla Solidarietà Viva. Ho visto molte tragedie e molte cose vere triste e terribili e vorrei aiutare ad altri bambini che possono vivere, sopravvivere. Perchè hanno diritti alla Vita!
+In attesa la Vostro risposta corteggia.
+Distinti saluti 
+Maria Rossi
+
+----------------
+
+Target hypothesis 1: 
+
+Maria Rossi Strada Maggiore 16 12345 Città X , Ungheria 13.08.2011 Spett. Solidarietà Viva Viale Bruzzi 117 12345 Milano , Italia Egregio Direttore , ho letto il Vostro annuncio su un giornale e Le scrivo adesso perché mi interessa molto la Vostra possibilità di lavoro . Mi chiamo Maria Rossi e abito a Città X con i miei . Ho 21 anni e frequento all' Università Calvinismo la facoltà di storia e faccio una tesi specialistica sui sistemi politici . Di solito ci occupiamo della cultura degli altri paesi e delle situazioni degli altri continenti . Così studiavo e leggevo troppo dei disagi e dei problemi dell' Africa e dell' America Latina e so come è difficile la situazione in Asia , sopratutto nei paesi arabi dove è enorme il balzo tra poveri e ricchi e so anche che il problema è che in molti luoghi non c' è abbastanza acqua pulita e , a  causa  delle guerre quotidiane , è molto tipico il sottosviluppo e la mancanza di cibo . Mi piace moltissimo aiutare gli innocenti e vorrei recuperare i materiali riciclabili e poi venderli nei mercatini dell' usato e il denaro guadagnato potrei darlo ai bambini poveri e ai ragazzi che non possono liberarsi della loro pesante e triste condizione . Vorrei fare qualcosa , perché soffro molto al pensiero che ogni giorno molti muoiono di fame . Se tutto va bene , sarò libero dalla prossima settimana e così potrò partire per il campo di lavoro quando lo direte  Voi . L' anno scorso ho passato un mese in Brasile e ho provato a insegnare a leggere e scrivere ai ragazzi orfani grazie all' Associazione di MV che è un' organizzazione uguale alla Solidarietà Viva . Ho visto molte tragedie e molte cose veramente tristi e terribili e vorrei aiutare altri bambini che possono vivere , non sopravvivere . Perché hanno diritto alla Vita ! Resto in attesa della Vostra cortese risposta . Distinti saluti Maria Rossi
+
+----------------
+
+No target hypothesis 2 available.
+

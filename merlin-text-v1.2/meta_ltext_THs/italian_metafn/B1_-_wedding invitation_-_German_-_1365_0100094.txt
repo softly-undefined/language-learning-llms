@@ -1,0 +1,43 @@
+METADATA
+
+General:
+Author ID: 1365_0100094
+Test language: Italian
+CEFR level of test: B1
+Task : answer to an wedding invitation - ID: 1365_020300
+Mother tongue: German
+Age: 61
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: C2
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Cara Beatrice
+Caro Stefano
+Tutti i miei congratulazioni forte per vostro decisione importante e mille grazie per l'invitazione alla cerimonia e anche dopo al Ristorante "Da Cerco". Ma al 20 novembre non è possibile per me. Sarò a Parigi del 19 al 23 novembre per un riunione mondiale della nostra società. Mi dispiace molto per il  infortunato!
+Avete-voi una lista per le regali? Altrimente potrei trovare qualcosa interessante per voi a Parigi.
+Esperiamo che ci sara il sole tutto il giorno.
+Ancora una volta grazie mille per l'invitazione e una buona festa!
+Baci
+Michele
+
+----------------
+
+Target hypothesis 1: 
+
+Cara Beatrice , caro Stefano , tutte le mie forti congratulazioni per la vostra importante decisione e mille grazie per l' invitazione alla cerimonia e anche dopo al Ristorante " Da Cerco " . Ma il 20 novembre non è possibile per me . Sarò a Parigi dal 19 al 23 novembre per una riunione mondiale della nostra società . Mi dispiace molto per l' infortunato ! Avete una lista per i regali ? Altrimenti potrei trovare qualcosa di interessante per voi a Parigi . Speriamo che ci sarà il sole tutto il giorno . Ancora una volta grazie mille per l' invitazione e una buona festa ! Baci Michele
+
+----------------
+
+No target hypothesis 2 available.
+

@@ -1,0 +1,49 @@
+METADATA
+
+General:
+Author ID: 1325_1001123
+Test language: Italian
+CEFR level of test: B2
+Task : describe experiences with language learning - ID: 1325_040300-1
+Mother tongue: Hungarian
+Age: 18
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B2
+Orthography: C1
+Vocabulary range: B2
+Vocabulary control: B2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Università degli Studi di Pavia                                     Strada Maggiore 56
+Corso Strada Nuova 65                                              1234 Città X
+27100 Pavia, Italia                                                      Paese X
+                                                                                  2012.04.22
+Egregia Gabriella Favati,
+Le sto scrivendo allo scopo di rispondere alle Sue domande. Ho letto il Suo annuncio e pensavo che Le aiutasse io. 
+Dapprima, vorrei scrivere delle mie lingue studiate. Studio l'inglese da dodici anni e due anni fa, ho superato l'esame di lingua. 
+Quando avevo quattordici anni ho cominciato studiare l'italiano e adesso lo parlo abbastanza bene. 
+Secondo me, imparare lingue stranieri è molto importante e utile. Ne ho molte esperienze personale. Per esempio quando ho fatto un viaggio con la mia classe a Roma, potevo ordinare in ristorante e potevo chiedere informazioni senza l'uso d'inglese. E quello era una gioia per me. Secondariamente, uso queste lingue durante l'uso di Internet. Si può dare più informazioni se si parla molte lingue stranieri. 
+Mi fa studiare una nuova lingua il pensiero che queste sono molto utili. Inoltre avrò bisogno di parlare molte lingue, perché vorrei essere un' avvocato. 
+Finalmente. spero che la mia lettera sia utile per Lei. 
+Le porgo i miei distinti saluti 
+Rossi Michele 
+
+----------------
+
+Target hypothesis 1: 
+
+Università degli Studi di Pavia Strada Maggiore 56 Corso Strada Nuova 65 1234 Città X 27100 Pavia , Italia Paese X 2012.04.22 Egregia Gabriella Favati , Le sto scrivendo allo scopo di rispondere alle Sue domande . Ho letto il Suo annuncio e pensavo che io La potrei aiutare . Dapprima vorrei scrivere delle mie lingue studiate . Studio l' inglese da dodici anni e due anni fa ho superato l' esame di lingua . Quando avevo quattordici anni ho cominciato a studiare l' italiano e adesso lo parlo abbastanza bene . Secondo me , imparare le lingue straniere è molto importante e utile . Ne ho molte di esperienze personali . Per esempio , quando ho fatto un viaggio con la mia classe a Roma , ho potuto ordinare in un ristorante e ho potuto chiedere informazioni senza l' uso dell' inglese . E quello era una gioia per me . Secondariamente , uso queste lingue durante l' uso di Internet . Si possono dare più informazioni se si parlano molte lingue straniere . Mi fa studiare una nuova lingua il pensiero che queste sono molto utili . Inoltre , avrò bisogno di parlare molte lingue perché vorrei essere un avvocato . Finalmente , spero che la mia lettera sia utile per Lei . Le porgo i miei distinti saluti Rossi Michele
+
+----------------
+
+Target hypothesis 2: 
+
+Università degli Studi di Pavia Strada Maggiore 56 Corso Strada Nuova 65 1234 Città X 27100 Pavia , Italia Paese X 2012.04.22 Egregia Gabriella Favati , Le sto scrivendo allo scopo di rispondere alle Sue domande . Ho letto il Suo annuncio e pensavo che io La potrei aiutare . Dapprima vorrei raccontare delle mie lingue studiate . Studio l' inglese da dodici anni e due anni fa ho superato l' esame di lingua . Quando avevo quattordici anni ho cominciato a studiare l' italiano e adesso lo parlo abbastanza bene . Secondo me , imparare le lingue straniere è molto importante e utile . Ne ho molte di esperienze personali . Per esempio , quando ho fatto un viaggio con la mia classe a Roma , ho potuto ordinare in un ristorante e ho potuto chiedere informazioni senza l' uso dell' inglese . E quello è stato una gioia per me . Secondariamente , uso queste lingue durante l' uso di Internet . Si possono dare più informazioni se si parlano molte lingue straniere . Mi fa studiare una nuova lingua il pensiero che queste sono molto utili . Inoltre , avrò bisogno di parlare molte lingue perché vorrei diventare un avvocato . Infine , spero che la mia lettera sia utile per Lei . Le porgo i miei distinti saluti Rossi Michele

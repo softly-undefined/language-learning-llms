@@ -1,0 +1,29 @@
+METADATA
+
+General:
+Author ID: 1061_0120384
+Test language: German
+CEFR level of test: B1
+Task : write a letter to a friend (visit) - ID: 1061_130101
+Mother tongue: not reported
+Age: 35
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: A2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+                                                  Stadt X den 22.03.12
+Lieber Dana
+Nachdem ich deine brief gekregt dass hat mir gut laune gebracht. Jezt Ich bin glücklüsch mit deine prufung bestaden, darüber ich katoriere dich. Wenn zu hause bist müsste ich zu dir kommen. mein Wunsch von Istanbul also etwas süß ist. weil habe ich gehört dass es gebs gutes Süßeskeite in Istanbul, und wo liebt den deine Verwanten? Antwortet mir. 
+Viele Grüßen
+Stefan

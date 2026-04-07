@@ -1,0 +1,38 @@
+METADATA
+
+General:
+Author ID: PHA0810002
+Test language: Czech
+CEFR level of test: B2
+Task : write an essay: More people know more - ID: B2PS0201_hlava
+Mother tongue: Polish
+Age: 3039
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B2
+Vocabulary control: B1
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+"Víc hlav víc ví" tato věta znamena, že člověk jako jednotka nemůže znát všechno. Omnibus - člověk ktery ví všechno není. Naša civílizace je to kolektivná věda minulych, -unreadable- ktere se učime v škole, čteme v knize. My jsme byt, ktery zavisi na spolupraci lídí.
+Pro mě je velmi duležite, že dnes žijeme v obdobi globalizace i není možne si alienovát. Nove stroje počitače, auta to nemohli bysme vymyslet, udělat sami. Víc, a víc dostajeme z zahraniči. Myslim, že je to nesmysl kdyby někdo chtěl všechno sám udělat. Skušenost, původ jsou to věcí, ktere nás ubohati. Měli bysme byt otevření na vše kultury, narodnosti. Spoluprace je to co nam pomůže v naši draze do baječne budoucností. Doufam, že toužení k idealu se někdy zjisti. Spolu můžeme vic. Spolu můžeme všechno dokonalit, pokračovát. Pokrok mělby nam pomoct, pokrok umožni boj s tim co nemáme radi.
+Na zavěr chtělbych říct, že souhlasím s témata a myslim že je velmi moudra, a měli bysme si o něj pamatovat. Každy člověk je cennost. Každy je jinny, ale kdy se da nas (lidi) dohromady to jsme jak jeden organismus a můžeme udělat moc dobreho
+
+----------------
+
+Target hypothesis 1: 
+
+" Víc hlav víc ví " , tato věta znamená , že člověk jako jednotka nemůže znát všechno . Omnibus - člověk , který ví všechno - není . Naše civilizace je kolektivní věda minulých , které se učíme v škole , čteme o něm v knize . My jsme byt , která závisí na spolupráci lidí . Pro mě je velmi důležité , že dnes žijeme v období globalizace a není možné si alienovat . Nové stroje , počítače , auta bysme nemohli vymyslet , udělat sami . Víc a víc dostajeme ze zahraničí . Myslím , že je to nesmysl , kdyby někdo chtěl všechno sám udělat . Zkušenost , původ jsou věci , které nás ubohatí . Měli bysme být otevření všem kulturám , národnostem . Spolupráce je to , co nám pomůže v naší dráze do báječné budoucnosti . Doufám , že toužení po ideálu se někdy zjistí . Spolu můžeme víc . Spolu můžeme všechno zdokonalit , pokračovat . Pokrok by nám měl pomoct , pokrok umožní boj s tím , co nemáme rádi . Na závěr bych chtěl říct , že souhlasím s tématem a myslím , že je velmi moudré a měli bysme si ho pamatovat . Každý člověk je cennost . Každý je jiný , ale když se my ( lidi ) dáme dohromady , to jsme jak jeden organismus a můžeme udělat moc dobrého .
+
+----------------
+
+No target hypothesis 2 available.
+

@@ -1,0 +1,28 @@
+METADATA
+
+General:
+Author ID: 1071_0024864
+Test language: German
+CEFR level of test: A1
+Task : congratulate to birth of child - ID: 1071_030101
+Mother tongue: English
+Age: 26
+Gender: female
+
+Rating:
+Overall CEFR rating: A1
+Grammatical accuracy: A1
+Orthography: A2
+Vocabulary range: A1
+Vocabulary control: A1
+Coherence/Cohesion: A1
+Sociolinguistic appropriateness: A1
+
+----------------
+
+Learner text: 
+
+Liebe Jens
+wie geht es Ihrene? mir gut. glückwünsche zu deine baby. Was Ich bringe zu der muttur und der Baby? Wie heißen Ihre Baby?
+                                                  freundlich Grüsse
+                                                   Ihre Julia

@@ -1,0 +1,45 @@
+METADATA
+
+General:
+Author ID: 1365_0100185
+Test language: Italian
+CEFR level of test: B1
+Task : answer to an wedding invitation - ID: 1365_020300
+Mother tongue: German
+Age: 19
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B2
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Cara Beatrice, caro Stefano, 
+congratulazioni per il vostro Matrimonio! 
+È bellissimo chè decidete di sposare e restare nella futura insieme. 
+Mille grazie per il messaggio. Sono molto felice che invitatemi. 
+Naturalmente vorrei partecipare alla festa. 
+Però c'è un problema: Siccome devo lavorare al questo giorno arrivo un po tardi. 
+Vorrebbe un regalo concreto? Se no, ho una sorpresa meravigliosa! 
+ 
+Migliore saluti, 
+   Maria  
+
+----------------
+
+Target hypothesis 1: 
+
+Cara Beatrice , caro Stefano , congratulazioni per il vostro matrimonio ! È bellissimo che avete deciso di sposarvi e di restare insieme in futuro . Mille grazie per il messaggio . Sono molto felice che mi invitate . Naturalmente vorrei partecipare alla festa . Però c' è un problema : siccome devo lavorare questo giorno , arrivo un po' tardi . Vorrebbe un regalo concreto ? Se no , ho una sorpresa meravigliosa ! Migliori saluti , Maria
+
+----------------
+
+No target hypothesis 2 available.
+

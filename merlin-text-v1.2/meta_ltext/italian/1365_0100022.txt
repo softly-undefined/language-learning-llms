@@ -1,0 +1,40 @@
+METADATA
+
+General:
+Author ID: 1365_0100022
+Test language: Italian
+CEFR level of test: B1
+Task : answer to an wedding invitation - ID: 1365_020300
+Mother tongue: French
+Age: 36
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: C1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Rossi Maria
+-hidden-
+Strada Maggiore
+1234 Città X
+18 ottobre 2010
+Cari amici
+ho ricevuto la vostra carta di matrimonio. Sono contenta per voi.
+Vi ringrazio del vostro invito e di avere pensare a me per questo giorno che sará Io penso molto bello.
+Non potró venire per la missa alla Chiesa Di Santa Chiara perché finiró di lavorare alle 10 invece saró all'ora per venire al ristorante "Da Ciro"
+Invece a che ora devó essere al ristorante vi telefoneró prima per dirvi.
+Vorrei sapere Io che devró comprare per il vostro matrimonio, se avete fatto una lista di matrimonio o no.
+Mi piaccerebbe di sapere Io che volete come regalo che vi facerá piacere.
+In attesa di una risposta Invio miei migliori saluti.
+Vi ringrazio per vostro invito.
+Vi abbraccio molto affettuosamente
+Maria

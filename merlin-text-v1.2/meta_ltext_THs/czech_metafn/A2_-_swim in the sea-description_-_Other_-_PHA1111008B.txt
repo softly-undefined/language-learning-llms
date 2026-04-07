@@ -1,0 +1,36 @@
+METADATA
+
+General:
+Author ID: PHA1111008B
+Test language: Czech
+CEFR level of test: A2
+Task : describe a photo: swimming in the sea - ID: A2PS0202_more
+Mother tongue: Other
+Age: 3039
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Na fotografii je jeden muž s  jedným dítěm. Jsou tatínek a syn. Jsou na moři v letě a počasí je krásné. Je teplo a jasno. Jsou tam na dovolenu a koupají se v moři. Oba mají plavky a tatínek má brýle. Tatinek je spokojen ale ditě má trochu strachu. Oni dívají se na maminku, která děla fotku. Dítě řika, že vodu je trochu studená a že se trochu bojí vody. Oni se baví a rád se koupají. 
+
+----------------
+
+Target hypothesis 1: 
+
+Na fotografii je jeden muž s jedním dítětem . Jsou to tatínek a syn . Jsou u moře v létě a počasí je krásné . Je teplo a jasno . Jsou tam na dovolené a koupají se v moři . Oba mají plavky a tatínek má brýle . Tatínek je spokojen , ale dítě má trochu strach . Oni se dívají na maminku , která dělá fotku . Dítě říká , že voda je trochu studená a že se trochu bojí vody . Oni se baví a rádi se koupají .
+
+----------------
+
+No target hypothesis 2 available.
+

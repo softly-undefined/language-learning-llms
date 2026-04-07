@@ -1,0 +1,46 @@
+METADATA
+
+General:
+Author ID: 1385_0001522
+Test language: Italian
+CEFR level of test: A1
+Task : reschedule an appointment - ID: 1385_020100
+Mother tongue: German
+Age: 28
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A1
+Orthography: A2
+Vocabulary range: A1
+Vocabulary control: A2
+Coherence/Cohesion: A1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Caro Daniele,
+come stai?
+mi scusi, ma ho molto lavoro in uffico questa settimana. 
+Giovedi: pomeriggio non posso.
+Quanto fini lavori a sabato? 
+Voglio andare con tua a ristorante tailandese. Hai tempo a sabato sera? 
+ 
+Buona settimana! 
+A presto! 
+ 
+Ciao Michele
+
+----------------
+
+Target hypothesis 1: 
+
+Caro Daniele , come stai ? Mi scusi , ma ho molto lavoro in ufficio questa settimana . Giovedì pomeriggio non posso . Fino a quando lavori di sabato ? Voglio andare con te al ristorante tailandese . Hai tempo sabato sera ? Buona settimana ! A presto ! Ciao Michele
+
+----------------
+
+No target hypothesis 2 available.
+

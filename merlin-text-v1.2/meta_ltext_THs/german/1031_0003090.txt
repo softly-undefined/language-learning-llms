@@ -1,0 +1,41 @@
+METADATA
+
+General:
+Author ID: 1031_0003090
+Test language: German
+CEFR level of test: C1
+Task : write article about sticking to one's traditions and 'assimilation' in a new environment - ID: 1031_030301
+Mother tongue: Russian
+Age: 37
+Gender: female
+
+Rating:
+Overall CEFR rating: B2
+Grammatical accuracy: B2
+Orthography: C1
+Vocabulary range: C1
+Vocabulary control: C1
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: C1
+
+----------------
+
+Learner text: 
+
+Die Frage ist „Ist es sinnvoll, auch im Ausland die Traditionen seines Heimatlandes fortzusetzen, oder sollte man sich an der Kultur des Gastlandes orientieren? stellt jeder Einwanderer oder Gastarbeiter früher oder später. 
+Meiner Meinung nach die Grunde weshalb ein Person in anderem Land sich aufhällt spielt eine entscheidende Rolle. 
+Als ein Student oder Gastarbeiter evt. Vertragsarbeiter hat man als einzel Person keine Grunde sich stark zu integriren oder anpassen.
+Falls man nach der Studium oder Vertagsablauf in dem Land bleiben will, Interesse und Motivation an einem Anpassung ist viel Grösser. Für ein Familien Mensch sieht das anderes aus. Durch Schulbesuch von Kinder, neue Freundschafskreis, Berufsumfeld nimmt man die neue Tradizionen automatisch dazu.
+Meiner Uberzeugung nach die Persönlichkeit spielt eine entscheidende Rolle. Die Weiterbildung, die Freizeitsbeschäftigung, die Kontaktfreundlichkeit hilft einem in einem neuen Heimat sich woll fühlen.
+Ich finde es ist wichtig eine gesunde Mischung aus alte Traditionen und neue angenommene zu gestalten. Ich komme aus Ukraina und lebe seit langem in der Schweiz. Die Möglichkeit zwei Feiertage anstatt einem Feiertag zu haben geniesse ich sehr.
+
+----------------
+
+Target hypothesis 1: 
+
+Die Frage , " Ist es sinnvoll , auch im Ausland die Traditionen seines Heimatlandes fortzusetzen , oder sollte man sich an der Kultur des Gastlandes orientieren ? " stellt sich jeder Einwanderer oder Gastarbeiter früher oder später . Meiner Meinung nach spielen die Gründe , weshalb eine Person sich in einem anderen Land aufhält , eine entscheidende Rolle . Als ein Student oder Gastarbeiter , evtl . Vertragsarbeiter hat man als Einzelperson  keine Gründe , sich stark zu integrieren oder anzupassen . Falls man nach dem Studium oder dem Vertragsablauf in dem Land bleiben will , ist das Interesse und die Motivation an einer Anpassung viel grösser . Für einen Familienmenschen sieht das anders aus . Durch den Schulbesuch von Kindern , einen neuen Freundschaftskreis , das Berufsumfeld nimmt man die neuen Traditionen automatisch dazu . Meiner Überzeugung nach spielt die Persönlichkeit eine entscheidende Rolle . Die Weiterbildung , die Freizeitsbeschäftigung , die Kontaktfreundlichkeit helfen einem , sich in einer neuen Heimat wohlzufühlen . Ich finde , es ist wichtig , eine gesunde Mischung aus alten Traditionen und neuen angenommenen zu gestalten . Ich komme aus der Ukraine und lebe seit langem in der Schweiz . Die Möglichkeit , zwei Feiertage anstatt einem Feiertag zu haben , geniesse ich sehr .
+
+----------------
+
+No target hypothesis 2 available.
+

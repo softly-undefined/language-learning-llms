@@ -1,0 +1,29 @@
+METADATA
+
+General:
+Author ID: 1061_0120312
+Test language: German
+CEFR level of test: B1
+Task : write a letter to a friend (birthday) - ID: 1061_170900
+Mother tongue: Russian
+Age: 52
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Libe Silke!                      24.02.2002.
+Wie geht es dir? und deiner Familie? Uns geht auch ganz gut. Wie geht Katze von Max? Libt noch?
+Wir Treffen mit dir und deine Familie auf mein Geburtstag und schenken mir ein Hund.
+Kusen Sie viele mal!
+Tobias

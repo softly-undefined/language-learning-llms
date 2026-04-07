@@ -1,0 +1,41 @@
+METADATA
+
+General:
+Author ID: 1365_0100191
+Test language: Italian
+CEFR level of test: B1
+Task : inform oneself about language course - ID: 1365_050401
+Mother tongue: Hungarian
+Age: 32
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: B1
+Orthography: B2
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+28/05/2011.
+Egregio Signore,
+ sto scrivendo per annurciarsi l'intenzione mia di frequentare uno di loro corsi relevanti, cioé il corso estivo al mare. Sono un insegnante quindi fortunamente ho una vacanze di due mesi dal Luglio al Agosto. Penso che questo corso sia il migliore per me tanto sarò libero in questi mesi e mi piace essere in un paese mediterranae d'estate. Vorrei iscrivermi per una vacanze-studio di -unreadable- settimane.dal 10 July al 28 July Potrebbero informarmi  che in quale modo sono abbinate questi corsi? Perché ho i progetti di prendere un alloggio a Roma  nella casa di mia nonna.  Tanto non  bisognò di prenotare un alloggio. Anche posso usare la sua macchina per viaggiare.
+ Avete menziato la possibilità di fare una vacanza in Cliento. Posso andare lì quando io stesso voglio fare un vacanze o è un periodo deciso.
+In attesa nel suo risposto  Cordiali saluti,
+Michele Rossi 
+
+----------------
+
+Target hypothesis 1: 
+
+28 / 05 / 2011 . Egregio Signore , sto scrivendo per annunciarvi la mia intenzione di frequentare uno dei loro corsi rilevanti , cioè il corso estivo al mare . Sono un insegnante quindi fortunatamente ho una vacanza di due mesi da luglio ad agosto . Penso che questo corso sia il migliore per me tanto sarò libero in questi mesi e mi piace essere in un paese mediterraneo d' estate . Vorrei iscrivermi a una vacanza-studio di -unreadable- settimane dal 10 luglio al 28 luglio . Potrebbero informarmi in quale modo sono abbinati questi corsi ? Perché ho il progetto di prendere un alloggio a Roma nella casa di mia nonna . Tanto non c' è bisogno di prenotare un alloggio . Anche posso usare la sua macchina per viaggiare . Avete menzionato la possibilità di fare una vacanza nel Cilento . Posso andare lì quando io stesso voglio fare una vacanza o c' è un periodo deciso ? In attesa della sua risposta , cordiali saluti , Michele Rossi
+
+----------------
+
+No target hypothesis 2 available.
+

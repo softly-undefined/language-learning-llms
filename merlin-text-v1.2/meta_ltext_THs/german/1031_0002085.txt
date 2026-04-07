@@ -1,0 +1,40 @@
+METADATA
+
+General:
+Author ID: 1031_0002085
+Test language: German
+CEFR level of test: C1
+Task : write article about sticking to one's traditions and 'assimilation' in a new environment - ID: 1031_030301
+Mother tongue: Russian
+Age: 45
+Gender: female
+
+Rating:
+Overall CEFR rating: B2
+Grammatical accuracy: B2
+Orthography: C1
+Vocabulary range: C1
+Vocabulary control: B2
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: B2
+
+----------------
+
+Learner text: 
+
+Ich beschäftige mich mit der Frage „Ist es sinnvoll, auch im Ausland die Traditionen seines Heimatlandes fortzusetzen, oder sollte man sich an der Kultur des Gastlandes orientieren?" Diese Frage ist sehr aktuell und berührt alle Emmigranten. Von besonderer Bedeutung ist für mich, in Deutschland zu integrieren. Das bedeutet vor allem, man sollte deutsche Sprache lernen, die deutsche Kultur kennenlernen und neuen Freunden finden.
+Meiner Meinung nach, um besser die Deutschen zu verstehen, sollte man deutsche Geschichte kennenlernen, deutsche Bücher lesen, Müsik hören. und deutsche Filmen sehen.
+Die bedeutende Philosophen, Schriftsteller, Komponisten und Wissenschaftler sind Deutschen. Die Weltkultur und Wissenschaft kann man nicht ohne Beethoven, Bach, Wagner, Goethe, Marks und Engels, ohne solche Erfindern, wie Guttenberg vorstellen. Die Aufenthalt in Deutschland ist eine sehr gute Gelegenheit, die reiche deutsche Kultur kennenzulernen. Natürlich werde ich nicht auf meine ukrainische Traditionen verzichten. Aber mir ist besonders interessant, auf deutsche Kultur zu orientieren. 
+Wenn ich zum Beispiel Theodor Storm lesen, verstehe ich besser deutsche Seele und lerne dabei Deutsch. Die Filmen über deutsche Kristenzüge tragen mich in den Mittelalter über und helfen mir beim Lernen. Die Film über Martin Luter hat mir viel von Religionsgeschichte erzählt. 
+Abschließen möchte ich noch hervorgeben, dass man ohne Kulturkenntnisse nicht in Gastland umgehen kann. Das ist eine Voraussetzung, um in Gastland zu integrieren und sicher sich zu fühlen.
+
+----------------
+
+Target hypothesis 1: 
+
+Ich beschäftige mich mit der Frage : " Ist es sinnvoll , auch im Ausland die Traditionen seines Heimatlandes fortzusetzen , oder sollte man sich an der Kultur des Gastlandes orientieren ? " Diese Frage ist sehr aktuell und berührt alle Emigranten . Von besonderer Bedeutung ist für mich , sich in Deutschland zu integrieren . Das bedeutet vor allem , man sollte die deutsche Sprache lernen , die deutsche Kultur kennenlernen und neue Freunde finden . Um die Deutschen besser zu verstehen , sollte man meiner Meinung nach die deutsche Geschichte kennenlernen , deutsche Bücher lesen , Musik hören und deutsche Filmen sehen . Die bedeutenden Philosophen , Schriftsteller , Komponisten und Wissenschaftler sind Deutsche . Die Weltkultur und Wissenschaft kann man sich nicht ohne Beethoven , Bach , Wagner , Goethe , Marks und Engels , ohne solche Erfinder wie Guttenberg vorstellen . Der Aufenthalt in Deutschland ist eine sehr gute Gelegenheit , die reiche deutsche Kultur kennenzulernen . Natürlich werde ich nicht auf meine ukrainische Traditionen verzichten . Aber für mich ist es besonders interessant , mich an der deutschen Kultur zu orientieren . Wenn ich zum Beispiel Theodor Storm lese , verstehe ich die deutsche Seele besser und lerne dabei Deutsch . Die Filme über deutsche Christenzüge tragen mich in das Mittelalter und helfen mir beim Lernen . Der Film über Martin Luther hat mir viel über Religionsgeschichte erzählt . Abschließen möchte ich noch hervorgeben , dass man ohne Kulturkenntnisse nicht mit dem Gastland umgehen kann . Das ist eine Voraussetzung , um sich im Gastland zu integrieren und sicher zu fühlen .
+
+----------------
+
+No target hypothesis 2 available.
+

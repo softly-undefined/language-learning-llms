@@ -1,0 +1,43 @@
+METADATA
+
+General:
+Author ID: 1365_0100265
+Test language: Italian
+CEFR level of test: B1
+Task : help a friend who is looking for work after school-leaving exam - ID: 1365_040501
+Mother tongue: Hungarian
+Age: 36
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B2
+Orthography: C1
+Vocabulary range: B1
+Vocabulary control: B2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+                                                                          Città X, 13 agosto 2011 
+Caro Francesco, 
+grazie la tua lettera, l'ho aspettata molto! Nell'ultimo mese ho studiato molto, perché mi devo superare l'esame di lingua. 
+Vorrei raccommandarti di continuare gli studi universitari. Sai, che nell'anno scorso ho cominciato √ insegnare il solfeggio ai bambini alla scuola di musica a Città X. Secondo me è difficile insegnare questa materia, ma mi piace. Faccio molti giochi musicali con i bambini. Ma adesso c'è la vacanza finalmente e posso fare molte cose, che mi mancano o piacciono. 
+Vorrei ringraziarti alla tua maturità linguistica! Se vuoi, mandami il tuo curriculum, perchèposso aiutarti. 
+Spero che rivederci presto! 
+                                     Ti abbraccio forte 
+                                              Maria
+
+----------------
+
+Target hypothesis 1: 
+
+Città X , 13 agosto 2011 Caro Francesco , grazie per la tua lettera , l' ho aspettata molto ! Nell' ultimo mese ho studiato molto , perché devo superare l' esame di lingua . Vorrei raccomandarti di continuare gli studi universitari . Sai che l' anno scorso ho cominciato a insegnare il solfeggio ai bambini alla scuola di musica a Città X . Secondo me è difficile insegnare questa materia , ma mi piace . Faccio molti giochi musicali con i bambini . Ma adesso c' è finalmente la vacanza e posso fare molte cose che mi mancano o piacciono . Vorrei ringraziarti per la tua maturità linguistica ! Se vuoi , mandami il tuo curriculum , perché posso aiutarti . Spero di rivederti presto ! Ti abbraccio forte Maria
+
+----------------
+
+No target hypothesis 2 available.
+

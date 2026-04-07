@@ -1,0 +1,37 @@
+METADATA
+
+General:
+Author ID: 1061_0120450
+Test language: German
+CEFR level of test: B1
+Task : write a letter for New Year to a friend - ID: 1061_110101
+Mother tongue: not reported
+Age: 38
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Lieber Michael,
+ich freue mich sehr, weil ich deinen Brief bekommen habe. Ich wünshe dir alles gute zum neuen Jahr. Und ich hoffe dich auf deine Ausbilldung viel Spaß. Ich habe keine neue Arbeit gesucht, aber ich finde meine Arbeit ist immer noch gut weiter. Es gibt gute verdin, mein Chef ist sehr net, die Kollegen sind freundlich. Ich würde gerne Euch zubesuch. wann kommt ihr zum mir? Ich habe viele Glückwunsch
+
+----------------
+
+Target hypothesis 1: 
+
+Lieber Michael , ich freue mich sehr , weil ich deinen Brief bekommen habe . Ich wünsche dir alles Gute zum neuen Jahr . Und ich hoffe , du hast in deiner Ausbildung viel Spaß . Ich habe keine neue Arbeit gesucht , aber ich finde meine Arbeit ist immer noch weiter gut . Es gibt ein gutes Verdienst , mein Chef ist sehr nett , die Kollegen sind freundlich . Ich würde Euch gerne besuchen . Wann kommt ihr zu mir ? Ich habe viele Glückwünsche
+
+----------------
+
+No target hypothesis 2 available.
+

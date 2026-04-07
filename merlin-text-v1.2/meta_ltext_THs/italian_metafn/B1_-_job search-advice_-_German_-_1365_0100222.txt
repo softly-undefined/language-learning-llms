@@ -1,0 +1,44 @@
+METADATA
+
+General:
+Author ID: 1365_0100222
+Test language: Italian
+CEFR level of test: B1
+Task : help a friend who is looking for work after school-leaving exam - ID: 1365_040501
+Mother tongue: German
+Age: 38
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: A2
+Orthography: B2
+Vocabulary range: B2
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+                                                                                          Città X, 6 Febbraio 2011
+Caro Francesco
+Un piaccere di leggere le tue novità e che stai bene! 
+Mentre l'anno scorso, ho lavorato nella storia che già ti ho parlato. Il giornale "Voce dell' Lago Maggiore" qui in Città X me hà mandatò di scrivere un testo che trata il parco nazionale "Val Grande" che se trova entro il Lago Maggiore e il Centovalli. 
+              Cosi, avevo la obligazione di visitare il parco. Questo parco è veramente una maraviglia. Ci sono molti alberghi, grotti (piccole ristorante con specialità locale), ma sopratutto paisaggi fantastici. E con un pò di fortuna se osserve anche l'aguia reale e molti altri animali salvaggi. Ma sono perdendo   il filo rosso causa degli impressioni maravigliosi ritornando. 
+Tuttavia non è perdito: Nell' parco e i sui grotti e alberghi se cerceranno sempre personi per  lavorare durante la stazione estivale. Sono molto lieto che mi hai scritto perché questo apre una perspectiva fabulosa: Lavorarai vicino da qui e così averò la possibilità di visitarti alcuni volte nelle montagne ...
+Adesso, come ho finito quest'articulo per il giornale, tentarò lo vendere per una edizione di libri turistici che gia hà preso contato con me. Sarebbe ottimale per financiare la continuazione delle mie studie di geografia in Città Y. 
+Ancora tanti auguri  per là tua maturità, faceremo una festa durante il tuo sogiorno qui ...
+Tanti saluti cordiali, Michele
+
+----------------
+
+Target hypothesis 1: 
+
+Città X , 6 Febbraio 2011 Caro Francesco , è un piacere leggere le tue novità e che stai bene ! Durante l' anno scorso ho lavorato alla storia di cui già ti ho parlato . Il giornale " Voce del Lago Maggiore " qui a Città X mi ha mandato a scrivere un testo che tratta del parco nazionale " Val Grande " che si trova fra il Lago Maggiore e il Centovalli . Così ho  avuto  l' obbligazione di visitare il parco . Questo parco è veramente una meraviglia . Ci sono molti alberghi , grotti ( piccoli ristoranti con specialità locali ) , ma sopratutto paesaggi fantastici . E con un po' di fortuna si osservano anche l' aquila reale e molti altri animali selvaggi . Ma sto perdendo il filo rosso a causa delle impressioni meravigliose che ritornano . Tuttavia non è perduto : nel parco e nei suoi grotti e alberghi si cercheranno sempre persone per lavorare durante la stazione estiva . Sono molto lieto che mi hai scritto perché questo apre una prospettiva favolosa : lavorerai qui vicino e così avrò la possibilità di visitarti alcune volte nelle montagne ... Adesso , siccome ho finito quest' articolo per il giornale , tenterò di venderlo per una edizione di libri turistici che già ha preso contatto con me . Sarebbe ottimale per finanziare la continuazione dei miei studi di geografia a Città Y . Ancora tanti auguri per la tua maturità , faremo una festa durante il tuo soggiorno qui ... Tanti saluti cordiali , Michele
+
+----------------
+
+No target hypothesis 2 available.
+

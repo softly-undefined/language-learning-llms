@@ -1,0 +1,27 @@
+METADATA
+
+General:
+Author ID: 1395_0000414
+Test language: Italian
+CEFR level of test: A2
+Task : contact a friend after a long time - ID: 1395_020300
+Mother tongue: German
+Age: 20
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Ciao a tutti!
+come state? Io sto bene. Non ho problemi I miei genetori stanno anche bene. Papa lavora un può tanto, ma lui vuole. I fratelli stanno benissimo. Michele va alla scuola (Lui non vuole andare, dice che la insegnante e scema) é Francesco fa questi giorni la maturita é doppo va studiare a Città X. Ho cambiato la casa mia. Non ci sono più a Città Y. Adesso abito (comme prima) a Città Z. E lavoro di nuovo a Città X. Il ufficio in Città X e bello, anche vicino alla stazione. Ci vediamo questo anno una volta?
+tanti saluti, Maria

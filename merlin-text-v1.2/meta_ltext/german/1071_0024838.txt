@@ -1,0 +1,27 @@
+METADATA
+
+General:
+Author ID: 1071_0024838
+Test language: German
+CEFR level of test: A1
+Task : congratulate to birth of child - ID: 1071_030101
+Mother tongue: Russian
+Age: 46
+Gender: female
+
+Rating:
+Overall CEFR rating: A1
+Grammatical accuracy: A1
+Orthography: A2
+Vocabulary range: A1
+Vocabulary control: A1
+Coherence/Cohesion: A1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Liber Jens
+Herzliche Glückwünsche zum Babys geburt. Ich wünschen fil Gluk und fill, will Gisundheit.
+Söine Gruße daine froindin.

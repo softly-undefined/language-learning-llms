@@ -1,0 +1,41 @@
+METADATA
+
+General:
+Author ID: 1365_0100093
+Test language: Italian
+CEFR level of test: B1
+Task : answer to an wedding invitation - ID: 1365_020300
+Mother tongue: German
+Age: 32
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: C1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Cara Beatrice, Caro Stefano,
+Prima, vorrei fare le miei congratulazioni.
+Vi ringrazio dell'invito. Sono molto contento, che non hanno dimenticato il suo amico svizzero!
+Verrò con piacere al matrimonio e possibilmente posso restare qualche giorni a Napoli. Finalmente, vorrei chiedervi cosa posso regalarvi. C'è qualcosa della Svizzera, che posso portare? Fammi sapere!
+Cordiali saluti e a presto
+Michele
+
+----------------
+
+Target hypothesis 1: 
+
+Cara Beatrice , caro Stefano , prima vorrei fare le mie congratulazioni . Vi ringrazio dell' invito . Sono molto contento che non abbiano dimenticato il suo amico svizzero ! Verrò con piacere al matrimonio e possibilmente posso restare qualche giorno a Napoli . Finalmente , vorrei chiedervi cosa posso regalarvi . C' è qualcosa che posso portare dalla Svizzera ? Fammi sapere ! Cordiali saluti e a presto Michele
+
+----------------
+
+No target hypothesis 2 available.
+

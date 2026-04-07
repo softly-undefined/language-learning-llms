@@ -1,0 +1,29 @@
+METADATA
+
+General:
+Author ID: 1071_0024834
+Test language: German
+CEFR level of test: A1
+Task : congratulate to birth of child - ID: 1071_030101
+Mother tongue: Spanish
+Age: 24
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B2
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Lieber Jens,
+ich habe gehört, dass du Vater geworden ist. Ich freue sehr mich auf dich und deine Frau. Ich hoffe, dass ich nächste Woche es kennenlernen kann. Kinder gefallen mir!
+Ich möchte das Babys Name lernen, weil ich etwas für es schenken möchte. Braucht es schon etwas? Wie geht es deiner Frau? Ist sie noch in der Krankenhaus? Kann ich nächste Woche euch besuchen?
+viele Grüße,
+Julia Winkelmann

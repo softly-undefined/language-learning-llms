@@ -1,0 +1,35 @@
+METADATA
+
+General:
+Author ID: 1365_0100205
+Test language: Italian
+CEFR level of test: B1
+Task : answer to an wedding invitation - ID: 1365_020300
+Mother tongue: German
+Age: 36
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B2
+Orthography: C2
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Città X, 27 maggio 2011 
+Cara Beatrice, caro Stefano, 
+auguri di cuore! Finalmente farete anche voi il grande passo! Sono così contenta per voi. 
+Grazie mille dell'invito; verrò volentieri. 
+Cosa posso regalarvi? Avete già una certa idea o ci sarà una collezione di soldi al matrimonio? 
+
+Vi auguro un allegro tempo di preparazione.
+Non vedo l'ora rivedervi! 
+ 
+Cordiali saluti 
+         Maria

@@ -1,0 +1,30 @@
+METADATA
+
+General:
+Author ID: 1071_0024819
+Test language: German
+CEFR level of test: A1
+Task : arrange appointment with friend to go swimming together - ID: 1071_120302
+Mother tongue: Russian
+Age: 28
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: B1
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Hallo Daniela!
+wie gehets dir? Wo bist du gleich? Ich möchte trefen mit dir. Ich spater rufen, aber ich glaube du nichts zuchause. Meine Eltern heute abends gefahren. Ich möchte mit meine Eltern und du in swimmen gehen. Ich glaube das ist sehr tool Idee. Und weiter planen in Restoran gehen.
+Und meine Kinder auch willen mit die spielen Fußball.
+Ich warte deine antwort.
+MFG
+Maria

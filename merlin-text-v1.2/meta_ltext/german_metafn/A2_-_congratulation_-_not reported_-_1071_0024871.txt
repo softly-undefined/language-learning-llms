@@ -1,0 +1,29 @@
+METADATA
+
+General:
+Author ID: 1071_0024871
+Test language: German
+CEFR level of test: A1
+Task : congratulate to birth of child - ID: 1071_030101
+Mother tongue: not reported
+Age: 19
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B2
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Lieber Jens,                                               Stadt X, 03.08.2012
+wie geht es dir? Ich freue mich. Du bist jetzt Vater geworden. Wann hat des Babys geboren? und Wie heißt des Baby? Wie es der Mutter und des Babys? Ich möchte deines Babys sehen. Kannst du Bitte die Potho schicken?
+Ich wünsche dir und in deiner Familie gesund und Viel Glück.
+Bis dann
+deine Julia

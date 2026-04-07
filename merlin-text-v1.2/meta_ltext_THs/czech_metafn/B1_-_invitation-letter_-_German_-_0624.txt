@@ -1,0 +1,45 @@
+METADATA
+
+General:
+Author ID: 0624
+Test language: Czech
+CEFR level of test: B1
+Task : answer to the email of Alena - ID: 1_Alena
+Mother tongue: German
+Age: not reported
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B2
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+19. červenec 2006
+Drahá Mileno!
+Předem Ti dekuji za  tvuj  email a posílam srdčeny pozdrav.
+Je mi lito, že pišu tak pozdě, ale musím  pracovat hodně, protože příští  mesice budu dělat zkoušku z češtiny. 
+
+Mám se dobře. Dekuji za tvou mílou nabidku, ale na grilovací party nemužu přijit, protože mám dovolenu. Pojedu do Španělska. Ale  v 27.08.06 budu u tebe na svatbě. A co potřebujete? Chcí koupit neco pro vas. Příští tyden v středu budu mít čas a těším se na setkaní. Chceme se setkat v Drážďanech před Ikeou v 12 hodin. Tam je jídlo levně a mužeme koupit něco.
+Chtěl jsem tě zeptat, znáš dobrou českou gramatiku? Potřebuji ho za zkoušku. Když ho koupit, zaplatim knihu.
+Pro dnešek končím, protože je už pozdě večer a jsem unaveny.
+Mej se dobře a  dobrou noc. 
+Lukáš
+
+----------------
+
+Target hypothesis 1: 
+
+19. červenec 2006 Drahá Mileno ! Předem ti děkuji za tvůj e-mail a posílám srdečný pozdrav . Je mi líto , že píšu tak pozdě , ale musím pracovat hodně , protože příští měsíc budu dělat zkoušku z češtiny . Mám se dobře . Děkuji za tvou milou nabídku , ale na grilovací party nemůžu přijít , protože mám dovolenou . Pojedu do Španělska . Ale 27.08.06 budu u tebe na svatbě . A co potřebujete ? Chci pro vás něco koupit . Příští týden v středu budu mít čas a těším se na setkání . Chceme se setkat v Drážďanech před Ikeou v 12 hodin . Tam je jídlo levné a můžeme něco koupit . Chtěl jsem se tě zeptat , znáš dobrou českou gramatiku ? Potřebuji ho za zkoušku . Když ho koupíš , zaplatím knihu . Pro dnešek končím , protože je už pozdě večer a jsem unavený . Měj se dobře a dobrou noc . Lukáš
+
+----------------
+
+No target hypothesis 2 available.
+

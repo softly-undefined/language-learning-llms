@@ -1,0 +1,41 @@
+METADATA
+
+General:
+Author ID: 1385_0000128
+Test language: Italian
+CEFR level of test: A1
+Task : reschedule an appointment - ID: 1385_020100
+Mother tongue: German
+Age: 58
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Ciao Daniele,
+come stai,
+è una settimana orribile. In ufficio c'è molto lavoro e giovedì pomerigio non posso venire con te, perche mio capo ha fissata una riunione nell'uguale momento (giovedì pomerigio). È possibile  incontrarvi sabato sera?
+Possiamo anadare a cenare al ristorante tailandese in città. So che tu preferisci questa cucina. D'accordo? Salute e à presto
+Michele
+p.s. aspetto tua risposta fino stasera :-)
+
+----------------
+
+Target hypothesis 1: 
+
+Ciao Daniele , come stai ? È una settimana orribile . In ufficio c' è molto lavoro e giovedì pomeriggio non posso venire con te , perché il mio capo ha fissato una riunione nell' uguale momento ( giovedì pomeriggio ) . È possibile incontrarvi sabato sera ? Possiamo andare a cenare al ristorante tailandese in città . So che tu preferisci questa cucina . D' accordo ? Salute e a presto Michele P . s . : aspetto una tua risposta fino a stasera :-)
+
+----------------
+
+No target hypothesis 2 available.
+

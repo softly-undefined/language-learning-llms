@@ -1,0 +1,46 @@
+METADATA
+
+General:
+Author ID: 1365_0100173
+Test language: Italian
+CEFR level of test: B1
+Task : answer to an wedding invitation - ID: 1365_020300
+Mother tongue: German
+Age: 19
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: C2
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Cara Beatrice, 
+caro Stefano, 
+tanti auguri per il vostro matrimonio e grazie per l'invito. 
+Naturalemente vengo volentieri al vostro matrimonio. Penso che il ristorante "Da Ciro" è molto bello. Sono già andata ci molti anni fa. Era meraviglioso! 
+Ma adesso ho una domanda: 
+Che posso regolarvi? 
+Forse qualcosa per la cucina? 
+Se avete qualche desideri potete dimmi che cose sono. 
+Non posso vedere l'ora del matrimonio. 
+Tanti saluti e a dopo 
+       Maria
+
+----------------
+
+Target hypothesis 1: 
+
+Cara Beatrice , caro Stefano , tanti auguri per il vostro matrimonio e grazie per l' invito . Naturalmente vengo volentieri al vostro matrimonio . Penso che il ristorante " Da Ciro " sia molto bello . Ci sono già andata molti anni fa . Era meraviglioso ! Ma adesso ho una domanda : che posso regalarvi ? Forse qualcosa per la cucina ? Se avete dei desideri potete dirmi che cose sono . Non vedo l' ora che arrivi il matrimonio . Tanti saluti e a dopo Maria
+
+----------------
+
+No target hypothesis 2 available.
+

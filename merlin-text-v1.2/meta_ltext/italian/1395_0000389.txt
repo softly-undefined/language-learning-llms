@@ -1,0 +1,28 @@
+METADATA
+
+General:
+Author ID: 1395_0000389
+Test language: Italian
+CEFR level of test: A2
+Task : contact a friend after a long time - ID: 1395_020300
+Mother tongue: German
+Age: 17
+Gender: female
+
+Rating:
+Overall CEFR rating: A1
+Grammatical accuracy: A1
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+29.05.10
+Cara Nicia
+Come stai? Come stiamo la tua famiglia? Io sto bene. Prosimo domani vado in Vacanza a Città X. Per tre giorni. Domani vado lavorare con treno. Normalmente vado con l'auto.
+Saluta Maria

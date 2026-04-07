@@ -1,0 +1,44 @@
+METADATA
+
+General:
+Author ID: 1061_0120334
+Test language: German
+CEFR level of test: B1
+Task : write a letter to a friend (birthday) - ID: 1061_170900
+Mother tongue: Italian
+Age: 39
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B2
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: B2
+
+----------------
+
+Learner text: 
+
+                                          Stadt X, den 28.02.2012
+Liebe Silke,
+vielen Dank für deine Brief.
+Hätte ich mehr Zeit, würde ich dich und deine Familie besuchen, aber momentan haben ich zu viel zu tun mit meinem Doktorarbeit.
+Ich mag auch Tiere aber Ich mag lieber Hunden . Das problem mit Haustiere ist dass man muss  viel Zeit  und am besten ein großen Garten haben. Wenn ich vertig mit mein Doktorarbeit bin, werde ich ein Hund bekommen.
+Es ist gut zu wissen dass dir und deine Familie geht´s gut. Mir geht´s  auch gut. Ich bin, wie immer, bescheftig aber alles ist in ordnung. Ich habe gestern mit meiner Familie telefoniert und  ihnen gehen es auch ganz gut. Ich habe nicht mit meiner schwester gesprochen weil sie in USA ist. Wie du  weißt, ich lerne Gitarre und ich muss viel üben. Leider, meine Gitarre ist momentan kaputt und ich kann nicht practisieren. Mein wünsch für mein Geburtstag ist eine neue Gitarre.!!!
+Vielleicht, kannst du es kaufen zusammen mit meinem Vater.
+Viele Grüße
+Stefan
+
+----------------
+
+Target hypothesis 1: 
+
+Stadt X , den 28.02.2012 Liebe Silke , vielen Dank für deinen Brief . Hätte ich mehr Zeit , würde ich dich und deine Familie besuchen , aber momentan habe ich zu viel zu tun mit meiner Doktorarbeit . Ich mag auch Tiere , aber ich mag lieber Hunde . Das Problem mit Haustieren ist , dass man viel Zeit und am besten einen großen Garten haben muss . Wenn ich fertig mit meiner Doktorarbeit bin , werde ich einen Hund bekommen . Es ist gut zu wissen , dass es dir und deiner Familie gut geht . Mir geht´s auch gut . Ich bin wie immer beschäftigt , aber alles ist in Ordnung . Ich habe gestern mit meiner Familie telefoniert und ihnen geht es auch ganz gut . Ich habe nicht mit meiner Schwester gesprochen , weil sie in den USA ist . Wie du weißt , lerne ich Gitarre und ich muss viel üben . Leider ist meine Gitarre momentan kaputt und ich kann nicht praktizieren . Mein Wunsch für meinen Geburtstag ist eine neue Gitarre ! ! ! Vielleicht kannst du es kaufen zusammen mit meinem Vater . Viele Grüße Stefan
+
+----------------
+
+No target hypothesis 2 available.
+

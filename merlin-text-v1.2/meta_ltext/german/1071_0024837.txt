@@ -1,0 +1,30 @@
+METADATA
+
+General:
+Author ID: 1071_0024837
+Test language: German
+CEFR level of test: A1
+Task : congratulate to birth of child - ID: 1071_030101
+Mother tongue: Turkish
+Age: 34
+Gender: female
+
+Rating:
+Overall CEFR rating: A1
+Grammatical accuracy: A1
+Orthography: A2
+Vocabulary range: A1
+Vocabulary control: A1
+Coherence/Cohesion: A1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Lieber Jens,
+Herzliche Glückwünsch das Baby bekommen. Wie gehts deine Frau und dein Baby. Wie heißt ihre Baby namen?
+Ihre Baby mädchen oder junge.
+Schöne Gruß deine Frau.
+Viele Grüße
+Julia

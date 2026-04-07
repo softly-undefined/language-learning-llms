@@ -1,0 +1,41 @@
+METADATA
+
+General:
+Author ID: PHA0710021
+Test language: Czech
+CEFR level of test: B2
+Task : write an essay: More people know more - ID: B2PS0201_hlava
+Mother tongue: Russian
+Age: 3039
+Gender: male
+
+Rating:
+Overall CEFR rating: B2
+Grammatical accuracy: B2
+Orthography: B2
+Vocabulary range: B2
+Vocabulary control: C1
+Coherence/Cohesion: C1
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Víc hlav víc ví.
+Toto staré rčení zůstává aktualní i dnes, v době moderních počitačových technologii, a navíc se vztahuje nejenom na lídé, ale i na neživé bytosti, o níchž budeme hovořit níže.
+Není pochybnosti v tom, že více lidí ví víc než jeden člověk. Samozřejmě, za určitých předpokladů. Například, že mezi více hlavami či lidmi probíhá komunikace, která umožnuje sdílení znalostí. Pravě proto se bežně konají odborové porady, na níchž se probírají různé záležitosti jež jsou nad ramec znalosti "jedné hlavy". Jedna z ilustraci je nedavní havarie  společnosti X v Mexickém zálivu. K řešení souvisejících problemů se museli sejít tak významné hlavy jako vykonný ředitel ropné společnosti, američti zakonodárci, dokonce i prezident spojených statů amerických.
+Osobně se domnívám, že rčení "víc hlav víc ví" se v současné době běžně vztahuje i na pokročilé mechanizmy jako například jsou počitače. Už odchází čas jednojadrových procesoru a čím dále, tím více se objevují dvou, tří a více jádrové počitače. Proč? Protože víc procesorových hlav nejen víc ví ale také umí.
+Žijeme tedy ve velice zajimavé době jelikož můžeme pozorovat, jak rčení jež byla původně vyslovena vůči lidem se postupně začíná mít význam i pro stroje.
+
+----------------
+
+Target hypothesis 1: 
+
+Víc hlav víc ví . Toto staré rčení zůstává aktuální i dnes , v době moderních počítačových technologií , a navíc se vztahuje nejenom na lidi , ale i na neživé bytosti , o nichž budeme hovořit níže . Není pochybnosti o tom , že více lidí ví víc než jeden člověk . Samozřejmě , za určitých předpokladů . Například , že mezi více hlavami či lidmi probíhá komunikace , která umožnuje sdílení znalostí . Právě proto se běžně konají odborové porady , na nichž se probírají různé záležitosti , jež jsou nad rámec znalosti " jedné hlavy " . Jedna z ilustrací je nedávná havárie společnosti X v Mexickém zálivu . K řešení souvisejících problémů se musely sejít tak významné hlavy , jako výkonný ředitel ropné společnosti , američtí zákonodárci , dokonce i prezident Spojených států amerických . Osobně se domnívám , že rčení " víc hlav víc ví " se v současné době běžně vztahuje i na pokročilé mechanizmy , jako například jsou počítače . Už odchází čas jednojádrových procesorů a čím dále , tím více se objevují dvou- , tří- a více-jádrové počítače . Proč ? Protože víc procesorových hlav nejen víc ví , ale také umí . Žijeme tedy ve velice zajímavé době , jelikož můžeme pozorovat , jak rčení , jež byla původně vyslovena vůči lidem , postupně začíná mít význam i pro stroje .
+
+----------------
+
+Target hypothesis 2: 
+
+Víc hlav víc ví . Toto staré rčení zůstává aktuální i dnes , v době moderních počítačových technologií , a navíc se vztahuje nejenom na lidi , ale i na neživé bytosti , o nichž budeme hovořit níže . Není pochybnosti o tom , že více lidí ví víc než jeden člověk . Samozřejmě , za určitých předpokladů . Například , že mezi více hlavami či lidmi probíhá komunikace , která umožňuje sdílení znalostí . Právě proto se běžně konají odborové porady , na nichž se probírají různé záležitosti , jež jsou nad rámec znalosti " jedné hlavy " . Jedna z ilustrací je nedávná havárie společnosti X v Mexickém zálivu . K řešení souvisejících problémů se musely sejít tak významné hlavy , jako výkonný ředitel ropné společnosti , američtí zákonodárci , dokonce i prezident Spojených států amerických . Osobně se domnívám , že rčení " víc hlav víc ví " se v současné době běžně vztahuje i na pokročilé mechanizmy , jako například jsou počítače . Už odchází čas jednojádrových procesorů a čím dále , tím více se objevují dvou- , tří- a více-jádrové počítače . Proč ? Protože víc procesorových hlav nejen víc ví , ale také umí . Žijeme tedy ve velice zajímavé době , jelikož můžeme pozorovat , jak rčení , jež byla původně vyslovena vůči lidem , postupně začínají mít význam i pro stroje .

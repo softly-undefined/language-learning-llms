@@ -1,0 +1,28 @@
+METADATA
+
+General:
+Author ID: 1071_0248322
+Test language: German
+CEFR level of test: A1
+Task : ask friend for help for finding apartment - ID: 1071_020200
+Mother tongue: Chinese
+Age: 28
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Hallo Ingo,
+wie giest dir? Ich habe eine Arbeit in Neuburg gefunden. Ich brauche eine Wohnung in Neuburg. Ich brauche eine Wohnung im Juli weil ich beginn mein Arbeit im beginn Juli. Der Wohnung muss habe Zwei Zimmer. eine Schlafzimmer. und eine Wohnzimmer Kannst du hilfe bei der Wohnungssuche? Vielen Dank für Ihre Mithilfe.
+Viele Grüße
+Michael Müller

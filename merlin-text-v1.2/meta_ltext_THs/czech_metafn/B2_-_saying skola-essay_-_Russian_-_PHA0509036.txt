@@ -1,0 +1,42 @@
+METADATA
+
+General:
+Author ID: PHA0509036
+Test language: Czech
+CEFR level of test: B2
+Task : write an essay: The school is the basis of the life - ID: B2PS0200_skola
+Mother tongue: Russian
+Age: 2029
+Gender: male
+
+Rating:
+Overall CEFR rating: B2
+Grammatical accuracy: B2
+Orthography: B2
+Vocabulary range: B2
+Vocabulary control: B1
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+1. Škola - základ života?
+Podle mého názoru vzdělání zůstane jako vždy nejduležitější věci v 21. století. Od maličkosti svého dítě rodiče začinají myslet co bude dělat a kám pujde se učit jejích diťete. Podle toho, jaké vzdělání člověk má se skládá jeho profesionální kariera. 
+Ználost cizího jazyka je taky jednou z hlavních věci ve vzdělání. Cizí jazyk dáva člověku hodně benefit. Muže si najít lepší práci. Mezinárodní společnosti, jako je napřiklad CoCa-Cola, mají ve svéch požadávkách znalost aspoň dva jazyky na pozice managera. 
+Taky Vám pomuže cizí jazyk, kdyš se nacházíte v zahraniči. Mužete se zeptát na ulici nebo objednat si jídlo v restauraci. 
+Podle mého názoru, nejduležitější část ve vzdělání je univerzita. V univerzitě člověk poznává nejen základní věci, ale taky mnohem víc v tom oboru, který on si vybral. Během těch pěti let co se nachází v univerzitě má čas a možnost nejen číst knihy, ale taky dostává tak duležitou pro budoucního odborníka - praxe.
+V součastnou dobu, když všichni zemi se sbližují, a Evropská Unie je jedním celým, vzdělání bude duležite v 21 století ještě víc než někdy před tim. Člověk má více možnosti studovat, pracovat, poznávát svět kolem sebe ještě snadnější než před tim.
+
+----------------
+
+Target hypothesis 1: 
+
+1. Škola - základ života ? Podle mého názoru vzdělání zůstane jako vždy nejdůležitější věcí v 21. století . Od maličkosti svého dítěte rodiče začínají myslet na to , co bude dělat a kam se půjde učit jejich dítě . Podle toho , jaké vzdělání člověk má , se skládá jeho profesionální kariéra . Znalost cizího jazyka je taky jednou z hlavních věcí ve vzdělání . Cizí jazyk dává člověku hodně benefitů . Může si najít lepší práci . Mezinárodní společnosti , jako je například Coca-Cola , mají ve svých požadavcích znalost aspoň dvou jazyků na pozici manažera . Taky vám pomůže cizí jazyk , když se nacházíte v zahraničí . Můžete se zeptat na ulici nebo si objednat jídlo v restauraci . Podle mého názoru nejdůležitější část vzdělání je univerzita . Na univerzitě člověk poznává nejen základní věci , ale taky mnohem víc v tom oboru , který on si vybral . Během těch pěti let , co se nachází na univerzitě , má čas a možnost nejen číst knihy , ale taky dostává tak důležitou pro budoucního odborníka - praxi . V současné době , když se všechny země sbližují a Evropská unie je jedním celkem , vzdělání bude důležité v 21. století ještě víc než někdy předtím . Člověk má více možností studovat , pracovat , poznávat svět kolem sebe ještě snadněji než předtím .
+
+----------------
+
+Target hypothesis 2: 
+
+1. Škola - základ života ? Podle mého názoru vzdělání zůstane jako vždy nejdůležitější věcí v 21. století . Od prvních let života svého dítěte rodiče začínají myslet na to , co bude dělat a kam se půjde učit jejich dítě . Podle toho , jaké vzdělání člověk má , se vyvíjí jeho profesionální kariéra . Znalost cizího jazyka je taky jednou z hlavních věcí ve vzdělání . Cizí jazyk dává člověku hodně benefitů . Může si najít lepší práci . Mezinárodní společnosti , jako je například Coca-Cola , mají ve svých požadavcích znalost aspoň dvou jazyků na pozici manažera . Taky vám pomůže cizí jazyk , když se nacházíte v zahraničí . Můžete se zeptat na ulici nebo si objednat jídlo v restauraci . Podle mého názoru nejdůležitější část vzdělání je univerzita . Na univerzitě člověk poznává nejen základní věci , ale taky mnohem víc v tom oboru , který on si vybral . Během těch pěti let , co studuje na univerzitě , má čas a možnost nejen číst knihy , ale taky dostává zkušenost tak důležitou pro budoucního odborníka - praxi . V současné době , když se všechny země sbližují a Evropská unie je jedním celkem , vzdělání bude důležité v 21. století ještě víc než někdy předtím . Člověk má více možností studovat , pracovat , poznávat svět kolem sebe ještě snadněji než předtím .

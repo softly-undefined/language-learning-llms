@@ -1,0 +1,42 @@
+METADATA
+
+General:
+Author ID: 1091_0000033
+Test language: German
+CEFR level of test: A2
+Task : letter to housing office - ID: 1091_0610301
+Mother tongue: Arabic
+Age: 58
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+                                                Stadt X, den 04.01.2012
+Sehr geehrte Damen und Herren,
+Ich suche eine neue Wohnung. Ich bin verheiratet und habe Ich drei Kinder. Ich möchte meine Wohnung mit drei SchlafenZimmer und Groß Wohnzimmer. auch davon große Küsche und Zwei Bad. Am mindesten möchte Ich ein Balkon an die Wohnung.
+Können Sie bitte mir sagen, wie viel Kostet am monat und wie viel Nebenkosten. Ich mochte Warm miete.
+Vielen dank for Ihre Mühe
+Mit freundlich Grüßen
+Eva
+
+----------------
+
+Target hypothesis 1: 
+
+Stadt X , den 04.01.2012 Sehr geehrte Damen und Herren , ich suche eine neue Wohnung . Ich bin verheiratet und ich habe drei Kinder . Ich möchte eine Wohnung mit drei Schlafzimmern und einem großen Wohnzimmer , auch mit großer Küche und zwei Bädern . Ich möchte mindestens einen Balkon in der Wohnung . Können Sie mir bitte sagen , wie viel es im Monat kostet und wie viel Nebenkosten es gibt ? Ich möchte warm mieten . Vielen Dank für Ihre Mühe . Mit freundlichen Grüßen Eva
+
+----------------
+
+No target hypothesis 2 available.
+

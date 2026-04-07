@@ -1,0 +1,32 @@
+METADATA
+
+General:
+Author ID: 1365_0100195
+Test language: Italian
+CEFR level of test: B1
+Task : inform oneself about language course - ID: 1365_050401
+Mother tongue: Hungarian
+Age: 29
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: C1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Gentili Signori,
+Ho visto a Vostro nell'annuncio, per questo scrivendo una lettera, mi piace lingua italiana a Roma.
+Mi piacerebbe frequentare sul questo corso, ma non so, come possibilità.
+Vorrei prenotare una camera singola, se possibile. Vorrei pendere anche se, i miei due cuccioli, posso stare con me una camera.
+Quando costa del corso, e quando costa una camera singola
+28.maggio 2011
+Saluti:
+Michele Rossi

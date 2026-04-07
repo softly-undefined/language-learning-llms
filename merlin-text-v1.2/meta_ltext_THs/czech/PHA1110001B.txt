@@ -1,0 +1,39 @@
+METADATA
+
+General:
+Author ID: PHA1110001B
+Test language: Czech
+CEFR level of test: A2
+Task : describe a photo: playground - ID: A2PS0201_hriste
+Mother tongue: Other
+Age: 3039
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Na fotografii je rodina. Otec, matka s dětma Děti si hráji na houpačce. Jsou na hřiště.
+Žena má na sobě tričko, kalohty a letní boty. Můž má na sobě svetr, kratke kalohty a letní boty Dětí nevidim dobře, co mají na sobě.
+Kromě matky, je všem dobře. Matce bolí záda. To není pro ní k divu, každý jahro, kdy začina dělat teplo dostané ten problem. Mluví totiž s manželem o tom, že zitra musí do polikliniky k kontrolu. Myslí, že už má trochu strách protože bude take na odběr krve.
+Za chvili buodu se vratit domů, protože na nebi jsou černy mraky, a zacina foukat vitř.
+
+----------------
+
+Target hypothesis 1: 
+
+Na fotografii je rodina . Otec , matka s dětmi . Děti si hrají na houpačce . Jsou na hřišti . Žena má na sobě tričko , kalhoty a letní boty . Muž má na sobě svetr , krátké kalhoty a letní boty . U dětí nevidím dobře , co mají na sobě . Kromě matky je všem dobře . Matku bolí záda . To u ní není divné , každé jaro , když se začíná dělat teplo , dostane ten problém . Mluví totiž s manželem o tom , že zítra musí do polikliniky na kontrolu . Myslí , že už má trochu strach , protože bude také odběr krve . Za chvíli se budou vracet domů , protože na nebi jsou černé mraky a začíná foukat vítr .
+
+----------------
+
+No target hypothesis 2 available.
+

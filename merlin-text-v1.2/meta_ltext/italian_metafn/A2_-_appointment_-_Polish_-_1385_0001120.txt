@@ -1,0 +1,28 @@
+METADATA
+
+General:
+Author ID: 1385_0001120
+Test language: Italian
+CEFR level of test: A1
+Task : reschedule an appointment - ID: 1385_020100
+Mother tongue: Polish
+Age: 49
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+MARTEDI
+COME STAI. IO STO MOLTO BENE MA È UNA SETTIMANA ORRIBILE IN UFFICIO C'E MOLTO LAVORO E GIOVEDI POMERIGGIO NON POSSO ANDARE UN APPUNTAMENTO.
+POSSIAMO INCONTRARE SABATO SERA SE VUOI ANDIAMO A CENA IN UN RISTORANTE TAILANDESE
+SCRIVI PRESTO. CIAO!

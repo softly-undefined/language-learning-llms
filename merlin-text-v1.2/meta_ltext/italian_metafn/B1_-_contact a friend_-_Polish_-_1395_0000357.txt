@@ -1,0 +1,27 @@
+METADATA
+
+General:
+Author ID: 1395_0000357
+Test language: Italian
+CEFR level of test: A2
+Task : contact a friend after a long time - ID: 1395_020300
+Mother tongue: Polish
+Age: 30
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B2
+Orthography: B2
+Vocabulary range: B2
+Vocabulary control: B2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Cara Silvia,
+Come va? Sei ancora a Città X? Grazie mille per la tua ultima lettera! Io, adesso sto meglio, ma hai raggione probabilmente lavoro troppo e per questo sono stanchissima. Sai, ho cambiato lavoro quatro mese fa, adesso lavoro in una ditta privata a Città X come giurista. Abbiamo molte cose da fare e nostro capo é severo. Ma sono molto contenta di questo lavoro perche per questo tempo ho imparato molte cose nuove. Sono un po' trista perche una settimana fa é morta mia zia Maria, la sorella di mia madre. Lei era ultima sorella di mia madre e non é facile per la mamma perche addesso è stata da senza vicini cogniati. Spero che per qualche tempo sará meglio! Ti baccio e saluto tutta la tua famiglia!
+Eva 

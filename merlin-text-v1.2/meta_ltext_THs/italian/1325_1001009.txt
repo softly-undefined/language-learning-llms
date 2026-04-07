@@ -1,0 +1,47 @@
+METADATA
+
+General:
+Author ID: 1325_1001009
+Test language: Italian
+CEFR level of test: B2
+Task : complaining against a hotel - ID: 1325_030300-2
+Mother tongue: Hungarian
+Age: 29
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: C2
+Vocabulary range: B2
+Vocabulary control: B2
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Maria Rossi
+12345 Città X, Strada Maggiore n.13.
+Ungheria Città X, 13.08.2011
+
+Canton Ticino
+Residence al Lago
+Alla cortese attenzione del Direttore
+Egregio Signore Direttore,
+ci siamo sistemati nel Vostro albergo dalle 5 alle 20 agosto. Il numero del nostro appartamento è 19. La Vostra pubblicità abbiamo trovato sul HVG, era una ottima offerta. Ma per dire la verità non siamo riusciti a divertirci perchè non tutte le cose sono come avete scritto nella pubblicità. Ci tengo a dire tutte le cose che ci fatto male. Il residenze è molto vecchio e i muri sono sporchi. L'aria condizionata non funziona, Vi prego di ripararla che presto è possibile. Il lago è più lontano e l'autobus c'è solo 2 volta al giorno. I campi di tennis erano in riparazione, la piscina è sempre soffrafollata.
+Vi prego se è possibile un sconto di 30 percento.
+Aspetto alla Vostra cortese risposta 
+Distinti Saluti, Maria Rossi 
+
+----------------
+
+Target hypothesis 1: 
+
+Maria Rossi 12345 Città X , Strada Maggiore n . 13 . Ungheria Città X , 13.08.2011 Canton Ticino Residence al Lago Alla cortese attenzione del Direttore Egregio Signor Direttore , ci siamo sistemati nel Vostro albergo dal 5 al 20 agosto . Il numero del nostro appartamento è 19 . Abbiamo trovato la Vostra pubblicità sull' HVG , era una ottima offerta . Ma per dire la verità non siamo riusciti a divertirci perché non tutte le cose sono come avete scritto nella pubblicità . Ci tengo a dire tutte le cose che ci hanno fatto male . Il residence è molto vecchio e i muri sono sporchi . L' aria condizionata non funziona , Vi prego di ripararla il più presto possibile . Il lago è più lontano e l' autobus c' è solo 2 volte al giorno . I campi da tennis erano in riparazione , la piscina era sempre sovraffollata . Vi prego , se è possibile , di farci uno sconto del 30 percento . Aspetto la Vostra cortese risposta . Distinti saluti , Maria Rossi
+
+----------------
+
+No target hypothesis 2 available.
+

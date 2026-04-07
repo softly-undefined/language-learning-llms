@@ -1,0 +1,36 @@
+METADATA
+
+General:
+Author ID: PHA0710020
+Test language: Czech
+CEFR level of test: B2
+Task : write an essay: Clothes make the man - ID: B2PS0201_saty
+Mother tongue: Polish
+Age: 2029
+Gender: female
+
+Rating:
+Overall CEFR rating: EMPTY
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B2
+Vocabulary control: B1
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Star-unreadable- přislovce říká že "ne šaty dělají člověka". Ja s tím souhlasím - nejdůležítějši je co někdo ví, zda li je dobrý člověk atd, ale bohužel často je tak že se lide oceňují podle toho, jak je někdo oblečen. Důležite je že naše tradicé kultura mluví jak člověk musí se oblect u rozmanitých okolnostech situacech! Na příklad když jsme student i jídeme na nějakou zkoušku, dobře je oblect něco černo a belo - chlapci nějake sako, svateční odev, a děvčata na příklád šaty. Tak i v případě nějakých rodinných nebo druhých slavnosti dobře je se oblect jínak než každého dne. To, zda li člověk ví jak třeba se oblect ve všech situacech znamena je li kulturní. Člověk se oděva i tým se rozlišuje od zviřát, to ale není všechno. Je taký velmí důležité aby věděl jak musí být oblečen v zalečítosti od toho kde je, s kím a proč a tak dál. 
+
+----------------
+
+Target hypothesis 1: 
+
+Star-unreadable- příslovce říká , že " ne šaty dělají člověka " . Já s tím souhlasím - nejdůležitější je , co někdo ví , zdali je dobrý člověk atd. , ale bohužel často je to tak , že se lidé oceňují podle toho , jak je někdo oblečen . Důležité je , že naše tradice a kultura mluví o tom , jak se člověk musí obléct v rozmanitých okolnostech a situacích ! Na příklad když jsme studenti a jdeme na nějakou zkoušku , je dobře obléct něco černého a bílého - chlapci nějaké sako , sváteční oděv , a děvčata na příklad šaty . Tak i v případě nějakých rodinných nebo druhých slavností je dobře se obléct jinak než každého dne . To , zdali člověk ví , jak je třeba se obléct ve všech situacích , znamená , že je nebo není kulturní . Člověk se odívá , i tím se rozlišuje od zvířat , to ale není všechno . Je taky velmi důležité , aby věděl , jak musí být oblečen v záležitosti od toho , kde je , s kým a proč a tak dál .
+
+----------------
+
+No target hypothesis 2 available.
+

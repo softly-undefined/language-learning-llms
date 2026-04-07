@@ -1,0 +1,34 @@
+METADATA
+
+General:
+Author ID: 1365_0100215
+Test language: Italian
+CEFR level of test: B1
+Task : answer to an wedding invitation - ID: 1365_020300
+Mother tongue: German
+Age: 43
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: C1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+                                                                                            Città X, in giugno 2011 
+
+Cara Beatrice, Caro Stefano, 
+Siamo felici di aver ricevuto il vostro annuncio dell matrimonio! Vi ringraziamo tanto per l'invito. Vi vogliamo congratulare affetusamente e vi desideremo una vita felice e lungo. 
+Siamo molti lieti di venire alla vostra ceremonia e di congratularci personalmente ed anche a festeggiare con voi!
+Vorremo volentieri farci un regalo. 
+Ci fareste sapere che cosa desiderete? 
+Aspettiamo la vostra risposta. 
+Vi abracciamo e vi salutiamo 
+                                                              Maria e famiglia

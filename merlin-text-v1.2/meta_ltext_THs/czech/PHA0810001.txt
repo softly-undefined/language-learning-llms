@@ -1,0 +1,41 @@
+METADATA
+
+General:
+Author ID: PHA0810001
+Test language: Czech
+CEFR level of test: B2
+Task : write an essay: Clothes make the man - ID: B2PS0201_saty
+Mother tongue: German
+Age: 2029
+Gender: male
+
+Rating:
+Overall CEFR rating: B2
+Grammatical accuracy: B2
+Orthography: B2
+Vocabulary range: B2
+Vocabulary control: B1
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Šaty dělají člověka
+Částo je slyšet, že "šaty dělají člověka." Je to určitě pravda, ale je to také jen část širší pravdy. To, jak oceňujeme jiného člověka, záleží ve velké míry na věcích, jež nemají nic společního s jeho charakterem nebo s tím, co umí. 
+Vyzkumy ukazují napřiklad, že lidé, kteři jsou vyšší, vypadají lépe nebo dají dojem, že mají víc peněz (npř. elegantním oblekem), jsou oceňovani jako inteligentnější, šikovnější a úspěšší než menší líde, kteři neodpovídají současnému ideálu krasice. Ti jedni mají víc úspěchu v práci a v soukromým životě než ti druzí. 
+Podle mého názoru je o sice škoda, ale prostě fakt. Můžeme se snážit o snižení takové diskriminace, není to avšak do konce možné. Člověk není strojem, jenž může vypínat své pocity - a předsoudy. Zaměstnavatele vybercí zaměstnancy vždycky budou ovlivňovani tím, jak kandidati vypadají, na co má také vliv, zda přichazí v dobrým obleku nebo v džinsach a tričku.
+Je možné tudíž očekávat, že lidé nediskriminují jiných naschvál. Co není možné očekávat, je uplná obiektivita. Ta v realným životě není, a nemůže být.
+
+----------------
+
+Target hypothesis 1: 
+
+Šaty dělají člověka Často je slyšet , že " šaty dělají člověka " . Je to určitě pravda , ale je to také jen část širší pravdy . To , jak oceňujeme jiného člověka , záleží ve velké míře na věcech , jež nemají nic společného s jeho charakterem nebo s tím , co umí . Výzkumy ukazují například , že lidé , kteří jsou vyšší , vypadají lépe nebo dávají dojem , že mají víc peněz ( např . elegantním oblekem ) , jsou oceňováni jako inteligentnější , šikovnější a úspěšnější než menší lidé , kteří neodpovídají současnému ideálu krásy . Ti jedni mají víc úspěchu v práci a v soukromém životě než ti druzí . Podle mého názoru je to sice škoda , ale prostě fakt . Můžeme se snažit o snížení takové diskriminace , není to však do konce možné . Člověk není strojem , jenž může vypínat své pocity - a předsudky . Zaměstnavatelé vybírající zaměstnance vždycky budou ovlivňováni tím , jak kandidáti vypadají , na což má také vliv , zda přichází v dobrém obleku nebo v džínsách a tričku . Je možné tudíž očekávat , že lidé nediskriminují jiné naschvál . Co není možné očekávat je úplná objektivita . Ta v reálném životě není a nemůže být .
+
+----------------
+
+Target hypothesis 2: 
+
+Šaty dělají člověka Často je slyšet , že " šaty dělají člověka " . Je to určitě pravda , ale je to také jen část širší pravdy . To , jak oceňujeme jiného člověka , záleží ve velké míře na věcech , jež nemají nic společného s jeho charakterem nebo s tím , co umí . Výzkumy ukazují například , že lidé , kteří jsou vyšší , vypadají lépe nebo dávají dojem , že mají víc peněz ( např . elegantním oblekem ) , jsou oceňováni jako inteligentnější , šikovnější a úspěšnější než menší lidé , kteří neodpovídají současnému ideálu krásy . Ti jedni mají víc úspěchu v práci a v soukromém životě než ti druzí . Podle mého názoru je to sice škoda , ale prostě fakt . Můžeme se snažit o snížení takové diskriminace , není to však do konce možné . Člověk není strojem , jenž může vypínat své pocity - a předsudky . Zaměstnavatelé vybírající zaměstnance vždycky budou ovlivňováni tím , jak kandidáti vypadají , na což má také vliv , zda přichází v dobrém obleku nebo v džínsách a tričku . Je možné tudíž očekávat , že lidé nediskriminují jiné naschvál . Co není možné očekávat , je úplná objektivita . Ta v reálném životě není a nemůže být .

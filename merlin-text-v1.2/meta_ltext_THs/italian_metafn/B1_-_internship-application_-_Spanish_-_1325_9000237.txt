@@ -1,0 +1,54 @@
+METADATA
+
+General:
+Author ID: 1325_9000237
+Test language: Italian
+CEFR level of test: B2
+Task : apply for internship in company - ID: 1325_020400-1
+Mother tongue: Spanish
+Age: 37
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B2
+Orthography: B2
+Vocabulary range: B2
+Vocabulary control: B2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Spett.le UniCredit Banca
+Dipartamento di Personale 
+Piazza Cordusio 
+20123 Milano 
+                                                                                                    Michele Rossi
+                                                                                                   Strada Maggiore 1
+                                                                                                   12345 Città X 
+                                                                                                   4 Ottobre 2010 
+Oggetto: Posibilitta di svolgiere uno stage ad UniCredit Banca questo estate   
+Alla atenzione dell Dipartamento di personale: 
+Sono un studente aggettivo di nazionalità X. Mi sono laureato recentemente in Economia e Sociologia alla Universita di Città Y. I miei risultati finali devono essere valuttati in sieme a un proggietto di fine laurea da svilupare in un ditta dalla mia scelta. 
+Pur troppo, devo lavorare e completare il mio proggieto nelle prossime tre mesi. 
+Ho leto con interesse che UniCredit Banca a aperto nuove uffici a Città Y. 
+Per questo motivo la scrivo questa lettera per chiedere la possibilità di fare un periodo di stage per i prossimi tre messi. 
+Logicamente, questo stage non dovrebbe essere rimunerato visto che il mio interesse e solamente abbere sperienza pratica nell settore bancario e completare la mia laurea con il mio proggieto finale. Se fosse posibile, sarebbe molto interessato nell'ambito della banca sull'internet. Sono disposto comunque a discutere questo e altri aspeti che possa abbere sulla mia domanda quando lui preferisca. 
+In attessa della sua risposta e ringraziandola sinceramente per il suo interesse, porgo.
+                                                  Distinti saluti
+   Michele Rossi            
+
+----------------
+
+Target hypothesis 1: 
+
+Spett.le UniCredit Banca Dipartimento del Personale Piazza Cordusio 20123 Milano Michele Rossi Strada Maggiore 1 12345 Città X 4 Ottobre 2010 Oggetto : Possibilità di svolgere uno stage all' UniCredit Banca questa estate All' attenzione del Dipartimento del personale : Sono uno studente aggettivo di nazionalità X . Mi sono laureato recentemente in Economia e Sociologia all' Università di Città Y . I miei risultati finali devono essere valutati insieme a un progetto di fine laurea da sviluppare in una ditta a mia scelta . Purtroppo devo lavorare e completare il mio progetto nei prossimi tre mesi . Ho letto con interesse che UniCredit Banca ha aperto nuovi uffici a Città Y . Per questo motivo le scrivo questa lettera per chiedere la possibilità di fare un periodo di stage per i prossimi tre mesi . Logicamente , questo stage non dovrebbe essere rimunerato visto che il mio interesse è solamente avere esperienza pratica nel settore bancario e completare la mia laurea con il mio progetto finale . Se fosse possibile , sarebbe molto interessato all' ambito della banca in internet . Sono disposto comunque a discutere questo e altri aspetti che possa avere sulla mia domanda quando lui preferisce . In attesa della sua risposta e ringraziandola sinceramente per il suo interesse , porgo distinti saluti Michele Rossi
+
+----------------
+
+Target hypothesis 2: 
+
+Spett.le UniCredit Banca Dipartimento del Personale Piazza Cordusio 20123 Milano Michele Rossi Strada Maggiore 1 12345 Città X 4 Ottobre 2010 Oggetto : possibilità di svolgere uno stage all' UniCredit Banca questa estate All' attenzione del Dipartamento del personale : Sono uno studente aggettivo di nazionalità X . Mi sono laureato recentemente in Economia e Sociologia all' Università di Città Y . I miei risultati finali devono essere valutati insieme a un progetto di fine corso da sviluppare in una ditta a mia scelta . Purtroppo devo lavorare e completare il mio progetto nei prossimi tre mesi . Ho letto con interesse che UniCredit Banca ha aperto nuovi uffici a Città Y . Per questo motivo vi scrivo questa lettera per richiedere la possibilità di fare un periodo di stage per i prossimi tre mesi . Logicamente , questo stage non dovrebbe essere remunerato visto che il mio interesse è solamente avere esperienza pratica nel settore bancario e completare la mia laurea con il mio progetto finale . Se fosse possibile , sarei molto interessato all' ambito della banca in internet . Sono disposto comunque a discutere questo e altri aspetti che posso citare nella mia domanda quando preferite . In attesa della vostra risposta e ringraziandovi sinceramente per il vostro interesse , porgo . Distinti saluti Michele Rossi

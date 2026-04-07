@@ -1,0 +1,43 @@
+METADATA
+
+General:
+Author ID: 1061_1029112
+Test language: German
+CEFR level of test: B1
+Task : write a letter to a friend (visit) - ID: 1061_130101
+Mother tongue: Polish
+Age: 38
+Gender: female
+
+Rating:
+Overall CEFR rating: B2
+Grammatical accuracy: B2
+Orthography: B2
+Vocabulary range: B2
+Vocabulary control: B2
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: B2
+
+----------------
+
+Learner text: 
+
+Liebe Dana,                                      Stadt X, 28.02.12
+ich gratuliere dir zur Prüfung bestanden
+Ich besuche noch den Deutschkurs und dann bin erst am 28.04 mit dem Kurs fertig. Danach schreibe ich eine Prüfung. Wenn meine Prüfung bestehe, möchte ich weitere Kurse machen, um Deutsch zu lernen. Also wir haben schon gedacht, dass in diesem Sommer könnten wir leider keine Urlaub machen. Ich nutze die Gelegenheit, und hoffe, dass ich endlich meinen Liebe erreiche. Auser dem bei uns im Sommer ist so schön, wir geniesen die Natur und machen viele Ausflüge. Vielleicht fahren wir für paare Tage nach Polen. Dort leben alle meine Verwandte. Ich weiß nicht, ob ich dir erzehlt habe, dass mein Bruder in letzten Jahr geheiratet hat und bald bekommt ein Bayby. Ich soll eine Partytante werden, dann fahren wir zum meiem Heimatsland, wenn das kleine Bayby getaucht wird. Ich freue mich jedes Mal, wenn ich meine Famillie sehen kann. 
+Du fragst mich, was ich mir aus Instanbul wünsche. Ich habe viel nachgedach und eingentlich kamm mir gar keine Idee. Aber kannst du mir eine schöne Postkarte schicken. ich werde schon glücklich. Und wenn du kommst treffen wir auf jeden Fall.
+Bis bald
+liebe Grüße
+Julia
+
+----------------
+
+Target hypothesis 1: 
+
+Liebe Dana , Stadt X , 28.02.12 ich gratuliere dir zur bestandenen Prüfung . Ich besuche noch den Deutschkurs und bin dann erst am 28.04. mit dem Kurs fertig . Danach schreibe ich eine Prüfung . Wenn ich meine Prüfung bestehe , möchte ich weitere Kurse machen , um Deutsch zu lernen . Also wir haben schon gedacht , dass wir in diesem Sommer leider keinen Urlaub machen könnten . Ich nutze die Gelegenheit , und hoffe , dass ich endlich meine Liebe erreiche . Außerdem ist es bei uns im Sommer so schön , wir genießen die Natur und machen viele Ausflüge . Vielleicht fahren wir für ein paar Tage nach Polen . Dort leben alle meine Verwandten . Ich weiß nicht , ob ich dir erzählt habe , dass mein Bruder im letzten Jahr geheiratet hat und bald ein Baby bekommt . Ich soll eine Partytante werden , dann fahren wir zu meinem Heimatsland , wenn das kleine Baby getaucht wird . Ich freue mich jedes Mal , wenn ich meine Famillie sehen kann . Du fragst mich , was ich mir aus Instanbul wünsche . Ich habe viel nachgedacht und eigentlich kam mir gar keine Idee . Aber du kannst mir eine schöne Postkarte schicken , ich werde schon glücklich . Und wenn du kommst , treffen wir uns auf jeden Fall . Bis bald , liebe Grüße Julia
+
+----------------
+
+Target hypothesis 2: 
+
+Stadt X , 28.02.12 Liebe Dana , ich gratuliere dir zur bestandenen Prüfung . Ich besuche noch den Deutschkurs und bin dann erst am 28.04. mit ihm fertig . Danach schreibe ich eine Prüfung . Wenn ich meine Prüfung bestehe , möchte ich weitere Kurse machen , um Deutsch zu lernen . Also wir haben schon gedacht , dass wir in diesem Sommer leider keinen Urlaub machen können . Ich nutze die Gelegenheit , und hoffe , dass ich endlich meine Lieben erreiche . Außerdem ist es bei uns im Sommer so schön , dass wir die Natur genießen und viele Ausflüge machen . Vielleicht fahren wir für ein paar Tage nach Polen . Dort leben alle meine Verwandten . Ich weiß nicht , ob ich dir erzählt habe , dass mein Bruder im letzten Jahr geheiratet hat und bald ein Baby bekommt . Ich soll seine Patentante werden , dann fahren wir in mein Heimatland , wenn das kleine Baby getauft wird . Ich freue mich jedes Mal , wenn ich meine Famillie sehen kann . Du fragst mich , was ich mir aus Instanbul wünsche . Ich habe viel nachgedacht und eigentlich kam mir gar keine Idee . Aber du kannst mir eine schöne Postkarte schicken . Damit wäre ich schon glücklich . Und wenn du kommst , treffen wir uns auf jeden Fall . Bis bald , liebe Grüße Julia

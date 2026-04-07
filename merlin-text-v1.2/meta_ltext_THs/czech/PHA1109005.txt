@@ -1,0 +1,40 @@
+METADATA
+
+General:
+Author ID: PHA1109005
+Test language: Czech
+CEFR level of test: B2
+Task : write an essay: Everywhere well but at home the best - ID: B2PS0200_doma
+Mother tongue: Polish
+Age: 2029
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B2
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Všichní mamy rádí Icestovani a zahraniční výlety. Přitom všichní rádí se vždycky vratíme domů, do našeho soukromi a klidu
+Jsem osobně člověk, který nejenom rád cestuje ale taky traví v zahranící delší dobu. Teď bydlim v Praze, v Česke republice, i jsem tady spokojná. Mám tady heskou praci, školu a hodně známych. Prestože jsem tady, a líbí se mi, ráda se vždycky vracím domů, do Polska. Opravdu všude je dobře ale doma nejlépe a domu se ničim nenahrádi.
+Napřiklad na dovolene v luksusním hotelu, u tepleho moře stejně  začína se nam sstiskat a chceme se vracít domů. Opravdu je to heska věc zapomenout na praci a na problemy  ale někdy k tim problemům se  vracit musime. 
+Letos byla jsem na dovolene v Řecku. Počasi býlo vynikající, hotel luksusní, jídlo vyborné. Poznala jsem tam hodně zajimavých lidi a chodili jsme spolu na vylety, plavali sme  a taňcili sme večer spolu na plaži. Sice byl to jedinečný zažitek a zapomněla jsem na praci a školu, ale taky ráda nastoupila jsem do letadla a letěla jsem domů. 
+Všichní mamy rádí zajet si někam na dovolenou. Někdo ma  oblibené opalovat se na pisku a plavat v moři a někdo s radosti zajede na hory a spi ve stanu. Ale jaka by to dovolena nebyla všichní vime, že všude dobře ale doma nejlépe.
+
+----------------
+
+Target hypothesis 1: 
+
+Všichni máme rádi cestování a zahraniční výlety . Přitom se všichni rádi vždycky vrátíme domů , do našeho soukromí a klidu . Jsem osobně člověk , který nejenom rád cestuje , ale taky tráví v zahraničí delší dobu . Teď bydlím v Praze , v České republice , i jsem tady spokojená . Mám tady hezkou práci , školu a hodně známých . Přestože jsem tady , a líbí se mi tady , ráda se vždycky vracím domů , do Polska . Opravdu všude je dobře , ale doma nejlépe a domov se ničím nenahradí . Například na dovolené v luxusním hotelu u teplého moře stejně se nám začíná stýskat a chceme se vrátit domů . Opravdu je to hezká věc zapomenout na práci a na problémy , ale někdy se k těm problémům vrátit musíme . Letos jsem byla na dovolené v Řecku . Počasí bylo vynikající , hotel luxusní , jídlo výborné . Poznala jsem tam hodně zajímavých lidí a chodili jsme spolu na výlety , plavali jsme a tančili jsme večer spolu na pláži . Sice to byl jedinečný zážitek a zapomněla jsem na práci a školu , ale taky jsem ráda nastoupila do letadla a letěla jsem domů . Všichni si rádi zajedou někam na dovolenou . Někdo má oblíbené opalování se na písku a plavání v moři a někdo s radostí zajede na hory a spí ve stanu . Ale jaká by to byla dovolená , všichni víme , že všude dobře , ale doma nejlépe .
+
+----------------
+
+No target hypothesis 2 available.
+

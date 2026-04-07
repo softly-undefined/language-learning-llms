@@ -1,0 +1,29 @@
+METADATA
+
+General:
+Author ID: 1071_0024713
+Test language: German
+CEFR level of test: A1
+Task : ask friend for help for finding apartment - ID: 1071_020200
+Mother tongue: Spanish
+Age: 17
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Lieber Freund
+Hallo Lieber Freund ich habe eine neue Arbeit in Neuburg gefunden. Also Jetzt bin ich eine neue Wohnung suchen, aber ich känne nichts Neuburg. Ich brauche deine Hilfe. Ich brauche diese Wohnung Größe sein, und die Preis ist egal. Die näschte Woche fahre ich nach Neuburg. Bis näschte Woche
+Vielen Dank
+Liebe Grüße
+Maria Meier

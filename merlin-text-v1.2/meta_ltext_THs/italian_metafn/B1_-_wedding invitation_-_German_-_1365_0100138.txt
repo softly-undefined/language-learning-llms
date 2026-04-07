@@ -1,0 +1,43 @@
+METADATA
+
+General:
+Author ID: 1365_0100138
+Test language: Italian
+CEFR level of test: B1
+Task : answer to an wedding invitation - ID: 1365_020300
+Mother tongue: German
+Age: 47
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: C2
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Città X, 22 gennaio '11
+Carro Stefano,
+Cara Beatrice,
+vi ringrazio tanto per il vostro invito -che bella sorpresa.
+Vi auguro tante belle cose per il vostro futuro e mi piace venire a Napoli per festeggiare con voi.
+Ma che cosa posso regalare? Non ho una minima idea. Per piacere, scrivetemi i vostri desideri.
+Tanti cari saluti e a presto
+Maria
+
+----------------
+
+Target hypothesis 1: 
+
+Città X , 22 gennaio ' 11 Caro Stefano , cara Beatrice , vi ringrazio tanto per il vostro invito : che bella sorpresa . Vi auguro tante belle cose per il vostro futuro e mi piace venire a Napoli per festeggiare con voi . Ma che cosa posso regalarvi ? Non ho la minima idea . Per piacere , scrivetemi i vostri desideri . Tanti cari saluti e a presto Maria
+
+----------------
+
+No target hypothesis 2 available.
+

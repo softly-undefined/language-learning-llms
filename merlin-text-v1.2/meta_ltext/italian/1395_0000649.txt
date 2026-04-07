@@ -1,0 +1,28 @@
+METADATA
+
+General:
+Author ID: 1395_0000649
+Test language: Italian
+CEFR level of test: A2
+Task : inform friends about language course - ID: 1395_010300
+Mother tongue: German
+Age: 42
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Cara Daniela, 
+Sono arrivata bene a Città X. Abito in un appartamento con tre altre ragazze gentili. Il corso italiano a già cominciato. La insegnante parla lentemente e io capisco quasi tutto. La gente nella classe à molto diverso. Li sono personi di tutto il mondo. C'è un huomo di Russia, ha settanta anni e gli piace andare a studiare lingue in tutto il mondo, parla gia sei lingue e io ho tanti promplemi con una lingua solo.
+Ti raconterei tutte le storie quando ci vedremo in due settimane a Città X. Non vedo l'ora
+Cari saluti      Maria

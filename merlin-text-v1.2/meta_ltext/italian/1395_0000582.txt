@@ -1,0 +1,31 @@
+METADATA
+
+General:
+Author ID: 1395_0000582
+Test language: Italian
+CEFR level of test: A2
+Task : inform friends about language course - ID: 1395_010300
+Mother tongue: French
+Age: 26
+Gender: female
+
+Rating:
+Overall CEFR rating: A1
+Grammatical accuracy: A1
+Orthography: A1
+Vocabulary range: A1
+Vocabulary control: A1
+Coherence/Cohesion: A1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Caro Marco, 
+come vai? Espero che bene. 
+Io bene. Io sono in sicile per seguito un corso di italiani. 
+el mio insegnante si ciamo daniella e molto simpatica. 
+quando non c'é la lezioni io vado all' ristorante per mangiare la pasta. mi piace molto la pasta italiani.
+Io penso riturnare in Città X da una settimana. 
+ciao mille baci     Maria

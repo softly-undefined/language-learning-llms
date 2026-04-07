@@ -1,0 +1,30 @@
+METADATA
+
+General:
+Author ID: 1071_0024827
+Test language: German
+CEFR level of test: A1
+Task : arrange appointment with friend to go swimming together - ID: 1071_120302
+Mother tongue: French
+Age: 16
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Hello Daniela.
+Wie geht es dir?
+Möchtest du mit mir zu schwimmbad gehen. Am Mittwoch 25. März?
+Du must  ein bikini mitbringen.
+Viele Grusses!!! 
+Stefan

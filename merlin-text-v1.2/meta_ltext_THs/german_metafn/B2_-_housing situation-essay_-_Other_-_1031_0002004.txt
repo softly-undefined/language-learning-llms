@@ -1,0 +1,45 @@
+METADATA
+
+General:
+Author ID: 1031_0002004
+Test language: German
+CEFR level of test: C1
+Task : reporting about the housing situation - ID: 1031_050300
+Mother tongue: other
+Age: 34
+Gender: female
+
+Rating:
+Overall CEFR rating: B2
+Grammatical accuracy: B2
+Orthography: B2
+Vocabulary range: C1
+Vocabulary control: C1
+Coherence/Cohesion: C1
+Sociolinguistic appropriateness: C1
+
+----------------
+
+Learner text: 
+
+Wohnungsmarkt in Stadt X
+In den letzten Jahren ist es zu beobachten, dass der Wohnungsmarkt in der grossen Städten sich verändert hat. 
+Diese Veränderungen des Wohnungsmarktes bringen mit sich an gewisse Schwierigkeiten. So etwas aussert sich (drückt sich aus) auf die Miete, in dem sich viele Mieter nicht mehr in dem gewohnten Umgebung bleiben können.
+Für di Jungen und dynamischen Mieter gibt es in diesem Hinsicht keine Schwierigkeiten. Die Jungen Mieter leben meistens alleine, und Verdienen vor allem genug.
+Die Jungen sind auch sehr flexibel wen es um Veränderungen handelt, und die Stadt bietet viele Vorteile für Sie.
+Ein 3 Zimmer Wohnung in Stadt X kostet ungefähr 2200 CHF.
+Wen man in betracht zieht den Verdienst eines Jungen Arbeitnehmer, dan kan Man sagen das ein Junger Arbeitnehmer so etwass leisten kann. Die Vorteile des grossen Stadtes sollte man auch mitberücksichtigen. Ein Stadbewohner ist sozusagen immer am Mitelpunkt des Geschehens, denken wir man an da Kulturleben den die Stadteinrichtungen bieten usw.
+Daher denke ich das trotz die höhen Mieten, das Wohnen und Arbeiten, Ja Leben in einen Grosstadt zu beführworten ist.
+                                  Stadt X den
+                                  01.04.2011
+
+----------------
+
+Target hypothesis 1: 
+
+Wohnungsmarkt in Stadt X In den letzten Jahren ist zu beobachten , dass der Wohnungsmarkt in den grossen Städten sich verändert hat . Diese Veränderungen des Wohnungsmarktes bringen gewisse Schwierigkeiten mit sich . So etwas äussert sich ( drückt sich aus ) durch die Miete , indem viele Mieter nicht mehr in der gewohnten Umgebung bleiben können . Für die jungen und dynamischen Mieter gibt es in dieser Hinsicht keine Schwierigkeiten . Die jungen Mieter leben meistens alleine und verdienen vor allem genug . Die Jungen sind auch sehr flexibel , wenn es sich um Veränderungen handelt , und die Stadt bietet viele Vorteile für Sie . Eine 3-Zimmer-Wohnung in Stadt X kostet ungefähr 2200 CHF . Wenn man den Verdienst eines jungen Arbeitnehmers in Betracht zieht , dann kann man sagen , dass ein junger Arbeitnehmer sich so etwas leisten kann . Die Vorteile der grossen Städte sollte man auch mitberücksichtigen . Ein Stadbewohner ist sozusagen immer im Mittelpunkt des Geschehens , denken wir mal an das Kulturleben , das die Stadteinrichtungen bieten usw . Daher denke ich , dass trotz der hohen Mieten das Wohnen und Arbeiten , ja das Leben in einer Grossstadt , zu befürworten ist . Stadt X , den 01.04.2011
+
+----------------
+
+No target hypothesis 2 available.
+

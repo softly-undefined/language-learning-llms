@@ -1,0 +1,39 @@
+METADATA
+
+General:
+Author ID: PHA0411060
+Test language: Czech
+CEFR level of test: B2
+Task : write an essay: No pain no gain - ID: B2PS0202_kolace
+Mother tongue: Russian
+Age: 2029
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B2
+Vocabulary range: B1
+Vocabulary control: B2
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Mýslím, že každý člověk to ví už ze školky. Během našeho života tato věc jenom se potvrzuje. Každý krát naše cíly se zvyšuje i každý krát musím udělat víc, abychom je dosahli.
+Nemůžu s touto mýšlenkou nesouhlasit, protože všechi známi lidi, buď v literatuře, kině a hudbě, nebo v politice, vědě a architektuře dosahli velkého úspěchu díky své pracovitosti a trpělivosti. Je to : T. Masaryk, M. Forman, B. Smetana, Kundera, Menděleev, Puškin, Mozart, Bach, Picaso, Ejfel a můžu pokračovat dál a dál, protože ten seznám je nekonečný.
+Vím, že nikdo nedá mně chleb nebo tričko zdárma, nikdo nevozme mě na univerzitu bez zkoušek a na práce bez dobrých výsledku. Tomu mě naučili moji milí rodiče, a proto už pochopila slovu "práce" už z dětstí. Mám svou velkou zkušenost. Studuju v České republice díky stipendiu, který jsem výhrala v Moldavské republice. Ale jen já vím, jak jsem ho dostala. Mnoho let jsem musela studovat a hodně pracovat nad svou seberealizací. Kdy mi bylo šest let chodila jsem do školy, do hudební školy a do choreografické školy. Začala jsem pracovat od dvanácti let a v šestnáct jsem byla manažerkou skupiny žen ve firmě firma X. Byla jsem prezidentkou lycea, ve kterém jsem studovala a vím, kolik musíš udělat a organizovat, aby se něco nového a zajímavého proběhlo.
+"Bez práce nejsou koláče". je moto mého života. Mýslím, že stejné moto života můžou mít lidi, kteří rádi pracovat a rozumějí, že aby naši sny byly realizovány, musím hodně pracovat.
+
+----------------
+
+Target hypothesis 1: 
+
+Myslím , že každý člověk to ví už ze školky . Během našeho života se tato věc jenom potvrzuje . Každýkrát se naše cíle zvyšují a každýkrát musíme udělat víc , abychom jich dosáhli . Nemůžu s touto myšlenkou nesouhlasit , protože všichni známí lidé buď v literatuře , kině a hudbě , nebo v politice , vědě a architektuře dosáhli velkého úspěchu díky své pracovitosti a trpělivosti . Je to : T . Masaryk , M . Forman , B . Smetana , Kundera , Mendělejev , Puškin , Mozart , Bach , Picasso , Eiffel a můžu pokračovat dál a dál , protože ten seznam je nekonečný . Vím , že mně nikdo nedá chléb nebo tričko zdarma , nikdo mě nevezme na univerzitu bez zkoušek a do práce bez dobrých výsledků . Tomu mě naučili moji milí rodiče , a proto jsem pochopila slovo " práce " už v dětství . Mám svou velkou zkušenost . Studuju v České republice díky stipendiu , které jsem vyhrála v Moldavské republice . Ale jen já vím , jak jsem ho dostala . Mnoho let jsem musela studovat a hodně pracovat na své seberealizaci . Když mi bylo šest let , chodila jsem do školy , do hudební školy a do choreografické školy . Začala jsem pracovat od dvanácti let a v šestnácti jsem byla manažerkou skupiny žen ve firmě firma X . Byla jsem prezidentkou lycea , ve kterém jsem studovala , a vím , kolik toho musíš udělat a organizovat , aby něco nového a zajímavého proběhlo . " Bez práce nejsou koláče " je motto mého života . Myslím , že stejné motto života můžou mít lidé , kteří rádi pracují a rozumějí , že aby naše sny byly realizovány , musíme hodně pracovat .
+
+----------------
+
+No target hypothesis 2 available.
+

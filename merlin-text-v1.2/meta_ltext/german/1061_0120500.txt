@@ -1,0 +1,30 @@
+METADATA
+
+General:
+Author ID: 1061_0120500
+Test language: German
+CEFR level of test: B1
+Task : write a letter for New Year to a friend - ID: 1061_110101
+Mother tongue: Spanish
+Age: 29
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Liebe Michael
+vielen Dank für deine Brief. Die Silvesternacht war Gut. Wir haben nach Spanien gereist und wir waren unserer Elter besucht. Es war sehr Lustig. Meine Oma hate ein gemusse Kuche gekocht und wir haben alle Zussamen gegessen.
+Ich hoffe deine Ausbildung als Becker dich gehelfen am Arbeit in das neuen Jahr zu suchen Ja klar, wir mussen Zussamen zu treffen, aber jetz ich habe viel zu tun. Habt Ihr Zeit nechte Woche?
+Ich bin Zufrieden in meine Beruf. Ich habe viel ArbeitReise gemach. Doch Ich musse viel Konference zu gern und interessant Personen zu kemnen.
+Herzliche Grüße
+Stefan

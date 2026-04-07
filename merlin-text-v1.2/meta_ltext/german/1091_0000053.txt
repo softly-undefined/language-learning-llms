@@ -1,0 +1,31 @@
+METADATA
+
+General:
+Author ID: 1091_0000053
+Test language: German
+CEFR level of test: A2
+Task : ask friend to take care of pet - ID: 1091_0650102
+Mother tongue: Polish
+Age: 23
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A1
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A1
+Coherence/Cohesion: A1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+                          Stadt X 06.01.2012
+Libe Julia
+Ich muss am Donnerstag nach Berlin fharen, abe ich kann nicht meine Katze mitnehmen. Kannst du dich meine Katze füttern. Ich werfe Meine Schlüsse  beim meine nachbarine frau Müller. Bitte nicht vergessen
+Am Sonntag bin ich zurück fharen.
+Danke im für Hillfe
+Mit freundlichen Grüßen
+Eva Schmidt

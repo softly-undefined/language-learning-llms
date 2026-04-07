@@ -1,0 +1,39 @@
+METADATA
+
+General:
+Author ID: 1385_0001796
+Test language: Italian
+CEFR level of test: A1
+Task : help a friend who is looking for work - ID: 1385_040101
+Mother tongue: German
+Age: 37
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: B1
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A1
+
+----------------
+
+Learner text: 
+
+Ciao Luca,
+grazie per la tua email. Vorrei aiutarti, ma ho bisogno di qualche informazione in piu. Puoi dirmi dove lavori adesso e che tipo di ativita svolgi atualmente? Vorrei sapere che tipo di lavoro in futuro vorresti fare é quando potresti iniziare al posto di lavoro nuovo. 
+In atesa per le informazioni ricieste ti saluto cordilmente , Michele
+
+
+----------------
+
+Target hypothesis 1: 
+
+Ciao Luca , grazie per la tua email . Vorrei aiutarti , ma ho bisogno di qualche informazione in più . Puoi dirmi dove lavori adesso e che tipo di attività svolgi attualmente ? Vorrei sapere che tipo di lavoro in futuro vorresti fare e quando potresti iniziare al nuovo posto di lavoro . In attesa delle informazioni richieste ti saluto cordialmente , Michele
+
+----------------
+
+No target hypothesis 2 available.
+

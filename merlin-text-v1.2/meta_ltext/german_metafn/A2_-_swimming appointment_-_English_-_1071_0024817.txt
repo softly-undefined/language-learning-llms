@@ -1,0 +1,27 @@
+METADATA
+
+General:
+Author ID: 1071_0024817
+Test language: German
+CEFR level of test: A1
+Task : arrange appointment with friend to go swimming together - ID: 1071_120302
+Mother tongue: English
+Age: 23
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A1
+
+----------------
+
+Learner text: 
+
+Hallo Daniela!
+Magst du mit mich zu Strand gehen? Wir sollen um 8 Uhr zu Zentralplatz treffen. Bringst dir kleidung für das strand. mit. Wir konnen  zusammen schwimmen!!
+Auf Wiedersehn,

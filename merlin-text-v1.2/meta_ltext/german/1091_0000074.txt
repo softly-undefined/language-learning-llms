@@ -1,0 +1,30 @@
+METADATA
+
+General:
+Author ID: 1091_0000074
+Test language: German
+CEFR level of test: A2
+Task : letter to housing office - ID: 1091_0610301
+Mother tongue: not reported
+Age: 29
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Sehr geeherter Damen und Herren, 
+ich brauche eine neue Wohnung mit 3 bis 4 Zimmern. Ich brauche eine große Küche, Wohnzimmer, Schlafzimmer und zwei Kindern Zimmer. 
+Ich brauche auch eine große Balkon.
+Die Miete kostet bis 800 Euro. Wem Sie fragen haben, bitte rufen Sie zu uns.
+Mit freundliche Grüße
+Julia

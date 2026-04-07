@@ -1,0 +1,43 @@
+METADATA
+
+General:
+Author ID: 0914
+Test language: Czech
+CEFR level of test: B1
+Task : answer to the email of Jana - ID: 2_Jana
+Mother tongue: German
+Age: not reported
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: A2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Ahoj Jano!
+Jsem moc ráda, že jsi mi psala! Mám  se dobře děkuju a těší me za tvoje pozvaní. Chcem cestovat  do Praze!!! Teď mám taký zkoušky a musím studovat moc ... ale v březnu mám čas a zůstávala bych všechní víkend. Prohlížela bych miesto s tobě :-)
+Ale kde bydlíš teď? Jak se vola ulici a můžem jet tam s metrem? Jaké metro? A kolik stojí lístek???
+Máš narozeniny a nemám žádný dárek :-( Co chceš ... máš nějaky specialní přání? A potřebuješ něco z Německo? Pojedeme autem a mám mnoho prostor! (Tak, mám nové auto!!!)
+Tak, pro dnešek končím, protože nemám jiný novinky za můj život. Musím studovat a můžem byt závistivá, že ty budeš cestovat do  Italii ... :-) Šťastnou cestu a pozdravuj Petře!
+Čau!
+Sabine
+
+----------------
+
+Target hypothesis 1: 
+
+Ahoj Jano ! Jsem moc ráda , že jsi mi napsala ! Mám se dobře , děkuju , a těší mě tvoje pozvání . Chci cestovat do Prahy ! ! ! Teď mám taky zkoušky a musím studovat moc ... ale v březnu mám čas a zůstala bych všechen víkend . Prohlížela bych město s tebou :-) Ale kde teď bydlíš ? Jak se volá ulice ? A můžu tam jet metrem ? Jaké metro ? A kolik stojí lístek ? ? ? Máš narozeniny a nemám žádný dárek :-( Co chceš ... máš nějaké speciální přání ? A potřebuješ něco z Německa ? Pojedeme autem a mám mnoho prostoru ! ( Tak , mám nové auto ! ! ! ) Tak , pro dnešek končím , protože nemám jiné novinky ze svého života . Musím studovat a můžu být závistivá , že ty budeš cestovat do Itálie ... :-) Šťastnou cestu a pozdravuj Petra ! Čau ! Sabine
+
+----------------
+
+Target hypothesis 2: 
+
+Ahoj Jano ! Jsem moc ráda , že jsi mi napsala ! Mám se dobře , děkuju , a těší mě tvoje pozvání . Chci cestovat do Prahy ! ! ! Teď mám taky zkoušky a musím studovat moc ... ale v březnu mám čas a zůstala bych každý víkend . Prohlížela bych město s tebou :-) Ale kde teď bydlíš ? Jak se jmenuje ulice ? A můžu tam jet metrem ? Jaké metro ? A kolik stojí lístek ? ? ? Máš narozeniny a nemám žádný dárek :-( Co chceš ... máš nějaké speciální přání ? A potřebuješ něco z Německa ? Pojedeme autem a mám mnoho prostoru ! ( Tak , mám nové auto ! ! ! ) Tak , pro dnešek končím , protože nemám jiné novinky ze svého života . Musím studovat a můžu být závistivá , že ty budeš cestovat do Itálie ... :-) Šťastnou cestu a pozdravuj Petra ! Čau ! Sabine

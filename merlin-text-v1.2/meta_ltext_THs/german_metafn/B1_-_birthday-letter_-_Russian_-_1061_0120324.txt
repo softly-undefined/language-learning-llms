@@ -1,0 +1,41 @@
+METADATA
+
+General:
+Author ID: 1061_0120324
+Test language: German
+CEFR level of test: B1
+Task : write a letter to a friend (birthday) - ID: 1061_170900
+Mother tongue: Russian
+Age: 57
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B2
+
+----------------
+
+Learner text: 
+
+                                                    Stadt X, den 24.02.2012
+Liebe Olga,
+wie geht es dir und deiner Kinder, bist du Gesund? Bei uns ist alles gut.
+Maria besucht Sprachkurs und schreibe Bewerbung von Ausbildung. Ich gehe auch zum Sprachkurs. Wir haben keine Tiere, aber Maria willt Katze. Ich will zum Geburstag eine schöne Katze schenke. 
+Du hast auch Geburstag, ich wünsche dir viele Glück und Gesundheit und viel Spaß zum deine Arbeit. Ich denke nächte Jahre möchte ich Euch besuchen. Ich spare bisshen Geld und fliege mit Flug. Ich habe so lang euch nicht geseen. Ich liebe dich. Deine Schwecter. Hoffentlich bis bald
+Eva
+
+----------------
+
+Target hypothesis 1: 
+
+Stadt X , den 24.02.2012 Liebe Olga , wie geht es dir und deinen Kindern , bist du gesund ? Bei uns ist alles gut . Maria besucht einen Sprachkurs und ich schreibe eine Bewerbung für die Ausbildung . Ich gehe auch zum Sprachkurs . Wir haben keine Tiere , aber Maria will eine Katze . Ich will zum Geburtstag eine schöne Katze schenken . Du hast auch Geburtstag , ich wünsche dir viel Glück und Gesundheit und viel Spaß bei deiner Arbeit . Ich denke , die nächsten Jahre möchte ich euch besuchen . Ich spare ein bisschen Geld und fliege mit einem Flug . Ich habe euch so lang nicht gesehen . Ich liebe dich . Deine Schwester . Hoffentlich bis bald Eva
+
+----------------
+
+No target hypothesis 2 available.
+

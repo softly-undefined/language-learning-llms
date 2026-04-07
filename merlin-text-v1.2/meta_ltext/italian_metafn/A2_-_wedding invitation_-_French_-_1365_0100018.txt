@@ -1,0 +1,33 @@
+METADATA
+
+General:
+Author ID: 1365_0100018
+Test language: Italian
+CEFR level of test: B1
+Task : answer to an wedding invitation - ID: 1365_020300
+Mother tongue: French
+Age: 37
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B2
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Rossi Maria
+44, Strada Maggiore
+12345 Città X
+A Città X
+15/03/2010
+Cari Amici,
+Vengo felicitarvi e voi presento le mia tanti auguri per vostro matrimonio. Io vi ringrazio di avermi invitare, però non potrei venire perché devo andare in Francia per vedere la mia famiglia, che no visto di dopo le vacanzia di natal. Vorrei sapere né voi avete una lista di nozze perché vorrei farvi un regalo che vi piacera. Io vi lascio in sperando che vi erate un bello tempo per vostro matrimonio e profitate questa giorna memorabilita. 
+in sperando vedervi presto, io vi embraccio.
+Maria

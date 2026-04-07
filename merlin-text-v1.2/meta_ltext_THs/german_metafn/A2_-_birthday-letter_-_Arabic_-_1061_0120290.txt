@@ -1,0 +1,44 @@
+METADATA
+
+General:
+Author ID: 1061_0120290
+Test language: German
+CEFR level of test: B1
+Task : write a letter to a friend (birthday) - ID: 1061_170900
+Mother tongue: Arabic
+Age: 57
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+                                       Stadt X, 27.02.2012
+Liebe Silke,
+wie geht es Ihnen,
+ich freue mich von deine Brief und gehe schon sehr gut für deine Kinder.
+Ich freue mich euch besuchen. Mein Geburtstag ist nacheste Woche am Samstag. auch Ich mage Tiere aber Ich würde gern eine perfum von Carrtar oder Dior haben.
+Wie geht es dein Mann und deinen Kinder. Ich gehe schon in meine Schule und habe Ich nicht so viel Zeit, aber mein Mann steht zu Hause und hat so viel Zeit und kümmert sich um uns.
+Jeden falls würde diene besuchen uns sehr freuen.
+Hoffentlich bis bald
+Julia
+
+----------------
+
+Target hypothesis 1: 
+
+Stadt X , 27.02.2012 Liebe Silke , wie geht es Ihnen ? Ich freue mich über deinen Brief und gehe schon sehr gut mit deinen Kindern . Ich freue mich euch zu besuchen . Mein Geburtstag ist nächste Woche am Samstag . Auch ich mag Tiere , aber ich würde gern ein Parfum von Carrtar oder Dior haben . Wie geht es deinem Mann und deinen Kindern ? Ich gehe schon in meine Schule und habe nicht so viel Zeit , aber mein Mann steht zu Hause und hat so viel Zeit und kümmert sich um uns . Jedenfalls würde dein Besuch uns sehr freuen . Hoffentlich bis bald Julia
+
+----------------
+
+No target hypothesis 2 available.
+

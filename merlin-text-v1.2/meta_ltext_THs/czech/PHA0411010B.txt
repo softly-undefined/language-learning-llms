@@ -1,0 +1,42 @@
+METADATA
+
+General:
+Author ID: PHA0411010B
+Test language: Czech
+CEFR level of test: A2
+Task : describe a photo: swimming in the sea - ID: A2PS0202_more
+Mother tongue: English
+Age: 3039
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A1
+Orthography: B1
+Vocabulary range: A1
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Fotografii má dva lidi, tatinek s ho synem. 
+Jsou v moří blizko ostrov.
+Jedou na moře protože je v leté a mají dovolenu. V leté syn nemá škole a proto rodina má vic čas na dovoleno.
+Tatinek a syn hraji v moří. Tatinek musi pomoct  protože syn je malý.
+Tatinek a syn mají oblečeny na vodu. Tatinek má slunečný brychle taky.
+Cítí s veselí a spokojní s slunicim, vodou, a časem sobě. 
+Říkají o vodu a co budou dělat po moře.
+
+----------------
+
+Target hypothesis 1: 
+
+Fotografie má dva lidi , tatínka s jeho synem . Jsou u moře blízko ostrova . Jeli k moři , protože je léto a mají dovolenou . V létě syn nemá školu , a proto má rodina víc času na dovolenou . Tatínek a syn si hrají v moři . Tatínek mu musí pomoct , protože syn je malý . Tatínek a syn mají oblečení do vody . Tatínek má taky slunečné brýle . Cítí se veselí a jsou spokojení se sluncem , vodou a společným časem . Mluví o vodě a co budou dělat po moři .
+
+----------------
+
+No target hypothesis 2 available.
+

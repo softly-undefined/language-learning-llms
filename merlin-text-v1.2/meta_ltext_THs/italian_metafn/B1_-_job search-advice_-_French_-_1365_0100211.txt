@@ -1,0 +1,47 @@
+METADATA
+
+General:
+Author ID: 1365_0100211
+Test language: Italian
+CEFR level of test: B1
+Task : help a friend who is looking for work after school-leaving exam - ID: 1365_040501
+Mother tongue: French
+Age: 33
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: C1
+Vocabulary range: B2
+Vocabulary control: B2
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+                                                                                                          Città X, 18 giugno 2011 
+Caro Francesco, 
+Come stai? Mi sembra che tutto vada molto bene per te! Tanti auguri per il tuo esame sopratutto l'hai superato benissimo! Penso che sia una buona idea di continuare con i tuoi studi universitari perché sei ancora molto giovane ed è sempre meglio di tenere alcuni certificati di più per trovare un lavoro piacevole!
+Anzi, se ti piacerebbe te posso dare una mano per scegliere un'università famosa.
+ 
+Io invece ho cominciato un nuovo lavoro che mi piace moltissimo. Sono, anch'io, molto felice! Questo lavoro è veramente ottimo! All'inizio è sempre dificile cambiare lavoro ma piano piano sarà meglio. Devo abituarmi. Ogni giorno devo sviluppare altri sistemi informativi dunque è molto interessante. 
+Non mi ricordo se ti l'ho gia detto ma sono innamorata! Si chiama Mario e mi ha fatto un regalo molto piacevole: un fine settimana a Roma. È tanto romantico, no? Non sono ancora sicura ma penso che sia l'uomo della mia vitta!!! Magari ...
+Spero veramente di sentirti presto. 
+Tanti saluti e un caro abbraccio
+Bacione, 
+Maria
+
+----------------
+
+Target hypothesis 1: 
+
+Città X , 18 giugno 2011 Caro Francesco , come stai ? Mi sembra che tutto vada molto bene per te ! Tanti auguri per il tuo esame , soprattutto l' hai superato benissimo ! Penso che sia una buona idea continuare con i tuoi studi universitari perché sei ancora molto giovane ed è sempre meglio tenere alcuni certificati in più per trovare un lavoro piacevole ! Anzi , se ti piace , ti posso dare una mano per scegliere un' università famosa . Io invece ho cominciato un nuovo lavoro che mi piace moltissimo . Sono anch' io molto felice ! Questo lavoro è veramente ottimo ! All' inizio è sempre difficile cambiare lavoro ma piano piano sarà meglio . Devo abituarmi . Ogni giorno devo sviluppare altri sistemi informativi dunque è molto interessante . Non mi ricordo se te l' ho già detto ma sono innamorata ! Si chiama Mario e mi ha fatto un regalo molto piacevole : un fine settimana a Roma . È tanto romantico , no ? Non sono ancora sicura ma penso che sia l' uomo della mia vita ! ! ! Magari ... Spero veramente di sentirti presto . Tanti saluti e un caro abbraccio . Bacione , Maria
+
+----------------
+
+Target hypothesis 2: 
+
+Città X , 18 giugno 2011 Caro Francesco , come stai ? Mi sembra che tutto vada molto bene per te ! Tanti auguri per il tuo esame , sopratutto l' hai superato benissimo ! Penso che sia una buona idea continuare con i tuoi studi universitari perché sei ancora molto giovane ed è sempre meglio avere alcuni certificati in più per trovare un lavoro piacevole ! Anzi , se ti fa piacere , ti posso dare una mano per scegliere un' università famosa . Io invece ho cominciato un nuovo lavoro che mi piace moltissimo . Sono anch' io molto felice ! Questo lavoro è veramente ottimo ! All' inizio è sempre difficile cambiare lavoro ma piano piano andrà meglio . Devo abituarmi . Ogni giorno devo sviluppare nuovi sistemi informativi dunque è molto interessante . Non mi ricordo se te l' ho già detto ma sono innamorata ! Lui si chiama Mario e mi ha fatto un regalo molto piacevole : un fine settimana a Roma . È tanto romantico , no ? Non sono ancora sicura ma penso che sia l' uomo della mia vita ! ! ! Magari ... Spero veramente di sentirti presto . Tanti saluti e un caro abbraccio . Bacione , Maria

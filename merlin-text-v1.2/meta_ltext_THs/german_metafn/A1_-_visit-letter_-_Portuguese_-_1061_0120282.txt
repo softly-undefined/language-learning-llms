@@ -1,0 +1,38 @@
+METADATA
+
+General:
+Author ID: 1061_0120282
+Test language: German
+CEFR level of test: B1
+Task : write a letter to a friend (visit) - ID: 1061_130101
+Mother tongue: Portuguese
+Age: 25
+Gender: female
+
+Rating:
+Overall CEFR rating: A1
+Grammatical accuracy: A1
+Orthography: A2
+Vocabulary range: A1
+Vocabulary control: A1
+Coherence/Cohesion: A1
+Sociolinguistic appropriateness: A1
+
+----------------
+
+Learner text: 
+
+Liebe Dana                      Stadt X 22.02.2012
+im Sommer ich besucht ihn. Du hast einen sehr gut Prüfung geschrib.
+in istanbul sie besucht seinen Onkel und seine tante, die schon seit 10 Jahren hier Leben.
+
+----------------
+
+Target hypothesis 1: 
+
+Liebe Dana , Stadt X 22.02.2012 im Sommer besuche ich ihn . Du hast eine sehr gute Prüfung geschrieben . In Istanbul besucht sie seinen Onkel und seine Tante , die schon seit 10 Jahren hier leben .
+
+----------------
+
+No target hypothesis 2 available.
+

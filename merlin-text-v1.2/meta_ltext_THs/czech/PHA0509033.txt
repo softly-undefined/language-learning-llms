@@ -1,0 +1,40 @@
+METADATA
+
+General:
+Author ID: PHA0509033
+Test language: Czech
+CEFR level of test: B2
+Task : write an essay: Everywhere well but at home the best - ID: B2PS0200_doma
+Mother tongue: Polish
+Age: 2029
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Všude dobře, doma nejlépe
+Dům je to místo velmí důležite v životě každeho človeka. Místo kde žije, občas pracuje, odpočiva, a take to misto kde nejradiěji vráce. Ja taky mám moc rada můj dům. Často cestuju, v zahraničí travim moc  času  - cesty davaji mí nove  zkušenosti, poznavam lidí, divám se na zajímavé viecí, ale ho dům mam rada předevšim. Můj koníček to hudba, a koncerty. Jezdím mnoho, a často po Evropě. divam se na zajimave koncerty,   pracuju, ale kdy se vratim doma jsem štastna. Mysim, že každy človek nejlepe odpočiva v domu. Dům to nejen misto života, to take (předevšim?) lide.  - rodina. Dům to pro mně maminka, tatínek, a take zviřátka.  Maminka, a její kuchyne, tatinek, a jeho smysl pro humor to všechno dáva spolu nejlepši vzpominky a take počit, že to je moje místo. 
+Kdy cestuju, a mnoho dní travím v hotelech, jím na čerpacích stanicech  často myslím o domů, ale take vím, že nechtěla bych změnit sveho živote. Myslim, že človek ktery často cestuje lepe ví co to je dům, a jak on je důležity v životě.
+Mnoho mladycn lidi mysli, že dům to jen misto k spaní, ale to neni pravda. Dům to podle meho názoru nejduležitejší místo na zemí.
+
+----------------
+
+Target hypothesis 1: 
+
+Všude dobře , doma nejlépe Dům je místo velmi důležité v životě každého člověka . Místo , kde žije , občas pracuje , odpočívá , a také to místo , kam se nejraději vrací . Já taky mám moc ráda svůj dům . Často cestuju , v zahraničí trávím moc času - cesty mi dávají nové zkušenosti , poznávám lidi , dívám se na zajímavé věci , ale dům mám ráda především . Můj koníček je hudba a koncerty . Jezdím mnoho a často po Evropě . Dívám se na zajímavé koncerty , pracuju , ale když se vrátím domů , jsem šťastná . Myslím , že každý člověk nejlépe odpočívá v domu . Dům , to je nejen místo života , ale také ( především ? ) lidé . Rodina . Dům , to je pro mě maminka , tatínek a také zvířátka . Maminka a její kuchyně , tatínek a jeho smysl pro humor , to všechno spolu dává nejlepší vzpomínky a také pocit , že to je moje místo . Když cestuju a mnoho dní trávím v hotelech , jím na čerpacích stanicích , často myslím na dům , ale také vím , že bych nechtěla změnit svůj život . Myslím , že člověk , který často cestuje , lépe ví , co to je dům a jak je důležitý v životě . Mnoho mladých lidí si myslí , že dům je jen místo ke spaní , ale to není pravda . Dům , to je podle mého názoru nejdůležitější místo na zemi .
+
+----------------
+
+Target hypothesis 2: 
+
+Všude dobře , doma nejlépe Domov je místo velmi důležité v životě každého člověka . Místo , kde žije , občas pracuje , odpočívá , a také to místo , kam se nejraději vrací . Já taky mám moc ráda svůj domov . Často cestuju , v zahraničí trávím hodně času - cesty mi dávají nové zkušenosti , poznávám lidi , dívám se na zajímavé věci , ale domov mám ráda především . Můj koníček je hudba a koncerty . Jezdím mnoho a často po Evropě . Dívám se na zajímavé koncerty , pracuju , ale když se vrátím domů , jsem šťastná . Myslím , že každý člověk nejlépe odpočívá doma . Domov , to je nejen místo života , ale také ( především ? ) lidé . Rodina . Domov , to je pro mě maminka , tatínek a také zvířátka . Maminka a její kuchyně , tatínek a jeho smysl pro humor , to všechno spolu vyvolává nejlepší vzpomínky a také pocit , že to je moje místo . Když cestuju a mnoho dní trávím v hotelech , jím na čerpacích stanicích , často myslím na domov , ale také vím , že bych nechtěla změnit svůj život . Myslím , že člověk , který často cestuje , lépe ví , co to je domov a jak je důležitý v životě . Mnoho mladých lidí si myslí , že domov je jen místo ke spaní , ale to není pravda . Domov , to je podle mého názoru nejdůležitější místo na zemi .

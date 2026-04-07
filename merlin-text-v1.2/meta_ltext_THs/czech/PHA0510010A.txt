@@ -1,0 +1,37 @@
+METADATA
+
+General:
+Author ID: PHA0510010A
+Test language: Czech
+CEFR level of test: A2
+Task : write an email to a hotel - ID: A2PS0101_hotel
+Mother tongue: Russian
+Age: 3039
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+DOBRY DEN! PISĚ VAM PAN ČERNÝ  CHteL BYCH ZAREZERVOVAT POKOJ PRO MNE A KAMARADA EStLí MATE VOLNE A KOLIK TO BUDE STOJIt PRO DVĚ OSOBY? RESTAURACE NEBO NEJKY JDLO? MAtE BESPLATNE HLIDANE PARKOVIŠte? CHteLI BYCH ZAČAT LYŽOVAT, A PROTO POTŘEBUJEM LYŽARSKeHO INSTRUKTORA JSME ZAČAtEČNIKY PROTO POTŘEBUJEM DOBRU ŠKOLU! TeŠIME SE NA ODPOVEĎ A NaSCHLEDANOU.
+15.05.2010 PAN ČERNÝ
+
+----------------
+
+Target hypothesis 1: 
+
+DOBRÝ DEN ! PÍŠE VÁM PAN ČERNÝ . CHTĚL BYCH ZAREZERVOVAT POKOJ PRO MNE A KAMARÁDA , JESTLI MÁTE VOLNO . A KOLIK TO BUDE STÁT PRO DVĚ OSOBY ? JE TAM RESTAURACE NEBO NĚJAKÉ JÍDLO ? MÁTE BEZPLATNÉ HLÍDANÉ PARKOVIŠTĚ ? CHTĚLI BYCHOM ZAČÍT LYŽOVAT , A PROTO POTŘEBUJEME LYŽAŘSKÉHO INSTRUKTORA . JSME ZAČÁTEČNÍKY , PROTO POTŘEBUJEME DOBROU ŠKOLU ! TĚŠÍME SE NA ODPOVĚĎ A NA SHLEDANOU . 15.05.2010 PAN ČERNÝ
+
+----------------
+
+No target hypothesis 2 available.
+

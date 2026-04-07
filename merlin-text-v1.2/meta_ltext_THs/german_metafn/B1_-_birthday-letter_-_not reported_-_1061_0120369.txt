@@ -1,0 +1,43 @@
+METADATA
+
+General:
+Author ID: 1061_0120369
+Test language: German
+CEFR level of test: B1
+Task : write a letter to a friend (birthday) - ID: 1061_170900
+Mother tongue: not reported
+Age: 29
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+                                                             27/02/2012,
+                                                             Stadt X
+Lieber Silke,
+Ich geht ganz gut und danke fur die frage. Meiner family geht sehr (ganz) gut. Ich hat, sechs monat alten Kind, Julia. Mein mann arbeitet für die UN, im Stadt X. 
+Meine freuenden gibt eine große Party fur meine Geburtstag mit thema "Urlaub" Diese Jahr.. Das ist sehr Interassant fur mich.
+Im moment, Ich denke für diese Jahr urlaub mit meine Family im May oder September Von Deutchland bis USA oder India. Danach, Ich glaube meine Family sehr frei Zeit & Ihm anrufen sie für die informationen über "ein paar tage" besuchen.
+Hoffentlich bis bald,
+Winkelmann
+
+----------------
+
+Target hypothesis 1: 
+
+27/02/2012 , Stadt X Liebe Silke , ich gehe ganz gut und danke für die Frage . Meiner Familie geht es sehr ( ganz ) gut . Ich habe ein sechs Monate altes Kind , Julia . Mein Mann arbeitet für die UN , in Stadt X . Meine Freundin gibt eine große Party für meinen Geburtstag mit dem Thema " Urlaub " dieses Jahr .. Das ist sehr interessant für mich . Im Moment denke ich für dieses Jahr , Urlaub mit meiner Familie im Mai oder September von Deutschland bis in die USA oder Indien . Danach glaube ich hat meine Familie sehr viel freie Zeit & wird ihn anrufen für die Informationen über ein paar Tage Besuch . Hoffentlich bis bald , Winkelmann
+
+----------------
+
+No target hypothesis 2 available.
+

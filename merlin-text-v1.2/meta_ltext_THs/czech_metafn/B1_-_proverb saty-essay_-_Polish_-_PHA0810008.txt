@@ -1,0 +1,38 @@
+METADATA
+
+General:
+Author ID: PHA0810008
+Test language: Czech
+CEFR level of test: B2
+Task : write an essay: Clothes make the man - ID: B2PS0201_saty
+Mother tongue: Polish
+Age: 2029
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B2
+Orthography: B1
+Vocabulary range: B2
+Vocabulary control: B1
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Šaty dělají člověka
+Obecné se řiká, že šaty dělají člověka. Toto přísloví neplati jen pro naše oblečení, ale maširší význam: ostatní lide vnimají nas ne podle toho, kím opravdu jsme, ale podle toho co o nas věději a taky podle toho, jak se tvářime. Je to srozumitelné, protože nikdo nesmi vědět, co si opravdu myslíme a jaky máme opravdu charakter. Často to ani sami nevíme. Podle toho je přísloví, že šaty dělají člověka, na prvni pohled pravdivé.
+Na druhé strane s tímto příslovím nemuže souhlasit žadna švadlena nebo modní navrhařka. Pro ní je samozřejmým, že to člověk děla šaty, a ne naopak. I když nám tento názor připada zvláštně, je v ním kus pravdy. To, jak se prezentujeme, jak se tvářime, a konečné tak co nosíme, zaleži do jisté míry jen na nás. Mame možnost aktivně ovlivňovat to, co o nas myslejí ostatní lide. tímto vidime, že přísloví, že šaty dělají člověka, je jen častečně pravdive. Můžeme je vidět na dva spůsoby, jak skoro každe přísloví.
+
+----------------
+
+Target hypothesis 1: 
+
+Šaty dělají člověka Obecně se říká , že šaty dělají člověka . Toto přísloví neplatí jen pro naše oblečení , ale má širší význam : ostatní lidé nás vnímají ne podle toho , kým opravdu jsme , ale podle toho , co o nás vědí , a taky podle toho , jak se tváříme . Je to srozumitelné , protože nikdo nesmí vědět , co si opravdu myslíme a jaký máme opravdu charakter . Často to ani sami nevíme . Podle toho je přísloví , že šaty dělají člověka , na první pohled pravdivé . Na druhé straně s tímto příslovím nemůže souhlasit žádná švadlena nebo módní návrhářka . Pro ni je samozřejmým , že to člověk dělá šaty a ne naopak . I když nám tento názor připadá zvláštní , je v něm kus pravdy . To , jak se prezentujeme , jak se tváříme a konečně taky co nosíme , záleží do jisté míry jen na nás . Máme možnost aktivně ovlivňovat to , co si o nás myslí ostatní lidé . Tímto vidíme , že přísloví , že šaty dělají člověka , je jen částečně pravdivé . Můžeme je vidět na dva způsoby , jako skoro každé přísloví .
+
+----------------
+
+No target hypothesis 2 available.
+

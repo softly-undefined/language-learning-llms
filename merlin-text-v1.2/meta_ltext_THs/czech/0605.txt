@@ -1,0 +1,47 @@
+METADATA
+
+General:
+Author ID: 0605
+Test language: Czech
+CEFR level of test: B1
+Task : answer to the email of Alena - ID: 1_Alena
+Mother tongue: German
+Age: not reported
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Milá Aleno!
+Děkuji Ti mnohokrát za Tvůj email, dostala  jsem je před týdnem! Mám moc černé svědomí, že jsem Ti už dlouho nepsala! Nezlob na mne!  Měla jsem hodně prace poslední době. Učila jsem na českou zkouškou, však dnes mám volno :). Mimo to, děkuji za krásnou fotkou z dovolené, měla jsi moc radost!?!
+Co řicí o mne život? Nic zajimavého nestalo, snad jen to, že plánuju dovolenou v létě s Lukášem. Chceme jet do Norska. To je hodně prace, ale hezký :).
+Studium je dobré, v březnu musím psat sociologickou zkouškou, to je tězké!  Ale Jede to! To je vyborně novinu, Alena bude blízko Drážďan v létě! Doufám, že můžeš pracovat ve firmě! Samozřejmý mám čas! Už se velmi teším na tvoji návštěvu. Srdečně chtěla bych Ti pozvat  k mně! Kdy přijdeš? Kde si dáme sraz? 
+Co se týká kurzu - to je dobrý nápad! Kdy přesně bude? A kolik stojí? Asi můžeš  mi poslat inzerát?! Chtěl by  mílé.
+ Dobře! Pro dnešek končím, je už pozdě večer, musím vstávat brzo zítra! 
+
+ Prejí Ti a tvým rodičům všechno nejlepší a zvláštně Ti hodně uspechů v 13. dubna! 
+Už těším za na setkání!
+Zatím Ahoj,
+ Kateřina
+PS: Pozdravuj  Tomáše od mne!
+
+----------------
+
+Target hypothesis 1: 
+
+Milá Aleno ! Děkuji Ti mnohokrát za Tvůj e-mail , dostala jsem ho před týdnem ! Mám moc černé svědomí , že jsem Ti už dlouho nepsala ! Nezlob se na mne ! Měla jsem hodně práce v poslední době . Učila jsem se na českou zkouškou , však dnes mám volno :) . Mimo to děkuji za krásnou fotkou z dovolené , měla jsi moc radost ! ? ! Co říci o mém životě ? Nic zajimavého se nestalo , snad jen to , že plánuju dovolenou v létě s Lukášem . Chceme jet do Norska . To je hodně práce , ale hezké :) . Studium je dobré , v březnu musím psat sociologickou zkouškou , to je tězké ! Ale jde to ! To je vyborná novina , Alena bude blízko Drážďan v létě ! Doufám , že můžeš pracovat ve firmě ! Samozřejmě mám čas ! Už se velmi těším na Tvoji návštěvu . Srdečně bych Tě chtěla pozvat ke mně ! Kdy přijdeš ? Kde si dáme sraz ? Co se týká kurzu - to je dobrý nápad ! Kdy přesně bude ? A kolik stojí ? Můžeš mi asi poslat inzerát ? Chtěl by milé . Dobře ! Pro dnešek končím , je už pozdě večer , musím zítra vstávat brzo ! Přeji Tobě a Tvým rodičům všechno nejlepší a zvláštně Tobě hodně úspěchů 13. dubna ! Už se těším na setkání ! Zatím ahoj Kateřina P. S. Pozdravuj od mne Tomáše !
+
+----------------
+
+No target hypothesis 2 available.
+

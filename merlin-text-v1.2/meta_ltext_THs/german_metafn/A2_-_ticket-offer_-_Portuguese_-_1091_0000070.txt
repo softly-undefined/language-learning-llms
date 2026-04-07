@@ -1,0 +1,44 @@
+METADATA
+
+General:
+Author ID: 1091_0000070
+Test language: German
+CEFR level of test: A2
+Task : offer a ticket not used to a friend - ID: 1091_0690403
+Mother tongue: Portuguese
+Age: 57
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: B1
+Orthography: B2
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Stadt X. 05 Januar 2011.
+                                                   Lpiebe Julia
+Ich habe geKauft eine wochenend Farkarte gekauft, Stadt X Stadt Y Aber ich fahre nicht warum Meiner Groß Oma ist sehr KranK. Ich besuch meine Oma. 
+Dann, ist eine Einladum für dich. Schäde ich oder Du Komme nicht.
+BiTTe, schön für meiner Herz du fahre.
+DanKe
+Ticket gütig                           Katharina
+12-15-01-2012
+
+----------------
+
+Target hypothesis 1: 
+
+Stadt X , 05 Januar 2011 . Liebe Julia ! Ich habe eine Wochenendfahrkarte gekauft , Stadt X – Stadt Y . Aber ich fahre nicht ; warum ? Meine Oma ist sehr krank . Ich besuche meine Oma . Dann ist es eine Einladung für dich . Schade , ich oder du kommen nicht . Bitte , schön für mein Herz , du fährst . Danke . Ticket gültig . Katharina 12-15-01-2012
+
+----------------
+
+Target hypothesis 2: 
+
+Stadt X , 05 Januar 2011 . Liebe Julia ! Ich habe eine Wochenendfahrkarte gekauft , Stadt X – Stadt Y . Aber ich fahre nicht . Warum ? Meine Oma ist sehr krank . Ich besuche sie . Daher ist das eine Einladung für dich . Es wäre schade für mich , wenn Du es nicht bekommen würdest . Bitte , es ist schön für mein Herz , wenn du fährst . Danke . Das Ticket ist gütig vom 12. bis 15.01.2012 . Katharina

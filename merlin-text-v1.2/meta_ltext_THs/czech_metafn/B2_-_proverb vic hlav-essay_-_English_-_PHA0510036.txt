@@ -1,0 +1,37 @@
+METADATA
+
+General:
+Author ID: PHA0510036
+Test language: Czech
+CEFR level of test: B2
+Task : write an essay: More people know more - ID: B2PS0201_hlava
+Mother tongue: English
+Age: 4049
+Gender: male
+
+Rating:
+Overall CEFR rating: B2
+Grammatical accuracy: B2
+Orthography: B2
+Vocabulary range: B2
+Vocabulary control: B2
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Ve dnešní době, když je čím dal více pramenů i zdrojů informací, mužeme mit pocit, že jeden človek, tedy jedna hlava, opravdu nestačí na pravidelné hledávaní hodnocovaní a zpracovaní těch informací, ktere jsou nezbytné pro každodenní rozhodovaní, ať je to ve statní spravě anebo v soukromém sektoru. Prostě těch hlav musi byt vic, protože je na internetě nebo v medii už tolik možností aby lide z celého světa si vyjadřovali své nazory a sdělili sva často odlišna stanoviska. Ale pozor: neni potřeba mit ty další hlavy na ministerstvu anebo ve firmě protože ten vetší informační tok nabízí více užitečných napadů na jejichž zjišťovaní nestačí jeden člověk sam. Naopak, čim vice je přistupných informací na svetě tím vetší je pravděpodobnost ze je většina z nich nehodnotných, a to je dostátečný důvod proč musíme ke svým ukolům vyčlenit vic hlav, protože na rozpoznávaní pravdivosti a hodnoty názorů a myšlenek je potřeba diskuze i debata, a k tomu určitě jeden člověk s jednou hlavou nestačí.
+
+----------------
+
+Target hypothesis 1: 
+
+V dnešní době , když je čím dál více pramenů i zdrojů informací , můžeme mít pocit , že jeden člověk , tedy jedna hlava , opravdu nestačí na pravidelné vyhledávání , vyhodnocování a zpracování těch informací , které jsou nezbytné pro každodenní rozhodování , ať je to ve státní správě , anebo v soukromém sektoru . Prostě těch hlav musí být víc , protože je na internetu nebo v médiích už tolik možností , aby lidé z celého světa vyjadřovali své názory a sdělili svá často odlišná stanoviska . Ale pozor : není potřeba mít ty další hlavy na ministerstvu anebo ve firmě , protože ten větší informační tok nabízí více užitečných nápadů , na jejichž zjišťování nestačí jeden člověk sám . Naopak , čím více je přístupných informací na světě , tím větší je pravděpodobnost , že je většina z nich nehodnotných , a to je dostatečný důvod , proč musíme ke svým úkolům vyčlenit víc hlav , protože na rozpoznávání pravdivosti a hodnoty názorů a myšlenek je potřeba diskuze i debata , a k tomu určitě jeden člověk s jednou hlavou nestačí .
+
+----------------
+
+Target hypothesis 2: 
+
+V dnešní době , když je čím dál více pramenů i zdrojů informací , můžeme mít pocit , že jeden člověk , tedy jedna hlava , opravdu nestačí na pravidelné vyhledávání , vyhodnocování a zpracování těch informací , které jsou nezbytné pro každodenní rozhodování , ať je to ve státní správě , anebo v soukromém sektoru . Prostě těch hlav musí být víc , protože je na internetu nebo v médiích už tolik možností , aby lidé z celého světa vyjadřovali své názory a sdělili svá často odlišná stanoviska . Ale pozor : není potřeba mít ty další hlavy na ministerstvu anebo ve firmě , protože ten větší informační tok nabízí více užitečných nápadů , na jejichž zjišťování nestačí jeden člověk sám . Naopak , čím více je přístupných informací na světě , tím větší je pravděpodobnost , že je většina z nich nehodnotných , a to je dostatečný důvod , proč musíme ke svým úkolům vyčlenit víc hlav , protože na rozpoznávání pravdivosti a hodnoty názorů a myšlenek je potřeba diskuze i debata , a k tomu určitě jeden člověk s jednou hlavou nestačí .

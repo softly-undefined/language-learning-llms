@@ -1,0 +1,31 @@
+METADATA
+
+General:
+Author ID: 1023_0101700
+Test language: German
+CEFR level of test: B2
+Task : apply for internship in sales department - ID: 1023_120301
+Mother tongue: not reported
+Age: 25
+Gender: male
+
+Rating:
+Overall CEFR rating: B2
+Grammatical accuracy: B1
+Orthography: C1
+Vocabulary range: B2
+Vocabulary control: B1
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: B2
+
+----------------
+
+Learner text: 
+
+Sehr geehrter Damen und Herren,
+Ich habe Ihnen Anzeige über die Vertriebspraktikum gesucht gelesen. Ich bin Architekturstudenten und auf diesemn Grund interessiere mich viel dieses Praktikum. Ich meine, dass für mich eine wunderware Erfahrung wäre, wenn ich an dieser Firma teilnehmen könnte. Ich kann alle Sachen was Sie möchten machen. Ich bin in dem letzten Semester von meiner Karriere und ich hatte die beste Qualifikation was ich kann.
+Ich kann auch sofort beginnen.  Auf jeden fall möchte ich nur wissen, wie viele Geld verdiene ich und wie viele Stunden  müsste ich pro Woche arbeiten.
+Ich hoffe, dass Sie mit mir möchten arbeiten werden. Ich glaube, dass ich viele positive Sachen und guten Erfahrungen lernen kann.
+Vielen danke
+Mit freundlichen Grüßen,
+Michael Winkelmann

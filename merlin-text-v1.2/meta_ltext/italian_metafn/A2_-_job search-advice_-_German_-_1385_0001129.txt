@@ -1,0 +1,32 @@
+METADATA
+
+General:
+Author ID: 1385_0001129
+Test language: Italian
+CEFR level of test: A1
+Task : help a friend who is looking for work - ID: 1385_040101
+Mother tongue: German
+Age: 21
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Caro Francesco,
+come stai? Io sto bene, ma ho molto da lavorare. Ah, io abito a Città X.
+Puoi dirmi dove tu lavori adesso? Solo a Città Y o anche a Città Z.
+Che tipo di lavoro tu vuole fare?
+Quando vorrebbe tu inizi?
+Io espero che tutto va bene.
+Cari saluti
+Maria

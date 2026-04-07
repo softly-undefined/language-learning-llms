@@ -1,0 +1,42 @@
+METADATA
+
+General:
+Author ID: 1395_0000628
+Test language: Italian
+CEFR level of test: A2
+Task : contact a friend after a long time - ID: 1395_020300
+Mother tongue: German
+Age: 27
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A1
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A1
+Coherence/Cohesion: A1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Ciao Paulo
+Come vai? A me è tutto posto. Ho cambiato il mio lavoro, sono non piu panetiere. Tra 2 anni lavoro con la FFS. Il lavoro mi piccio tanto. l'hiverno passato siamo stati tutto la famiglia a Città X per sciare una settimana. Avuto solo bello tempo e le piste state buono preparato. 
+Quando hai tempo per venire una volta a Città Y. 
+Ma non solo per due, tre giorni. Penso per una settimana o cosi. In April ho le ferie dalle 16 alle 27. Tu poi telefonare per fare una data fix. 
+Cari saluti
+Michele 
+
+----------------
+
+Target hypothesis 1: 
+
+Ciao Paulo , come vai ? Da me è tutto a posto . Ho cambiato il mio lavoro , non sono più panettiere . Da 2 anni lavoro con la FFS . Il lavoro mi piace tanto . L' inverno passato siamo stati con tutta la famiglia a Città X per sciare una settimana . Abbiamo avuto solo bel tempo e le piste erano preparate bene . Quando hai tempo per venire una volta a Città Y ? Ma non solo per due o tre giorni . Penso per una settimana o così . In aprile ho le ferie dal 16 al 27 . Tu puoi telefonare per fare una data . Cari saluti Michele
+
+----------------
+
+Target hypothesis 2: 
+
+Ciao Paulo , come stai ? Da me è tutto a posto . Ho cambiato il mio lavoro , non sono più panettiere . Da 2 anni lavoro con la FFS . Il lavoro mi piace tanto . l' inverno passato siamo stati con tutta la famiglia a Città X per sciare una settimana . Abbiamo avuto solo bel tempo e le piste erano preparate bene . Quando hai tempo per venire una volta a Città Y ? Ma non solo per due o tre giorni . Penso per una settimana circa . In aprile ho le ferie dal 16 al 27 . Tu puoi telefonare per fissare una data . Cari saluti Michele

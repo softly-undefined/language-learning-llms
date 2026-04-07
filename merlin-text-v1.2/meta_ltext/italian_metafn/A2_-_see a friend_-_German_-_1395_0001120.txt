@@ -1,0 +1,31 @@
+METADATA
+
+General:
+Author ID: 1395_0001120
+Test language: Italian
+CEFR level of test: A2
+Task : go see a friend - ID: 1395_040101
+Mother tongue: German
+Age: 46
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+                                                                          Città X, 18 agosto 2011 
+Ciao Roberto 
+Vorrei visitarti a casa la settimana prossima. Come è la tua città, grande o piccola? E facile di trovare la tua casa? 
+Come va tua familia? Spero que va bene. Cosa possono fare la sera? C'è un cinema o un teatro?
+Quando posso venire? Posso venire lunedi e stare fino a mercoledi? Va bene cosi per te? Posso rimanere tre giorni in tuo casa?
+Tanti salutti
+Michele 

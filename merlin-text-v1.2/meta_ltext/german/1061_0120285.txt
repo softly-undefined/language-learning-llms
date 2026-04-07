@@ -1,0 +1,29 @@
+METADATA
+
+General:
+Author ID: 1061_0120285
+Test language: German
+CEFR level of test: B1
+Task : write a letter to a friend (visit) - ID: 1061_130101
+Mother tongue: not reported
+Age: 36
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+                                        Stadt X, den 22.02.2012
+Liebe Dana,
+vielen Dank für ein Brief. Ich habe dein Brief gelesen, war toll. Die Prüfung habe ich bestanden. sehr toll. Danach bin ich nach Luxemburg gefahren. Ich besuche meine Schwester. Meine Schwester zeit einem jahre in Luxemburg gelieb. Die Stadt ist so interessant mich. war schön. Ich bleibe noch ein woche bei meine Schwester. Ich wünsche eine uhr aus Istanbul. Kannst du mir mitbringen. Vielleicht treffen wir uns wenn du nach Trier zurück kommen. Ich vermisse dich.
+viele Grüße
+Katharina

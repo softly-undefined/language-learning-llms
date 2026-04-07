@@ -1,0 +1,39 @@
+METADATA
+
+General:
+Author ID: 1031_0002184
+Test language: German
+CEFR level of test: C1
+Task : write article about sticking to one's traditions and 'assimilation' in a new environment - ID: 1031_030301
+Mother tongue: Turkish
+Age: 29
+Gender: male
+
+Rating:
+Overall CEFR rating: B2
+Grammatical accuracy: B2
+Orthography: C1
+Vocabulary range: C1
+Vocabulary control: B2
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: B2
+
+----------------
+
+Learner text: 
+
+Integration in ein Gastland
+Meines Erachtens, sollte man an die Kultur des Gastlandes integrieren. Das ist zurzeit die Größte Problem in Deutschland. Man soll entweder orientieren oder zürückkehren. Wenn man ausgewandert ist, ist es ein Pflicht die Sprache des Gastlandes zu lernen und immer sprechen. Sonst wäre es sehr schwer dort zu wohnen. Z.B. die ersten Generation der türkischen Gastarbeiter in Deutschland sprechen kein Deutsch und sie haben  türkischen Stadtviertel und eine Umgebung in der nur türken leben. Aber diese Situation hat viele Schwierigkeiten für sie. Wenn sie in ein Einkaufszentrum gehen, können sie nichts sagen äußer "Ja" und "nein". Deshalb soll ein Person, die sowohl Türkisch als auch Deutsch sprechen aus dem deutschen übersetzen. Das ist nicht nur in der Sprache. Man soll auch die Traditionen, die Speisen, wichtige Feste und die Religion des Gastlandes kennenlernen. Heutzutage gibt es in Deutschland viele Sprachkurse, damit die Ausländer Deutsch lernen und Deutschland kennenlernen können.
+Die deutschen glauben, das überall in Deutschland jeder Deutsch sprechen muss. Das ist natürlich gülstig in der ganzen Welt. Das ist auch umgekehrt richtig. Die deutschen Ausländer z.B. sollen an die Türkei integrieren. Ich weiß nicht warum, aber es ist sehr schwer, dass man sich selbst ändern und deshalb setzen viele Ausländer die Traditionen seines Heimatlandes fort, statt an der Kultur des Gastlandes zu orientieren.
+
+----------------
+
+Target hypothesis 1: 
+
+Integration in ein Gastland Meines Erachtens sollte man sich in die Kultur des Gastlandes integrieren . Das ist zurzeit das größte Problem in Deutschland . Man soll sich entweder orientieren oder zurückkehren . Wenn man ausgewandert ist , ist es eine Pflicht , die Sprache des Gastlandes zu lernen und immer zu sprechen . Sonst wäre es sehr schwer , dort zu wohnen . Die erste Generation der türkischen Gastarbeiter in Deutschland z.B. spricht kein Deutsch und sie hat ein türkisches Stadtviertel und eine Umgebung , in der nur Türken leben . Aber diese Situation hat viele Schwierigkeiten für sie . Wenn sie in ein Einkaufszentrum gehen , können sie nichts sagen außer " ja " und " nein " . Deshalb soll eine Person , die sowohl Türkisch als auch Deutsch spricht , aus dem Deutschen übersetzen . Das ist nicht nur in der Sprache . Man soll auch die Traditionen , die Speisen , wichtige Feste und die Religion des Gastlandes kennenlernen . Heutzutage gibt es in Deutschland viele Sprachkurse , damit die Ausländer Deutsch lernen und Deutschland kennenlernen können . Die Deutschen glauben , dass überall in Deutschland jeder Deutsch sprechen muss . Das ist natürlich in der ganzen Welt günstig . Das ist auch umgekehrt richtig . Die deutschen Ausländer z.B. sollen sich in der Türkei integrieren . Ich weiß nicht warum , aber es ist sehr schwer , dass man sich selbst ändert und deshalb setzen viele Ausländer die Traditionen ihres Heimatlandes fort , statt sich an der Kultur des Gastlandes zu orientieren .
+
+----------------
+
+Target hypothesis 2: 
+
+Integration in ein Gastland Meines Erachtens sollte man sich in die Kultur des Gastlandes integrieren . Das ist zurzeit das größte Problem in Deutschland . Man soll sich entweder anpassen oder zurückkehren . Wenn man ausgewandert ist , ist es eine Pflicht , die Sprache des Gastlandes zu lernen und immer zu sprechen . Sonst wäre es sehr schwer , dort zu wohnen . Die erste Generation der türkischen Gastarbeiter in Deutschland z.B. spricht kein Deutsch und sie hat ein türkisches Stadtviertel und eine Umgebung , in der nur Türken leben . Aber diese Situation bereitet ihnen viele Schwierigkeiten . Wenn sie in ein Einkaufszentrum gehen , können sie nichts sagen außer " Ja " und " nein " . Deshalb soll eine Person , die sowohl Türkisch als auch Deutsch spricht , aus dem Deutschen übersetzen . Das betrifft nicht nur die Sprache . Man soll auch die Traditionen , die Speisen , wichtige Feste und die Religion des Gastlandes kennenlernen . Heutzutage gibt es in Deutschland viele Sprachkurse , damit die Ausländer Deutsch lernen und Deutschland kennenlernen können . Die Deutschen glauben , dass überall in Deutschland jeder Deutsch sprechen muss . Das ist natürlich in der ganzen Welt günstig . Das ist auch umgekehrt richtig . Die deutschen Ausländer z.B. sollen sich in der Türkei integrieren . Ich weiß nicht warum , aber es ist sehr schwer , dass man sich selbst ändert und deshalb setzen viele Ausländer die Traditionen ihres Heimatlandes fort , statt sich an der Kultur des Gastlandes zu orientieren .

@@ -1,0 +1,50 @@
+METADATA
+
+General:
+Author ID: 1325_1001136
+Test language: Italian
+CEFR level of test: B2
+Task : help someone who has problems with chats - ID: 1325_040300-2
+Mother tongue: Hungarian
+Age: 18
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B2
+Vocabulary range: B2
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+                                                                 Maria Rossi
+                                                                Strada Maggiore
+                                                                1234 Città X 
+Settimana Giovani
+Via 119 Crispi 
+80127 Caserta
+                                                                    22 gennaio 2012, Città X
+Caro Giorgio,
+ho letto la tua lettera del giornale Settimana Giovani e ho deciso di scrivere a te. Secondo me è una buona cosa di avere amici virtuali, ma non mai dimenticare gli tuoi amici vicini!
+Anch'io ho qualche amico virtuale, generalmente faccio chat con loro e giochiamo sull'Internet. 
+Secondo me, non dovesti rottare i contatti i tuoi amici e potresti rispondere di loro. Perché potresti -unreadable-  devono capire che ti piace la vita virtuale e amicizie virtuali.
+Ma non mai dimenticare dell'Internet può essere pericoloso. Forse uno degli amici virtuali è un gente molto pericoloso e vuole sapere il tuo indirizzo o altre informazioni. Al posto tuo, io provrei  controllare la mia vita e la mia vita virtuale.
+Spero che la mia lettera possa aiutarti e risolvere il tuo problema. 
+                             Un baccio
+                            Maria Rossi
+
+----------------
+
+Target hypothesis 1: 
+
+Maria Rossi Strada Maggiore 1234 Città X Settimana Giovani Via 119 Crispi 80127 Caserta 22 gennaio 2012 , Città X Caro Giorgio , ho letto la tua lettera del giornale Settimana Giovani e ho deciso di scrivere a te . Secondo me è una buona cosa avere amici virtuali , ma non dimenticare mai i tuoi amici vicini ! Anch' io ho qualche amico virtuale , generalmente faccio la chat con loro e giochiamo su Internet . Secondo me , non dovresti buttare i contatti dei tuoi amici e potresti rispondere a loro . Perché potresti -unreadable- devono capire che ti piace la vita virtuale e le amicizie virtuali . Ma non dimenticare mai che Internet può essere pericoloso . Forse uno degli amici virtuali è una gente molto pericolosa e vuole sapere il tuo indirizzo o altre informazioni . Al posto tuo , io proverei a controllare la mia vita e la mia vita virtuale . Spero che la mia lettera possa aiutarti e risolvere il tuo problema . Un bacio Maria Rossi
+
+----------------
+
+No target hypothesis 2 available.
+

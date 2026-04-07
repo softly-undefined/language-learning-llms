@@ -1,0 +1,38 @@
+METADATA
+
+General:
+Author ID: 1071_0248319
+Test language: German
+CEFR level of test: A1
+Task : congratulate to birth of child - ID: 1071_030101
+Mother tongue: Arabic
+Age: 24
+Gender: male
+
+Rating:
+Overall CEFR rating: A1
+Grammatical accuracy: A1
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A1
+Coherence/Cohesion: A1
+Sociolinguistic appropriateness: A1
+
+----------------
+
+Learner text: 
+
+mein Freund gestern hat kegommt ein Baby sein Baby ist schön und ich Freue euch und Ich wünsche dir von sein Baby geboren Baby heißt Maria Hezlichen Glück wünsch von Baby. Höffntlich Hochzeit Tag.
+Mit Freundlich Grüßen
+Tobias
+
+----------------
+
+Target hypothesis 1: 
+
+Mein Freund hat gestern ein Baby bekommen . Sein Baby ist schön und ich freue mich und ich wünsche dir , dass sein Baby geboren ist . Das Baby heißt Maria . Herzlichen Glückwunsch von dem Baby . Hoffentlich ist bald Hochzeittag . Mit freundlichen Grüßen Tobias
+
+----------------
+
+No target hypothesis 2 available.
+

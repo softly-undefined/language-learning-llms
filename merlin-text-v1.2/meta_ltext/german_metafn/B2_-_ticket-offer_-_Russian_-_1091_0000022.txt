@@ -1,0 +1,29 @@
+METADATA
+
+General:
+Author ID: 1091_0000022
+Test language: German
+CEFR level of test: A2
+Task : offer a ticket not used to a friend - ID: 1091_0690403
+Mother tongue: Russian
+Age: 40
+Gender: female
+
+Rating:
+Overall CEFR rating: B2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Hallo liebe Julia.
+Wie geht es dir?
+Ich möchte dich fragen, ob du Lust hast, am Wochenende nach Berlin zu fahren? Ich habe eine Fahrkarte gekauft, aber kann nicht fahren, weil ich auf meinen kleinen Bruder aufpassen muss. Der Zug fährt um 7°° Uhr Morgens hin und am nächsten Tag um 15°° Uhr zurück. Es währe schön, wenn du fahren könntest, dann verliere Ich nicht das Geld für die Fahrkarte.
+Viele Grüße.
+Eva

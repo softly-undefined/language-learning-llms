@@ -1,0 +1,30 @@
+METADATA
+
+General:
+Author ID: 1395_0001017
+Test language: Italian
+CEFR level of test: A2
+Task : go see a friend - ID: 1395_040101
+Mother tongue: German
+Age: 15
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Cara Giulia,
+come stai? Sto bene. La mia famiglia anche sta bene. Il tempo a Città X fa bene!
+Come fa il tempo in Italia? Voglio parlare della mia città. Habito in un grande città con molti personi. Abbiamo anche un lido. In estate molti personi vanno al lido. In città ci sono molti negozi per fare lo shopping. Amo lo shopping e tu?
+Cosa vuoi fare la sera? Potremmo andare al cinema. Amo il cinema. Al cinema c'è molto bei film. Anche potremmo di fare lo shopping a Città X o mangamo nel ristoranto.
+Scrivi per favore! A dopo! 
+Cari saluti  Maria

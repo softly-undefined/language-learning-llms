@@ -1,0 +1,42 @@
+METADATA
+
+General:
+Author ID: 1395_0000387
+Test language: Italian
+CEFR level of test: A2
+Task : contact a friend after a long time - ID: 1395_020300
+Mother tongue: German
+Age: 35
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B2
+Orthography: C2
+Vocabulary range: B2
+Vocabulary control: B2
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: B2
+
+----------------
+
+Learner text: 
+
+Città X, 29 maggio 2010
+Caro Stefano
+Come stai? Tutto bene? Io sto di nuovo molto bene. Sono stata operata al ginocchio tre settimane fa. Anche la mia famiglia sta bene. Tutti sono sani e contenti. Da quasi un anno Michele e Francesco vanno a scuola a Città X e sono molto fieri.
+Maria e Eva vanno al preasilo dalla scuola Steiner qui a Città X da una maestra molto brava. Stefano lavora molto quest'anno ma è soddisfatto.
+Durante la settimana sono quasi sempre da sola con i bambini. Ma il fine settimana facciamo sempre qualcosa insieme. La settimana scorsa abbiamo visto il musical "Mamma mia" a Città Y; è stato molto divertente!
+Un caro saluto, Giulia
+
+----------------
+
+Target hypothesis 1: 
+
+Città X , 29 maggio 2010 Caro Stefano , come stai ? Tutto bene ? Io sto di nuovo molto bene . Sono stata operata al ginocchio tre settimane fa . Anche la mia famiglia sta bene . Tutti sono sani e contenti . Da quasi un anno Michele e Francesco vanno a scuola a Città X e sono molto fieri . Maria e Eva vanno al preasilo della scuola Steiner qui a Città X da una maestra molto brava . Stefano lavora molto quest' anno , ma è soddisfatto . Durante la settimana sono quasi sempre da sola con i bambini . Ma il fine settimana facciamo sempre qualcosa insieme . La settimana scorsa abbiamo visto il musical " Mamma mia " a Città Y ; è stato molto divertente ! Un caro saluto , Giulia
+
+----------------
+
+Target hypothesis 2: 
+
+Città X , 29 maggio 2010 Caro Stefano , come stai ? Tutto bene ? Io sto di nuovo molto bene . Sono stata operata al ginocchio tre settimane fa . Anche la mia famiglia sta bene . Tutti sono sani e contenti . Da quasi un anno Michele e Francesco vanno a scuola a Città X e ne sono molto orgogliosi . Maria e Eva vanno al preasilo della scuola Steiner qui a Città X da una maestra molto brava . Stefano lavora molto quest' anno , ma è soddisfatto . Durante la settimana sono quasi sempre da sola con i bambini . Ma il fine settimana facciamo sempre qualcosa insieme . La settimana scorsa abbiamo visto il musical " Mamma mia " a Città Y ; è stato molto divertente ! Un caro saluto , Giulia

@@ -1,0 +1,38 @@
+METADATA
+
+General:
+Author ID: PHA0411042
+Test language: Czech
+CEFR level of test: B2
+Task : write an essay: A friend in need is a friend indeed - ID: B2PS0202_pritel
+Mother tongue: Other
+Age: 1519
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B2
+Vocabulary range: B2
+Vocabulary control: B1
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Jedna z nejdůležitějších věci dneska pro mladé lide jsou přátele. Spousta věcem nás naučí rodiče: jak se máme ve společností chovát, jak máme reagovat v různých případech, co od lidí máme čekát. Ale jsou věci, kterým nás učí kamarádi a lidé, které poznáme náhodou. Vliv cizích lidí je obrovský, nejspíš protože společnost se už dávno zmněnila, lidem už nestačí být někím, musí být nejlepšími. Proto tlak, který cítime dnes my, je větší než ten u rodičů, kteří žili v jiné době. Proto dnes my děláme víc chyb a těžko nacházíme přatele.
+S tím se setkávam každý den tady v cizině, například. Příjela jsem sem, chtěla jsem se seznámit s novými lidmi, spřátelit se, abych tady nebyla samá. Po sedmi měsících chápu, že jsem pořád samá. Kolem mě je hodně různých zajímavých lidí, ale o nikom nemůžu říct, že je můj opravdový kamarád, že mu můžu zavolát i v noci když se něco stane. Ve skatečné době, skoró káždý se stárá jenom o sebe a dělá to, co mu nejvíc vyhovuje. Opravdových, upřímných, ohleduplných kamarádů je strašně málo. Ale té několík lidí stojí za to abychom je hledali a snažili se o ně nepříjít. Je těžko té lidí najít; ale když je najdete, lehko je poznáte - budou s vámi v té nějtěžší chvíle kdy už všichni vás opustí.
+Na konci bych jenom chtěla říct, že je těžko najít dobré přátele, ale taky je těžko být dobrým přítelem. Často děláme ostatným to z čeho se sami taký trápíme. Nejlehčí je ublížit blízcím. A kdyby se každý z nas na chvíli podíval do sebe, přemýšlel o tom jaký je a jak se k ostatným chová, všichni by byli o mnohem šťastněší a spokojenější se svým životém.
+
+----------------
+
+Target hypothesis 1: 
+
+Jednou z nejdůležitějších věcí dneska pro mladé lidi jsou přátelé . Spoustě věcí nás naučí rodiče : jak se máme ve společnosti chovat , jak máme reagovat v různých případech , co od lidí máme čekat . Ale jsou věci , kterým nás učí kamarádi a lidé , které poznáme náhodou . Vliv cizích lidí je obrovský nejspíš proto , že společnost se už dávno změnila , lidem už nestačí být někým , musí být nejlepšími . Proto tlak , který cítíme dnes my , je větší než ten u rodičů , kteří žili v jiné době . Proto dnes děláme víc chyb a těžko nacházíme přatele . S tím se například setkávám každý den tady v cizině . Přijela jsem sem , chtěla jsem se seznámit s novými lidmi , spřátelit se , abych tady nebyla sama . Po sedmi měsících chápu , že jsem pořád sama . Kolem mě je hodně různých zajímavých lidí , ale o nikom nemůžu říct , že je můj opravdový kamarád , že mu můžu zavolat i v noci , když se něco stane . Ve skutečné době se skoro každý stará jenom o sebe a dělá to , co mu nejvíc vyhovuje . Opravdových , upřímných , ohleduplných kamarádů je strašně málo . Ale těch několik lidí stojí za to , abychom je hledali a snažili se o ně nepřijít . Je těžké ty lidi najít ; ale když je najdete , lehko je poznáte - budou s Vámi v té nějtěžší chvíli , kdy už Vás všichni opustí . Na konec bych jenom chtěla říct , že je těžké najít dobré přátele , ale taky je těžké být dobrým přítelem . Často děláme ostatním to , kvůli čemu se sami taky trápíme . Nejlehčí je ublížit blízkým . A kdyby se každý z nás na chvíli podíval do sebe , přemýšlel o tom , jaký je a jak se k ostatním chová , všichni by byli mnohem šťastnější a spokojenější se svým životem .
+
+----------------
+
+No target hypothesis 2 available.
+

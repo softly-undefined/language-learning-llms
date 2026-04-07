@@ -1,0 +1,29 @@
+METADATA
+
+General:
+Author ID: 1395_0000556
+Test language: Italian
+CEFR level of test: A2
+Task : go see a friend - ID: 1395_040101
+Mother tongue: German
+Age: 28
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Caro amico,
+Grazie mille per la invita a passare qualche giorni di vacanza dalla tua famiglia. Io penso a arrivare la prossima settimana a lunedì e resto per cinque giorni. Come non conosco la tua città, tu puoi mi guidare a tutti posti historico? Ne sono molto interesso. E la sera? Ci sono i grandi festi o tu preferisci andare al disco?
+Puoi mi fare un telefono e mi dire come io arrivare a tua casa.
+A presto.
+Cari saluti

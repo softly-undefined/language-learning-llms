@@ -1,0 +1,30 @@
+METADATA
+
+General:
+Author ID: 1091_0000071
+Test language: German
+CEFR level of test: A2
+Task : offer a ticket not used to a friend - ID: 1091_0690403
+Mother tongue: Russian
+Age: 62
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Hallo, Julia,
+wie gehet´s dir? Mir gehts gut, aber ich habe ein Problem. Am Wochenende wollte ich nach Stadt X fahren. Ich habe schon die Bahnkarte gekauft. Aber jetzt kann ich nicht fahren, meine Schwester hat mich angerufen, sie will mich am Samstag besuchen Möchtest du nach Stadt X fahren?
+Ruf mich schnell an und ich schicke dir meine Bahnkarte.
+Ich kusse dich
+Deine Freundin Katharina.
+Stadt Y, 5. Dezember 2012

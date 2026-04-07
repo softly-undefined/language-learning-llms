@@ -1,0 +1,41 @@
+METADATA
+
+General:
+Author ID: 1325_9000314
+Test language: Italian
+CEFR level of test: B2
+Task : apply for internship in company - ID: 1325_020400-1
+Mother tongue: Polish
+Age: 34
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: C1
+Vocabulary range: B2
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+                                                                                                                     Città X, il 11.06.2011
+Egrigi Signori, 
+      Vorrei fare uno stage presso la Vostra ditta "Valtour - viaggi e vacanze" perchè mi interessa molto il turismo. Mi sono laureata del turismo all'Universita in Città Y l'anno scorso. Ho anche un po' di esperienza nel questo settore. Nelle mie ultime vacanze lavoravo come la guida nel campeggio in Italia. Questo occupazione mie è fatto tanta soddisfazione. Anchè l'Italia mi piace tantissimo e cerco occasioni di abitarci e farci quello che amo. Il turimo  è la mia la più grande passione. Ho scelto la Vostra ditta perchè secondo me è la più famosa in Italia e vorrei prendere la prattica presso l'ufficio il più migliore. Sono sicura che sarete molto contenti del mio aiuto. 
+           In attesa alla Vostra risposta. 
+                                                  Distinti saluti, 
+                                                                                                                                                    Maria Rossi
+
+----------------
+
+Target hypothesis 1: 
+
+Città X , il 11.06.2011 Egregi signori , vorrei fare uno stage presso la Vostra ditta " Valtour - viaggi e vacanze " perché mi interessa molto il turismo . Mi sono laureata in turismo all' Università di Città Y l' anno scorso . Ho anche un po' di esperienza in questo settore . Nelle mie ultime vacanze ho lavorato come guida in un campeggio in Italia . Questa occupazione mi ha fatto tanta soddisfazione . Anche l' Italia mi piace tantissimo e cerco occasioni per abitarci e farci quello che amo . Il turismo è la mia più grande passione . Ho scelto la Vostra ditta perché secondo me è la più famosa in Italia e vorrei prendere pratica presso l' ufficio migliore . Sono sicura che sarete molto contenti del mio aiuto . In attesa della Vostra risposta . Distinti saluti , Maria Rossi
+
+----------------
+
+No target hypothesis 2 available.
+

@@ -1,0 +1,40 @@
+METADATA
+
+General:
+Author ID: 1395_0000391
+Test language: Italian
+CEFR level of test: A2
+Task : contact a friend after a long time - ID: 1395_020300
+Mother tongue: French
+Age: 25
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B2
+Orthography: B2
+Vocabulary range: B2
+Vocabulary control: B2
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Caro Luca,
+Spero che tutto va bene per te. Fa tanto tempo che non ti ho scritto e visto. Io, adesso, mi sento meglio. Come lo sai, avevo qualche problema con miei genitori. Adesso vivo in Svizzera a Città X, ho trovato lì un nuovo lavoro. Mi piace veramente, non vedo l'ora quando lavoro. Sono ingegnere al CSCS E tu che  cosa fai adesso? Suppongo che sia ancora a lavorare a IBM, mi sbaglio? Sarebbe una buona idea se potremmo rivederci, non pensi? Questo è il mio nuovo numero di telefono: 0345-11111111, chiama mi. Vorrei veramente parlare di nuovo con te. Magari potremmo incontrarci il mese prossimo.
+A più tardi, spero,
+Michele
+
+----------------
+
+Target hypothesis 1: 
+
+Caro Luca , spero che tutto vada bene per te . Fa tanto tempo che non ti scrivo e vedo . Io adesso mi sento meglio . Come sai , avevo qualche problema con i miei genitori . Adesso vivo in Svizzera a Città X , ho trovato lì un nuovo lavoro . Mi piace veramente , non vedo l' ora quando lavoro . Sono ingegnere al CSCS . E tu che cosa fai adesso ? Suppongo che sia ancora a lavorare all' IBM , mi sbaglio ? Sarebbe una buona idea se potessimo rivederci , non pensi ? Questo è il mio nuovo numero di telefono : 0345-11111111 , chiamami . Vorrei veramente parlare di nuovo con te . Magari potremmo incontrarci il mese prossimo . A più tardi , spero , Michele
+
+----------------
+
+Target hypothesis 2: 
+
+Caro Luca , spero che tutto vada bene per te . È tanto tempo che non ti scrivo e vedo . Io adesso mi sento meglio . Come sai , avevo qualche problema con i miei genitori . Adesso vivo in Svizzera a Città X , ho trovato qui un nuovo lavoro . Mi piace veramente , non vedo l' ora di lavorare . Sono ingegnere al CSCS . E tu che cosa fai adesso ? Suppongo che sia ancora a lavorare all' IBM , mi sbaglio ? Sarebbe una buona idea se potessimo rivederci , non pensi ? Questo è il mio nuovo numero di telefono : 0345-11111111 , chiamami . Vorrei veramente parlare di nuovo con te . Magari potremmo incontrarci il mese prossimo . A più tardi , spero , Michele

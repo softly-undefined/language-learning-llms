@@ -1,0 +1,37 @@
+METADATA
+
+General:
+Author ID: 1031_0003327
+Test language: German
+CEFR level of test: C1
+Task : write article about sticking to one's traditions and 'assimilation' in a new environment - ID: 1031_030301
+Mother tongue: Italian
+Age: 16
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B2
+Vocabulary control: B2
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Ich hab mit grossem Interesse auf einem Internetforum das Thema "Ist es sinnvoll auch im Ausland die Traditionen seines Heimatlandes fortzusetzen, oder sollte man sich and der Kultur des Gastlandes orientieren?" und will meine meinung dazu sagen. Ich denke, dass es wie jeden Thema Vorteile und Nachteile hat. General finde ich, dass man sich an die Traditionen des Land gehalten muss und respekt haben. Man muss sich an die Regeln verhalten. Man sieht es deutlich an folgenden Beispiel: Wenn mann auf China geht und in ein Temple sein voll wo es steht bitte nicht sprechen bleibt man einfach in ruoh. Wir würden auch nicht gerne, dass Zum Beispiel 2 Korean am Sonntag Morgen in unsere Kirche kommen , fange an zu sprechen und Photos zu machen. Ich bin der Meinung, dass es um Astahnd geht. Es gibt aber auch nachteile. Zum Beispiel in Turkey kann mann kein Fleisch am sonntag essen so gehst du in ein Resaurant willst du ein stück fleisch und sie sagen Nein. Aber ich denke, dass bevor, dass jemand in Ausland geht solt er sich Informieren und darüber gedanken mache was er kann und was er nicht kann im Gastland machen
+Wie ich schon Erklärt habe, ich bin der meinung, dass die jeweilige Person an der Kultur des Gastlander Orientieren muss.
+
+----------------
+
+Target hypothesis 1: 
+
+Ich habe mit grossem Interesse in einem Internetforum das Thema gelesen " Ist es sinnvoll , auch im Ausland die Traditionen seines Heimatlandes fortzusetzen , oder sollte man sich an der Kultur des Gastlandes orientieren ? " und will meine Meinung dazu sagen . Ich denke , dass es wie jedes Thema Vorteile und Nachteile hat . Generell finde ich , dass man sich an die Traditionen des Landes halten und Respekt haben muss . Man muss sich nach den Regeln verhalten . Man sieht es deutlich an folgendem Beispiel : Wenn man nach China geht und in einem Tempel sein will , wo steht : Bitte nicht sprechen , bleibt man einfach in Ruh . Wir würden es auch nicht gerne haben , dass zum Beispiel 2 Koreaner am Sonntagmorgen in unsere Kirche kommen , anfangen zu sprechen und Fotos zu machen . Ich bin der Meinung , dass es um Anstand geht . Es gibt aber auch Nachteile . Zum Beispiel in der Türkei kann man kein Fleisch am Sonntag essen . Also gehst du in ein Restaurant , du willst ein Stück Fleisch und sie sagen Nein . Aber ich denke , dass , bevor jemand ins Ausland geht , er sich informieren und darüber Gedanken machen sollte , was er kann und was er nicht im Gastland machen kann . Wie ich schon erklärt habe , ich bin der Meinung , dass sich die jeweilige Person an der Kultur des Gastlandes orientieren muss .
+
+----------------
+
+No target hypothesis 2 available.
+

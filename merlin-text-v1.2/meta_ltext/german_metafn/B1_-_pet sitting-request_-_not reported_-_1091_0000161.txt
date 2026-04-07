@@ -1,0 +1,30 @@
+METADATA
+
+General:
+Author ID: 1091_0000161
+Test language: German
+CEFR level of test: A2
+Task : ask friend to take care of pet - ID: 1091_0650102
+Mother tongue: not reported
+Age: 43
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Betreuen meines Hundes.
+Liebe Maria,
+nächte Mittwoch musste ich eine Bewerbungsgesprech in Stadt X, und konnte meiner Hund nicht mitbringen, , wie wir gesprochen hatten, bringe ich ihm dieser  Dienstag es zu dir, du brauchst nur 2 dinge zu tun. Täglich mindesten 2 mal Gast gehen, und futern ihm nur am Vormittag, sonst er ist sehr lieb und rühig.
+Ich bin am Sonntag der Woche wieder zuruck. und werde direk zu dir für das Abholen, wäre es dir passen wenn wir den Abends zusammen Essen?
+Viele Grüße, 
+dein Katharina

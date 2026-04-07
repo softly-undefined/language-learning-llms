@@ -1,0 +1,27 @@
+METADATA
+
+General:
+Author ID: 1385_0001739
+Test language: Italian
+CEFR level of test: A1
+Task : help a friend who is looking for work - ID: 1385_040101
+Mother tongue: Polish
+Age: 30
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A1
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A1
+
+----------------
+
+Learner text: 
+
+Ciao Marco!
+Come stai? Tutto bene? Vorrei sapere dove lavora adesso in che ditta? Io voglio aiutarti, ma ho bisogno di gualche informazioni in piúalora puoi dire dove è la tua ditta? Che tipo di lavoro voule fare, voule fare a mattina o a notte? Puoi dirmi anche chè lontano puoi andare da lavoro ? Tu preferisci lavorare in Paese X o in Germania. Devo sapere guando vorrebbe iniziare nuovo lavoro perché io da giovedi la prossima inizio cercare il lavoro per te :). 
+              Saluti 

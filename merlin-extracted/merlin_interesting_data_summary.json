@@ -1,0 +1,21 @@
+{
+  "records": 2287,
+  "languages": {
+    "Czech": 441,
+    "German": 1033,
+    "Italian": 813
+  },
+  "author_levels": {
+    "A1": 87,
+    "A2": 875,
+    "B1": 890,
+    "B2": 376,
+    "C1": 46,
+    "C2": 4,
+    "EMPTY": 3,
+    "unrated": 6
+  },
+  "with_target_hypothesis_1": 2285,
+  "with_target_hypothesis_2": 660,
+  "with_translation": 0
+}

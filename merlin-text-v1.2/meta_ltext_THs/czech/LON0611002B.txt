@@ -1,0 +1,37 @@
+METADATA
+
+General:
+Author ID: LON0611002B
+Test language: Czech
+CEFR level of test: A2
+Task : describe a photo: swimming in the sea - ID: A2PS0202_more
+Mother tongue: French
+Age: 2029
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Na fotografii vídíme otec a dcera. Koupáji v moře. Jsou tam, protože jsou na dovolená v letě. Mátka je z Italie a každý rok celá rodiná jede do Italii, protože má dům blizko pláže. Oba máji na sobě plavení kostým. Otec má také na sobě bríle. Jsou moc spokojeni. Otec řiká, že vodá je teplá, ale dcera myslí, že vodá je moc ziná!
+
+----------------
+
+Target hypothesis 1: 
+
+Na fotografii vidíme otce a dceru . Koupají se v moři . Jsou tam , protože jsou na dovolené v létě . Matka je z Itálie a každý rok celá rodina jezdí do Itálie , protože má dům blízko pláže . Oba mají na sobě plavení kostým . Otec má také na sobě brýle . Jsou moc spokojení . Otec říká , že voda je teplá , ale dcera myslí , že voda je moc ziná !
+
+----------------
+
+Target hypothesis 2: 
+
+Na fotografii vidíme otce a dceru . Koupají se v moři . Jsou tam , protože jsou na dovolené v létě . Matka je z Itálie a každý rok celá rodina jezdí do Itálie , protože má dům blízko pláže . Oba mají na sobě plavky . Otec má také na sobě brýle . Jsou moc spokojení . Otec říká , že voda je teplá , ale dcera myslí , že voda je moc ziná !

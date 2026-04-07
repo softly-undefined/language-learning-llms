@@ -1,0 +1,45 @@
+METADATA
+
+General:
+Author ID: 1061_0120890
+Test language: German
+CEFR level of test: B1
+Task : write a letter for New Year to a friend - ID: 1061_110101
+Mother tongue: Arabic
+Age: 42
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Lieber Michael                                  Stadt X-8-1.-
+vielen Dank für Ihr Brief
+wie geht es dir und deinen Familie
+ich wünche diese Jahr Führen Schein machen und neu Auto kaufen, da zum Arbeitsplazt und zur hause einfach fahren
+bei meine Arbeit. Jeder Angestellt mehre Geld verdient und neue Chef bringen ich wünsche neue Cheff beser von alt cheff
+ich schlage übermorgen Treffen vor, wenn Sie Zeit haben
+an Silvester habe ich mit meinen Freunde treffen und zum Resturant gehen und essen zusamen
+Herzliche Grüße
+Tobias
+
+----------------
+
+Target hypothesis 1: 
+
+Lieber Michael , Stadt X , 8 . 1 . - vielen Dank für Ihren Brief . Wie geht es dir und deiner Familie ? Ich wünsche dieses Jahr den Führenschein zu machen und ein neues Auto zu kaufen , um einfach zum Arbeitsplatz und nach Hause von meiner Arbeit zu fahren . Jeder Angestellte verdient mehr Geld und ein neuer Chef wird gebracht , ich wünsche , dass ein neuer Chef besser als der alte Chef ist . Ich schlage übermorgen ein Treffen vor , wenn Sie Zeit haben . An Silvester habe ich mich mit meinen Freunden getroffen und wir sind zum Restaurant gegangen und haben zusammen gegessen . Herzliche Grüße Tobias
+
+----------------
+
+Target hypothesis 2: 
+
+Lieber Michael , Stadt X-8 - 1 . - vielen Dank für deinen Brief . Wie geht es dir und deiner Familie ? Ich wünsche diese Jahr den Führerschein zu machen und ein neues Auto zu kaufen , um einfacher zum Arbeitsplatz und nach Hause zu fahren . Bei meiner Arbeit verdient jeder Angestellte mehr Geld und es gibt einen neuen Chef . Ich wünsche , dass der neue Chef besser als der alte Chef ist . Ich schlage ein Treffen übermorgen vor , wenn du Zeit hast . An Silvester habe ich mich mit meinen Freunden getroffen und wir sind in ein Restaurant gegangen und haben zusammen gegessen . Herzliche Grüße Tobias

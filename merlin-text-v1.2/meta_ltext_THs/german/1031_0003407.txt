@@ -1,0 +1,41 @@
+METADATA
+
+General:
+Author ID: 1031_0003407
+Test language: German
+CEFR level of test: C1
+Task : write article about sticking to one's traditions and 'assimilation' in a new environment - ID: 1031_030301
+Mother tongue: Spanish
+Age: 43
+Gender: female
+
+Rating:
+Overall CEFR rating: B2
+Grammatical accuracy: B2
+Orthography: B2
+Vocabulary range: B2
+Vocabulary control: B2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B2
+
+----------------
+
+Learner text: 
+
+Kuba: ohne Musik und Tanz geht gar nichts
+Kuba ist ein Land mit vielen Traditionen, die aus zwei Wegen kommen: Spanien und Afrika. Mit der Kolonisation wurden vielen afrikanische als Sklaven von Spanischen nach Kuba mitgebrach. Natürlich sind sie mit ihren Kultur und Traditionen gekommen
+Welche Traditionen?
+Wir können mit den Religion beginne: Katolische und Yoruba. Beim Katolische haben wir Traditionen wie Taufe, Hochzeit, Konfirmation. Beim Yoruba auch Taufe, Feste mit bestimmteten Rituales wie Schlachtungen des Tieres, besonderes Essen und Tanzen, die verschiedenen Heilige repräsentieren: Heilige der Meer, Fluss, Bald, Wegen. Traditionen wie Geburtstagparty, Mutter- und Vatertagfeier haben wir auch.
+Der 15. Jährigefeier ist eine der besonderten Festes, die eine Junges Mädchen in ihres Lebens hat. Es ist der Schrit von Kinderheit zum Erwarsene. Fast Jeder von unseren Traditionen existieren nicht ohne Musik und Tanzen. Der Kubaner braucht nur eine Melodie hören um ihres Körper mit Ritmus zu bewegen. Das hilft es uns um eine Gute Physik und seeliche Gesunheit zu haben. Etwas dass wir im Ausland fortzusetzen können. Genauso wie wir von Spanien und Afrika bekommen haben So werden die Länder mehr zusammen sein
+
+----------------
+
+Target hypothesis 1: 
+
+Kuba : ohne Musik und Tanz geht gar nichts . Kuba ist ein Land mit vielen Traditionen , die aus zwei Wegen kommen : Spanien und Afrika . Mit der Kolonisation wurden viele Afrikanische als Sklaven von Spanischen nach Kuba mitgebracht . Natürlich sind sie mit ihrer Kultur und Traditionen gekommen . Welche Traditionen ? Wir können mit der Religion beginnen : die katholische und Yoruba . Beim Katholischen haben wir Traditionen wie Taufe , Hochzeit , Konfirmation , beim Yoruba auch Taufe , Feste mit bestimmten Ritualen wie Schlachtungen des Tieres , besonderes Essen und Tänze , die verschiedene Heilige repräsentieren : Heilige des Meeres , Flusses , Waldes , der Wege . Traditionen wie Geburtstagparty , Mutter- und Vatertagfeier haben wir auch . Die 15-Jährigefeier ist eines der besonderen Feste , die ein junges Mädchen in ihrem Leben hat . Es ist der Schritt von der Kinderheit zum Erwachsenen . Fast jede von unseren Traditionen existiert nicht ohne Musik und Tanzen . Der Kubaner braucht nur eine Melodie hören , um ihren Körper mit dem Rhythmus zu bewegen . Das hilft uns , eine gute Physik und seelische Gesundheit zu haben . Etwas , dass wir im Ausland fortsetzen können . Genauso wie wir es von Spanien und Afrika bekommen haben , so werden die Länder mehr zusammen sein .
+
+----------------
+
+Target hypothesis 2: 
+
+Kuba : ohne Musik und Tanz geht gar nichts . Kuba ist ein Land mit vielen Traditionen , die aus zwei Kulturen stammen : Spanien und Afrika . Mit der Kolonisation wurden viele Afrikaner als Sklaven von Spaniern nach Kuba gebracht . Natürlich sind sie mit ihrer Kultur und ihren Traditionen gekommen . Welche Traditionen ? Wir können mit den Religionen beginnen : dem Katholizismus und der Religion der Yoruba . Im Katholizismus haben wir Traditionen wie Taufe , Hochzeit und Firmung . Bei den Yoruba gibt es auch die Taufe , Feste mit bestimmten Ritualen wie Tierschlachtungen , besonderes Essen und Tänze , die verschiedene Heilige repräsentieren : Heilige des Meeres , Flusses , Waldes und der Wege . Traditionen wie Geburtstagparty , Mutter- und Vatertagfeier haben wir auch . Die 15-Jahresfeier ist eines der besonderen Feste , die ein junges Mädchen in ihrem Leben hat . Es ist der Schritt aus der Kinderheit zum Erwachsenwerden . Fast jede unserer Traditionen existiert nur mit Musik und Tanzen . Der Kubaner braucht nur eine Melodie zu hören , um seinen Körper im Rhythmus zu bewegen . Das hilft uns , körperlich und seelisch gesund zu sein . Das ist etwas , das wir im Ausland fortsetzen können . Genauso wie wir es von Spanien und Afrika übernommen haben . So werden die Länder näher zusammen sein .

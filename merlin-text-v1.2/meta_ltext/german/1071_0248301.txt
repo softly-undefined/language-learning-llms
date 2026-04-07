@@ -1,0 +1,29 @@
+METADATA
+
+General:
+Author ID: 1071_0248301
+Test language: German
+CEFR level of test: A1
+Task : arrange appointment with friend to go swimming together - ID: 1071_120302
+Mother tongue: not reported
+Age: 54
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Liebe Daniela,
+wie geht´ dir? Am Samstag hast du Zeit? Gehen wir ins schwimmbad in Stadt? bitte Badanzug mitbringen. Wir treffen uns am Kaufhof um 13 Uhr.
+Bitte nicht zu spät. Ich warte dich am eingang.
+Viele Grüße.
+Julia

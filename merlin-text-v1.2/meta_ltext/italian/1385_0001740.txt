@@ -1,0 +1,26 @@
+METADATA
+
+General:
+Author ID: 1385_0001740
+Test language: Italian
+CEFR level of test: A1
+Task : reschedule an appointment - ID: 1385_020100
+Mother tongue: Polish
+Age: 25
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Ciao Daniele,
+Grazie per tuo invitare. Purtroppo questa settimana abbiamo molto lavoro in ufficio. Nostro capo ha organizzato una riunione giovedì pomeriggio. Allora noi non possiamo incontrarvi a te questo giorno. Peccáto:(. Che cosa tu fai sabato sera? Sei ocupato? Andiamo a cena al ristorante tailandese insieme? Che ne dici di andare al ristorante? Aspettiamo per tua risposta.Baci    Maria i Anna

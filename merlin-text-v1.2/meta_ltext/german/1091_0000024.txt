@@ -1,0 +1,29 @@
+METADATA
+
+General:
+Author ID: 1091_0000024
+Test language: German
+CEFR level of test: A2
+Task : letter to housing office - ID: 1091_0610301
+Mother tongue: Arabic
+Age: 25
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: B2
+Orthography: B2
+Vocabulary range: B1
+Vocabulary control: B2
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: B2
+
+----------------
+
+Learner text: 
+
+                                              stadt X, 04,01.2012
+Sehr geehrte Dammen und Herren,
+Wir suchen eine wohnung mit fer zimmer und ein großen kusche, weil wir zwei kinder haben, , brauchen Wir zwei Schlafzimmer. Wir haben einen Auto, So wir möchten eine Grage. Unsere kin der möchten eine platze vor spielen, Dann wir suchen eine wohnung mit Balkon.
+Viele Große
+Eva Müller

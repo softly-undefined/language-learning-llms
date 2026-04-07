@@ -1,0 +1,41 @@
+METADATA
+
+General:
+Author ID: PHA0111001A
+Test language: Czech
+CEFR level of test: A2
+Task : answering on a birthday invitation - ID: A2PS0102_oslava
+Mother tongue: Russian
+Age: 2029
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Ahoj, Jano! Jak se máš?
+Děkuju za e-mail, jsem moc rada. Chtela bych vědět, kde bude oslava tvých narozenin? Kdy je začátek oslavy? Ještě chtela bych vědet, kdo tam bude? Kdo jsou další hosty?
+Chtela bych byt se svém přitelem.
+Děkuju
+Ahoj!
+
+----------------
+
+Target hypothesis 1: 
+
+Ahoj , Jano ! Jak se máš ? Děkuju za e-mail , jsem moc ráda . Chtěla bych vědět , kde bude oslava tvých narozenin . Kdy je začátek oslavy ? Ještě bych chtěla vědět , kdo tam bude . Kdo jsou další hosté ? Chtěla bych být se svým přítelem . Děkuju . Ahoj !
+
+----------------
+
+Target hypothesis 2: 
+
+Ahoj , Jano ! Jak se máš ? Děkuju za e-mail , jsem moc ráda . Chtěla bych vědět , kde bude oslava tvých narozenin . Kdy je začátek oslavy ? Ještě bych chtěla vědět , kdo tam bude . Kdo jsou další hosté ? Chtěla bych být se svým přítelem . Děkuju . Ahoj !

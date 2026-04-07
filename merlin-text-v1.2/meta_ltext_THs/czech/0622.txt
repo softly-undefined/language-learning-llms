@@ -1,0 +1,46 @@
+METADATA
+
+General:
+Author ID: 0622
+Test language: Czech
+CEFR level of test: B1
+Task : answer to the email of Alena - ID: 1_Alena
+Mother tongue: German
+Age: not reported
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Ahoj Aleno,
+
+Dekuju Ti za Tvuj email. Jak se maš? Mam se spatne, protoze musim učit moc. Teď studuju pedagogiku. Na diplomce pracuju ještě ne, ale musim psat těžký seminárni prace a ucit na zkoušku češtiny.
+O prazdninach budu jet ještě jednou do Norsko. Minuly rok byl jsem už v Norske a delal jsem peši turu na narodnim parku "Hardangervidda". Tesim se, že setkame v Drazdanech brzo! Cheš prijt do myj byt na  odpoledne? Kdy prijedeš v Draždanech? Přijdu do nadrazi!
+Prázdninove kurzy češtiny je zajmavy! Kolik stoj ten kurs a kdy začina?
+
+Tak jo. To je vsechno.
+Odepiš mi  brzo a, prosim, posílaš tento inzerat!
+Mej se hezký.
+Ahoj, David
+
+----------------
+
+Target hypothesis 1: 
+
+Ahoj Aleno , děkuju Ti za Tvůj e-mail . Jak se máš ? Mám se špatně , protože musím učit moc . Teď studuju pedagogiku . Na diplomce nepracuju , ale musím psát těžkou seminární práci a učit na zkoušku češtiny . O prázdninách pojedu ještě jednou do Norska . Minulý rok jsem už v Norsku a dělal jsem pěší túru v národním parku " Hardangervidda " . Těším se , že setkáme v Drážďanech brzo ! Chceš přijít do mého bytu odpoledne ? Kdy přijedeš do Drážďan ? Přijdu na nádraží ! Prázdninový kurz češtiny je zajímavý ! Kolik stojí ten kurz a kdy začíná ? Tak jo . To je všechno . Odepiš mi brzo a , prosím , pošli tento inzerát ! Měj se hezky . Ahoj , David
+
+----------------
+
+Target hypothesis 2: 
+
+Ahoj Aleno , děkuju Ti za Tvůj e-mail . Jak se máš ? Mám se špatně , protože se musím moc učit . Teď studuju pedagogiku . Na diplomce ještě nepracuju , ale musím psát těžkou seminární práci a učit se na zkoušku z češtiny . O prázdninách pojedu ještě jednou do Norska . Minulý rok jsem už v Norsku byl a dělal jsem pěší túru v národním parku " Hardangervidda " . Těším se , že se setkáme brzo v Drážďanech ! Chceš přijít do mého bytu na odpoledne ? Kdy přijedeš do Drážďan ? Přijdu na nádraží ! Prázdninový kurz češtiny je zajímavý ! Kolik stojí ten kurz a kdy začíná ? Tak jo . To je všechno . Odepiš mi brzo a , prosím , pošli ten inzerát ! Měj se hezky . Ahoj , David

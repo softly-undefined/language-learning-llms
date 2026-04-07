@@ -1,0 +1,38 @@
+METADATA
+
+General:
+Author ID: 1023_0103822
+Test language: German
+CEFR level of test: B2
+Task : apply for internship in sales department - ID: 1023_120301
+Mother tongue: Polish
+Age: 26
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B2
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Computer-Spezialist                               Stadt X, 7.07.2010
+Odenwaldstraße 5
+53119 Bonn
+Katharina Meier
+Bahnhofsstraße 12
+12345 Stadt X
+Sehr geehrte Damen und Herren,
+Ich möchte mich bewerben um der Vertriebspraktikantstelle bei Ihrer Firma. 
+Ich interessiere mich für elektronische Datenverarbeitung, dafür habe ich Technicschule besucht um dass Wissenschaft zu besitzen, Als ich in Stadt X wohne und einen Wagen habe, bin ich sehr flexibil.
+Ich habe durch ein Jahr in der Versicherungfirma im Verkauf gearbeitet und ich habe einen guten Kundenkontakt gehabt.
+Mit freundlichen Grüßen
+Katharina Meier
+Anlage
+1. Ciriculum Vitae

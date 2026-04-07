@@ -1,0 +1,29 @@
+METADATA
+
+General:
+Author ID: 1395_0001103
+Test language: Italian
+CEFR level of test: A2
+Task : inform friends about language course - ID: 1395_010300
+Mother tongue: German
+Age: 31
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+                                                                                 28.06.11 
+Cari amici!
+Sono qui a Città X per imparare l'italiano. Città X si trova al mare più ou meno 200 km in fronte di Città Y. Che una molta bella e vecchia città. In nostro corso ci sono tante persone differente. 3 Persone sono del Inghilterra, 2 delle USA, 3 Persone di Città Z et una di Città W. Sono un vero "Dreamteam". Quando non abbiamo lezione, faggiamo tante cose insieme, andare al mare, mangare in pizzeria, andare in cinema, andare in montagna, fare delle passeggiate. Tutto insieme. 
+A presto! 
+Michele

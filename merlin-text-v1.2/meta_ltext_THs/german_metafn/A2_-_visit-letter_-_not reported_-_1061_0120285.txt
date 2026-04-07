@@ -1,0 +1,40 @@
+METADATA
+
+General:
+Author ID: 1061_0120285
+Test language: German
+CEFR level of test: B1
+Task : write a letter to a friend (visit) - ID: 1061_130101
+Mother tongue: not reported
+Age: 36
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+                                        Stadt X, den 22.02.2012
+Liebe Dana,
+vielen Dank für ein Brief. Ich habe dein Brief gelesen, war toll. Die Prüfung habe ich bestanden. sehr toll. Danach bin ich nach Luxemburg gefahren. Ich besuche meine Schwester. Meine Schwester zeit einem jahre in Luxemburg gelieb. Die Stadt ist so interessant mich. war schön. Ich bleibe noch ein woche bei meine Schwester. Ich wünsche eine uhr aus Istanbul. Kannst du mir mitbringen. Vielleicht treffen wir uns wenn du nach Trier zurück kommen. Ich vermisse dich.
+viele Grüße
+Katharina
+
+----------------
+
+Target hypothesis 1: 
+
+Stadt X , den 22.02.2012 Liebe Dana , vielen Dank für einen Brief . Ich habe deinen Brief gelesen , war toll . Die Prüfung habe ich bestanden . Sehr toll ! Danach bin ich nach Luxemburg gefahren . Ich besuche meine Schwester . Meine Schwester bleibt seit einem Jahr in Luxemburg . Die Stadt ist so interessant für mich . Es war schön . Ich bleibe noch eine Woche bei meiner Schwester . Ich wünsche mir eine Uhr aus Istanbul . Kannst du mir eine mitbringen . Vielleicht treffen wir uns , wenn du nach Trier zurückkommst . Ich vermisse dich . Viele Grüße Katharina
+
+----------------
+
+No target hypothesis 2 available.
+

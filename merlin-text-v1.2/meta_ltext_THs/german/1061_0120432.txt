@@ -1,0 +1,43 @@
+METADATA
+
+General:
+Author ID: 1061_0120432
+Test language: German
+CEFR level of test: B1
+Task : write a letter for New Year to a friend - ID: 1061_110101
+Mother tongue: Polish
+Age: 28
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: A2
+Orthography: B2
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+                                    Stadt X, 13.03.2012
+Lieber Michael,
+vielen Dank für deine Brief, du so schnell züruck geschreibt. Die Silvesternacht habe ich wie jedes Jahr mit Eltern und Schwester verbracht. Wir auch haben gemeinsam gekocht und gegessen. Später sind wir dann in die Hof gegangen, wo wir uns das Feuerwerk angesehen habe. Es war auch echt super.
+Mein Wunsch für das neue Jahr ist klar jetzt Deutschkurs bestanden und neue arbeit findet. Im Endejahr werde ich neue auto kaufen. 
+Bei mein Arbeit nicht Neues gibt. Immer dass selber, jeden Tag bischen ander. Meine Schefin ist net und sympatisch.
+Gerne wir mussen zusamen treffen. Wenn dir passt Ostern? Kann wir noch telefoniren und reden was sollten machen? Ich warte auf Deine anruft.
+Herzliche Grüße
+Maria
+
+----------------
+
+Target hypothesis 1: 
+
+Stadt X , 13.03.2012 Lieber Michael , vielen Dank für deinen Brief , du hast so schnell zurückgeschrieben . Die Silvesternacht habe ich wie jedes Jahr mit Eltern und Schwester verbracht . Wir haben auch gemeinsam gekocht und gegessen . Später sind wir dann in den Hof gegangen , wo wir uns das Feuerwerk angesehen haben . Es war auch echt super . Mein Wunsch für das neue Jahr ist klar , jetzt den Deutschkurs bestehen und eine neue Arbeit finden . Am Ende des Jahres werde ich ein neues Auto kaufen . Bei meiner Arbeit gibt es nichts Neues . Immer dasselbe , jeden Tag ein bisschen anders . Meine Chefin ist nett und sympathisch . Gerne müssen wir uns zusammen treffen . Wenn dir Ostern passt ? Wir können noch telefonieren und reden , was wir machen sollten ? Ich warte auf Deinen Anruf . Herzliche Grüße Maria
+
+----------------
+
+No target hypothesis 2 available.
+

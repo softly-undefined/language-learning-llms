@@ -1,0 +1,44 @@
+METADATA
+
+General:
+Author ID: 1325_9000296
+Test language: Italian
+CEFR level of test: B2
+Task : inform oneself about an aid project - ID: 1325_030300-1
+Mother tongue: other
+Age: 22
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B2
+Vocabulary range: B2
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Solidarietà Viva 
+Viale Bruzzi 117 
+21203 Milano
+Io sono Maria Rossi, arrivo da Città X. La mia proffessione à banchiere. Sono una persona molto betuata , mi piace aiutare alle persone che arrivano dai poveri paesi. La mia conoscenza vi aiuterà per questo programma. Sono sicura che in questi dieci giorni farete tanto per questi paesi. La mia proffessione à proprio una di quelle che sanno come comportarsi con il denaro. L'anno passato sono stata ad un campo di lavoro, è la ho conosciuto tante persone che erano molto brave è hanno riuscito di raccogliere cento milla dollari. In questi dieci giorni vedrò di venire all quinto giorno è resterò circa due giorni. Sarò grada a venire a lavorare è anche a dare consingli dei problemi che ci sono in questi paesi. Questi problemi si devono staccare dall fondo. Ho già in mente tre soluzioni per fare un bum! di economia in Asia. Porterà tante cose per vendere che non servono più a me. Spero che queste cose che ho in mente sarrano le cose giuste per dare un pezzeto di forza per svilluppare i paesi. Solo tutti asieme potremo fare una vera giusta è lella cosa.
+Ancòra una volta le ringrazio per questo invito, sono molto felice quando si tratta di aiutare a qualcuno.
+A tràpoco ci vediamo all 8 luglio
+invia: Maria Rossi
+Strada Maggiore 17 
+12345 Città X  
+
+----------------
+
+Target hypothesis 1: 
+
+Solidarietà Viva Viale Bruzzi 117 21203 Milano Io sono Maria Rossi , arrivo da Città X . La mia professione è banchiere . Sono una persona molto betuata , mi piace aiutare le persone che arrivano dai paesi poveri . La mia conoscenza vi aiuterà in questo programma . Sono sicura che in questi dieci giorni farete tanto per questi paesi . La mia professione è proprio una di quelle che sanno come comportarsi con il denaro . L' anno passato sono stata in un campo di lavoro , e là ho conosciuto tante persone che erano molto brave e sono riusciti a raccogliere centomila dollari . In questi dieci giorni vedrò di venire al quinto giorno e resterò circa due giorni . Sarò grata di venire a lavorare e anche a dare consigli per i problemi che ci sono in questi paesi . Questi problemi si devono staccare dal fondo . Ho già in mente tre soluzioni per fare un boom di economia in Asia . Porterò tante cose da vendere che non servono più a me . Spero che queste cose che ho in mente saranno le cose giuste per dare un pezzetto di forza per sviluppare i paesi . Solo tutti assieme potremo fare una vera giusta e bella cosa . Ancora una volta le ringrazio per questo invito , sono molto felice quando si tratta di aiutare qualcuno . A tra poco , ci vediamo l' 8 luglio invia : Maria Rossi Strada Maggiore 17 12345 Città X
+
+----------------
+
+No target hypothesis 2 available.
+

@@ -1,0 +1,42 @@
+METADATA
+
+General:
+Author ID: 1019
+Test language: Czech
+CEFR level of test: B1
+Task :  - ID: 3_Jana
+Mother tongue: Russian
+Age: not reported
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Ahoj Jano,
+měla radost  s tveho e-mailu. Jak se máš? Mám se dobře. Měla také radost, že budeš studovat dál. Jaký obor budeš studovat? Postgradual je težke ale, myslim že, zajimavé. Pišu teď diplomovu práce a po ukončení studia bych chtela pracovát, ale nevim kdě. Měla jsem praxe u firmy Simens, to bylo pekně, ale šef mlůvil, že firma teď nemá místa pro mě. Jak je ten tvůjkurs angličtiny? Libilo ti tam? Bylo to intenzivně? Skupina (byla) je dobra? Chtela bych v lete přijet do Brna. Neviš má ta  jazyková škola ještě kurs češtiny v lete? To bylo by pekně. Mochli bychom se setkat často. Mochla byste mě poslat odkaz na webovů stranku letní školy ?
+V minulý tydeň jsme měli s Tomašem zajimavý vylet do Saksonskeho Švycarska. Fotky jsou veselẏ. Posylám s Tomašem tě fotky. Tomaš se skupinou (uči také český teď) pojedí do Brna 10-ho srpna. Mochli byste se setkat a on by předa tě fotky.
+Teď musím končit, protože máme s Pavlem zitra zkoužku. Musim ještě učit.
+Zdravim te a měj se dobře
+Petra
+
+----------------
+
+Target hypothesis 1: 
+
+Ahoj Jano , měla radost z tvého e-mailu . Jak se máš ? Mám se dobře . Měla také radost , že budeš studovat dál . Jaký obor budeš studovat ? Postgraduál je těžký , ale myslím , že zajímavý . Píšu teď diplomovou práci a po ukončení studia bych chtěla pracovat , ale nevím kde . Měla jsem praxi u firmy Siemens , to bylo pěkné , ale šéf mluvil o tom , že firma teď nemá místo pro mě . Jaký je ten tvůj kurs angličtiny ? Líbilo se ti tam ? Bylo to intenzivní ? Skupina ( byla ) je dobrá ? Chtěla bych v létě přijet do Brna . Nevíš , má ta jazyková škola ještě kurs češtiny v létě ? To by bylo pěkné . Mohli bychom se setkávat často . Mohla byste mi poslat odkaz na webovou stránku letní školy ? Minulý týden jsme měli s Tomášem zajímavý výlet do Saksonského Švýcarska . Fotky jsou veselé . Posílám ti s Tomášem fotky . Tomáš se skupinou ( učí se teď také česky ) pojede do Brna 10. srpna . Mohli byste se setkat a on by ti předal fotky . Teď musím končit , protože máme s Pavlem zítra zkoušku . Musím se ještě učit . Zdravím tě a měj se dobře . Petra
+
+----------------
+
+Target hypothesis 2: 
+
+Ahoj Jano , měla jsem radost z tvého e-mailu . Jak se máš ? Mám se dobře . Měla jsem také radost , že budeš studovat dál . Jaký obor budeš studovat ? Postgraduál je těžký , ale myslím , že zajímavý . Píšu teď diplomovou práci a po ukončení studia bych chtěla pracovat , ale nevím kde . Měla jsem praxi u firmy Siemens , to bylo pěkné , ale šéf mluvil o tom , že firma teď nemá místo pro mě . Jaký je ten tvůj kurs angličtiny ? Líbilo se ti tam ? Bylo to intenzivní ? Skupina ( byla ) je dobrá ? Chtěla bych v létě přijet do Brna . Nevíš , má ta jazyková škola ještě kurs češtiny v létě ? To by bylo pěkné . Mohly bychom se setkávat často . Mohla bys mi poslat odkaz na webovou stránku letní školy ? Minulý týden jsme měli s Tomášem zajímavý výlet do Saského Švýcarska . Fotky jsou veselé . Posílám ti s Tomášem fotky . Tomáš se skupinou ( učí se teď také česky ) pojede do Brna 10. srpna . Mohli byste se setkat a on by ti předal fotky . Teď musím končit , protože máme s Pavlem zítra zkoušku . Musím se ještě učit . Zdravím tě a měj se dobře . Petra

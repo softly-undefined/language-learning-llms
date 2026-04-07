@@ -1,0 +1,40 @@
+METADATA
+
+General:
+Author ID: 1071_0024857
+Test language: German
+CEFR level of test: A1
+Task : congratulate to birth of child - ID: 1071_030101
+Mother tongue: English
+Age: 52
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A1
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Herr Jens,
+Hallo! Wie gehts  dir, Ich wünsche das seine Frau hat des Baby gekommen, und jetz bis du vater. wie heist ist seine Frau? und Wenn ist sein Baby geworen, ist seine Baby a jung oder menschen, und was willst du die name für seine Baby? Ich wünsche Dir einen Shöenen tag und vielglück für seine Baby. und viele Gruße für Seine Frau.
+Dein Freund.
+Maria
+
+----------------
+
+Target hypothesis 1: 
+
+Herr Jens , hallo ! Wie geht´s dir ? Ich wünsche , dass seine Frau das Baby bekommen hat , und jetzt bist du Vater . Wie ist seine Frau ? Und wann ist sein Baby geboren , ist sein Baby ein Junge oder ein Mädchen , und welchen Namen willst du für dein Baby ? Ich wünsche Dir einen schönen Tag und viel Glück für sein Baby . Und viele Grüße für seine Frau . Deine Freundin . Maria
+
+----------------
+
+Target hypothesis 2: 
+
+Jens , hallo ! Wie geht's dir , ich hoffe , dass deine Frau das Baby bekommen hat , und du jetzt Vater bist . Wie heißt deine Frau ? Und wann ist dein Baby geboren ? Ist dein Baby ein Junge oder ein Mädchen , und welchen Namen willst du für dein Baby ? Ich wünsche dir einen schönen Tag und viel Glück für dein Baby . Viele Grüße für deine Frau . Deine Freundin . Maria

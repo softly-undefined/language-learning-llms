@@ -1,0 +1,45 @@
+METADATA
+
+General:
+Author ID: BER0609003
+Test language: Czech
+CEFR level of test: B2
+Task : write an essay: Everywhere well but at home the best - ID: B2PS0200_doma
+Mother tongue: Other
+Age: 2029
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B2
+Vocabulary control: B2
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Všude dobře, doma nejlépe
+Myslel jsem tak celý můj život. Cestoval jsem mockrát. byl jsem už ve Špaňelsku, v Řecku, v Africe, v Italii, Anglii, České republice. Teď jsem zase v Německu, přestěhoval jsem se tady v roce 2007.
+Co znamená jednak doma? Vždycky jsem myslel, že doma u rodičů je nejlepe. Po každe cestě jsem byl unavěný a jsem byl rád, že doma je těple jídlo a něco k pití. Ale to neznamená, že je to dům, nebo co myslíte?
+Dom to je radost, to je laska a zodpovědnost.
+Mám na to  názor, že všude dobře tam, kde jsou dobří lide. To znamená pro mě dům. Na záčatku, když jsem přestěhoval do Německa, že budu se cítit jako cízinec.
+Jsem doma. Ikdyž moji rodiče a bratr jsou daleko, mám tady v Greifswaldu dům.
+Všude dobře, nejlépe doma - každy, kdo tak řiká má pravdu, jenom snažím se nezapomnout, že dům to já a všechní, kteréch miluju a mám s ními pocit bezečí.
+Možna chceté vědet jak to udělat? Být človekem a nebýt jen sobecký. Myslím, že všechno dobré, ktére uděláte, vratí se vám za nějaky čas. Trplivost růze nosí - tak jen třeba čekat.
+Je to taky možní, že už určitě víte, kde je váš dům. Ja teď vím, že on je vždy se mnou.
+Dům to není prostor, to jsou skučeností, ktérých vám přeju moc v životě.
+
+----------------
+
+Target hypothesis 1: 
+
+Všude dobře , doma nejlépe . Myslel jsem si to celý můj život . Cestoval jsem mockrát . Byl jsem už ve Španělsku , v Řecku , v Africe , v Itálii , Anglii , České republice . Teď jsem zase v Německu , přestěhoval jsem se tady v roce 2007 . Co znamená jednak doma ? Vždycky jsem myslel , že doma u rodičů je nejlépe . Po každé cestě jsem byl unavený a byl jsem rád , že doma je teplé jídlo a něco k pití . Ale to neznamená , že je to dům , nebo co myslíte ? Dům , to je radost , to je láska a zodpovědnost . Mám na to názor , že je všude dobře tam , kde jsou dobří lidé . To pro mě znamená dům . Na záčátku , když jsem se přestěhoval do Německa , myslel jsem , že se budu cítit jako cizinec . Jsem doma . I když moji rodiče a bratr jsou daleko , mám tady v Greifswaldu dům . Všude dobře , nejlépe doma - každý , kdo to říká , má pravdu , jenom se snažím nezapomenout , že dům jsem já a všichni , které miluju a mám s nimi pocit bezpečí . Možná chcete vědět , jak to udělat . Být člověkem a nebýt jen sobecký . Myslím , že všechno dobré , co uděláte , se vám vratí za nějaký čas . Trpělivost růže nosí - tak je jen třeba čekat . Je taky možné , že už určitě víte , kde je váš dům . Já teď vím , že on je vždy se mnou . Dům to není prostor , to jsou skutečnosti , kterých vám přeju moc v životě .
+
+----------------
+
+No target hypothesis 2 available.
+

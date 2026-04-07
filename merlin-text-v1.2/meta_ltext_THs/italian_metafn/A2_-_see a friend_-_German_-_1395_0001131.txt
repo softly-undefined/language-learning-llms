@@ -1,0 +1,40 @@
+METADATA
+
+General:
+Author ID: 1395_0001131
+Test language: Italian
+CEFR level of test: A2
+Task : go see a friend - ID: 1395_040101
+Mother tongue: German
+Age: 47
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A1
+Orthography: A2
+Vocabulary range: A1
+Vocabulary control: A1
+Coherence/Cohesion: A1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Ciao Caro,
+come stai? Voglio ti visitare in la tua città. È possibile quando vengo in autobus a casa tua? E la tua famiglia stati bene? A la  sera vogliamo cenare insieme? La prossima settimana ho tre giorni liberi, posso venire? Quando voui sto due giorni a casa tua. 
+   Tanti saluti 
+ Maria
+
+----------------
+
+Target hypothesis 1: 
+
+quando Ciao Caro , come stai ? Ti voglio visitare nella tua città . È possibile vengo in autobus a casa tua ? E la tua famiglia sta bene ? La sera vogliamo cenare insieme ? La prossima settimana ho tre giorni liberi , posso venire ? Quando vuoi sto due giorni a casa tua . Tanti saluti Maria
+
+----------------
+
+Target hypothesis 2: 
+
+Ciao caro , come stai ? Ti voglio visitare nella tua città . È possibile venire in autobus a casa tua ? E la tua famiglia sta bene ? La sera vogliamo cenare insieme ? La prossima settimana ho tre giorni liberi , posso venire ? Se vuoi sto due giorni a casa tua . Tanti saluti Maria

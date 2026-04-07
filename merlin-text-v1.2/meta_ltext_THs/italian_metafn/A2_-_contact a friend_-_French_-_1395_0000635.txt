@@ -1,0 +1,45 @@
+METADATA
+
+General:
+Author ID: 1395_0000635
+Test language: Italian
+CEFR level of test: A2
+Task : contact a friend after a long time - ID: 1395_020300
+Mother tongue: French
+Age: 53
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A1
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A1
+Coherence/Cohesion: A1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+                                                                              Città X, 4 Marzo 2010 
+            Caro Vito, 
+Ciao! Come stai? Io va bene e mia famiglia anche. 
+Ho trovato lavoro come cameriera che mi piace molto, sono tranquilla. 
+Sono andata in vacanza in Spagna con mi figlio, el paese e molto bellissimo. 
+Se puoi mi alloggiata, penso venire vedere il mese d'April. Responda mi.
+             Ti bacio 
+             La tua amica
+                                    Maria
+
+----------------
+
+Target hypothesis 1: 
+
+Città X , 4 marzo 2010 Caro Vito , ciao ! Come stai ? Io vado bene e anche la mia famiglia . Ho trovato lavoro come cameriera e mi piace molto , sono tranquilla . Sono andata in vacanza in Spagna con mio figlio , il paese è bellissimo . Se puoi alloggiarmi , penso di venire a vedere nel mese di aprile . Rispondimi . Ti bacio . La tua amica Maria
+
+----------------
+
+Target hypothesis 2: 
+
+Città X , 4 Marzo 2010 Caro Vito , ciao ! Come stai ? Io sto bene e anche la mia famiglia . Ho trovato lavoro come cameriera e mi piace molto , sono tranquilla . Sono andata in vacanza in Spagna con mio figlio , il paese è bellissimo . Se puoi ospitarmi , penso di venire a trovarti nel mese di aprile . Rispondimi . Ti bacio . La tua amica Maria

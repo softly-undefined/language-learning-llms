@@ -1,0 +1,44 @@
+METADATA
+
+General:
+Author ID: 0902
+Test language: Czech
+CEFR level of test: B1
+Task : answer to the email of Jana - ID: 2_Jana
+Mother tongue: German
+Age: not reported
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B2
+Vocabulary range: A2
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Drážďany, 10. února 2009 
+Ahoj Jano,
+
+děkuju Ti za Tvůj email a těším se na pozvání. Ráda přijet do Prahy. Mám se dobře. Teď mám taky zkoušky a mám moc práce. Ale v březnu budu mít čas a ráda bych zůstávala celý víkend v Praze. Ráda bych se podívala na město. Můžeš mi prosím napsat jak se dostanu na Tvůj byt? A Nevím Tvoje adresu. Jaké metro musím brát když jsem na nádraží? A kolik stojí jízdenka? 
+Chtěla bych se Tě zeptat ještě na něco: Co si přeješ a můzu Ti ještě něco přinést? 
+Teď končím. Je už pozdě a musím se ještě učit. Přeju Ti hezkou dovolenou v Itáli. Pozdravuj od mne Martina.
+Měj se hezky. Sabine
+
+
+
+----------------
+
+Target hypothesis 1: 
+
+Drážďany 10. února 2009 Ahoj , Jano , děkuju Ti za Tvůj e-mail a těším se na pozvání . Ráda přijedu do Prahy . Mám se dobře . Teď mám taky zkoušky a mám moc práce . Ale v březnu budu mít čas a ráda bych zůstala celý víkend v Praze . Ráda bych se podívala na město . Můžeš mi prosím napsat , jak se dostanu na Tvůj byt ? A nevím , jaká je Tvoje adresa . Jaké metro musím brát , když jsem na nádraží ? A kolik stojí jízdenka ? Chtěla bych se Tě zeptat ještě na něco : Co si přeješ ? A můžu Ti ještě něco přinést ? Teď končím . Je už pozdě a musím se ještě učit . Přeju Ti hezkou dovolenou v Itálii . Pozdravuj ode mne Martina . Měj se hezky . Sabine
+
+----------------
+
+No target hypothesis 2 available.
+

@@ -1,0 +1,28 @@
+METADATA
+
+General:
+Author ID: 1395_0000548
+Test language: Italian
+CEFR level of test: A2
+Task : contact a friend after a long time - ID: 1395_020300
+Mother tongue: German
+Age: 24
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Caro Bruno,
+come stai? Fa già un poco che non ci abbiamo visto. Io sono ritornata delle mie vacanze in Sardegna. Era fantastico e tranquillo. Io ho passato la più parte del tempo in spiaggia e ho letto tanti libri. La mia sorella, ti ricordi di Maria, lei ha trovato un nuovo financiato ed adesso vuole sposarsi in estate dell'anno prossimo. Mentre i miei genitori preferisconno che lei aspetterà ancora un anno.
+Cosa fai sabbato sera? Possiamo andare a cenare insieme. Che pensi?
+Mi chiami quando lo sai, cosi poso prenotare un tavolo. Tanti cari saluti, Eva

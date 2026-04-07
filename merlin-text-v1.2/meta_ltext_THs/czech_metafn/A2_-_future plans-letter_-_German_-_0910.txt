@@ -1,0 +1,44 @@
+METADATA
+
+General:
+Author ID: 0910
+Test language: Czech
+CEFR level of test: B1
+Task : answer to the email of Jana - ID: 2_Jana
+Mother tongue: German
+Age: not reported
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Ahoj Jano,
+těším se moc z tvého emailu. Mám se dobře. Omlouvám se, že napíšu tak pozdě, protože měla jsem moc prace a večer jsem byla moc unavená. Je brzo zkouška z češtiny a pišu doplomovou praci. Děkuji mockrát na pozváně. V březenu rada přijedu do Prazi. Budu bych celý vikendu. Můžeš ukazovat městu.
+Můžeme  jít do  kaváně a tam píšeme na kavu. Můžeš posílat tvoje adresu? Jaká metra musím jet. Musím přestupovat a kde? Jaká stanici musím vystupovat? Kolik stojí jízdenka?
+Co si přejes na narozeniny? Můžu přinášet něco.
+Těším se na březen.  Příjemnou zábavu v Italii.
+Pozdravuj Petra!
+Zatím ahoj. Sabine
+
+
+----------------
+
+Target hypothesis 1: 
+
+Ahoj Jano , těším se moc z tvého e-mailu . Mám se dobře . Omlouvám se , že píšu tak pozdě , protože jsem měla moc práce a večer jsem byla moc unavená . Brzo je zkouška z češtiny a píšu diplomovou práci . Děkuji mockrát za pozvání . V březnu ráda přijedu do Prahy . Byla bych tam celý víkend . Můžeš mi ukazovat město . Můžeme jít do kavárny a tam psát na kávu . Můžeš poslat svoji adresu ? Jakými metry musím jet ? Musím přestupovat ? A kde ? Na jaké stanici musím vystupovat ? Kolik stojí jízdenka ? Co si přeješ k narozeninám ? Můžu něco přinést . Těším se na březen . Příjemnou zábavu v Itálii . Pozdravuj Petra ! Zatím ahoj . Sabine
+
+----------------
+
+Target hypothesis 2: 
+
+Ahoj Jano , těším se moc z Tvého e-mailu . Mám se dobře . Omlouvám se , že píšu tak pozdě , protože jsem měla moc práce a večer jsem byla moc unavená . Brzo je zkouška z češtiny a píšu diplomovou práci . Děkuji mockrát za pozvání . V březnu ráda přijedu do Prahy . Byla bych tam celý víkend . Můžeš mi ukazovat město . Můžeme jít do kavárny a tam pít kávu . Můžeš poslat svoji adresu ? Jakými metry musím jet ? Musím přestupovat ? A kde ? Na jaké stanici musím vystoupit ? Kolik stojí jízdenka ? Co si přeješ k narozeninám ? Můžu něco přinést . Těším se na březen . Příjemnou zábavu v Itálii . Pozdravuj Petra ! Zatím ahoj . Sabine

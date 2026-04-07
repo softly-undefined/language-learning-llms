@@ -1,0 +1,46 @@
+METADATA
+
+General:
+Author ID: 0725
+Test language: Czech
+CEFR level of test: B1
+Task : answer to the email of Alena - ID: 1_Alena
+Mother tongue: German
+Age: not reported
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: A2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Pondělí, 16.07.07
+Ahoj Aleno!
+
+Moc dekuju za tvůj email. Jak se máš? Mám se dobře, ale musím  pracovat na diplomce. Doufám, že budu končit to ještě v červencu. Ale taky plánuju dovolenu. Protože nemám moc peníze, myslím že budu jet  na Slovensku. Já chci chodit ve Vysokého Tatry. Také chci prohližet Bratislavu.
+Těší mě, že budeš mi navstěvovat v Drážďan. Pozvám ti domu do mně. Máš chuť? Ve kolik hodin budeš príjet na nádraží? Musím to vědet protože chci ti dojet.
+ Ve tvůj email ti piseš, až  bude prazdninové kurz češtiny na tvoje univerzita, máš detaily pro mě? Kolik to stojí a kdy bude to? Mužeš mi posílat inzerát?
+Tak, víš že  líbí se mi pojet českým vlakem a tento kurz je dobra příležitost pro kombinovat  učit české jazyku a  cestovat vlakem.
+Teď musím ukončit protože musím pracovat na diplomce.
+Zatím ahoj.
+David
+
+----------------
+
+Target hypothesis 1: 
+
+Pondělí , 16.07.07 Ahoj Aleno ! Moc děkuju za tvůj e-mail . Jak se máš ? Mám se dobře , ale musím pracovat na diplomce . Doufám , že to dokončím ještě v červenci . Ale taky plánuju dovolenou . Protože nemám moc peníze , myslím , že pojedu na Slovensko . Já chci chodit ve Vysokých Tatrách . Také si chci prohlédnout Bratislavu . Těší mě , že mě navštívíš v Drážďanech . Pozvu tě ke mně domů . Máš chuť ? V kolik hodin přijedeš na nádraží ? Musím to vědět , protože pro tebe chci dojet . Ve svém e-mailu píšeš , že bude prázdninový kurz češtiny na tvé univerzitě , máš pro mě detaily ? Kolik to stojí a kdy to bude ? Můžeš mi poslat inzerát ? Tak , víš , že se mi líbí pojet českým vlakem a tento kurz je dobrá příležitost pro kombinaci učit se český jazyk a cestovat vlakem . Teď musím končit , protože musím pracovat na diplomce . Zatím ahoj . David
+
+----------------
+
+Target hypothesis 2: 
+
+Pondělí , 16.07.07 Ahoj Aleno ! Moc děkuju za tvůj e-mail . Jak se máš ? Mám se dobře , ale musím pracovat na diplomce . Doufám , že to dokončím ještě v červenci . Ale taky plánuju dovolenou . Protože nemám moc peníze , myslím , že pojedu na Slovensko . Já chci chodit ve Vysokých Tatrách . Také si chci prohlédnout Bratislavu . Těší mě , že mě navštívíš v Drážďanech . Pozvu tě ke mně domů . Máš chuť ? V kolik hodin přijedeš na nádraží ? Musím to vědět , protože pro tebe chci dojet . Ve svém e-mailu píšeš , že bude prázdninový kurz češtiny na tvé univerzitě , máš pro mě detaily ? Kolik to stojí a kdy to bude ? Můžeš mi poslat inzerát ? Tak , víš , že se mi líbí jezdit českým vlakem a tento kurz je dobrá příležitost pro kombinaci učit se český jazyk a cestovat vlakem . Teď musím končit , protože musím pracovat na diplomce . Zatím ahoj . David

@@ -1,0 +1,38 @@
+METADATA
+
+General:
+Author ID: 1385_0001118
+Test language: Italian
+CEFR level of test: A1
+Task : reschedule an appointment - ID: 1385_020100
+Mother tongue: Polish
+Age: 66
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Caro Daniele!
+E una settimana orribile. In ufficio c'e molto lavoro e giovedi pomeriggio non posso incontrare con tua al giovedi pomeriggio. Andiamo a cena un altro giorno, forse sabato sera. Se ti piace a mangiare andiamo in ristorante tailandese. Che cosa dice?
+Saluto
+
+----------------
+
+Target hypothesis 1: 
+
+Caro Daniele , è una settimana orribile . In ufficio c' è molto lavoro e giovedì pomeriggio non posso incontrarmi con te . Andiamo a cena un altro giorno , forse sabato sera . Se ti piace mangiare andiamo in un ristorante tailandese . Che cosa dice ? Un saluto
+
+----------------
+
+No target hypothesis 2 available.
+

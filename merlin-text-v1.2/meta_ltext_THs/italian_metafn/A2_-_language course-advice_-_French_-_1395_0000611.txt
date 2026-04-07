@@ -1,0 +1,44 @@
+METADATA
+
+General:
+Author ID: 1395_0000611
+Test language: Italian
+CEFR level of test: A2
+Task : inform friends about language course - ID: 1395_010300
+Mother tongue: French
+Age: 48
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A1
+Coherence/Cohesion: A1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+                                                                                  Città X
+                                                                                il martedì 12 gennaio
+            Cari Gina, Carlo,
+Sono a Città X da sei giorni, sto seguendo i corsi di italiano con la mia guida Carla e qualque collega dunque due tedeschi tre inglese e quattro francese. 
+fa bel tempo eccetto un giorno dove è piovuto. Ho visitato anzi le isole "Burano e Murano". Era proprio bello. 
+                 Vi penso con affeto
+                Ci vediamo presto. Bacioni 
+          La Vostra carissima amica Maria
+
+----------------
+
+Target hypothesis 1: 
+
+Città X martedì 12 gennaio Cari Gina e Carlo , sono a Città X da sei giorni , sto seguendo i corsi di italiano con la mia guida Carla e qualche collega cioè due tedeschi , tre inglesi e quattro francesi . Fa bel tempo eccetto un giorno dove è piovuto . Ho visitato le isole Burano e Murano . Era proprio bello . Vi penso con affetto . Ci vediamo presto . Bacioni la vostra carissima amica Maria
+
+----------------
+
+Target hypothesis 2: 
+
+Città X martedì 12 gennaio Cari Gina e Carlo , sono a Città X da sei giorni , sto seguendo dei corsi di italiano con la mia guida Carla e qualche collega cioè due tedeschi , tre inglesi e quattro francesi . Fa bel tempo eccetto un giorno che è piovuto . Ho visitato le isole Burano e Murano . È stato proprio bello . Vi penso con affetto . Ci vediamo presto . Bacioni la vostra carissima amica Maria

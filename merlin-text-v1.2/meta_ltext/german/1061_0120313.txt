@@ -1,0 +1,28 @@
+METADATA
+
+General:
+Author ID: 1061_0120313
+Test language: German
+CEFR level of test: B1
+Task : write a letter to a friend (birthday) - ID: 1061_170900
+Mother tongue: Russian
+Age: 62
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Liebe Silke!!!
+Meine Familie und mir geht es ganz gut. Meine Frau arbeitet sehr viel. Ich bekomme Schulung von Arbeitsam. Ich wil unbeding ein Hund haben. Wenn Meine Frau bleibt frei, vielleicht necksten Samstag, dann kommen wir zu dir.
+Hoffentlich bis bald
+Schmidt M.

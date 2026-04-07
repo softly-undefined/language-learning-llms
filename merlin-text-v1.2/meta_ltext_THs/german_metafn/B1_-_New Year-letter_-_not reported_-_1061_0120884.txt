@@ -1,0 +1,43 @@
+METADATA
+
+General:
+Author ID: 1061_0120884
+Test language: German
+CEFR level of test: B1
+Task : write a letter for New Year to a friend - ID: 1061_110101
+Mother tongue: not reported
+Age: 42
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: A2
+Orthography: B2
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+                             Stadt X, 27 März
+Meine Liebe Michael,
+Vielen Dank für deine Brief und Ich wünsche dir auch alles Gute!
+Am die Silvesternacht, Meine Familie war in die koreanische Kirche in Stadt Y. Wir haben vielle koreanische Kuchen gegessen und gespielt zusammen. Und wir haben das Feuerwerk angesehen. In 2012 denke ich Deutsch lernen musst.
+Und ich wünsch dass ich  kann Deutsch Prüfung machen am August. Ich habe Deutsche gelernt 
+Von September 2011 in VHS Stadt X. Ich habe viel Spaß. Es gibt Viele Zeit Deutsch sprechen beruflich in Deutschland. Ich muss viele Deutsch Dienst von Ministrium treffen. Ich hoffe dass wir können uns bald treffen. 
+Mit herzliche Grüße 
+Michael Meier
+
+----------------
+
+Target hypothesis 1: 
+
+Stadt X , 27 . März Mein lieber Michael , vielen Dank für deinen Brief und ich wünsche dir auch alles Gute ! In der Silvesternacht war meine Familie in der koreanischen Kirche in Stadt Y . Wir haben viele koreanische Kuchen gegessen und zusammen gespielt . Und wir haben das Feuerwerk angesehen . In 2012 denke ich , dass ich Deutsch lernen muss . Und ich wünsche , dass ich im August eine Deutschprüfung machen kann . Ich habe seit September 2011 in der VHS Stadt X Deutsch gelernt . Ich habe viel Spaß . Es gibt viel Zeit beruflich in Deutschland Deutsch zu sprechen . Ich muss viele Deutschdienste vom Ministerium treffen . Ich hoffe , dass wir uns bald treffen können . Mit herzlichen Grüßen Michael Meier
+
+----------------
+
+No target hypothesis 2 available.
+

@@ -1,0 +1,38 @@
+METADATA
+
+General:
+Author ID: PHA0112002B
+Test language: Czech
+CEFR level of test: A2
+Task : describe a photo: playground - ID: A2PS0201_hriste
+Mother tongue: Other
+Age: 2029
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Myslím, že na fotografii je rodína - manžel, manželka a dětí. Podle mého názoru jsou na nějakem hríště. Tam odpočivají - dětí hrají a rodíči se o nich stárají. Žena má na sobě modrou třičku a tmavé kalhoty. Můž má na sobě moudrý škarpetky, tmavou třičku a kalhoty. Dětí mají na sobě bílý třičky, bílý a moudrý kalhoty a ružové škarpetky.
+Myslím, že cítí se dobře a vesele. Zdá se mi, že rodiči myslí na své dětí - jaký jsou krásný a milý. Mluví o teplém, dobrém počasí a také, kam pojedou na dovolenou. Podle mého názoru, je to léto nebo jaro.
+
+----------------
+
+Target hypothesis 1: 
+
+Myslím , že na fotografii je rodina - manžel , manželka a děti . Podle mého názoru jsou na nějakém hřišti . Tam odpočívají - děti hrají a rodiče se o ně starají . Žena má na sobě modré tričko a tmavé kalhoty . Muž má na sobě moudré škarpetky , tmavé tričko a kalhoty . Děti mají na sobě bílá trička , bílé a modré kalhoty a růžové škarpetky . Myslím , že cítí dobře a vesele . Zdá se mi , že rodiče myslí na své děti - jaké jsou krásné a milé . Mluví o teplém , dobrém počasí a také , kam pojedou na dovolenou . Podle mého názoru je to léto nebo jaro .
+
+----------------
+
+Target hypothesis 2: 
+
+Myslím , že na fotografii je rodina - manžel , manželka a děti . Podle mého názoru jsou na nějakém hřišti . Tam odpočívají - děti si hrají a rodiče se o ně starají . Žena má na sobě modré tričko a tmavé kalhoty . Muž má na sobě modré boty , tmavé tričko a kalhoty . Děti mají na sobě bílá trička , bílé a modré kalhoty a růžové boty . Myslím , že se cítí dobře a vesele . Zdá se mi , že rodiče myslí na své děti - jaké jsou krásné a milé . Mluví o teplém , dobrém počasí a také , kam pojedou na dovolenou . Podle mého názoru je to léto nebo jaro .

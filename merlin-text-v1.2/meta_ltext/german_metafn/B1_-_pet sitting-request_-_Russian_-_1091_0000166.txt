@@ -1,0 +1,30 @@
+METADATA
+
+General:
+Author ID: 1091_0000166
+Test language: German
+CEFR level of test: A2
+Task : ask friend to take care of pet - ID: 1091_0650102
+Mother tongue: Russian
+Age: 39
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+                                            06.01.2012
+Hallo Eva,
+ich muss ein paar Tage nach Stadt X fahren. Könnst du meine Katze mitnehmen? oder besuchen? Ich fahre am 09.01.2012 um 9.00 Uhr und ich bringen um 08.00. Uhr mein Schlußel. Du Friest  bitte meine Katze zwei mal pro Tag / am Morgen und am Abend) und räumst ihre Tualete ein mal auf.
+Viele dank.
+Mit freundlichen Gruße
+Maria Schmidt

@@ -1,0 +1,42 @@
+METADATA
+
+General:
+Author ID: 0606
+Test language: Czech
+CEFR level of test: B1
+Task : answer to the email of Alena - ID: 1_Alena
+Mother tongue: German
+Age: not reported
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Ahoj Aleno,
+Děkuji Ti mnohokrát za Tvoje Email. Tvoje Email dostala jsem za posledny tyden. Mám se dobře a těším se na tvoje návštěvu. Posledny tyden byla jsem nemocna, ale teď už jsem zase fit.
+Co říct o mém životě? Nic zajimavého se nestalo, ale snad, že pracuju na diplomce. Je moc práce, ale mám rada. V létě pojedu do Anglie. Mám pozvání od Julie. Budu mít dovolenou od 10. července do 25. července 2007.
+Jo, těším se na naše setkat. Pozvám tě pro odpoledne. Myslím půl tří u mi domů. Budu doma od dva hodiny. Kdy přijedeš ve Drážďanech? Chtěla bych docházet tě na nádraží. Čtu že budu mít prázdninové kurzy češtiny. Kdy je ten a kolik stoji kurzy? Odkud má ten zajímavý inzerat? Chtěla bys posílat mi prosim?
+Jinak těším se na naše setkat, že budeme žvastat =) 
+Štastnou cestu a hodně pohody na práci. Jak se má tvoje matce? Pozdravuj ho! Pro dnesek končím. Mej se hezky. Srdečně, zatim Ahoj.
+Dana
+
+----------------
+
+Target hypothesis 1: 
+
+Ahoj Aleno , děkuji Ti mnohokrát za Tvůj e-mail . Tvůj e-mail jsem dostala v posledním týdnu . Mám se dobře a těším se na Tvoji návštěvu . Poslední týden jsem byla nemocná , ale teď už jsem zase fit . Co říct o mém životě ? Nic zajimavého se nestalo , ale snad že pracuju na diplomce . Je moc práce , ale mám ji ráda . V létě pojedu do Anglie . Mám pozvání od Julie . Budu mít dovolenou od 10. července do 25. července 2007 . Jo , těším se na naše setkání . Zvu Tě na odpoledne . Myslím , že v půl třetí u mě doma . Budu doma od dvou hodin . Kdy přijedeš do Drážďan ? Chtěla bych dojít pro Tebe na nádraží . Čtu , že budu mít prázdninové kurzy češtiny . Kdy je to a kolik stojí kurzy ? Odkud máš ten zajímavý inzerát ? Chtěla bys poslat mi ho prosím ? Jinak se těším na naše setkání , že budeme žvástat . =) Štastnou cestu a hodně pohody na práci . Jak se má Tvoje matka ? Pozdravuj ji ! Pro dnešek končím . Měj se hezky . Zatím ahoj . Srdečně Dana
+
+----------------
+
+No target hypothesis 2 available.
+

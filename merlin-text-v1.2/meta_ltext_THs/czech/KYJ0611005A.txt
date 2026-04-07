@@ -1,0 +1,43 @@
+METADATA
+
+General:
+Author ID: KYJ0611005A
+Test language: Czech
+CEFR level of test: A2
+Task : answering on a birthday invitation - ID: A2PS0102_oslava
+Mother tongue: Other
+Age: 1519
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Kyjev 11června
+AhoyMartin ,
+
+Chtěl bych poděkovat za e-mail s pozvankou. Je nejaky program oslavy? 
+Kde se setkame? Davaj, sejdeme se na Naměstí. Jsem student a nemam hodně volneho času. Davaj na 6:00 hodín. Vyhoveje to. 
+Así chtěl zaptat se kdo jsou dalši hosty. Bude tam David? 
+Eště jednouti děkuji, těšim na stretnuti Ahoy Tomáš
+
+----------------
+
+Target hypothesis 1: 
+
+Kyjev , 11. června Ahoj Martine , chtěl bych Ti poděkovat za e-mail s pozvánkou . Je nějaký program oslavy ? Kde se setkáme ? Davaj , sejdeme se na náměstí . Jsem student a nemám hodně volného času . Davaj na 6:00 hodin . Vyhovuje Ti to . Asi jsem se chtěl zeptat , kdo jsou další hosti . Bude tam David ? Ještě jednou Ti děkuji , těším se na střetnutí . Ahoj Tomáš
+
+----------------
+
+Target hypothesis 2: 
+
+Kyjev , 11. června Ahoj Martine , chtěl bych Ti poděkovat za e-mail s pozvánkou . Je nějaký program oslavy ? Kde se setkáme ? Davaj , sejdeme se na náměstí . Jsem student a nemám hodně volného času . Davaj na 6:00 hodin . Vyhovuje Ti to ? Asi jsem se chtěl zeptat , kdo jsou další hosti . Bude tam David ? Ještě jednou Ti děkuji , těším se na střetnutí . Ahoj Tomáš

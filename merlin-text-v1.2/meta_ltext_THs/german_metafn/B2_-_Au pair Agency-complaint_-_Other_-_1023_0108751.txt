@@ -1,0 +1,52 @@
+METADATA
+
+General:
+Author ID: 1023_0108751
+Test language: German
+CEFR level of test: B2
+Task : Au pair writes letter of complaint to Agency - ID: 1023_100303
+Mother tongue: other
+Age: 30
+Gender: male
+
+Rating:
+Overall CEFR rating: B2
+Grammatical accuracy: B1
+Orthography: B2
+Vocabulary range: B2
+Vocabulary control: B2
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: B2
+
+----------------
+
+Learner text: 
+
+Michael Meier
+Bahnhofsstraße 123
+12345 Stadt X
+Niederland
+
+Au-pair-Agentur Schultz&Partner
+Regenstr. 101 
+90451 Nürnberg
+Deutschland
+
+                                                           28-07-2011
+Beschwere
+Sehr geehrte Damen und Herren,
+Ich bin seit 01-03-2011 bei Familie Müller als Au-pair tätig.
+Als ich Ihre Werbeanzeige gelesen habe, hat ich mich sehr gefreut. Ich wollte schon meiner Kindheit nach Deutschland gehen und ich liebe Babies und Kindern. Leider war es nicht, was ich erwartete habe. Es war schon ein Überrasung, dass ich innerhalbe von 14 Tagen bei Familie Müller sein sollte. Auf Ihrem Brief steht das Familie müller nur ein Baby hat und das ich nur von 8:00 bis 17:00 aufpassen musste.
+Bei dem ersten Tag, bei Familie Müller waren die zum 6 mit 2 Kindern und ein Baby. Ich musste nicht nur auf das Baby aufpassen sonder noch für alle kochen. Ich musste arbeiten bzw. aufpassen und kochen bis 20:00. Dann könnte ich auch dem Haus nicht aus, weil Familie müller mich verboten habe. Ich habe versucht Ihr anzurufen, leider gingen Sie auch nicht dran. Schlechte Betreuung leider. Ich schlage für Sie suchen für mich ein ander Familie oder ich fahre innerhalb von 14 tage. Zurück nach Niederlande. Mit Freundlichen Grüßen -unreadable- 
+
+----------------
+
+Target hypothesis 1: 
+
+Michael Meier Bahnhofsstraße 123 12345 Stadt X Niederlande Au-pair-Agentur Schultz & Partner Regenstr . 101 90451 Nürnberg Deutschland 28-07-2011 Beschwerde Sehr geehrte Damen und Herren , ich bin seit 01-03-2011 bei Familie Müller als Au-pair tätig . Als ich Ihre Werbeanzeige gelesen habe , habe ich mich sehr gefreut . Ich wollte schon seit meiner Kindheit nach Deutschland gehen und ich liebe Babies und Kinder . Leider war es nicht , was ich erwartet habe . Es war schon eine Überraschung , dass ich innerhalb von 14 Tagen bei Familie Müller sein sollte . In Ihrem Brief steht , dass Familie Müller nur ein Baby hat und dass ich nur von 8 : 00 bis 17 : 00 aufpassen musste . An dem ersten Tag bei Familie Müller waren die zu 6 . mit 2 Kindern und einem Baby . Ich musste nicht nur auf das Baby aufpassen , sondern noch für alle kochen . Ich musste arbeiten bzw . aufpassen und kochen bis 20 : 00 . Dann könnte ich auch nicht aus dem Haus , weil Familie Müller mir das verboten hat . Ich habe versucht Sie anzurufen , leider gingen Sie auch nicht dran . Schlechte Betreuung leider . Ich schlage vor , Sie suchen für mich eine andere Familie oder ich fahre innerhalb von 14 Tagen zurück in die Niederlande . Mit freundlichen Grüßen -unreadable-
+
+----------------
+
+Target hypothesis 2: 
+
+Michael Meier Bahnhofsstraße 123 12345 Stadt X Niederlande Au-pair-Agentur Schultz & Partner Regenstr . 101 90451 Nürnberg Deutschland 28-07-2011 Beschwerde Sehr geehrte Damen und Herren , ich bin seit 01-03-2011 bei Familie Müller als Au-pair tätig . Als ich Ihre Werbeanzeige gelesen habe , habe ich mich sehr gefreut . Ich wollte schon seit meiner Kindheit nach Deutschland gehen und ich liebe Babies und Kinder . Leider war es nicht , was ich erwartet habe . Es war schon eine Überraschung , dass ich innerhalb von 14 Tagen bei Familie Müller sein sollte . In Ihrem Brief steht , dass Familie Müller nur ein Baby habe und dass ich nur von 8 : 00 bis 17 : 00 aufpassen müsse . An dem ersten Tag bei Familie Müller waren sie zu 6 . mit 2 Kindern und einem Baby . Ich musste nicht nur auf das Baby aufpassen , sonder auch noch für alle kochen . Ich musste bis 20 : 00 arbeiten bzw . aufpassen und kochen . Dann konnte ich auch nicht aus dem Haus , weil Familie Müller mir das verboten hat . Ich habe versucht Sie anzurufen , leider gingen Sie auch nicht ran . Das ist leider eine schlechte Betreuung . Ich schlage vor , Sie suchen für mich ein andere Familie oder ich fahre innerhalb von 14 Tagen zurück in die Niederlande . Mit Freundlichen Grüßen -unreadable-

@@ -1,0 +1,29 @@
+METADATA
+
+General:
+Author ID: 1061_0120348
+Test language: German
+CEFR level of test: B1
+Task : write a letter to a friend (birthday) - ID: 1061_170900
+Mother tongue: Russian
+Age: 42
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Libe Silke.
+Filen danke die einen Brief. Ich komme gerne für ein paar Tage. Sie wünschst dir eine Katze von uns zum Geburtstag?
+Meine familie geht es ganz gut.
+fiele grüße
+Eva

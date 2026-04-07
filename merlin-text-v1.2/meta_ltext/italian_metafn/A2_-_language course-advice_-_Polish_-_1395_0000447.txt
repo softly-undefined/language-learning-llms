@@ -1,0 +1,26 @@
+METADATA
+
+General:
+Author ID: 1395_0000447
+Test language: Italian
+CEFR level of test: A2
+Task : inform friends about language course - ID: 1395_010300
+Mother tongue: Polish
+Age: 33
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Cari amici 
+Da alcuni giorni siamo a Città X(io è i miei nuovi amici della Germania) per fare un corso di italiano. Stiamo seguendo un corso di letteratura è ogni giorno stiamo imparando le nuove cose. Sopratutto mi piace antino è devo dire che l'altri anche piacano questo periodo. La nostra insegnante si ciama Maria Rossi è viene di Sicilia. E una dottoressa di letteratura. Di solito facciamo tre, quatro ore di corso, in seguito andiamo visitare città. Mi piaccano monumenti di Città X, le chiese, stradine tortuose. Per ora vi abraccio! A presto...

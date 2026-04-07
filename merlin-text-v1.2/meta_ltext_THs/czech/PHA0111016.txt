@@ -1,0 +1,39 @@
+METADATA
+
+General:
+Author ID: PHA0111016
+Test language: Czech
+CEFR level of test: B2
+Task : write an essay: No pain no gain - ID: B2PS0202_kolace
+Mother tongue: Other
+Age: 3039
+Gender: female
+
+Rating:
+Overall CEFR rating: B2
+Grammatical accuracy: B2
+Orthography: B2
+Vocabulary range: B2
+Vocabulary control: C1
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Přísloví "Bez práce nejsou koláče" znamená to, že když opravdu cheš mít z něčeho dobré výsledky musíš se snažit, musíš pracovat, jínak žadného výsledku nedosáhneš. S tímhle příslovím naprosto souhlasím.
+Dobrém příkladem daného přísloví můžou být někteří žáci ve škole. Pracovala jsem jako učitelka matematiky na základní škole, a myslím si, že matematika není jedním z nejlehčích předmětů ve škole. A proto jsem pořád svým žákům opakovala, že matematiku je třeba pořád procvičovat a některá matematická pravidla je třeba znat, aby potom mohli správně použit při řešení příkladů nebo slovních úloh. Bez ohledu na to, co jsem říkalá měla jsem ve třídě takové žáky, kteří se nechtěli učit, neměli nikdy udělané domácí úkoly, říkali, že jim stači to, co slyší v hodině a že, když bude závěrečný test tak ho zvadnou na dobrou známku. Ale bohužel dopadlo to vždy tak, že jejich testy měly špatné výsledky, a závěr, že když výsledky špatné tak nebyla žádná připrava a usilování o to, aby test byl dokonale napsan. Jen kvůli tomu, že se nechtěli učit a dělat to, co říkala já, že "Bez práce nejsou koláče", měli nakonec ty vysledky, co se daly očekavat.
+Příslovím každý s nás musí pochopit, že když nebudeme pracovat nebudeme mít nic.
+
+----------------
+
+Target hypothesis 1: 
+
+Přísloví " Bez práce nejsou koláče " znamená to , že když opravdu chceš mít z něčeho dobré výsledky , musíš se snažit , musíš pracovat , jínak žádného výsledku nedosáhneš . S tímhle příslovím naprosto souhlasím . Dobrým příkladem daného přísloví můžou být někteří žáci ve škole . Pracovala jsem jako učitelka matematiky na základní škole a myslím si , že matematika není jedním z nejlehčích předmětů ve škole . A proto jsem pořád svým žákům opakovala , že matematiku je třeba pořád procvičovat a některá matematická pravidla je třeba znát , aby je potom mohli správně použít při řešení příkladů nebo slovních úloh . Bez ohledu na to , co jsem říkala , měla jsem ve třídě takové žáky , kteří se nechtěli učit , neměli nikdy udělané domácí úkoly , říkali , že jim stačí to , co slyší v hodině , a že když bude závěrečný test , tak ho zvládnou na dobrou známku . Ale bohužel dopadlo to vždy tak , že jejich testy měly špatné výsledky , a závěr , že když výsledky jsou špatné , tak nebyla žádná příprava a usilování o to , aby test byl dokonale napsán . Jen kvůli tomu , že se nechtěli učit a dělat to , co jsem já říkala , že " Bez práce nejsou koláče " , měli nakonec ty výsledky , které se daly očekávat . Příslovím každý z nás musí pochopit , že když nebudeme pracovat , nebudeme mít nic .
+
+----------------
+
+Target hypothesis 2: 
+
+Přísloví " Bez práce nejsou koláče " znamená to , že když opravdu chceš mít z něčeho dobré výsledky , musíš se snažit , musíš pracovat , jinak žádného výsledku nedosáhneš . S tímhle příslovím naprosto souhlasím . Dobrým příkladem daného přísloví můžou být někteří žáci ve škole . Pracovala jsem jako učitelka matematiky na základní škole a myslím si , že matematika není jedním z nejlehčích předmětů ve škole . A proto jsem pořád svým žákům opakovala , že matematiku je třeba pořád procvičovat a některá matematická pravidla je třeba znát , aby je potom mohli správně použít při řešení příkladů nebo slovních úloh . Bez ohledu na to , co jsem říkala , měla jsem ve třídě takové žáky , kteří se nechtěli učit , neměli nikdy udělané domácí úkoly , říkali , že jim stačí to , co slyší v hodině , a že když bude závěrečný test , tak ho zvládnou na dobrou známku . Ale bohužel dopadlo to vždy tak , že jejich testy měly špatné výsledky , a závěr , že když výsledky jsou špatné , tak nebyla žádná příprava a usilování o to , aby test byl dokonale napsán . Jen kvůli tomu , že se nechtěli učit a dělat to , co jsem já říkala , že " Bez práce nejsou koláče " , měli nakonec ty výsledky , které se daly očekávat . Příslovím každý z nás musí pochopit , že když nebudeme pracovat , nebudeme mít nic .

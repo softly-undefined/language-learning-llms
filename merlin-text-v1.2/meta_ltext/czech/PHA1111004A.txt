@@ -1,0 +1,27 @@
+METADATA
+
+General:
+Author ID: PHA1111004A
+Test language: Czech
+CEFR level of test: A2
+Task : answering on a birthday invitation - ID: A2PS0102_oslava
+Mother tongue: Russian
+Age: 2029
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Milá kamarádko, 
+chci tě poděkovat za pozvání. Ovšem budu na oslavě tvých narozenin. Ale ty ne napsala - gde bude oslava a v kolik hodin je začátek oslavy. Prosím, mi napíš. Ještě mužeš mí napsat - kdo budou další hosty. 
+Ješte krát děkuji za oslavu, tvá kamarádka Eva.

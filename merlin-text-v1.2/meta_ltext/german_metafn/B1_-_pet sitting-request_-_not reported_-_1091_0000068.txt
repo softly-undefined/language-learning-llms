@@ -1,0 +1,27 @@
+METADATA
+
+General:
+Author ID: 1091_0000068
+Test language: German
+CEFR level of test: A2
+Task : ask friend to take care of pet - ID: 1091_0650102
+Mother tongue: not reported
+Age: 40
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Hallo Maria! Ich bin ein paar Tage nicht zu Hause. Meine problem ist: ich kann die Haustiere nicht mitnehmen. Bitte können Sie mir helfen? Meine Katze und mein Hund müssen jeden Tag essen trinken und spazieren gehen. Von Montag bis Donnerstag fahre ich zu meine Kuzine nach Stadt X.
+Liebe Größe
+von Katharina

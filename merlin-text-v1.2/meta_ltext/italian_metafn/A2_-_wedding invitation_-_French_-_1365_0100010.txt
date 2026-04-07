@@ -1,0 +1,33 @@
+METADATA
+
+General:
+Author ID: 1365_0100010
+Test language: Italian
+CEFR level of test: B1
+Task : answer to an wedding invitation - ID: 1365_020300
+Mother tongue: French
+Age: 45
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Maria Rossi
+Strada Maggiore
+12345 Città X
+15 03 2010
+Cari Stefano, Beatrice.
+Ho avuto vostra invitazione per vostro matrimonio, sono contente per voi. Porrei venire con mio marito.
+Avete pensato portare come regalo un servicio de Bighière et piatti. Ho preferisco recevuto una borsa con soldi per fare un viaggio de nozze. Encore tutti miei felicitazione
+In attesa, bacci 
+-unreadable-

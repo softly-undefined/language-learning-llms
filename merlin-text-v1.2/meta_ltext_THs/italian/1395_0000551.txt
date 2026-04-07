@@ -1,0 +1,38 @@
+METADATA
+
+General:
+Author ID: 1395_0000551
+Test language: Italian
+CEFR level of test: A2
+Task : contact a friend after a long time - ID: 1395_020300
+Mother tongue: German
+Age: 24
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B2
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Ciao Alfredo!
+Come stai? Io sto molto bene! Iieri, sono ritornata di un viaggio fantastico! Michele ed io abbiamo fatto un viaggio in Italia. Siamo andati in macchina e abbiamo visto molte cose bellissime. Città X non mi piace però Città Y sono moltissimo buoni. Ma la settimana prossima io devo lavorare. Mi piace lavorare in la oficina: la gente è gentile e il lavoro non è piu dificile. Sempre lavoro della nove alle quindici.
+E tu? Come va il lavoro? Quando hai un po tempo libero? Potrei preparare la pasta con funghi... tu piatto preferito! Cari Saluti, Maria
+
+----------------
+
+Target hypothesis 1: 
+
+Ciao Alfredo ! Come stai ? Io sto molto bene ! Ieri sono ritornata da un viaggio fantastico ! Michele ed io abbiamo fatto un viaggio in Italia . Siamo andati in macchina e abbiamo visto molte cose bellissime . Città X non mi piace però Città Y è molto buona . Ma la settimana prossima io devo lavorare . Mi piace lavorare in ufficio : la gente è gentile e il lavoro non è più difficile . Lavoro sempre dalle nove alle quindici . E tu ? Come va il lavoro ? Quando hai un po' di tempo libero ? Potrei preparare la pasta con i funghi , il tuo piatto preferito ! Cari saluti , Maria
+
+----------------
+
+No target hypothesis 2 available.
+

@@ -1,0 +1,32 @@
+METADATA
+
+General:
+Author ID: 1061_0120391
+Test language: German
+CEFR level of test: B1
+Task : write a letter to a friend (visit) - ID: 1061_130101
+Mother tongue: not reported
+Age: 31
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: A2
+Vocabulary range: A2
+Vocabulary control: A2
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+                                   Deutschland, den Stefan
+Lieber Dana,
+ich möschte wiessen, ob du aleine in Istanbul bist. Ich will in den Urlaub bei dier bin.
+Ich habe Glückwunsch zur deine prüfung bestanden.
+Kanst du eine pakung Tee für mir mitbringen? Weil das Türkiche Tee sehr läcker sind.
+am Ende kanst du mir sagen, wo deine Verwandten leben?
+Viele Grüße
+Stefan

@@ -1,0 +1,40 @@
+METADATA
+
+General:
+Author ID: 1385_0001107
+Test language: Italian
+CEFR level of test: A1
+Task : reschedule an appointment - ID: 1385_020100
+Mother tongue: German
+Age: 17
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Caro Daniele,
+Come stai? È una settimana orribile. In ufficio c'é molto lavoro e giovedì pomeriggio non posso incontrare con te. Il capo ha organizzato una riunione giovedì pomeriggio e non ho tempo. Ma sabato sera ho tempo.
+Andiamo a Sabato? Hai voglia di andare a cena in un ristorante tailandese?
+Tanti cari saluti,
+Maria
+
+----------------
+
+Target hypothesis 1: 
+
+Caro Daniele , come stai ? È una settimana orribile . In ufficio c' è molto lavoro e giovedì pomeriggio non mi posso incontrare con te . Il capo ha organizzato una riunione giovedì pomeriggio e non ho tempo . Ma sabato sera ho tempo . Andiamo sabato ? Hai voglia di andare a cena in un ristorante tailandese ? Tanti cari saluti , Maria
+
+----------------
+
+No target hypothesis 2 available.
+

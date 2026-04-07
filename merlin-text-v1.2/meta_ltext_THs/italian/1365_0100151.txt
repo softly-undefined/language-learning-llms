@@ -1,0 +1,47 @@
+METADATA
+
+General:
+Author ID: 1365_0100151
+Test language: Italian
+CEFR level of test: B1
+Task : answer to an wedding invitation - ID: 1365_020300
+Mother tongue: German
+Age: 19
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: B1
+Orthography: C1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Maria Rossi
+Città X 78
+1234 Città X
+07.04.2011
+B.Russo & S.Tittarelli
+Via Friuli 72
+Napoli
+R.S.V.P. 080-55.01.53.29
+Cara Beatrice, Caro Stefano,
+Tanti auguri al vostro matrimonio. Noi vi ringraziamo per il invito. Con piacere andiamo prima alla cerimonia e dopo al ristorante. Che cosa vi possiamo regalare?
+Cari saluti
+Maria
+
+----------------
+
+Target hypothesis 1: 
+
+Maria Rossi Città X 78 1234 Città X 07.04.2011 B . Russo & S . Tittarelli Via Friuli 72 Napoli R . S . V . P . 080-55 . 01.53.29 Cara Beatrice , caro Stefano , tanti auguri per il vostro matrimonio . Noi vi ringraziamo per l' invito . Con piacere andiamo prima alla cerimonia e dopo al ristorante . Che cosa vi possiamo regalare ? Cari saluti Maria
+
+----------------
+
+No target hypothesis 2 available.
+

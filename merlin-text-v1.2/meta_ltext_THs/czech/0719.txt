@@ -1,0 +1,44 @@
+METADATA
+
+General:
+Author ID: 0719
+Test language: Czech
+CEFR level of test: B1
+Task : answer to the email of Alena - ID: 1_Alena
+Mother tongue: German
+Age: not reported
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Drážďany, 16. července 2007
+Milo Aleno,
+děkuju moc za Tvuj email! Těšim se, že Tvoje dovolena byla dobrá. Studium delá moc práce. Doufam, ze mužu ukončit ho do konce semestru. Potom chtel bych jet do moří.  Když mam caš, ještě navstěvuju moje babičku.
+A těšim se že navstěvujes mě tak brzo. V patek mam čas. Chces prijet k mě odpoledné? Kdy přijede Tvuj vlak? Mužu  jít pro Tebé na hlavním nádraží. Souhlsiš?
+Psala jsi o inzerátu o prázdninovem kurzu češtiny na vaše univerzsitě. To zní dobre! Kdy začí kurz a jak dlouho trvá? A kolík musim zapaltít za ho? Prosím, mužes posilat mě ten inzerát?  Take by se mi libi, kdybychom se u tebě viděly často.
+Preju Tě moc stěsti za Tvuj pohovor v Pirně.
+Uvidime se 13. dubna.
+Zatím ahoj!
+David
+
+----------------
+
+Target hypothesis 1: 
+
+Drážďany , 16.července2007 Milá Aleno , děkuju moc za Tvůj e-mail ! Těším se , že Tvoje dovolená byla dobrá . Studium dělá moc práce . Doufám , že ho můžu ukončit do konce semestru . Potom bych chtěl jet k moři . Když mám čas , ještě navštěvuju svou babičku . A těším se , že mě navštívíš tak brzo . V pátek mám čas . Chceš přijet odpoledne ke mně ? Kdy přijede Tvůj vlak ? Můžu jít pro Tebe na hlavní nádraží . Souhlasíš ? Psala jsi o inzerátu o prázdninovém kurzu češtiny na vaší univerzitě . To zní dobře ! Kdy začíná kurz a jak dlouho trvá ? A kolik za něj musím zaplatit ? Prosím , můžeš mi poslat ten inzerát ? Také by se mi líbilo , kdybychom se u Tebe viděli často . Přeju Ti moc štěstí při Tvém pohovoru v Pirně . Uvidíme se 13.dubna . Zatím ahoj ! David
+
+----------------
+
+No target hypothesis 2 available.
+

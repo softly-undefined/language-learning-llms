@@ -1,0 +1,43 @@
+METADATA
+
+General:
+Author ID: 1395_0000500
+Test language: Italian
+CEFR level of test: A2
+Task : inform friends about language course - ID: 1395_010300
+Mother tongue: German
+Age: 40
+Gender: female
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: A2
+Orthography: B1
+Vocabulary range: A2
+Vocabulary control: B1
+Coherence/Cohesion: A2
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Città X, 22 novembre 2010
+Cara Aurora
+Io sto per un mese a Città X per imparare l'italiano.
+Ogni giorno vado al corso con 10 studenti che vengono dal tutto il mondo.
+Il pomeriggio dopo la lezione andiamo a prendere un gelato insieme.
+Tanti saluti
+Michele
+
+----------------
+
+Target hypothesis 1: 
+
+Città X , 22 novembre 2010 Cara Aurora , io sto per un mese a Città X per imparare l' italiano . Ogni giorno vado al corso con 10 studenti che vengono da tutto il mondo . Il pomeriggio dopo la lezione andiamo a prendere un gelato insieme . Tanti saluti Michele
+
+----------------
+
+Target hypothesis 2: 
+
+Città X , 22 novembre 2010 Cara Aurora , io sto per un mese a Città X per imparare l' italiano . Ogni giorno vado al corso con 10 studenti che vengono da tutto il mondo . Il pomeriggio dopo la lezione andiamo a prendere un gelato insieme . Tanti saluti Michele

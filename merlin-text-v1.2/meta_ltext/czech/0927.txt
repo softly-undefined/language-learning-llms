@@ -1,0 +1,35 @@
+METADATA
+
+General:
+Author ID: 0927
+Test language: Czech
+CEFR level of test: B1
+Task : answer to the email of Jana - ID: 2_Jana
+Mother tongue: German
+Age: not reported
+Gender: male
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: A2
+Orthography: B2
+Vocabulary range: A2
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Ahoj Jano,
+děkuji ti mnohokrát za tvůj dopis. Jsem moc rád, že jsi mi napsala.  Těšim se z tvého pozvání a samozřejmě přijedu do městaX. 
+Teď mám taky zkoušky a mám mnoho práce ale od břežna budu mít čas. 
+Kdé (ty) bydlíš? Blízko nádraží? Musím pojezdit áčkem, béčkem nebo céčkem? A kolik stojí jizdenka? 
+Budeš ti 30? Oh, ty jsi už stará žena :-). Co si přeješ , a můzu přinést něco? 
+Itálie je moc hezke. Minulý rok  jsem byl na dovolená taky ve Florenci. To bylo hezké. 
+
+Přeju vám dobrou dovolenou a uvidímě se v městěX.
+Měj se hezky!
+ 
+David -image- Sabine!

@@ -1,0 +1,39 @@
+METADATA
+
+General:
+Author ID: PHA0510029
+Test language: Czech
+CEFR level of test: B2
+Task : write an essay: More people know more - ID: B2PS0201_hlava
+Mother tongue: Polish
+Age: 2029
+Gender: female
+
+Rating:
+Overall CEFR rating: B2
+Grammatical accuracy: B1
+Orthography: B2
+Vocabulary range: B2
+Vocabulary control: B2
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Je vědecky dovedeno, že člověk se ve skupině učí rychlejí než o samotě. Z tohoto důvodu se mnoho lidí zúčastní počítačových, jazykových cí jiných kurzu, ve kterých se učí ve skupině i kdyby se stejnou látku mohli naučit sámi.
+Říká se: "Víc hlav, víc ví", a já s tím souhlasím. Lidský mozek funguje lépe v interakci s druhým člověkem a dva lidé mají vždycky víc nápadů než jeden. Práce v týmu ma také tuto výhodu, že jsme schopní najit chyby dalších lidí a rychlé je opravit, stejně jako jiní lidé rychlejí najdou náše chyby, které my sámi někdy nevídíme.
+Bohužel, v dnešní době každý chce být individuál a pro hodně lidí je problémem pracovat ve skupině. Myslím ale, že měli bychom tuto schopnost cvíčit, protože vždycky je lepší moct něco skontrolovat s druhým člověkem než muset spoléhat na svých vlastních znalostech. Však víc hlav, víc ví, a proto výsledek skupinové práce bude vždy lepší než kdy stejnou práci uděláme sámi.
+
+----------------
+
+Target hypothesis 1: 
+
+Je vědecky dovedeno , že člověk se ve skupině učí rychleji než o samotě . Z tohoto důvodu se mnoho lidí zúčastní počítačových , jazykových či jiných kurzů , ve kterých se učí ve skupině , i když by se stejnou látku mohli naučit sami . Říká se : " Víc hlav , víc ví " a já s tím souhlasím . Lidský mozek funguje lépe v interakci s druhým člověkem a dva lidé mají vždycky víc nápadů než jeden . Práce v týmu má také tu výhodu , že jsme schopni najít chyby dalších lidí a rychle je opravit , stejně jako jiní lidé rychleji najdou naše chyby , které my sami někdy nevidíme . Bohužel v dnešní době každý chce být individuál a pro hodně lidí je problémem pracovat ve skupině . Myslím ale , že bychom měli tuto schopnost cvičit , protože vždycky je lepší moct něco zkontrolovat s druhým člověkem než muset spoléhat na své vlastní znalosti . Však víc hlav , víc ví , a proto výsledek skupinové práce bude vždy lepší , než když stejnou práci uděláme sami .
+
+----------------
+
+Target hypothesis 2: 
+
+Je vědecky dokázáno , že člověk se ve skupině učí rychleji než o samotě . Z tohoto důvodu se mnoho lidí účastní počítačových , jazykových či jiných kurzů , ve kterých se učí ve skupině , i když by se stejnou látku mohli naučit sami . Říká se : " Víc hlav víc ví " a já s tím souhlasím . Lidský mozek funguje lépe v interakci s druhým člověkem a dva lidé mají vždycky víc nápadů než jeden . Práce v týmu má také tu výhodu , že jsme schopni najít chyby dalších lidí a rychle je opravit , stejně jako jiní lidé rychleji najdou naše chyby , které my sami někdy nevidíme . Bohužel v dnešní době každý chce být individuál a pro hodně lidí je problémem pracovat ve skupině . Myslím ale , že bychom měli tuto schopnost cvičit , protože vždycky je lepší moct něco zkontrolovat s druhým člověkem než muset spoléhat na své vlastní znalosti . Však víc hlav víc ví , a proto výsledek skupinové práce bude vždy lepší , než když stejnou práci uděláme sami .

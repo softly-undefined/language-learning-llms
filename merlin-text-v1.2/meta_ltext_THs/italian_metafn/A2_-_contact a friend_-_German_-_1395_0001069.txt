@@ -1,0 +1,42 @@
+METADATA
+
+General:
+Author ID: 1395_0001069
+Test language: Italian
+CEFR level of test: A2
+Task : contact a friend after a long time - ID: 1395_020300
+Mother tongue: German
+Age: 37
+Gender: male
+
+Rating:
+Overall CEFR rating: A2
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: A2
+
+----------------
+
+Learner text: 
+
+Caro Silvio                                                        Città X, 18 giugno 
+Come stai? Non abbiamo visto un tempo lungo. Io sto bene. Ho sempre molte cose da fare. Anche al lavoro! Ma mi piace molto i  perche ci sono sempre progetti interessanti in tutta la svizzera. Così posso viaggiare molto. 
+La settimana scorsa  ho fatto delle vacanze. Sono andata in Germania. Era molto divertente. 
+Ci vediamo in agosto a Città X! 
+ 
+Cordiali saluti
+  Michele 
+
+----------------
+
+Target hypothesis 1: 
+
+Città X , 18 giugno Caro Silvio , come stai ? Non ci siamo visti per un lungo tempo . Io sto bene . Ho sempre molte cose da fare , anche al lavoro ! Ma mi piace molto perché ci sono sempre progetti interessanti in tutta la Svizzera . Così posso viaggiare molto . La settimana scorsa ho fatto delle vacanze . Sono andata in Germania . Era molto divertente . Ci vediamo in agosto a Città X ! Cordiali saluti Michele
+
+----------------
+
+No target hypothesis 2 available.
+

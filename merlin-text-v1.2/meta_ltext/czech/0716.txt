@@ -1,0 +1,34 @@
+METADATA
+
+General:
+Author ID: 0716
+Test language: Czech
+CEFR level of test: B1
+Task : answer to the email of Alena - ID: 1_Alena
+Mother tongue: German
+Age: not reported
+Gender: female
+
+Rating:
+Overall CEFR rating: B1
+Grammatical accuracy: B1
+Orthography: B1
+Vocabulary range: B1
+Vocabulary control: B1
+Coherence/Cohesion: B1
+Sociolinguistic appropriateness: B1
+
+----------------
+
+Learner text: 
+
+Milá Aleno,
+je mí líto, že jsem Ti tak dlouho nenapsala, ale minulý čas  jsem měla moc prace. Moje studium  končili. Už odevzdala jsem diplomovi práci, proto planuju dovolenou. Těším se na tvoje návštěvu v Drážďanech. To je výborný nápad, v pátek ne pracovám. Nechceš jit na kávu u mně? Mám čas celý odpoledne.
+Kdy přijedeš? Víš?  Pojedu Ti na nádraží. To je fajn. Kdy začiná prázdninový kurz češtiny? A kolik stojí? Měla bych moc radost, když  bych šla do Čech.
+Nemužeš mi poslat inzerát, prosím? Bude hezká doba, protože uvidíme se častěji. Jinak, nemám nic nového.
+Doufám,  že se máš dobře.
+Musím končit teď, protože je tak poždě a musím spát. Zítrá ráno jedu na výletu.
+Měj se hezký.
+Zatím ahoj
+ Eva
+

@@ -1,0 +1,39 @@
+METADATA
+
+General:
+Author ID: PHA0411053
+Test language: Czech
+CEFR level of test: B2
+Task : write an essay: No pain no gain - ID: B2PS0202_kolace
+Mother tongue: Other
+Age: 1519
+Gender: female
+
+Rating:
+Overall CEFR rating: B2
+Grammatical accuracy: B2
+Orthography: B2
+Vocabulary range: C1
+Vocabulary control: B2
+Coherence/Cohesion: B2
+Sociolinguistic appropriateness: 0
+
+----------------
+
+Learner text: 
+
+Už od doby, když lidé jsou malé, a nezabyvají se o tom složitém systému ve společnosti, a o tom, jak fungují -ambiguous-, ještě od té doby většina budoucích malířů, profesorů, atd, začiná rozumět mnohým moudrým věcím a pravidlům, o -unreadable- pravidla použivat.
+Napřiklad, věta "Bez práce nejsou koláče". Ja myslím, že neexistuje takový jazyk, ve kterém by věta s podobným smyslem nevyskytovala. Podle mého názoru, je to nejdůležitější, a, možná, i hlavní pravda v životě. Jednoduchý příklad – první své kroky děláme, první slova řikáme – jenom díky tomu, že pořad se to snažíme udělat, taky pracujeme, cvičíme, bez toho by nam nic nevyšlo. I ve škole, i na univerzitě, až do konce svého života, vždycky víme: abychom mohli něco dostat, něčeho dosáhnout, musíme pracovat. Jak fyzicky, tak intelektuálně.
+Ta práce v každém smyslu toho slova - fyzická a moralní není jenom podminkou našého vlastního úspěchu. Celý život, všechny procesy a jevy kolem nás, a dokonce i my v současné podobě – to všechno je výsledkem jenom práce: práce buňek, molekul, a takových malých organismů, kterých vůbec netušíme. Já myslím, že líde pochopili už dávno, (dosáhnouti) že práce není jenom prostředkém pro dosážeení cílů, a hraje větší rolu. A proto, aby mohli vysvětlit to pravidlo života dětem, vymysleli různé národy takové jednoduché věty.
+
+----------------
+
+Target hypothesis 1: 
+
+Už od doby , kdy lidé malí a nezabývají se tím složitým systémem ve společnosti a tím , jak fungují věci , už od té doby většina budoucích malířů , profesorů atd. začíná rozumět mnohým moudrým věcem a pravidlům a pravidla používat . Například věta " Bez práce nejsou koláče " Já myslím , že neexistuje takový jazyk , ve kterém by věta s podobným smyslem nevyskytovala . Podle mého názoru je to nejdůležitější a možná i hlavní pravda v životě . Jednoduchý příklad : první kroky děláme , první slova říkáme jenom díky tomu , že se to snažíme dělat , taky pracujeme , cvičíme , bez toho by nám nic nevyšlo . I ve škole i na univerzitě , až do konce svého života , vždycky víme : abychom mohli něco dostat , něčeho dosáhnout , musíme pracovat . Jak fyzicky , tak intelektuálně . Ta práce v každém smyslu toho slova , fyzická a morální není jenom podmínkou našeho vlastního úspěchu . Celý život , všechny procesy a jevy kolem nás , a dokonce i my v současné podobě , to všechno je výsledkem jenom práce : práce buněk , molekul a takových malých organismů , kterých vůbec netušíme . Já myslím , že lidé pochopili už dávno , že práce není jenom prostředkem pro dosažení cílů , ale hraje větší roli . A proto , aby mohli vysvětlit to pravidlo života dětem , vymysleli různé národy takové jednoduché věty .
+
+----------------
+
+Target hypothesis 2: 
+
+Už od doby , kdy jsou lidé malí a nezabývají se tím složitým systémem ve společnosti a tím , jak fungují věci , už od té doby většina budoucích malířů , profesorů atd. začíná rozumět mnohým moudrým věcem a pravidlům a pravidla používat . Například věta " Bez práce nejsou koláče " . Já myslím , že neexistuje takový jazyk , ve kterém by se věta s podobným smyslem nevyskytovala . Podle mého názoru je to nejdůležitější a možná i hlavní pravda v životě . Jednoduchý příklad : své první kroky děláme , první slova říkáme jenom díky tomu , že se to snažíme dělat , taky pracujeme , cvičíme , bez toho by nám nic nevyšlo . I ve škole i na univerzitě , až do konce svého života , vždycky víme : abychom mohli něco dostat , něčeho dosáhnout , musíme pracovat . Jak fyzicky , tak intelektuálně . Ta práce v každém smyslu toho slova , fyzická a morální není jenom podmínkou našeho vlastního úspěchu . Celý život , všechny procesy a jevy kolem nás , a dokonce i my v současné podobě , to všechno je výsledkem jenom práce : práce buněk , molekul a takových malých organismů , o kterých vůbec netušíme . Já myslím , že lidé pochopili už dávno , že práce není jenom prostředkem pro dosažení cílů , ale hraje větší roli . A proto , aby mohli vysvětlit to pravidlo života dětem , vymysleli různé národy takové jednoduché věty .
