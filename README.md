@@ -1,3 +1,15 @@
+# Updates
+
+Selected Languages from https://huggingface.co/UniversalCEFR/datasets: 
+en (English) → baseline, low morphology
+- UniversalCEFR/readme_en
+ru (Russian) → rich inflectional morphology
+- UniversalCEFR/readme_ru
+ar (Arabic) → templatic morphology + abjad
+- UniversalCEFR/zaebuc_ar
+hi (Hindi) → different script + SOV structure
+- UniversalCEFR/readme_hi
+
 # Original Idea
 I've been meaning to study the impact of language fluency levels on translation, as well as specifically LLMs ability to role-play different experience levels.
 
